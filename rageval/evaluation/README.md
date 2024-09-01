@@ -35,6 +35,9 @@ The `run_evaluation.sh` script accepts several parameters:
 - `OUTPUT_BASE_URL`: Path for intermediate results (default: "./result/intermediate_result/")
 - `METRICS`: List of metrics to evaluate (default: "rouge-l precision recall eir keypoint_metrics")
 
+**Important Note on Metrics:**
+If you want to calculate completeness, irrelevance, and hallucination metrics, you must include `keypoint_metrics` in the `METRICS` list. However, please be aware that these metrics require the use of an OpenAI API key. **The cost of using these metrics can be substantial, so please consider the expense before enabling them.**
+
 ### 5. Run the Evaluation
 
 To start the evaluation process, use the following command:
