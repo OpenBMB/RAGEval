@@ -1,0 +1,14 @@
+{
+  "example_finance_en_gpt-4o_eir_intermediate.jsonl": {
+    "EIR": 0.10780761369852739
+  },
+  "example_finance_en_gpt-4o_precision_intermediate.jsonl": {
+    "Precision": 0.5057142857142857
+  },
+  "example_finance_en_gpt-4o_recall_intermediate.jsonl": {
+    "Recall": 0.5863585373543355
+  },
+  "example_finance_en_gpt-4o_rouge-l_intermediate.jsonl": {
+    "ROUGELScore": 0.13217312401810513
+  }
+}

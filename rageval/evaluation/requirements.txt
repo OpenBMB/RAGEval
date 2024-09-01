@@ -1,0 +1,9 @@
+tqdm
+nltk
+rouge
+rouge_chinese
+jieba
+openai
+numpy
+langchain
+pysbd
