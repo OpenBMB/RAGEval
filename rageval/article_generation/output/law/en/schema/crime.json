@@ -1,0 +1,61 @@
+{
+    "courtAndProcuratorate": {
+     "court": "",
+     "procuratorate": ""
+    },
+    "chiefJudge": "",
+    "judge": "",
+    "clerk": "",
+    "defendant": {
+     "name": "",
+     "gender": "",
+     "birthdate": "",
+     "residence": "",
+     "ethnicity": "",
+     "occupation": ""
+    },
+    "defenseLawyer": {
+       "name": "",
+       "lawFirm": ""
+    },
+    "caseProcess": [
+      {
+       "event": "Case Filing and Investigation",
+       "date": ""
+      },
+      {
+       "event": "Detention Measures Taken",
+       "date": ""
+      },
+      {
+       "event": "Criminal Detention",
+       "date": ""
+      },
+      {
+       "event": "Arrest",
+       "date": ""
+      }
+    ],
+    "criminalFacts": [
+     {
+      "crimeName": "",
+      "details": [
+       {
+        "timePeriod": "",
+        "behavior": "",
+        "evidence": ""
+       }
+      ]
+     }
+    ],
+    "legalProcedure": {
+     "judgmentDate": "",
+     "judgmentResult": [
+      {
+       "crimeName": "",
+       "sentence": "",
+       "sentencingConsiderations": ""
+      }
+     ]
+    }
+   }

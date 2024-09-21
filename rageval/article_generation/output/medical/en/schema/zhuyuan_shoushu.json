@@ -1,0 +1,127 @@
+{
+  "Hospitalization Record": {
+    "Basic Information": {
+      "Name": "",
+      "Gender": "",
+      "Age": "",
+      "Ethnicity": "",
+      "Marital Status": "",
+      "Occupation": "",
+      "Address": "",
+      "Admission Time": "",
+      "Record Time": "",
+      "Historian": "",
+      "Hospital Name": ""
+    },
+    "Chief Complaint": "Main symptoms and duration",
+    "Present Illness": {
+      "Onset": "Time, place, onset mode, prodromal symptoms, possible causes or triggers",
+      "Main Symptoms": "Location, nature, duration, severity, relieving or aggravating factors, and progression",
+      "Accompanying Symptoms": "Accompanying symptoms and their relationship with main symptoms",
+      "Diagnosis and Treatment History": "Details and effects of examinations and treatments received inside and outside the hospital after onset",
+      "General Condition Changes": "Changes in mental state, sleep, appetite, urination and defecation, weight, etc."
+    },
+    "Past History": {
+      "General Health Condition": "",
+      "Disease History": "",
+      "Infectious Disease History": "",
+      "Immunization History": "",
+      "Surgery and Trauma History": "",
+      "Blood Transfusion History": "",
+      "Allergy History": ""
+    },
+    "Personal History": {
+      "Birthplace": "",
+      "Residence": "",
+      "Living Habits": "",
+      "Occupation and Working Conditions": "",
+      "Exposure History": "Exposure to industrial toxins, dust, radioactive substances, etc.",
+      "Travel History": "Travel history"
+    },
+    "Marital and Family History": {
+      "Marital History": {
+        "Marital Status": "",
+        "Marriage Age": "",
+        "Spouse's Health Condition": "",
+        "Children's Condition": ""
+      },
+      "Menstrual History": {
+        "Menarche Age": "",
+        "Menstruation Duration": "",
+        "Menstruation Interval": "",
+        "Last Menstruation": "",
+        "Menstrual Volume": "",
+        "Dysmenorrhea": ""
+      },
+      "Family History": "Health condition of parents and siblings, presence of similar diseases or genetic tendencies"
+    },
+    "Physical Examination": {
+      "General Condition": {
+        "Temperature": "",
+        "Pulse": "",
+        "Respiration": "",
+        "Blood Pressure": ""
+      },
+      "Systematic Examination": {
+        "Skin": "",
+        "Mucous Membranes": "",
+        "Lymph Nodes": "",
+        "Head and Organs": "",
+        "Neck": "",
+        "Chest": "Thorax, lungs, heart, blood vessels",
+        "Abdomen": "Liver, spleen, etc.",
+        "Rectum and Anus": "",
+        "External Genitalia": "",
+        "Spine": "",
+        "Limbs": "",
+        "Nervous System": ""
+      }
+    },
+    "Specialist Examination": "Specialist-specific records",
+    "Auxiliary Examination": "Main examinations and results related to this disease before admission",
+    "Preliminary Diagnosis": "Diagnosis made based on the patient's condition at admission, in order of importance",
+    "Diagnostic Basis": "Basis for diagnosis according to patient's history, physical examination, laboratory tests, etc.",
+    "Differential Diagnosis": "List of all diseases consistent with the patient's symptoms, and reasons for ruling out each",
+    "Admission Records": {
+      "Physician's Signature": ""
+    },
+    "Post-Admission Course Records": {
+      "First Course Record": "Completed within 8 hours of admission, including case characteristics, diagnostic basis, differential diagnosis, and treatment plan",
+      "Daily Course Records": "Recorded according to changes in condition",
+      "Senior Physician Rounds Records": "",
+      "Difficult Case Discussion Records": "",
+      "Handover Records": "",
+      "Transfer Records": "",
+      "Stage Summary": "",
+      "Emergency Records": "",
+      "Invasive Procedure Records": "",
+      "Consultation Records": "",
+      "Surgery Related": {
+        "Preoperative Summary": "",
+        "Preoperative Discussion Records": "Surgical methods and possible issues",
+        "Anesthesia Preoperative Visit Records": "Risk assessment for proposed anesthesia",
+        "Anesthesia Records": "",
+        "Surgery Records": "",
+        "Surgery Safety Checklist": "Verification of surgical information and risks by surgeon, anesthesiologist, and circulating nurse",
+        "Surgery Instrument Count Records": "Record of instrument and item count after surgery",
+        "Postoperative First Course Record": "Immediate postoperative course record",
+        "Anesthesia Postoperative Visit Records": "Post-anesthesia recovery visit records"
+      },
+      "Discharge Records": "",
+      "Death Related": {
+        "Death Case Discussion Records": "",
+        "Death Records": ""
+      },
+      "Critically Ill Patient Care Records": ""
+    },
+    "Medical Orders": {
+      "Long-term Orders": "",
+      "Temporary Orders": ""
+    },
+    "Auxiliary Examination Reports": "",
+    "Temperature Chart": "Records of temperature, pulse, respiration, blood pressure, etc.",
+    "Blood Transfusion Consent": "",
+    "Special Examination Consent": "",
+    "Critical Condition Notice": ""
+  }
+}

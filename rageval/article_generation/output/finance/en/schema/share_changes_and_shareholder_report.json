@@ -1,0 +1,141 @@
+{
+    "Report Type": "Share Changes and Shareholder Report",
+    "Report Date": "Time of the report",
+    "Company Information": {
+     "Name": "Example Company Name",
+     "Date of Establishment": "Example Date of Establishment",
+     "Main Business": "Description of Main Business",
+     "Place of Registration": "Example Place of Registration",
+     "Listing Status": "Example Listing Status",
+     "Industry": "Example Industry"
+    },
+    "Report Content": [
+     {
+      "Type": "Share Change",
+      "Significant Events": [
+       {
+        "Event": "Capital Increase and Share Expansion",
+        "Time": "Example Time",
+        "Description": "The activity of capital increase and share expansion carried out by the company to introduce new investors or to increase shares for existing shareholders.",
+        "Impact": [
+         "Change in shareholder structure",
+         "Having more capital"
+        ]
+       },
+       {
+        "Event": "Share Repurchase",
+        "Time": "Example Time",
+        "Description": "The company repurchases part of the shares that are circulating outside to reduce the total number of shares or to increase the shareholding ratio of the controlling shareholders.",
+        "Impact": [
+         "Reduction in total number of shares",
+         "May increase earnings per share"
+        ]
+       }
+      ],
+      "Involved Indicators": [
+       {
+        "Indicator": "Shareholding Ratio of Shareholders",
+        "Description": "The shareholding ratio of the company's shareholders.",
+        "Impact Factors": [
+         "Capital increase and share expansion",
+         "Share repurchase",
+         "Equity transfer",
+         "Stock split"
+        ],
+        "Value": "Please supplement"
+       },
+       {
+        "Indicator": "Earnings Per Share",
+        "Description": "The net earnings per common share.",
+        "Impact Factors": [
+         "Share repurchase",
+         "Changes in company profitability"
+        ],
+        "Value": "Please supplement"
+       },
+       {
+        "Indicator": "Price-Earnings Ratio",
+        "Description": "The price-earnings ratio of the company's stock.",
+        "Impact Factors": [
+         "Share repurchase",
+         "Market expectations"
+        ],
+        "Value": "Please supplement"
+       }
+      ]
+     },
+     {
+      "Type": "Shareholder Situation",
+      "Significant Events": [
+       {
+        "Event": "Major Shareholder Change",
+        "Time": "Example Time",
+        "Description": "Changes among the main or controlling shareholders, which may involve equity transfers or other forms of shareholder changes.",
+        "Impact": [
+         "May affect company control",
+         "Change in shareholder structure"
+        ]
+       },
+       {
+        "Event": "Important Resolutions of Shareholders' Meeting",
+        "Time": "Example Time",
+        "Description": "Resolutions passed at the shareholders' meeting that have a significant impact on the future development direction of the company.",
+        "Impact": [
+         "Adjustment of company strategy",
+         "Change in senior management"
+        ]
+       }
+      ],
+      "Involved Indicators": [
+       {
+        "Indicator": "Number of Shareholders",
+        "Description": "The total number of the company's shareholders, including institutional and individual shareholders.",
+        "Impact Factors": [
+         "New shareholders joining",
+         "Shareholders exiting"
+        ],
+        "Value": "Please supplement"
+       },
+       {
+        "Indicator": "Top Ten Shareholders' Shareholding Ratio",
+        "Description": "The total shareholding ratio of the company's top ten shareholders.",
+        "Impact Factors": [
+         "Changes in share concentration",
+         "Significant equity transactions"
+        ],
+        "Value": "Please supplement"
+       },
+       {
+        "Indicator": "Proportion of Tradable Shares",
+        "Description": "The proportion of the company's shares that can be freely traded out of the total shares.",
+        "Impact Factors": [
+         "Capital increase and share expansion",
+         "Share repurchase",
+         "Release of restricted shares"
+        ],
+        "Value": "Please supplement"
+       }
+      ]
+     }
+    ],
+    "Additional Information": [
+     {
+      "Name": "Future Outlook",
+      "Content": [
+       {
+        "Name": "Share Structure Optimization Plan",
+        "Description": "The measures the company plans to take to optimize the share structure and enhance company value."
+       },
+       {
+        "Name": "Shareholder Rights Protection Measures",
+        "Description": "How the company will protect shareholder rights to avoid loss of shareholder interests."
+       },
+       {
+        "Name": "Share Liquidity Improvement Strategy",
+        "Description": "The plans or measures the company has to improve the liquidity of shares to attract more investors."
+       }
+      ]
+     }
+    ]
+   }
+   

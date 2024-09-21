@@ -1,0 +1,167 @@
+{
+    "Report Type": "Corporate Financial Report",
+    "Report Time": "Time of the Report",
+    "Company Information": {
+     "Name": "Sample Company Name",
+     "Establishment Date": "Sample Establishment Date",
+     "Main Business": "Sample Description of Main Business",
+     "Registration Location": "Sample Registration Location",
+     "Listing Status": "Sample Listing Status",
+     "Industry": "Sample Industry"
+    },
+    "Report Content": [
+     {
+      "Type": "Financial Information",
+      "Significant Events": [
+       {
+        "Event": "Major Asset Acquisition",
+        "Time": "Sample Time",
+        "Description": "The company completed the asset acquisition of X Company, with a total value of Y.",
+        "Impact": "Expanded the company's business scope, enhanced market competitiveness."
+       },
+       {
+        "Event": "Debt Restructuring",
+        "Time": "Sample Time",
+        "Description": "To optimize capital structure, the company underwent debt restructuring, reducing liabilities by Z.",
+        "Impact": "Improved the company's financial condition, reduced financial costs."
+       },
+       {
+        "Event": "Significant Equity Acquisition",
+        "Time": "Sample Time",
+        "Description": "The company completed the acquisition of B% equity of A Company.",
+        "Impact": "Further expanded the company's market share, enhanced the company's control."
+       },
+       {
+        "Event": "Large-scale Financing",
+        "Time": "Sample Time",
+        "Description": "The company conducted a large-scale financing activity, raising C of funds.",
+        "Impact": "Strengthened the company's financial strength, supported expansion and development."
+       },
+       {
+        "Event": "Major Investment",
+        "Time": "Sample Time",
+        "Description": "The company invested in Project D, with an investment amount of E.",
+        "Impact": "Further broadened the company's business areas, enhanced profitability."
+       },
+       {
+        "Event": "Dividend Distribution",
+        "Time": "Sample Time",
+        "Description": "The company decided to distribute F of dividends to shareholders.",
+        "Impact": "Returned to the investors, enhanced shareholder returns."
+       },
+       {
+        "Event": "Asset Restructuring",
+        "Time": "Sample Time",
+        "Description": "The company underwent an asset restructuring, optimizing its business structure.",
+        "Impact": "Improved operational efficiency, increased company value."
+       }
+      ],
+      "Involved Indicators": [
+       {
+        "Indicator": "Operating Income",
+        "Description": "The total amount of main business income and other business income within a certain accounting period.",
+        "Influencing Factors": [
+         "Market Demand",
+         "Changes in Product Prices"
+        ],
+        "Value": "Please Fill In"
+       },
+       {
+        "Indicator": "Net Profit",
+        "Description": "The net income of the company within a certain accounting period, i.e., total income minus total costs and taxes.",
+        "Influencing Factors": [
+         "Operating Income",
+         "Cost Control",
+         "Non-recurring Gains and Losses"
+        ],
+        "Value": "Please Fill In"
+       },
+       {
+        "Indicator": "Total Assets",
+        "Description": "The total amount of assets owned by the company at the end of the accounting period.",
+        "Influencing Factors": [
+         "Asset Acquisition",
+         "Asset Disposal",
+         "Asset Revaluation"
+        ],
+        "Value": "Please Fill In"
+       },
+       {
+        "Indicator": "Total Liabilities",
+        "Description": "The total amount of debts the company is obligated to repay at the end of the accounting period.",
+        "Influencing Factors": [
+         "New Debt Issuance",
+         "Debt Repayment",
+         "Debt Restructuring"
+        ],
+        "Value": "Please Fill In"
+       },
+       {
+        "Indicator": "Shareholder Equity",
+        "Description": "The total amount of equity belonging to shareholders at the end of the accounting period.",
+        "Influencing Factors": [
+         "Net Profit",
+         "Dividend Distribution",
+         "Capital Reserves"
+        ],
+        "Value": "Please Fill In"
+       },
+       {
+        "Indicator": "Cash Flow",
+        "Description": "The total cash inflows and outflows of the company within a certain accounting period.",
+        "Influencing Factors": [
+         "Operating Activities",
+         "Investment Activities",
+         "Financing Activities"
+        ],
+        "Value": "Please Fill In"
+       },
+       {
+        "Indicator": "Debt Ratio",
+        "Description": "The ratio of total liabilities to total assets, reflecting the company's debt level.",
+        "Influencing Factors": [
+         "Changes in Total Liabilities",
+         "Changes in Total Assets"
+        ],
+        "Value": "Please Fill In"
+    },
+    {
+     "Indicator": "Debt to Assets Ratio",
+     "Description": "The percentage of total liabilities to total assets, a measure of the company's financial leverage.",
+     "Influencing Factors": [
+      "Increases or decreases in assets and liabilities"
+     ],
+     "Value": "Please Fill In"
+    },
+    {
+     "Indicator": "Return on Equity",
+     "Description": "Reflects the operational efficiency of shareholder equity, namely the ratio of net profit to average shareholder equity.",
+     "Influencing Factors": [
+      "Change in Net Profit",
+      "Change in Shareholder Equity"
+     ],
+     "Value": "Please Fill In"
+    }
+   ]
+  }
+ ],
+ "Additional Information": [
+  {
+   "Name": "Future Outlook",
+   "Content": [
+    {
+     "Name": "Financial Strategy",
+     "Description": "The financial strategies the company plans to implement in the future, including cost control and capital operations."
+    },
+    {
+     "Name": "Investment Plans",
+     "Description": "The company's future investment plans, such as new project investments, R&D investments, etc."
+    },
+    {
+     "Name": "Risk Management",
+     "Description": "The major financial risks identified by the company and the strategies to manage these risks."
+    }
+   ]
+  }
+ ]
+}

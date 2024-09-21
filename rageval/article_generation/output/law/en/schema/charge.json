@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Crime of Bribery",
+        "details": "Article 389\nstipulates that the crime of bribery refers to giving property to state personnel in order to seek improper benefits. In economic exchanges, giving property to state personnel in violation of state regulations, in large amounts, or giving kickbacks or handling fees to state personnel under various pretexts in violation of state regulations, is considered bribery.\nIf property is given to state personnel due to extortion without obtaining improper benefits, it is not considered bribery.\nThose who commit the crime of bribery shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention, and shall also be fined; if the bribery is for seeking improper benefits, and the circumstances are serious, or if it causes significant losses to state interests, they shall be sentenced to fixed-term imprisonment of more than five years but not more than ten years, and shall also be fined; if the circumstances are particularly serious, or if it causes particularly significant losses to state interests, they shall be sentenced to fixed-term imprisonment of more than ten years or life imprisonment, and shall also be fined or have their property confiscated.\nIf a briber voluntarily confesses the bribery act before being prosecuted, they may be given a lighter or mitigated punishment. Among them, those whose crimes are relatively minor, play a key role in solving major cases, or have major meritorious performance, may be given mitigated punishment or be exempted from punishment."
+    },
+    {
+        "name": "Crime of Embezzlement",
+        "details": "Article 384\nState personnel who take advantage of their position to embezzle public funds for personal use, engage in illegal activities, or embezzle public funds in large amounts for profit-making activities, or embezzle large amounts of public funds for more than three months without returning them, commit the crime of embezzlement, and shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention; if the circumstances are serious, they shall be sentenced to fixed-term imprisonment of more than five years. If the embezzled amount is huge and not returned, they shall be sentenced to fixed-term imprisonment of more than ten years or life imprisonment.\nEmbezzlement of funds for disaster relief, emergency rescue, flood control, preferential treatment, poverty alleviation, immigration, or relief for personal use shall be punished more severely."
+    },
+    {
+        "name": "Crime of Traffic Accident",
+        "details": "Article 133\nViolating traffic and transportation management regulations, resulting in a major accident, causing serious injury, death, or significant property damage, shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention; if they escape after a traffic accident or have other particularly egregious circumstances, they shall be sentenced to fixed-term imprisonment of more than three years but not more than seven years; if the escape causes death, they shall be sentenced to fixed-term imprisonment of more than seven years."
+    },
+    {
+        "name": "Crime of Theft",
+        "details": "Article 264\nThose who steal public or private property, in large amounts, or commit theft multiple times, theft into a residence, theft with a weapon, or pickpocketing, shall be sentenced to fixed-term imprisonment of not more than three years, criminal detention, or control, and shall also be fined or solely fined; if the amount is huge or there are other serious circumstances, they shall be sentenced to fixed-term imprisonment of more than three years but not more than ten years, and shall also be fined; if the amount is particularly huge or there are other particularly serious circumstances, they shall be sentenced to fixed-term imprisonment of more than ten years or life imprisonment, and shall also be fined or have their property confiscated."
+    },
+    {
+        "name": "Crime of Intentional Homicide",
+        "details": "Article 232\nThose who commit intentional homicide shall be sentenced to death, life imprisonment, or fixed-term imprisonment of more than ten years; if the circumstances are relatively minor, they shall be sentenced to fixed-term imprisonment of more than three years but not more than ten years."
+    },
+    {
+        "name": "Crime of Picking Quarrels and Provoking Trouble",
+        "details": "Article 293\nAnyone who commits any of the following acts of picking quarrels and provoking trouble, disrupting social order, shall be sentenced to fixed-term imprisonment of not more than five years, criminal detention, or control:\n(a) Randomly beating others, with serious circumstances;\n(b) Chasing, intercepting, insulting, or intimidating others, with serious circumstances;\n(c) Forcibly taking or arbitrarily destroying or occupying public or private property, with serious circumstances;\n(d) Making trouble in a public place, causing serious disorder in the public place.\nIf one gathers others to repeatedly commit the aforementioned acts, seriously disrupting social order, they shall be sentenced to fixed-term imprisonment of more than five years but not more than ten years, and may also be fined."
+    },
+    {
+        "name": "Crime of Bending the Law for Personal Gain",
+        "details": "Article 397\nState organ personnel who abuse their power or neglect their duties, causing significant losses to public property, the state, and people's interests, shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention; if the circumstances are particularly serious, they shall be sentenced to fixed-term imprisonment of more than three years but not more than seven years."
+    },
+    {
+        "name": "Crime of Negligent Homicide",
+        "details": "Article 133\nThose who cause death by negligence shall be sentenced to fixed-term imprisonment of more than three years but not more than seven years; if the circumstances are relatively minor, they shall be sentenced to fixed-term imprisonment of not more than three years."
+    },
+    {
+        "name": "Crime of Selling Counterfeit Registered Trademark Goods",
+        "details": "Article 214\nSelling goods that are known to be counterfeit registered trademarks, if the illegal gains are relatively large or there are other serious circumstances, shall be sentenced to fixed-term imprisonment of not more than three years, and shall also be fined or solely fined; if the illegal gains are huge or there are other particularly serious circumstances, they shall be sentenced to fixed-term imprisonment of more than three years but not more than ten years, and shall also be fined."
+    },
+    {
+        "name": "Crime of Evading Tax Arrears Recovery",
+        "details": "Article 203\nTaxpayers who owe taxes and take measures such as transferring or hiding property to prevent the tax authorities from recovering the owed taxes, if the amount is more than 10,000 yuan but less than 100,000 yuan, shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention, and shall also be fined one to five times the owed taxes; if the amount is more than 100,000 yuan, they shall be sentenced to fixed-term imprisonment of more than three years but not more than seven years, and shall also be fined one to five times the owed taxes."
+    },
+    {
+        "name": "Crime of Counterfeiting Currency",
+        "details": "Article 170\nThose who counterfeit currency shall be sentenced to fixed-term imprisonment of more than three years but not more than ten years, and shall also be fined; if any of the following circumstances apply, they shall be sentenced to fixed-term imprisonment of more than ten years or life imprisonment, and shall also be fined or have their property confiscated:\n(a) Principal members of a counterfeiting currency group;\n(b) Counterfeiting currency in particularly large amounts;\n(c) Other particularly serious circumstances."
+    }
+]

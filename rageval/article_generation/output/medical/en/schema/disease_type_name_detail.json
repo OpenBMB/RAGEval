@@ -1,0 +1,230 @@
+{
+    "Infectious Diseases": [
+        {
+            "Name": "Bacterial Food Poisoning",
+            "Symptoms": "Nausea, vomiting, abdominal pain, diarrhea and watery stools, accompanied by fever, etc.",
+            "Differential Diagnosis": "Acute bacterial dysentery, cholera, acute hemorrhagic necrotizing enteritis, viral gastroenteritis, pufferfish poisoning, poliomyelitis, etc."
+        },
+        {
+            "Name": "Hepatitis A",
+            "Symptoms": "Fatigue, loss of appetite, enlarged liver, abnormal liver function",
+            "Differential Diagnosis": "Other types of viral hepatitis, toxic hepatitis"
+        }
+    ],
+    "Parasitic Diseases": [
+        {
+            "Name": "Malaria",
+            "Symptoms": "The main symptoms of malaria are chills, high fever, sweating, headache, limb aches, and fatigue. After a certain incubation period, the symptoms recur. Severe cases can lead to complications such as anemia, hypoglycemia, acute renal failure, or acute pulmonary edema.",
+            "Differential Diagnosis": "Malaria should be differentiated from various febrile diseases such as sepsis, typhoid, leptospirosis, hemorrhagic fever with renal syndrome, schistosomiasis, biliary tract infections, and urinary tract infections. When it develops into cerebral malaria, it should be differentiated from Japanese encephalitis, moderate bacillary dysentery, sporadic viral encephalitis, etc."
+        },
+        {
+            "Name": "Acute Schistosomiasis",
+            "Symptoms": "The main symptoms of schistosomiasis are fever, gastrointestinal symptoms (often dysenteric stools, which may be bloody and mucous), hepatosplenomegaly, and pulmonary symptoms (cough is quite common, there may be chest pain, blood-stained sputum, etc.).",
+            "Differential Diagnosis": "Sepsis, malaria, typhoid and paratyphoid fever, acute miliary tuberculosis, viral infections, other intestinal diseases"
+        }
+    ],
+    "Malignant Tumors": [
+        {
+            "Name": "Nasopharyngeal Malignancy",
+            "Symptoms": "Tinnitus, hearing loss, nasal congestion, blood in nasal discharge, headache, facial numbness, double vision, neck lumps.",
+            "Differential Diagnosis": "Nasopharyngeal angiofibroma, lymphadenitis, malignant lymphoma, nasopharyngeal tuberculosis, proliferative lesions"
+        },
+        {
+            "Name": "Esophageal Malignancy",
+            "Symptoms": "Dysphagia (difficulty swallowing or feeling of obstruction when food moves down the esophagus, initially for solid food, later for semi-solid food, and finally for liquid food and saliva, indicating a progressive malignant course rather than spasm, benign or digestive strictures); chest pain often radiating to the back.",
+            "Differential Diagnosis": "Benign esophageal stricture, achalasia, esophageal diverticulum, esophageal tuberculosis, etc."
+        }
+    ],
+    "Benign, In Situ, and Uncertain Neoplasms": [
+        {
+            "Name": "Uterine Fibroids",
+            "Symptoms": "Uterine bleeding, abdominal mass, vaginal discharge, pressure symptoms",
+            "Differential Diagnosis": "Adenomyosis, ovarian tumors, uterine sarcoma, endometrial cancer, cervical cancer, pelvic inflammatory mass, uterine malformations, pregnancy uterus."
+        },
+        {
+            "Name": "Growth Hormone Adenoma (GH Adenoma)",
+            "Symptoms": "Excessive secretion of growth hormone. Patients who have not reached adulthood may experience rapid growth, even developing into giants. In adults, acromegaly is manifested as changes in facial features, enlarged forehead, protruding jaw, large nose and lips, thick fingers, feeling of tightness in shoes and hats, increased appetite, coarse hair and skin, pigmentation, numbness of fingers, etc. Severe cases may experience general fatigue, headaches, joint pain, decreased sexual function, amenorrhea, infertility, and even diabetes.",
+            "Differential Diagnosis": "Paget's disease of bone, leontiasis ossea, ectopic growth hormone-releasing factor syndrome."
+        }
+    ],
+    "Endocrine, Nutritional, and Metabolic Diseases and Immune Disorders": [
+        {
+            "Name": "Hyperthyroidism",
+            "Symptoms": "Irritability, restlessness, tachycardia, fatigue, heat intolerance, sweating, weight loss, increased appetite, increased bowel movements or diarrhea, scanty menstruation",
+            "Differential Diagnosis": "Destructive thyrotoxicosis, exogenous thyroid hormone intake, simple goiter, hypothyroidism, hyperparathyroidism."
+        },
+        {
+            "Name": "Diabetes Mellitus",
+            "Symptoms": "Polydipsia, polyuria, polyphagia, weight loss",
+            "Differential Diagnosis": "Type 1 diabetes, type 2 diabetes."
+        }
+    ],
+    "Diseases of the Blood and Blood-Forming Organs": [
+        {
+            "Name": "Iron Deficiency Anemia",
+            "Symptoms": "Pallor (due to a lack of oxygenated hemoglobin in the skin or mucous membranes), fatigue, dizziness, weakness, pica, etc.",
+            "Differential Diagnosis": "Sideroblastic anemia (manifests as microcytic anemia, but with increased serum ferritin levels, increased iron granules in bone marrow sideroblasts, increased sideroblasts, and the appearance of ring sideroblasts.), Thalassemia (with a family history. Hemolytic manifestations. A large number of target cells can be seen in the blood film.), Transferrin deficiency (autosomal recessive inheritance (congenital) or secondary to severe liver disease, tumors (acquired).)"
+        },
+        {
+            "Name": "Thalassemia",
+            "Symptoms": "Anemia, decreased physical strength, iron deposition in organs, changes in skull shape, hepatosplenomegaly, protruding abdomen",
+            "Differential Diagnosis": "Iron deficiency anemia, megaloblastic anemia, neonatal jaundice."
+        }
+    ],
+    "Mental Disorders": [
+        {
+            "Name": "Schizophrenia",
+            "Symptoms": "Hallucinations, delusions, disorganized thinking, abnormal emotional responses, social withdrawal, slow responses",
+            "Differential Diagnosis": "Schizotypal personality disorder, depression, metabolic diseases."
+        },
+        {
+            "Name": "Depression",
+            "Symptoms": "Low mood, loss of interest, low self-esteem, self-blame, suicidal thoughts",
+            "Differential Diagnosis": "Depression related to physical illness, dementia, schizophrenia, post-traumatic stress disorder (PTSD), bipolar depression."
+        }
+    ],
+    "Diseases of the Nervous System": [
+        {
+            "Name": "Epidemic Cerebrospinal Meningitis",
+            "Symptoms": "Early stage: fever, headache, sore throat, increased upper respiratory secretions, runny nose, cough, etc. Severe: sudden high fever, severe headache, projectile vomiting, neck stiffness, skin petechiae, incontinence, coma, convulsions, etc.",
+            "Differential Diagnosis": "Japanese encephalitis (no bacteremia stage, no skin petechiae, less likely to have sudden shock), common cold."
+        },
+        {
+            "Name": "Parkinson's Disease",
+            "Symptoms": "Motor symptoms: tremors, rigidity of limbs, slow movement, instability in posture; Non-motor symptoms: presence of constipation, olfactory disorders, sleep disorders, autonomic dysfunction, and mental and cognitive impairments",
+            "Differential Diagnosis": "Parkinson's Plus Syndromes that occur with other neurodegenerative diseases (overall less frequent occurrence of resting tremor), Essential Tremor (postural/action tremor as the only manifestation), Depression (lack of facial expression, monotonous speech, without rigidity and tremor)"
+        }
+    ],
+    "Diseases of the Eye and Adnexa": [
+        {
+            "Name": "Glaucoma",
+            "Symptoms": "Blurred vision, headache, eye swelling, eye pain, nausea, vomiting, foggy vision, unequal pupil sizes, decreased vision",
+            "Differential Diagnosis": "Acute angle-closure glaucoma acute attack, accompanied by severe headache, nausea, vomiting, etc., may be misdiagnosed as acute gastroenteritis and neurological diseases; acute iridocyclitis, acute conjunctivitis."
+        },
+        {
+            "Name": "Cataract",
+            "Symptoms": "Blurry, foggy vision, decreased visual acuity, decreased contrast sensitivity, blurry vision, monocular double or multiple vision, visual field defects, glare",
+            "Differential Diagnosis": "Glaucoma, age-related macular degeneration, physiological lens aging."
+        }
+    ],
+    "Diseases of the Ear and Mastoid Process": [
+        {
+            "Name": "Chronic Otitis Media",
+            "Symptoms": "Ear discharge, hearing loss, tinnitus, dizziness, vomiting, facial paralysis, severe headache, chills, high fever, etc.",
+            "Differential Diagnosis": "Chronic tympanitis, middle ear cancer, tuberculous otitis media."
+        },
+        {
+            "Name": "Mastoiditis",
+            "Symptoms": "Swelling, redness of the skin over the mastoid process, significant tenderness, redness, collapse with purulent discharge, cloudy air cells, presenting a cloudy appearance, etc.",
+            "Differential Diagnosis": "Otitis media, ear boils, mumps, temporomandibular joint disease, etc."
+        }
+    ],
+    "Circulatory System Diseases": [
+        {
+            "Name": "Acute Rheumatic Fever",
+            "Symptoms": "Fever, migratory arthritis, carditis, erythema marginatum, chorea, etc.",
+            "Differential Diagnosis": "Post-streptococcal reactive arthritis"
+        },
+        {
+            "Name": "Varicose Veins of the Lower Leg",
+            "Symptoms": "The affected limb often feels sour, heavy, swollen, and painful, and is prone to fatigue and weakness; the superficial veins of the affected limb are raised, dilated, and become tortuous, even winding or in lumps, which is more obvious when standing",
+            "Differential Diagnosis": "Post-thrombotic syndrome of the lower limbs (Doppler ultrasound suggests poor blood reflux in the deep veins, with simultaneous blood backflow. Lower limb venography shows rough deep vein walls, and the venous lumen is irregularly narrowed), Budd-Chiari Syndrome (enlarged spleen, large and stubborn ascites), Klippel-Trenaunay Syndrome (limb growth, thickening, abnormally large and tortuous superficial veins, and the triad of cutaneous hemangioma)"
+        }
+    ],
+    "Respiratory System Diseases": [
+        {
+            "Name": "Pneumonia",
+            "Symptoms": "Fever, cough, difficulty breathing",
+            "Differential Diagnosis": "Tuberculosis, lung cancer, pulmonary embolism."
+        },
+        {
+            "Name": "Asthma",
+            "Symptoms": "Wheezing, coughing, chest tightness, chest oppression, and shortness of breath recur intermittently",
+            "Differential Diagnosis": "Allergic rhinitis, sinusitis, foreign body aspiration, tracheal stenosis, laryngotracheomalacia"
+        }
+    ],
+    "Digestive System Diseases": [
+        {
+            "Name": "Peptic Ulcer",
+            "Symptoms": "Upper abdominal pain, acid reflux, heartburn, etc.",
+            "Differential Diagnosis": "Gastric cancer, chronic gastritis, gastric neurosis, cholecystitis, cholelithiasis, gastrinoma."
+        },
+        {
+            "Name": "Intestinal Obstruction",
+            "Symptoms": "Intermittent abdominal colic, decreased appetite, constipation, vomiting, inability to pass stool or flatus, abdominal distension",
+            "Differential Diagnosis": "Acute perforation of gastric or duodenal ulcer (usually with a history of long-term digestive tract ulcers), acute cholecystitis complicated by gallbladder stones, acute pancreatitis, acute appendicitis (fixed point tenderness in the lower right abdomen)"
+        }
+    ],
+    "Diseases of the Genitourinary System": [
+        {
+            "Name": "Urinary Tract Stones",
+            "Symptoms": "Pain, hematuria, frequent urination, urgency, fever, chills",
+            "Differential Diagnosis": "Peritonitis, cholecystitis, intestinal obstruction, pancreatitis."
+        },
+        {
+            "Name": "Acute Pyelonephritis",
+            "Symptoms": "Fever and chills, nausea and vomiting, unilateral or bilateral back pain, frequent urination, urgency, and pain",
+            "Differential Diagnosis": "Acute cystitis, cholecystitis, pancreatitis, pelvic inflammatory disease; in cases with high fever but no obvious urinary symptoms, differentiation should be made from various febrile diseases"
+        }
+    ],
+    "Pregnancy, Childbirth, and the Puerperium Complications": [
+        {
+            "Name": "Pregnancy-Induced Hypertension Syndrome",
+            "Symptoms": "Hypertension, edema, proteinuria",
+            "Differential Diagnosis": "Chronic hypertension, preeclampsia, chronic hypertension with superimposed preeclampsia."
+        },
+        {
+            "Name": "Pregnancy Complicated by Hyperthyroidism",
+            "Symptoms": "Palpitations, tachycardia, excessive sweating, irritability, increased appetite, fatigue, goiter, exophthalmos, etc.",
+            "Differential Diagnosis": "Simple goiter during pregnancy, subacute thyroiditis, Hashimoto's disease"
+        }
+    ],
+    "Diseases of the Skin and Subcutaneous Tissue": [
+        {
+            "Name": "Dermatitis",
+            "Symptoms": "Skin rashes, papules, blisters, lichenification, etc.",
+            "Differential Diagnosis": "Atopic dermatitis, contact dermatitis, seborrheic dermatitis, stasis dermatitis, neurodermatitis, superficial fungal infections, scabies, polymorphic light eruption, eosinophilia syndrome, pellagra, etc."
+        },
+        {
+            "Name": "Furuncle",
+            "Symptoms": "Superficial skin infection by fire poison, local redness, swelling, heat, and pain, acute suppuration",
+            "Differential Diagnosis": "Carbuncle (with multiple honeycomb-like purulent plugs on the surface), folliculitis (similar to a furuncle but without purulent plugs), infected sebaceous cyst, acne with mild infection"
+        }
+    ],
+    "Diseases of the Musculoskeletal System and Connective Tissue": [
+        {
+            "Name": "Rheumatoid Arthritis",
+            "Symptoms": "Morning stiffness, arthritis of hands, feet, wrists, ankles, temporomandibular joints, joint deformities",
+            "Differential Diagnosis": "Ankylosing spondylitis, osteoarthritis, gout, psoriatic arthritis."
+        },
+        {
+            "Name": "Acute Osteomyelitis",
+            "Symptoms": "Bone pain, difficulty in walking, local redness and swelling, etc.",
+            "Differential Diagnosis": "Osteosarcoma (bone destruction, periosteal reaction is relatively limited in scope), Ewing's Sarcoma (the periosteal reaction is regular compared to osteomyelitis, mostly in the form of onion-skin periosteal reaction), Osteitis Fibrosa Cystica, Osteoid Osteoma"
+        }
+    ],
+    "Congenital Anomalies": [
+        {
+            "Name": "Congenital Heart Disease",
+            "Symptoms": "Repeated respiratory infections, palpitations, shortness of breath, cyanosis, etc.",
+            "Differential Diagnosis": "Rheumatic heart disease, anemia, venous hum, common cold."
+        },
+        {
+            "Name": "Favism",
+            "Symptoms": "Hemolysis occurs within 1 to 2 days after consuming fresh fava beans, accompanied by general malaise, fatigue, chills, fever, dizziness, headache, anorexia, nausea, vomiting, and abdominal pain",
+            "Differential Diagnosis": "Infectious anemia, hemolytic anemia, thalassemia, hereditary spherocytosis"
+        }
+    ],
+    "Conditions Originating in the Perinatal Period": [
+        {
+            "Name": "Neonatal Tetanus",
+            "Symptoms": "Crying, limited mouth opening, difficulty sucking",
+            "Differential Diagnosis": "Purulent meningitis, neonatal convulsions, tetany."
+        },
+        {
+            "Name": "Neonatal Pneumonia due to Amniotic Fluid Aspiration",
+            "Symptoms": "Difficult breathing and cyanosis occur immediately after resuscitation, with the possibility of fluid or foam flowing out from the mouth, and moist rales auscultated in the lungs",
+            "Differential Diagnosis": "Meconium Aspiration Pneumonia (rapid and shallow breathing (>60 breaths per minute), nasal flaring, three-groove sign, moaning, and cyanosis appear immediately after resuscitation), Milk Aspiration Pneumonia (sudden cessation of breathing, cyanosis, or choking cough after breastfeeding, with milk aspirated from the airway)"
+        }
+    ]
+}
