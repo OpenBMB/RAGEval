@@ -1,0 +1,147 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Granville General Hospital, what were the chief complaints of patients C. Cruz and J. Rodriguez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "**Chief Complaint:**",
+                        "Fever, chills, back pain for 2 days"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Chief Complaint: Local redness, swelling, heat, and pain on the right forearm for 3 days."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Indianola General Hospital, patient C. Cruz's chief complaint was fever, chills, and back pain for 2 days. According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's chief complaint was local redness, swelling, heat, and pain on the right forearm for 3 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Granville General Hospital, what were the preliminary diagnoses for patients C. Cruz and J. Rodriguez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "**Preliminary Diagnosis:**",
+                        "Acute Pyelonephritis"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Preliminary Diagnosis: Furuncle of the right forearm"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Indianola General Hospital, patient C. Cruz was preliminarily diagnosed with Acute Pyelonephritis. According to the hospitalization records of Granville General Hospital, patient J. Rodriguez was preliminarily diagnosed with a Furuncle of the right forearm."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Granville General Hospital, what were the auxiliary examination findings for patients C. Cruz and J. Rodriguez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "**Auxiliary Examination:**",
+                        "- Urinalysis: Shows pyuria and bacteriuria.",
+                        "- CBC: Shows elevated WBC count."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Auxiliary Examination: Complete Blood Count (CBC) showed mild leukocytosis, no other significant findings"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Indianola General Hospital, patient C. Cruz's auxiliary examination showed urinalysis with pyuria and bacteriuria, and a CBC with elevated WBC count. According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's auxiliary examination showed a CBC with mild leukocytosis."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Granville General Hospital, what were the long-term medical orders for patients C. Cruz and J. Rodriguez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "Long-term Orders:",
+                        "- Ceftriaxone 1g IV q24h",
+                        "- Antipyretics PRN",
+                        "- Maintain strict I/O charting",
+                        "- Monitor vitals q4h"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Long-term Orders: Topical antibiotics (Mupirocin ointment) applied to affected area twice daily; Oral antibiotics (Cephalexin 250 mg) three times daily for 7 days"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Indianola General Hospital, patient C. Cruz's long-term medical orders included Ceftriaxone 1g IV q24h, antipyretics PRN, maintaining strict I/O charting, and monitoring vitals q4h. According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's long-term medical orders included topical antibiotics (Mupirocin ointment) applied to the affected area twice daily and oral antibiotics (Cephalexin 250 mg) three times daily for 7 days."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Granville General Hospital, who was admitted later, C. Cruz or J. Rodriguez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "Admission Time: 17th, February"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Admission Time: 26th, February"
+                    ]
+                }
+            ],
+            "answer": "C. Cruz was admitted on 17th February, and J. Rodriguez was admitted on 26th February. J. Rodriguez was admitted later."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Granville General Hospital, whose pulse rate is the same, C. Cruz or J. Rodriguez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "- Pulse: 90 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Pulse: 90 bpm"
+                    ]
+                }
+            ],
+            "answer": "C. Cruz's pulse rate is 90 bpm, and J. Rodriguez's pulse rate is also 90 bpm. Both C. Cruz and J. Rodriguez have the same pulse rate."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Granville General Hospital, who had a higher temperature at the time of admission, C. Cruz or J. Rodriguez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "- Temperature: 38.8°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Temperature: 37°C"
+                    ]
+                }
+            ],
+            "answer": "C. Cruz's temperature was 38.8°C, and J. Rodriguez's temperature was 37°C. C. Cruz had a higher temperature at the time of admission."
+        }
+    ]
+}

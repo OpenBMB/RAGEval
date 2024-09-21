@@ -1,0 +1,161 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Yorkshire General Hospital, what are the ages of patients V. Lewis and I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Age: 64"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Age: 82"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Newport General Hospital, patient V. Lewis is 64 years old; according to the hospitalization records of Yorkshire General Hospital, patient I. Chavez is 82 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Yorkshire General Hospital, what is the marital status of patients V. Lewis and I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Newport General Hospital, patient V. Lewis is widowed; according to the hospitalization records of Yorkshire General Hospital, patient I. Chavez is also widowed."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Yorkshire General Hospital, what are the occupations of patients V. Lewis and I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Occupation: Retired Teacher",
+                        "Occupation and Working Conditions: Retired teacher, no significant occupational hazards."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Occupation: Retired",
+                        "Retired teacher, no known work-related health issues."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Newport General Hospital, patient V. Lewis is a retired teacher; according to the hospitalization records of Yorkshire General Hospital, patient I. Chavez is retired."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Yorkshire General Hospital, what are the chief complaints of patients V. Lewis and I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Chief Complaint: Fever, cough, and difficulty breathing for 5 days."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Chief Complaint:",
+                        "Intermittent upper abdominal pain, acid reflux, and heartburn for 2 months."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Newport General Hospital, patient V. Lewis's chief complaint is fever, cough, and difficulty breathing for 5 days; according to the hospitalization records of Yorkshire General Hospital, patient I. Chavez's chief complaint is intermittent upper abdominal pain, acid reflux, and heartburn for 2 months."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Yorkshire General Hospital, who was admitted earlier, V. Lewis or I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Admission Time: 23rd, July"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Admission Time: 12th, February"
+                    ]
+                }
+            ],
+            "answer": "V. Lewis was admitted on July 23, and I. Chavez was admitted on February 12. I. Chavez was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Yorkshire General Hospital, whose temperature was higher upon admission, V. Lewis or I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Temperature: 38.5°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Temperature: 37.0°C"
+                    ]
+                }
+            ],
+            "answer": "V. Lewis had a temperature of 38.5°C upon admission, while I. Chavez had a temperature of 37.0°C. V. Lewis's temperature was higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Yorkshire General Hospital, whose pulse rate was higher upon admission, V. Lewis or I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Pulse: 92 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Pulse: 80 bpm"
+                    ]
+                }
+            ],
+            "answer": "V. Lewis had a pulse rate of 92 bpm upon admission, while I. Chavez had a pulse rate of 80 bpm. V. Lewis's pulse rate was higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Yorkshire General Hospital, whose blood pressure was higher upon admission, V. Lewis or I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Blood Pressure: 130/85 mmHg"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Blood Pressure: 135/80 mmHg"
+                    ]
+                }
+            ],
+            "answer": "V. Lewis had a blood pressure of 130/85 mmHg upon admission, while I. Chavez had a blood pressure of 135/80 mmHg. I. Chavez's blood pressure was higher."
+        }
+    ]
+}

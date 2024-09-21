@@ -1,0 +1,140 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashton, Clarksville, Court and Hartford, Ashland, Court, what are the occupations of the defendants J. Gonzalez and M. Cooper?",
+            "ref": [
+                {
+                    "court_name": "Ashton, Clarksville, Court",
+                    "content": [
+                        "Occupation: Senior Inspector, Clarksville Tax Department"
+                    ]
+                },
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Occupation:** Construction Site Manager"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashton, Clarksville, Court, the defendant J. Gonzalez is a Senior Inspector at the Clarksville Tax Department; according to the judgment of Hartford, Ashland, Court, the defendant M. Cooper is a Construction Site Manager."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashton, Clarksville, Court and Hartford, Ashland, Court, what crimes did the defendants J. Gonzalez and M. Cooper commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Ashton, Clarksville, Court",
+                    "content": [
+                        "Crime of Bending the Law for Personal Gain as per Article 397 of the applicable law."
+                    ]
+                },
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "Consequently, the defendant, M. Cooper, was indicted and charged with the Crime of Negligent Homicide, as stipulated under Article No. 133, acknowledging the defendant's supervisory role and negligence as directly contributory to the fatal incident."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashton, Clarksville, Court, the defendant J. Gonzalez committed the Crime of Bending the Law for Personal Gain; according to the judgment of Hartford, Ashland, Court, the defendant M. Cooper committed the Crime of Negligent Homicide."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashton, Clarksville, Court and Hartford, Ashland, Court, when were the judgments for the defendants J. Gonzalez and M. Cooper delivered?",
+            "ref": [
+                {
+                    "court_name": "Ashton, Clarksville, Court",
+                    "content": [
+                        "15th May 2023"
+                    ]
+                },
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Date of Judgment:** 15th August 2022"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashton, Clarksville, Court, the judgment for J. Gonzalez was delivered on 15th May 2023; according to the judgment of Hartford, Ashland, Court, the judgment for M. Cooper was delivered on 15th August 2022."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashton, Clarksville, Court and Hartford, Ashland, Court, what sentences were given to the defendants J. Gonzalez and M. Cooper?",
+            "ref": [
+                {
+                    "court_name": "Ashton, Clarksville, Court",
+                    "content": [
+                        "This court hereby sentences J. Gonzalez to five years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Four years of fixed-term imprisonment**"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashton, Clarksville, Court, the defendant J. Gonzalez was sentenced to 5 years of fixed-term imprisonment; according to the judgment of Hartford, Ashland, Court, the defendant M. Cooper was sentenced to four years of fixed-term imprisonment."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashton, Clarksville, Court and Hartford, Ashland, Court, who were the defense lawyers for the defendants J. Gonzalez and M. Cooper?",
+            "ref": [
+                {
+                    "court_name": "Ashton, Clarksville, Court",
+                    "content": [
+                        "Name: M. Smith"
+                    ]
+                },
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Name:** B. Ramirez"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashton, Clarksville, Court, the defense lawyer for J. Gonzalez was M. Smith; according to the judgment of Hartford, Ashland, Court, the defense lawyer for M. Cooper was B. Ramirez."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Ashton, Clarksville, Court and Hartford, Ashland, Court, whose sentencing time is longer, J. Gonzalez or M. Cooper?",
+            "ref": [
+                {
+                    "court_name": "Ashton, Clarksville, Court",
+                    "content": [
+                        "This court hereby sentences J. Gonzalez to five years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Four years of fixed-term imprisonment**"
+                    ]
+                }
+            ],
+            "answer": "J. Gonzalez was sentenced to five years of fixed-term imprisonment, while M. Cooper was sentenced to four years of fixed-term imprisonment. J. Gonzalez's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Ashton, Clarksville, Court and Hartford, Ashland, Court, whose judgment time is earlier, J. Gonzalez or M. Cooper?",
+            "ref": [
+                {
+                    "court_name": "Ashton, Clarksville, Court",
+                    "content": [
+                        "**Date of Judgment:**",
+                        "15th May 2023"
+                    ]
+                },
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Date of Judgment:** 15th August 2022"
+                    ]
+                }
+            ],
+            "answer": "M. Cooper's judgment time is earlier, on 15th August 2022, while J. Gonzalez's judgment time is on 15th May 2023."
+        }
+    ]
+}

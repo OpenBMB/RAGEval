@@ -1,0 +1,130 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "O. Richardson",
+            "Gender": "female",
+            "Age": "56",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Married",
+            "Occupation": "Teacher",
+            "Address": "95, Knoxville street, Lakeside",
+            "Admission Time": "15th, February",
+            "Record Time": "15th, February",
+            "Historian": "Self",
+            "Hospital Name": "Lakeside General Hospital"
+        },
+        "Chief Complaint": "Fatigue and dizziness for 2 months",
+        "Present Illness": {
+            "Onset": "The patient reports the onset of symptoms approximately 2 months ago. Initially experienced intermittent dizziness and fatigue, which progressively worsened.",
+            "Main Symptoms": "The patient describes persistent fatigue and dizziness that have been getting progressively worse over the past 2 months. She reports pallor and occasional faintness. Symptoms are exacerbated with physical exertion and somewhat relieved with rest.",
+            "Accompanying Symptoms": "In addition to fatigue and dizziness, the patient also mentions pica, specifically craving for chewing ice. She also has significant weakness.",
+            "Diagnosis and Treatment History": "The patient has visited a local clinic where CBC showed decreased hemoglobin levels. Iron supplements were prescribed, with slight improvement reported.",
+            "General Condition Changes": "The patient denies any significant changes in mental state, but reports a decreased appetite and a slight unintentional weight loss over the past 2 months. No changes in urination or defecation patterns."
+        },
+        "Past History": {
+            "General Health Condition": "Generally good, with regular annual check-ups.",
+            "Disease History": "No history of chronic illnesses.",
+            "Infectious Disease History": "No relevant infectious disease history.",
+            "Immunization History": "Up to date with routine immunizations.",
+            "Surgery and Trauma History": "Appendectomy at age 23.",
+            "Blood Transfusion History": "No prior history of blood transfusions.",
+            "Allergy History": "No known drug allergies. Mild seasonal allergies."
+        },
+        "Personal History": {
+            "Birthplace": "Lakeside",
+            "Residence": "Lakeside",
+            "Living Habits": "Non-smoker, occasional alcohol consumption. Balanced diet.",
+            "Occupation and Working Conditions": "Works as a teacher in a local school.",
+            "Exposure History": "No significant exposure to industrial toxins, dust, or radioactive substances.",
+            "Travel History": "No recent travel history."
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Married",
+                "Marriage Age": "25",
+                "Spouse's Health Condition": "Good",
+                "Children's Condition": "Two children, both healthy."
+            },
+            "Menstrual History": {
+                "Menarche Age": "13",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "10th February",
+                "Menstrual Volume": "Moderate",
+                "Dysmenorrhea": "Occasional mild"
+            },
+            "Family History": "Parents are alive and have no significant health issues. Two siblings, both healthy. No known family history of anemia or similar diseases."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "98.6°F",
+                "Pulse": "80 bpm",
+                "Respiration": "16 breaths/min",
+                "Blood Pressure": "110/70 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Pale",
+                "Mucous Membranes": "Pale",
+                "Lymph Nodes": "No palpable lymphadenopathy",
+                "Head and Organs": "No abnormalities noted",
+                "Neck": "No jugular venous distention",
+                "Chest": "Clear to auscultation bilaterally. Heart sounds normal, no murmurs.",
+                "Abdomen": "Soft, non-tender. Liver and spleen not palpably enlarged.",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Normal",
+                "Spine": "No deformities",
+                "Limbs": "No edema. Normal range of motion.",
+                "Nervous System": "Normal sensory and motor functions. Reflexes intact."
+            }
+        },
+        "Specialist Examination": "Hemoglobin level: 9.2 g/dL, Serum iron: 20 µg/dL, Ferritin: 7 ng/mL",
+        "Auxiliary Examination": "Complete Blood Count: Low hemoglobin, Low hematocrit, Microcytic, hypochromic red cells",
+        "Preliminary Diagnosis": "Iron Deficiency Anemia",
+        "Diagnostic Basis": "History of fatigue, dizziness, pallor, pica, lab results indicating low hemoglobin, low serum iron, and low ferritin.",
+        "Differential Diagnosis": "Sideroblastic anemia: ruled out due to absence of ring sideroblasts and increased serum ferritin. Thalassemia: ruled out due to lack of family history and target cells in blood film. Transferrin deficiency: ruled out due to no relevant history or signs of severe liver disease or tumors.",
+        "Admission Records": {
+            "Physician's Signature": "Dr. A. Thomas"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with severe fatigue, dizziness, and pallor. Laboratory tests confirm iron deficiency anemia. Treatment plan includes iron supplements and dietary adjustments to increase iron intake.",
+            "Daily Course Records": "Day 1: Patient tolerating oral iron supplements well. No adverse reactions. Day 2: Mild improvement in symptoms, fatigue slightly reduced. Day 3: Continued stable progress. Appetite improving.",
+            "Senior Physician Rounds Records": "15th February: Confirmed diagnosis and reviewed treatment plan. 17th February: Noted gradual improvement in condition and planned continuation of current treatment strategy.",
+            "Difficult Case Discussion Records": "Not applicable.",
+            "Handover Records": "All relevant information communicated during shift changes.",
+            "Transfer Records": "Not applicable.",
+            "Stage Summary": "Patient improving with current treatment plan of iron supplementation and dietary changes. Hemoglobin levels slowly increasing.",
+            "Emergency Records": "Not applicable.",
+            "Invasive Procedure Records": "None required.",
+            "Consultation Records": "Consultation with hematologist on 16th February confirmed diagnosis and treatment plan.",
+            "Surgery Related": {
+                "Preoperative Summary": "Discussed surgical risks and benefits with patient. Consent obtained.",
+                "Preoperative Discussion Records": "Surgical intervention not planned at this time.",
+                "Anesthesia Preoperative Visit Records": "Not applicable.",
+                "Anesthesia Records": "Not applicable.",
+                "Surgery Records": "Not applicable.",
+                "Surgery Safety Checklist": "Not applicable.",
+                "Surgery Instrument Count Records": "Not applicable.",
+                "Postoperative First Course Record": "Not applicable.",
+                "Anesthesia Postoperative Visit Records": "Not applicable."
+            },
+            "Discharge Records": "Planned discharge on 22nd February if stable improvements continue.",
+            "Critically Ill Patient Care Records": "Not applicable."
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Oral Iron supplements 200 mg twice daily.",
+            "Temporary Orders": "Blood tests every 3 days to monitor hemoglobin and iron levels."
+        },
+        "Auxiliary Examination Reports": "15th February: CBC, Iron studies. 18th February: Follow-up CBC.",
+        "Temperature Chart": "15th February: T 98.6°F, P 80 bpm, R 16, BP 110/70 mmHg. 16th February: T 98.4°F, P 78 bpm, R 16, BP 112/70 mmHg. 17th February: T 98.5°F, P 78 bpm, R 16, BP 110/68 mmHg.",
+        "Blood Transfusion Consent": "Not required at this stage.",
+        "Special Examination Consent": "Not applicable.",
+        "Critical Condition Notice": "Not applicable."
+    },
+    "DiseaseType": {
+        "Diseases of the Blood and Blood-Forming Organs": {
+            "Name": "Iron Deficiency Anemia",
+            "Symptoms": "Pallor (due to a lack of oxygenated hemoglobin in the skin or mucous membranes), fatigue, dizziness, weakness, pica, etc.",
+            "Differential Diagnosis": "Sideroblastic anemia (manifests as microcytic anemia, but with increased serum ferritin levels, increased iron granules in bone marrow sideroblasts, increased sideroblasts, and the appearance of ring sideroblasts.), Thalassemia (with a family history. Hemolytic manifestations. A large number of target cells can be seen in the blood film.), Transferrin deficiency (autosomal recessive inheritance (congenital) or secondary to severe liver disease, tumors (acquired).)"
+        }
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Summerville, Windsor, Court, what is the gender of the defendants T. Collins and F. James?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "Gender: Female"
+                    ]
+                },
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "- **Defendant:** F. James (Female, born on 27th April 1960, residing at 39 Knoxville Street, Windsor; Retail Store Manager, Caucasian)"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashland, Charleston, Court, the defendant T. Collins is female; according to the judgment of Summerville, Windsor, Court, the defendant F. James is female."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Summerville, Windsor, Court, what are the occupations of the defendants T. Collins and F. James?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "Occupation: Registered Nurse"
+                    ]
+                },
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "- **Defendant:** F. James (Female, born on 27th April 1960, residing at 39 Knoxville Street, Windsor; Retail Store Manager, Caucasian)"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashland, Charleston, Court, the defendant T. Collins is a Registered Nurse; according to the judgment of Summerville, Windsor, Court, the defendant F. James is a Retail Store Manager."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Summerville, Windsor, Court, what is the ethnicity of the defendants T. Collins and F. James?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "Ethnicity: Caucasian"
+                    ]
+                },
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "- **Defendant:** F. James (Female, born on 27th April 1960, residing at 39 Knoxville Street, Windsor; Retail Store Manager, Caucasian)"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashland, Charleston, Court, the defendant T. Collins is Caucasian; according to the judgment of Summerville, Windsor, Court, the defendant F. James is Caucasian."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Summerville, Windsor, Court, what are the judgment dates for the cases involving T. Collins and F. James?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "15th October 2024"
+                    ]
+                },
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "So ordered, this 1st day of May, 2023."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashland, Charleston, Court, the judgment date for the case involving T. Collins is 15th October, 2024; according to the judgment of Summerville, Windsor, Court, the judgment date for the case involving F. James is 1st May, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Summerville, Windsor, Court, what sentences were given to the defendants T. Collins and F. James?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "T. Collins is hereby sentenced to serve a fixed-term imprisonment of 3 years."
+                    ]
+                },
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "The defendant is hereby sentenced to three years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashland, Charleston, Court, the defendant T. Collins was sentenced to 3 years fixed-term imprisonment; according to the judgment of Summerville, Windsor, Court, the defendant F. James was sentenced to three years of fixed-term imprisonment."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Summerville, Windsor, Court, whose sentencing time is longer, T. Collins or F. James?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "T. Collins is hereby sentenced to serve a fixed-term imprisonment of 3 years."
+                    ]
+                },
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "The defendant is hereby sentenced to three years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "Both T. Collins and F. James were sentenced to three years of fixed-term imprisonment. Therefore, their sentencing times are the same."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Summerville, Windsor, Court, whose judgment time is earlier, T. Collins or F. James?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "15th October 2024"
+                    ]
+                },
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "So ordered, this 1st day of May, 2023."
+                    ]
+                }
+            ],
+            "answer": "F. James's judgment time is earlier, as the judgment date was 1st May, 2023, while T. Collins's judgment date was 15th October, 2024."
+        }
+    ]
+}

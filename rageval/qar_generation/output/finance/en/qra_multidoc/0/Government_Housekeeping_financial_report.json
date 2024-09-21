@@ -1,0 +1,242 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "When were Acme Government Solutions and CleanCo Housekeeping Services established?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions is a government industry company established on June 1, 2001 in Washington, D.C., specializing in providing comprehensive government services and solutions.In January 2021, Acme Government Solutions made a significant decision to distribute $5 million of dividends to its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "CleanCo Housekeeping Services is a housekeeping company established on April 1, 2013, in New York, United States, and specializes in providing professional cleaning services to residential and commercial clients.In 2018, CleanCo Housekeeping Services experienced several significant events that had a profound impact on its financial performance and market position."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions was established on June 1, 2001, and CleanCo Housekeeping Services was established on April 1, 2013."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the main businesses of Acme Government Solutions and CleanCo Housekeeping Services?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions is a government industry company established on June 1, 2001 in Washington, D.C., specializing in providing comprehensive government services and solutions.In January 2021, Acme Government Solutions made a significant decision to distribute $5 million of dividends to its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "CleanCo Housekeeping Services is a housekeeping company established on April 1, 2013, in New York, United States, and specializes in providing professional cleaning services to residential and commercial clients.In 2018, CleanCo Housekeeping Services experienced several significant events that had a profound impact on its financial performance and market position."
+                    ]
+                }
+            ],
+            "answer": "The main business of Acme Government Solutions is providing comprehensive government services and solutions, while CleanCo Housekeeping Services focuses on providing professional housekeeping and cleaning services to residential and commercial clients."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the debt restructuring activities conducted by Acme Government Solutions and CleanCo Housekeeping Services?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "To optimize its capital structure, Acme Government Solutions underwent debt restructuring in August 2021, reducing its liabilities by $15 million.",
+                        "This move improved the company's financial condition and reduced its financial costs."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "In February, CleanCo underwent debt restructuring, reducing its liabilities by $5 million.",
+                        "This debt restructuring optimized the company's capital structure and improved its financial condition by reducing financial costs."
+                    ]
+                }
+            ],
+            "answer": "The debt restructuring by Acme Government Solutions in August 2021 reduced liabilities by $15 million, improving the company's financial condition and reducing financial costs. CleanCo Housekeeping Services' debt restructuring in February 2018 reduced liabilities by $5 million, also improving the company's financial condition and reducing financial costs."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much funding was raised during the large-scale financing activities conducted by Acme Government Solutions and CleanCo Housekeeping Services, and what were the impacts?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "To support its expansion and development, the company conducted a large-scale financing activity in March 2021, raising $50 million of funds.",
+                        "This significant financial boost strengthened Acme Government Solutions' financial strength and provided the necessary resources for its growth plans."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "Firstly, the company conducted a large-scale financing activity in January, raising $10 million in funds.",
+                        "This financing activity strengthened CleanCo's financial strength and provided support for its expansion and development."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions raised $50 million in March 2021, which strengthened the company's financial strength and supported expansion and development. CleanCo Housekeeping Services raised $10 million in January 2018, which also strengthened the company's financial strength and supported expansion and development."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of Acme Government Solutions in 2021 and CleanCo Housekeeping Services in 2018. Which company had higher operating income?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "The company's operating income reached $100 million, driven by increased market demand and changes in product prices."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "The company reported an operating income of $25 million in 2018, influenced by market demand and changes in product prices."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions had higher operating income in 2021 with $100 million compared to CleanCo Housekeeping Services' $25 million in 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of Acme Government Solutions in 2021 and CleanCo Housekeeping Services in 2018. Which company had higher net profit?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "This strong operating income contributed to a net profit of $20 million, reflecting effective cost control measures and non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "The net profit for the year was $3.5 million, influenced by the operating income, cost control, and non-recurring gains and losses."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions had higher net profit in 2021 with $20 million compared to CleanCo Housekeeping Services' $3.5 million in 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of Acme Government Solutions in 2021 and CleanCo Housekeeping Services in 2018. Which company had more total assets?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions' total assets stood at $500 million, primarily influenced by asset acquisitions, disposals, and revaluations."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "CleanCo's total assets reached $40 million, influenced by asset acquisition, disposal, and revaluation."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions had more total assets in 2021 with $500 million compared to CleanCo Housekeeping Services' $40 million in 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total liabilities of Acme Government Solutions in 2021 and CleanCo Housekeeping Services in 2018. Which company had higher total liabilities?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "The company's total liabilities amounted to $200 million, influenced by new debt issuances, debt repayments, and debt restructuring activities."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "The company's total liabilities amounted to $15 million, influenced by new debt issuance, debt repayment, and debt restructuring."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions had higher total liabilities in 2021 with $200 million compared to CleanCo Housekeeping Services' $15 million in 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the debt restructuring activities of Acme Government Solutions in 2021 and CleanCo Housekeeping Services in 2018. Which company reduced more liabilities through debt restructuring?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "To optimize its capital structure, Acme Government Solutions underwent debt restructuring in August 2021, reducing its liabilities by $15 million.",
+                        "This move improved the company's financial condition and reduced its financial costs."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "In February, CleanCo underwent debt restructuring, reducing its liabilities by $5 million.",
+                        "This debt restructuring optimized the company's capital structure and improved its financial condition by reducing financial costs."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions reduced more liabilities through debt restructuring in 2021 by $15 million compared to CleanCo Housekeeping Services' $5 million in 2018."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the large-scale financing activities of Acme Government Solutions in 2021 and CleanCo Housekeeping Services in 2018. Which company conducted large-scale financing earlier?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "To support its expansion and development, the company conducted a large-scale financing activity in March 2021, raising $50 million of funds."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "Firstly, the company conducted a large-scale financing activity in January, raising $10 million in funds."
+                    ]
+                }
+            ],
+            "answer": "CleanCo Housekeeping Services conducted large-scale financing earlier in January 2018 compared to Acme Government Solutions in March 2021."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distribution of Acme Government Solutions in 2021 and CleanCo Housekeeping Services in 2018. Which company distributed more dividends?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions is a government industry company established on June 1, 2001 in Washington, D.C., specializing in providing comprehensive government services and solutions.In January 2021, Acme Government Solutions made a significant decision to distribute $5 million of dividends to its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "Finally, in December, CleanCo decided to distribute $2 million of dividends to its shareholders, enhancing shareholder returns."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions distributed more dividends in 2021 with $5 million compared to CleanCo Housekeeping Services' $2 million in 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the major asset acquisitions of Acme Government Solutions in 2021 and CleanCo Housekeeping Services in 2018. Which company had a larger asset acquisition value?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "In February 2021, Acme Government Solutions completed the asset acquisition of Nationwide Security Services, with a total value of $20 million.",
+                        "This acquisition expanded the company's business scope and enhanced its market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "Additionally, in March, CleanCo completed the asset acquisition of Sparkle Cleaners, a leading provider of commercial cleaning services, with a total value of $8 million.",
+                        "This acquisition expanded CleanCo's business scope and enhanced its market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions had a larger asset acquisition value in 2021 with $20 million compared to CleanCo Housekeeping Services' $8 million in 2018."
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital and Windsor General Hospital, what are the ages of patients T. Jackson and K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Age: 95"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Age: 82"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Greenfield General Hospital, patient T. Jackson is 95 years old; according to the hospitalization records of Windsor General Hospital, patient K. Ramos is 82 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital and Windsor General Hospital, what are the diagnosis results of T. Jackson and K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Major Depressive Disorder."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Acute Osteomyelitis"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Greenfield General Hospital, T. Jackson was diagnosed with Major Depressive Disorder; according to the hospitalization records of Windsor General Hospital, K. Ramos was diagnosed with Acute Osteomyelitis."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital and Windsor General Hospital, what are the marital statuses of patients T. Jackson and K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Greenfield General Hospital, patient T. Jackson is widowed; according to the hospitalization records of Windsor General Hospital, patient K. Ramos is also widowed."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital and Windsor General Hospital, who was admitted earlier, T. Jackson or K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Admission Time: 11th, July"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Admission Time: 26th October"
+                    ]
+                }
+            ],
+            "answer": "T. Jackson was admitted on July 11, and K. Ramos was admitted on October 26. T. Jackson was admitted earlier."
+        }
+    ]
+}

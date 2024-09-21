@@ -1,0 +1,75 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Oakwood, Arlington, Court",
+        "procuratorate": "Oakwood, Arlington, Procuratorate"
+    },
+    "chiefJudge": "I. Torres",
+    "judge": "H. Hill",
+    "clerk": "J. Bennett",
+    "defendant": {
+        "name": "Z. Ruiz",
+        "gender": "male",
+        "birthdate": "26th, June, 1990",
+        "residence": "65, Summerville street, Arlington",
+        "ethnicity": "Hispanic",
+        "occupation": "Business Owner"
+    },
+    "defenseLawyer": {
+        "name": "R. Perez",
+        "lawFirm": "Perez & Sanchez Attorneys"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "5th, January, 2022",
+            "description": "The case was filed by the Oakwood, Arlington, Procuratorate based on evidence of tax evasion discovered during a standard audit of Z. Ruiz's business finances."
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "18th, January, 2022",
+            "description": "Oakwood, Arlington, Procuratorate applied for detention measures against Z. Ruiz, citing potential risk of evidence tampering."
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "20th, January, 2022",
+            "description": "Oakwood police detained Z. Ruiz under suspicion of evading tax arrears recovery."
+        },
+        {
+            "event": "Arrest",
+            "date": "1st, February, 2022",
+            "description": "Official arrest of Z. Ruiz was confirmed based on gathered evidence and witness testimonies."
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Evading Tax Arrears Recovery",
+            "details": [
+                {
+                    "timePeriod": "March, 2021 - July, 2021",
+                    "behavior": "Z. Ruiz transferred $50,000 to an offshore account in the Cayman Islands to prevent recovery of owed taxes.",
+                    "evidence": "Bank statements showing the transfer on 15th, March, 2021, and an email exchange discussing concealment strategy dated 10th, March, 2021."
+                },
+                {
+                    "timePeriod": "August, 2021 - October, 2021",
+                    "behavior": "Hid valuable business equipment worth $30,000 in a storage unit registered under a third-party name.",
+                    "evidence": "Photographs of the equipment in the storage unit taken by a private investigator on 20th, September, 2021; rental agreement signed by the third party."
+                },
+                {
+                    "timePeriod": "November, 2021 - December, 2021",
+                    "behavior": "Created fake invoices totaling $20,000 to show payments for non-existent services in an attempt to decrease taxable income.",
+                    "evidence": "Copies of fake invoices dated between 10th, November, 2021, and 30th, November, 2021; testimony from the supposed service provider confirming no services were rendered."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "15th, August, 2022",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Evading Tax Arrears Recovery",
+                "sentence": "5 years of fixed-term imprisonment, fined $100,000 which is four times the evaded tax amount.",
+                "sentencingConsiderations": "Due to the significant amount of tax evasion over a protracted period involving considerable planning and deceit."
+            }
+        ]
+    }
+}

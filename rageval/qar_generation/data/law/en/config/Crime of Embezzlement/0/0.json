@@ -1,0 +1,80 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Brighton, Sterling, Court",
+        "procuratorate": "Brighton, Sterling, Procuratorate"
+    },
+    "chiefJudge": "I. Ward",
+    "judge": "M. Adams",
+    "clerk": "Y. Scott",
+    "defendant": {
+        "name": "N. Adams",
+        "gender": "male",
+        "birthdate": "16th, November, 1964",
+        "residence": "10, Huntington Street, Sterling",
+        "ethnicity": "Caucasian",
+        "occupation": "Accountant at Sterling Public Works Department"
+    },
+    "defenseLawyer": {
+        "name": "N. Kelly",
+        "lawFirm": "Sterling Legal Associates"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "10th, January, 2023",
+            "description": "The Brighton, Sterling Procuratorate received a report regarding suspicious financial activities within the Sterling Public Works Department. An official investigation was initiated."
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "15th, February, 2023",
+            "description": "Initial evidence was collected and reviewed. The procuratorate decided to detain Mr. Adams to prevent any tampering with records."
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "20th, February, 2023",
+            "description": "Mr. Adams was placed under formal criminal detention following confirmation of substantial evidence against him."
+        },
+        {
+            "event": "Arrest",
+            "date": "25th, February, 2023",
+            "description": "An arrest order was issued and Mr. Adams was officially arrested under the charge of embezzlement."
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Embezzlement",
+            "details": [
+                {
+                    "timePeriod": "March 2022 - December 2022",
+                    "behavior": "Mr. Adams used his position as an accountant to transfer public funds into a private account opened under a false name.",
+                    "evidence": "Bank statements showing multiple transfers from the Sterling Public Works Department's account to a private account; audit records indicating discrepancies between reported and actual fund disbursals."
+                },
+                {
+                    "timePeriod": "April 2022",
+                    "behavior": "Solicited fictitious invoices from non-existent suppliers to channel funds for personal use.",
+                    "evidence": "Copies of fraudulent invoices obtained from Mr. Adams' office; testimonial evidence from colleagues who noted irregular supplier activity."
+                },
+                {
+                    "timePeriod": "July 2022",
+                    "behavior": "Embezzled a lump sum of $30,000 from the disaster relief budget to fund a private real estate purchase.",
+                    "evidence": "Transaction record showing the transfer from the disaster relief budget; title deed of the property purchased under Mr. Adams' name."
+                },
+                {
+                    "timePeriod": "November 2022",
+                    "behavior": "Transferred $15,000 from an emergency rescue fund to settle personal credit card debts.",
+                    "evidence": "Credit card statements matching the exact amount transferred; internal transfer authorization signed by Mr. Adams."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "3rd, March, 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Embezzlement",
+                "sentence": "12 years of fixed-term imprisonment and a fine of $100,000",
+                "sentencingConsiderations": "The offender embezzled a large amount of public funds, explicitly from disaster relief and emergency rescue budgets, constituting severe circumstances under Article 384 of the Penal Code. No probation is applicable due to the gravity of the offense."
+            }
+        ]
+    }
+}

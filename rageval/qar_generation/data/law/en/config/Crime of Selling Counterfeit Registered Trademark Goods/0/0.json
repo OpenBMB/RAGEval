@@ -1,0 +1,79 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Sterling, Quarryville, Court",
+        "procuratorate": "Sterling, Quarryville, Procuratorate"
+    },
+    "chiefJudge": "H. Nguyen",
+    "judge": "U. Sanders",
+    "clerk": "Z. Taylor",
+    "defendant": {
+        "name": "Z. Torres",
+        "gender": "male",
+        "birthdate": "8th, March, 1983",
+        "residence": "18, Elmwood street, Quarryville",
+        "ethnicity": "Hispanic",
+        "occupation": "Owner of retail electronics store"
+    },
+    "defenseLawyer": {
+        "name": "N. Harris",
+        "lawFirm": "Quarryville Law Associates"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "1st, January, 2023",
+            "description": "The Sterling Quarryville Procuratorate received an anonymous tip regarding the sale of counterfeit branded electronics goods at the store owned by Z. Torres. An investigation was officially launched."
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "15th, January, 2023",
+            "description": "An initial site inspection conducted by authorities confirmed the presence of suspected counterfeit goods, and detention measures were taken against Z. Torres."
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "17th, January, 2023",
+            "description": "Z. Torres was formally placed under criminal detention by the Sterling Quarryville authorities based on preliminary evidence indicating his involvement in selling counterfeit goods."
+        },
+        {
+            "event": "Arrest",
+            "date": "25th, January, 2023",
+            "description": "Following the gathering of substantial evidence, a formal arrest was made, and Z. Torres was charged with the crime of selling counterfeit registered trademark goods."
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Selling Counterfeit Registered Trademark Goods",
+            "details": [
+                {
+                    "timePeriod": "August 2022 - December 2022",
+                    "behavior": "Z. Torres purchased counterfeit branded electronics, including smartphones and accessories, from an unverified supplier. He then sold these counterfeit items at his store, displaying them as genuine products.",
+                    "evidence": "Confiscated counterfeit items branded as 'Apple' and 'Samsung,' sales invoices, surveillance footage showing transactions, and statements from five customers who purchased the counterfeit goods."
+                },
+                {
+                    "timePeriod": "November 2022",
+                    "behavior": "A large consignment of counterfeit 'Apple' products was received and put on sale at marked-up prices comparable to genuine products. These included iPhones, AirPods, and chargers.",
+                    "evidence": "Delivery receipts, warehouse inventory logs, payment transactions, and customer complaints about product authenticity."
+                },
+                {
+                    "timePeriod": "October 2022",
+                    "behavior": "An online advertisement campaign was launched by Z. Torres falsely advertising the sale of high-quality branded electronics with significant discounts. The campaign led to an increase in sales of the counterfeit items.",
+                    "evidence": "Digital copies of online advertisements, financial records of online sales, and email exchanges with buyers regarding product issues."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "15th, March, 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Selling Counterfeit Registered Trademark Goods",
+                "sentence": "Five years of fixed-term imprisonment with a fine of $100,000",
+                "sentencingConsiderations": "The sentencing took into account the substantial amount of illegal gains, the extensive distribution of counterfeit goods, and the deceptive practices employed to defraud consumers."
+            }
+        ],
+        "probation": {
+            "applicable": true,
+            "period": "Five years"
+        }
+    }
+}

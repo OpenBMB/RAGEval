@@ -1,0 +1,106 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Princeton General Hospital and Kingsport General Hospital, what are the chief complaints of patients A. Diaz and A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Princeton General Hospital_A. Diaz",
+                    "content": [
+                        "Chief Complaint:",
+                        "Uterine bleeding and abdominal mass for 2 months"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Chief Complaint:",
+                        "Sour, heavy, swollen, and painful right lower limb for 6 months; worsening over the last week."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Princeton General Hospital, patient A. Diaz's chief complaint is uterine bleeding and abdominal mass for 2 months. According to the hospitalization records of Kingsport General Hospital, patient A. Davis's chief complaint is sour, heavy, swollen, and painful right lower limb for 6 months; worsening over the last week."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Princeton General Hospital and Kingsport General Hospital, what are the preliminary diagnoses for patients A. Diaz and A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Princeton General Hospital_A. Diaz",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "1. Uterine Fibroids",
+                        "2. Rule out Adenomyosis"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Varicose Veins of the Lower Leg (Right)."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Princeton General Hospital, patient A. Diaz's preliminary diagnosis is uterine fibroids, with a differential diagnosis including adenomyosis. According to the hospitalization records of Kingsport General Hospital, patient A. Davis's preliminary diagnosis is varicose veins of the right lower leg."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Princeton General Hospital and Kingsport General Hospital, who was admitted earlier, A. Diaz or A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Princeton General Hospital_A. Diaz",
+                    "content": [
+                        "Admission Time: 11th, April"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Admission Time: 1st, March"
+                    ]
+                }
+            ],
+            "answer": "A. Davis was admitted on March 1, and A. Diaz was admitted on April 11. A. Davis was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Princeton General Hospital and Kingsport General Hospital, whose pulse rate is higher, A. Diaz or A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Princeton General Hospital_A. Diaz",
+                    "content": [
+                        "Pulse: 76 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Pulse: 78 bpm."
+                    ]
+                }
+            ],
+            "answer": "A. Diaz's pulse rate is 76 beats per minute, and A. Davis's pulse rate is 78 beats per minute. A. Davis's pulse rate is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Princeton General Hospital and Kingsport General Hospital, who is older, A. Diaz or A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Princeton General Hospital_A. Diaz",
+                    "content": [
+                        "Age: 36"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Age: 85"
+                    ]
+                }
+            ],
+            "answer": "A. Diaz is 36 years old, and A. Davis is 85 years old. A. Davis is older."
+        }
+    ]
+}

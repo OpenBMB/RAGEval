@@ -1,0 +1,122 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Preston, Lancaster, Court, what are the occupations of the defendants Z. Ruiz and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Occupation:** Business Owner"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Occupation:** Accountant"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington, Court, the defendant Z. Ruiz is a Business Owner; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris is an Accountant."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Preston, Lancaster, Court, what crimes did the defendants Z. Ruiz and M. Harris commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "Mr. Z. Ruiz stands charged under Article No. 203 with the Crime of Evading Tax Arrears Recovery."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "M. Harris stands charged under Article 232 for the Crime of Intentional Homicide."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington, Court, the defendant Z. Ruiz committed the crime of Evading Tax Arrears Recovery; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris committed the crime of Intentional Homicide."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Preston, Lancaster, Court, when were the judgments for the cases of defendants Z. Ruiz and M. Harris made respectively?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "This document reflects the proceedings and determinations of this court as of 15th August, 2022, and is issued under the authority vested in this judicature by the laws governing the jurisdiction of Oakwood, Arlington Court."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 25th of June, 2023."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington, Court, the judgment for the case of defendant Z. Ruiz was made on 15th, August, 2022; according to the judgment of Preston, Lancaster, Court, the judgment for the case of defendant M. Harris was made on 25th June 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Preston, Lancaster, Court, what were the sentences for the defendants Z. Ruiz and M. Harris respectively?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- 5 years of fixed-term imprisonment.",
+                        "- A fine of $100,000, reflecting four times the amount of taxes evaded."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Sentence:** Life imprisonment"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington, Court, the defendant Z. Ruiz was sentenced to 5 years of fixed-term imprisonment and fined $100,000; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris was sentenced to life imprisonment."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Preston, Lancaster, Court, whose sentencing time is longer, Z. Ruiz or M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Sentence:**",
+                        "- 5 years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Sentence:** Life imprisonment"
+                    ]
+                }
+            ],
+            "answer": "Z. Ruiz was sentenced to 5 years of fixed-term imprisonment, while M. Harris was sentenced to life imprisonment. M. Harris's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Preston, Lancaster, Court, whose judgment time is earlier, Z. Ruiz or M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "This document reflects the proceedings and determinations of this court as of 15th August, 2022, and is issued under the authority vested in this judicature by the laws governing the jurisdiction of Oakwood, Arlington Court."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 25th of June, 2023."
+                    ]
+                }
+            ],
+            "answer": "Z. Ruiz's judgment time is earlier, as he was judged on 15th August 2022, while M. Harris was judged on 25th June 2023."
+        }
+    ]
+}

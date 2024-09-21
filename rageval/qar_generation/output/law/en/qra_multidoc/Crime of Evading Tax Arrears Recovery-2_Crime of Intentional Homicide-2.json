@@ -1,0 +1,161 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Riverside Glenwood Court and Preston Lancaster Court, what is the gender of the defendants X. Morgan and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Gender**: Female"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Gender:** Female"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Riverside Glenwood Court, the defendant X. Morgan is female; according to the judgment of Preston Lancaster Court, the defendant M. Harris is female."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Riverside Glenwood Court and Preston Lancaster Court, what are the occupations of the defendants X. Morgan and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Occupation**: Owner of Morgan & Co.",
+                        "Consulting"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Occupation:** Accountant"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Riverside Glenwood Court, the defendant X. Morgan is the owner of Morgan & Co. Consulting; according to the judgment of Preston Lancaster Court, the defendant M. Harris is an accountant."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Riverside Glenwood Court and Preston Lancaster Court, what are the birthdates of the defendants X. Morgan and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Birthdate**: March 11, 1968"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Birthdate:** 27th August 1980"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Riverside Glenwood Court, the defendant X. Morgan was born on 11th March 1968; according to the judgment of Preston Lancaster Court, the defendant M. Harris was born on 27th August 1980."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Riverside Glenwood Court and Preston Lancaster Court, what are the residences of the defendants X. Morgan and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Residence**: 85 Yorktown Street, Glenwood"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Residence:** 78, Manchester Street, Lancaster"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Riverside Glenwood Court, the defendant X. Morgan resides at 85, Yorktown Street, Glenwood; according to the judgment of Preston Lancaster Court, the defendant M. Harris resides at 78, Manchester Street, Lancaster."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Riverside Glenwood Court and Preston Lancaster Court, what crimes did the defendants X. Morgan and M. Harris commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "The defendant, X. Morgan, was charged with the crime of evading tax arrears recovery under Article 203.",
+                        "This charge encompasses the intentional transfer and concealment of assets and the fabrication of expenses to reduce taxable income, thus defrauding the state of its due revenues."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Crime Name:** Crime of Intentional Homicide",
+                        "M. Harris stands charged under Article 232 for the Crime of Intentional Homicide."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Riverside Glenwood Court, the defendant X. Morgan committed the crime of evading tax arrears recovery; according to the judgment of Preston Lancaster Court, the defendant M. Harris committed the crime of intentional homicide."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Riverside Glenwood Court and Preston Lancaster Court, what are the judgment dates for the cases of X. Morgan and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "This judgment has been recorded and issued under the authority of Riverside, Glenwood Court on this 10th day of August, 2023."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 25th of June, 2023."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Riverside Glenwood Court, the judgment date for X. Morgan's case is 10th August 2023; according to the judgment of Preston Lancaster Court, the judgment date for M. Harris's case is 25th June 2023."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Riverside Glenwood Court and Preston Lancaster Court, whose sentencing time is longer, X. Morgan or M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Sentence**: The defendant, X. Morgan, is sentenced to 5 years imprisonment, with 3 years probation post-release and a fine of $600,000."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Sentence:** Life imprisonment"
+                    ]
+                }
+            ],
+            "answer": "X. Morgan was sentenced to 5 years imprisonment, while M. Harris was sentenced to life imprisonment. M. Harris's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Riverside Glenwood Court and Preston Lancaster Court, whose judgment date is earlier, X. Morgan or M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "This judgment has been recorded and issued under the authority of Riverside, Glenwood Court on this 10th day of August, 2023."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 25th of June, 2023."
+                    ]
+                }
+            ],
+            "answer": "M. Harris's judgment date is earlier, as it was on 25th June 2023, while X. Morgan's judgment date was on 10th August 2023."
+        }
+    ]
+}

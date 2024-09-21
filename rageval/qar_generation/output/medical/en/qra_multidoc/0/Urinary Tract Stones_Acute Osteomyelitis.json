@@ -1,0 +1,106 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Oxford General Hospital and Windsor General Hospital, what were the chief complaints of patients G. Gonzalez and K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Oxford General Hospital_G. Gonzalez",
+                    "content": [
+                        "Chief Complaint:",
+                        "Severe left-sided back pain and hematuria for 2 days"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Chief Complaint:",
+                        "Severe bone pain and difficulty in walking for 3 days."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Oxford General Hospital, patient G. Gonzalez's chief complaint was severe left-sided back pain and hematuria for 2 days. According to the hospitalization records of Windsor General Hospital, patient K. Ramos's chief complaint was severe bone pain and difficulty in walking for 3 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Oxford General Hospital and Windsor General Hospital, what were the preliminary diagnoses for patients G. Gonzalez and K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Oxford General Hospital_G. Gonzalez",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "1. Urinary Tract Stones (Left Renal Calculi)",
+                        "2. Hematuria"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Acute Osteomyelitis"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Oxford General Hospital, patient G. Gonzalez was preliminarily diagnosed with urinary tract stones (left renal calculi) and hematuria. According to the hospitalization records of Windsor General Hospital, patient K. Ramos was preliminarily diagnosed with acute osteomyelitis."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Oxford General Hospital and Windsor General Hospital, who was admitted earlier, G. Gonzalez or K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Oxford General Hospital_G. Gonzalez",
+                    "content": [
+                        "Admission Time: 24th, July"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Admission Time: 26th October"
+                    ]
+                }
+            ],
+            "answer": "G. Gonzalez was admitted on 24th July, and K. Ramos was admitted on 26th October. G. Gonzalez was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Oxford General Hospital and Windsor General Hospital, whose pulse rate is higher, G. Gonzalez or K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Oxford General Hospital_G. Gonzalez",
+                    "content": [
+                        "Pulse: 90 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Pulse: 88 bpm"
+                    ]
+                }
+            ],
+            "answer": "G. Gonzalez's pulse rate is 90 bpm, and K. Ramos's pulse rate is 88 bpm. G. Gonzalez's pulse rate is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Oxford General Hospital and Windsor General Hospital, who had a higher temperature, G. Gonzalez or K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Oxford General Hospital_G. Gonzalez",
+                    "content": [
+                        "Temperature: 37.6°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Temperature: 38.5°C"
+                    ]
+                }
+            ],
+            "answer": "G. Gonzalez's temperature was 37.6°C, and K. Ramos's temperature was 38.5°C. K. Ramos had a higher temperature."
+        }
+    ]
+}

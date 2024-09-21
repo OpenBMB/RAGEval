@@ -1,0 +1,118 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Riverton, Hamilton, Court, what were the respective crimes committed by the defendants M. Harris and H. Walker?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Crime Name:** Crime of Intentional Homicide",
+                        "M. Harris stands charged under Article 232 for the Crime of Intentional Homicide."
+                    ]
+                },
+                {
+                    "court_name": "Riverton, Hamilton, Court",
+                    "content": [
+                        "Charge:",
+                        "Under Article 170, H. Walker is charged with the Crime of Counterfeiting Currency."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Preston, Lancaster, Court, the defendant M. Harris committed the crime of intentional homicide; according to the judgment of Riverton, Hamilton, Court, the defendant H. Walker committed the crime of counterfeiting currency."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Riverton, Hamilton, Court, what are the genders of the defendants M. Harris and H. Walker?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Gender:** Female"
+                    ]
+                },
+                {
+                    "court_name": "Riverton, Hamilton, Court",
+                    "content": [
+                        "Gender: Male"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Preston, Lancaster, Court, the defendant M. Harris is female; according to the judgment of Riverton, Hamilton, Court, the defendant H. Walker is male."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Riverton, Hamilton, Court, where do the defendants M. Harris and H. Walker reside?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Residence:** 78, Manchester Street, Lancaster"
+                    ]
+                },
+                {
+                    "court_name": "Riverton, Hamilton, Court",
+                    "content": [
+                        "Residence: 74, Milton Street, Hamilton"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Preston, Lancaster, Court, the defendant M. Harris resides at 78, Manchester Street, Lancaster; according to the judgment of Riverton, Hamilton, Court, the defendant H. Walker resides at 74, Milton Street, Hamilton."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Riverton, Hamilton, Court, what are the occupations of the defendants M. Harris and H. Walker?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Occupation:** Accountant"
+                    ]
+                },
+                {
+                    "court_name": "Riverton, Hamilton, Court",
+                    "content": [
+                        "Occupation: Unemployed"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Preston, Lancaster, Court, the defendant M. Harris is an accountant; according to the judgment of Riverton, Hamilton, Court, the defendant H. Walker is unemployed."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Riverton, Hamilton, Court, whose sentencing time is longer, M. Harris or H. Walker?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Sentence:** Life imprisonment"
+                    ]
+                },
+                {
+                    "court_name": "Riverton, Hamilton, Court",
+                    "content": [
+                        "Walker is sentenced to eight years of imprisonment, coupled with a monetary fine of $20,000."
+                    ]
+                }
+            ],
+            "answer": "M. Harris was sentenced to life imprisonment, while H. Walker was sentenced to 8 years imprisonment. M. Harris's sentencing time is longer."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Riverton, Hamilton, Court, whose judgment date is earlier, M. Harris or H. Walker?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": []
+                },
+                {
+                    "court_name": "Riverton, Hamilton, Court",
+                    "content": []
+                }
+            ],
+            "answer": "Unable to answer."
+        }
+    ]
+}

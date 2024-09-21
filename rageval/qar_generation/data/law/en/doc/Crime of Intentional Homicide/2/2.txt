@@ -1,0 +1,104 @@
+**Preston, Lancaster, Court**  
+**Criminal Judgment**
+
+**Court and Prosecutor Information**  
+**Court:** Preston, Lancaster, Court  
+**Procuratorate:** Preston, Lancaster, Procuratorate 
+
+**Chief Judge:** Q. Gray  
+**Judge:** W. Smith  
+**Clerk:** K. Sanchez  
+
+**Defendant Information**  
+**Name:** M. Harris  
+**Gender:** Female  
+**Birthdate:** 27th August 1980  
+**Residence:** 78, Manchester Street, Lancaster  
+**Ethnicity:** Caucasian  
+**Occupation:** Accountant  
+
+**Defense Lawyer Information**  
+**Name:** V. Smith  
+**Law Firm:** Smith & Associates Law Firm  
+
+**Case Procedures**  
+**Event: Case Filing and Investigation**  
+**Date:** 3rd January 2023  
+**Description:** The case of intentional homicide by M. Harris was officially filed, and an investigation was launched by the Preston, Lancaster, Procuratorate. The investigating officers gathered preliminary evidence, initiating a meticulous inquiry into the circumstances surrounding the untimely death of J. Thompson.
+
+**Event: Detention Measures Taken**  
+**Date:** 5th January 2023  
+**Description:** Initial detention measures were taken, and M. Harris was placed in custody for the purpose of further investigation and questioning. During this period, the authorities conducted multiple interrogations and pursued leads to build a comprehensive understanding of M. Harris's involvement in the crime.
+
+**Event: Criminal Detention**  
+**Date:** 10th January 2023  
+**Description:** Formal criminal detention of M. Harris was authorized as sufficient evidence was gathered to warrant continued custody. This decision was based on the strength of the preliminary findings and the potential risk of evidence tampering or witness intimidation.
+
+**Event: Arrest**  
+**Date:** 12th January 2023  
+**Description:** An arrest warrant was issued, and M. Harris was formally arrested on charges of intentional homicide. She was read her rights, and the charges were outlined in detail, referencing the specific acts and the evidence supporting the allegations.
+
+**Case Statement**  
+The present case arises from the intentional act of homicide perpetrated by M. Harris, a female accountant residing at 78, Manchester Street, Lancaster. The victim, J. Thompson, was her business partner. The relationship between the defendant and the victim had grown strained over several months due to financial disagreements and reported interpersonal conflicts.
+
+On the evening of 15th December 2022, M. Harris was captured on security camera footage accessing the garage where J. Thompson's car was stored. It was later revealed that she tampered with the brakes of the vehicle, creating a fatal hazard. On 17th December 2022, J. Thompson's car was involved in a catastrophic accident. J. Thompson succumbed to the injuries sustained in the crash.
+
+M. Harris, on multiple occasions, provided false information to the investigating authorities regarding her whereabouts on the nights in question. Her statements were contradicted by phone GPS data and witness testimony from neighbors who saw her near the scene during the critical period. Evidence also indicates that between 18th and 19th December 2022, M. Harris attempted to destroy potential evidence by deleting incriminating text messages and emails from her devices. Forensic analysts were able to recover these messages, which revealed her premeditated intent to harm J. Thompson.
+
+**Charge**  
+**Crime Name:** Crime of Intentional Homicide  
+
+M. Harris stands charged under Article 232 for the Crime of Intentional Homicide.
+
+**Evidence Description**  
+1. **Security Camera Footage:** The captured video from 15th December 2022 shows M. Harris accessing the garage where J. Thompson's car was stored. The footage clearly depicts M. Harris approaching the vehicle and engaging in activities consistent with tampering.
+
+2. **Expert Testimony:** Mechanical experts testified that the tampering with the car's brakes was directly linked to the cause of the accident. Their detailed analysis revealed intentional manipulation that incapacitated the braking system, leading to the failure experienced by J. Thompson's car.
+
+3. **Text Messages:** The recovery of deleted text messages indicated M. Harris's premeditated intent. In her communication with an undisclosed party, she explicitly mentioned causing harm to J. Thompson to resolve their disputes permanently.
+
+4. **Phone GPS Data:** Contradicting M. Harris's alibi, the phone GPS data provided a timeline of her movements that placed her near the scene of the incident on the night of 17th December 2022.
+
+5. **Witness Testimony:** Neighbors provided statements placing the defendant near J. Thompson's residence during the critical time of the car tampering and the subsequent accident.
+
+6. **Forensic Computer Analysis:** Digital forensics revealed attempts by M. Harris to delete incriminating text messages and emails, indicating a post-crime effort to conceal evidence.
+
+**Sentencing Considerations**  
+In determining the appropriate sentence for the Crime of Intentional Homicide, the court considered several factors:
+
+1. **Premeditation:** The deliberate and pre-planned nature of the crime. The tampering with the vehicle's brakes clearly demonstrated malice aforethought and a calculated effort to kill J. Thompson.
+
+2. **Malice Aforethought:** The unmistakable intent to cause death, as evidenced by the incriminating text messages and the nature of the sabotage.
+
+3. **Destruction of Evidence:** The defendant's attempts to delete messages and emails post-crime was viewed as an obstruction of justice, indicating a conscious acknowledgment of guilt and an effort to evade punishment.
+
+4. **Lack of Remorse:** Throughout the trial, M. Harris did not exhibit genuine remorse for her actions. Instead, she continued to provide false information and showed no regard for the victim's family and the loss they endured.
+
+**Judgment Result**  
+Having considered all evidence, testimonies, and the circumstances surrounding the crime, this court finds M. Harris guilty of the Crime of Intentional Homicide as charged under Article 232.
+
+**Sentence:** Life imprisonment  
+
+The severity of premeditated intent, the clear malice aforethought, and the attempted destruction of evidence necessitate this sentence. The court believes that imposing a life sentence is both just and necessary to serve as a deterrent to others.
+
+**Appeal Rights Explanation**  
+This court advises M. Harris of her right to appeal. Under the provisions of Article 232 and related judiciary guidelines, the defendant has the right to file an appeal against this judgment within 60 days of the judgment date, 25th June 2023. The appeal must be submitted in writing and filed with the appropriate appellate court.
+
+**Conclusion**  
+This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 25th of June, 2023. The court stands adjourned.
+
+_________________________________  
+**Q. Gray**  
+Chief Judge
+
+_________________________________  
+**W. Smith**  
+Judge
+
+_________________________________  
+**K. Sanchez**  
+Court Clerk
+
+Reference Article is below：
+Article 232
+Those who commit intentional homicide shall be sentenced to death, life imprisonment, or fixed-term imprisonment of more than ten years; if the circumstances are relatively minor, they shall be sentenced to fixed-term imprisonment of more than three years but not more than ten years.

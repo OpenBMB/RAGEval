@@ -1,0 +1,103 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Tremont General Hospital and Clarksville General Hospital, who are the patients and what are their ages?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Tremont General Hospital_L. Bailey",
+                    "content": [
+                        "Age: 27"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Clarksville General Hospital_O. Myers",
+                    "content": [
+                        "Age: 13"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Tremont General Hospital, the patient is L. Bailey, aged 27. According to the hospitalization records of Clarksville General Hospital, the patient is O. Myers, aged 13."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Tremont General Hospital and Clarksville General Hospital, what were the chief complaints of patients L. Bailey and O. Myers?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Tremont General Hospital_L. Bailey",
+                    "content": [
+                        "Chief Complaint:",
+                        "Experiencing auditory hallucinations and delusional thoughts for the past 1 month."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Clarksville General Hospital_O. Myers",
+                    "content": [
+                        "Chief Complaint",
+                        "Palpitations and excessive sweating for 2 weeks"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Tremont General Hospital, L. Bailey's chief complaint was experiencing auditory hallucinations and delusional thoughts for the past 1 month. According to the hospitalization records of Clarksville General Hospital, O. Myers' chief complaint was palpitations and excessive sweating for 2 weeks."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Tremont General Hospital and Clarksville General Hospital, what are the addresses of patients L. Bailey and O. Myers?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Tremont General Hospital_L. Bailey",
+                    "content": [
+                        "Address: 86, Northwood Street, Tremont"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Clarksville General Hospital_O. Myers",
+                    "content": [
+                        "Address: 39 Woodland Street, Clarksville"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Tremont General Hospital, L. Bailey's address is 86, Northwood Street, Tremont. According to the hospitalization records of Clarksville General Hospital, O. Myers' address is 39 Woodland Street, Clarksville."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Tremont General Hospital and Clarksville General Hospital, what are the occupations of patients L. Bailey and O. Myers?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Tremont General Hospital_L. Bailey",
+                    "content": [
+                        "Occupation: Software Developer"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Clarksville General Hospital_O. Myers",
+                    "content": [
+                        "Occupation: Student"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Tremont General Hospital, L. Bailey is a Software Developer. According to the hospitalization records of Clarksville General Hospital, O. Myers is a Student."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Tremont General Hospital and Clarksville General Hospital, who was admitted earlier, L. Bailey or O. Myers?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Tremont General Hospital_L. Bailey",
+                    "content": [
+                        "Admission Time: 24th, September"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Clarksville General Hospital_O. Myers",
+                    "content": [
+                        "Admission Time: 20th April"
+                    ]
+                }
+            ],
+            "answer": "L. Bailey was admitted on September 24th, and O. Myers was admitted on April 20th. O. Myers was admitted earlier."
+        }
+    ]
+}

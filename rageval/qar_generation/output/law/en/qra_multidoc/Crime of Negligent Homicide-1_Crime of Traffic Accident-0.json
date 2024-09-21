@@ -1,0 +1,158 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Vandalia, Bayside, Court, what are the occupations of the defendants M. Ward and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "Occupation: Nurse"
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "- **Occupation:** Elementary School Teacher"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, the defendant M. Ward is a nurse. According to the judgment of Vandalia, Bayside, Court, the defendant G. Torres is an elementary school teacher."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Vandalia, Bayside, Court, what sentences were handed down to the defendants M. Ward and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "- M. Ward is sentenced to four (4) years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "Consequently, this court sentences G. Torres to four years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, the defendant M. Ward was sentenced to four years of fixed-term imprisonment. According to the judgment of Vandalia, Bayside, Court, the defendant G. Torres was also sentenced to four years of fixed-term imprisonment."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Vandalia, Bayside, Court, what are the genders of the defendants M. Ward and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "Gender: Female"
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "- **Gender:** Female"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, the defendant M. Ward is female. According to the judgment of Vandalia, Bayside, Court, the defendant G. Torres is also female."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Vandalia, Bayside, Court, which law firms represented the defendants M. Ward and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "Law Firm: Richardson & Partners Law Firm"
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "- **Law Firm:** Cox & Hamilton Law Offices"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, the defendant M. Ward was represented by Richardson & Partners Law Firm. According to the judgment of Vandalia, Bayside, Court, the defendant G. Torres was represented by Cox & Hamilton Law Offices."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Vandalia, Bayside, Court, what were the dates when detention measures were taken for the defendants M. Ward and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "On the 5th of March, 2023, appropriate measures of detection were put in place concerning the accused individual."
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "Subsequently, on the 20th of March, 2023, detention measures were enforced to ensure the presence of the defendant during the investigative process."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, detention measures were taken for M. Ward on 5th March, 2023. According to the judgment of Vandalia, Bayside, Court, detention measures were taken for G. Torres on 20th March, 2023."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Vandalia, Bayside, Court, whose sentencing time is longer, M. Ward or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "- M. Ward is sentenced to four (4) years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "Consequently, this court sentences G. Torres to four years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "Both M. Ward and G. Torres were sentenced to four years of fixed-term imprisonment. Therefore, their sentencing times are the same."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Vandalia, Bayside, Court, whose judgment time is earlier, M. Ward or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "**Dated this 30th day of April, 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "**Dated:** 20th, April, 2023"
+                    ]
+                }
+            ],
+            "answer": "G. Torres's judgment time is earlier, as the judgment date was 20th April, 2023, while M. Ward's judgment date was 30th April, 2023."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Vandalia, Bayside, Court, whose case was filed earlier, M. Ward or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "The case was officially filed and investigation commenced on the 1st of March, 2023."
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "The proceedings of this case began on the 15th of March, 2023, when the case was filed and an investigation was initiated."
+                    ]
+                }
+            ],
+            "answer": "M. Ward's case was filed earlier on 1st March, 2023, while G. Torres's case was filed on 15th March, 2023."
+        }
+    ]
+}

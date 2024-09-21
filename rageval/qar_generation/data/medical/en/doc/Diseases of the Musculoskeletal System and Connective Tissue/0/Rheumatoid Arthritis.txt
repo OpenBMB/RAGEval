@@ -1,0 +1,126 @@
+**Hospitalization Record**
+
+**Basic Information:**
+Name: J. Reyes
+Gender: Male
+Age: 52
+Ethnicity: Hispanic
+Marital Status: Married
+Occupation: Construction Worker
+Address: 22, Sunnyvale street, Bridgewater
+Admission Time: 7th, September
+Record Time: 8th, September
+Historian: Self
+Hospital Name: Bridgewater General Hospital
+
+**Chief Complaint:**
+Persistent joint pain and morning stiffness for 6 months
+
+**Present Illness:**
+Onset: The symptoms began insidiously 6 months ago, initially noticed while working at a construction site. Gradual onset with morning stiffness in the fingers and wrists.
+Main Symptoms: Morning stiffness, arthritis affecting hands, feet, wrists, ankles, and temporomandibular joints. Pain characterized as dull and persistent, worsens with activity and improves with rest.
+Accompanying Symptoms: Joint deformities in the hands, fatigue, intermittent fever, and weight loss of approximately 5 kg over the past few months.
+Diagnosis and Treatment History: Previously consulted a primary care physician and was prescribed NSAIDs which provided partial relief. No hospital admissions or invasive procedures performed prior to this episode.
+General Condition Changes: Reports feeling fatigued, difficulty sleeping due to pain, decreased appetite, and frequent urination. No significant changes in bowel habits.
+
+**Past History:**
+General Health Condition: Generally healthy with no chronic conditions.
+Disease History: No previous history of rheumatic diseases or chronic illnesses.
+Infectious Disease History: No significant infectious diseases.
+Immunization History: Up-to-date with routine immunizations.
+Surgery and Trauma History: Appendectomy at age 30, no significant traumas reported.
+Blood Transfusion History: No history of blood transfusions.
+Allergy History: Allergic to penicillin.
+
+**Personal History:**
+Birthplace: Bridgewater
+Residence: 22, Sunnyvale street, Bridgewater
+Living Habits: Non-smoker, occasional alcohol consumption, balanced diet.
+Occupation and Working Conditions: Construction worker, physically demanding job, exposed to heavy lifting and repetitive movements.
+Exposure History: No known exposure to industrial toxins, dust, or radioactive substances.
+Travel History: No recent travel outside the city.
+
+**Marital and Family History:**
+Marital Status: Married
+Marriage Age: 25
+Spouse's Health Condition: Healthy
+Children's Condition: Two children, both healthy.
+Family History: No known family history of rheumatoid arthritis or other autoimmune diseases. Parents are alive and healthy, no significant health issues reported in siblings.
+
+**Physical Examination:**
+General Condition:
+- Temperature: 37.2°C
+- Pulse: 78 bpm
+- Respiration: 18 breaths/min
+- Blood Pressure: 130/85 mmHg
+
+Systematic Examination:
+- Skin: No rashes or lesions.
+- Mucous Membranes: Normal, moist.
+- Lymph Nodes: No lymphadenopathy.
+- Head and Organs: Normal cephalic, no abnormalities.
+- Neck: No masses or thyromegaly.
+- Chest: Clear breath sounds, regular heart rhythm, no murmurs.
+- Abdomen: Soft, non-tender, no organomegaly.
+- Rectum and Anus: Normal, no hemorrhoids.
+- External Genitalia: Normal for age.
+- Spine: No deformities.
+- Limbs: Swelling and tenderness in wrists and metacarpophalangeal joints.
+- Nervous System: No focal deficits.
+
+**Specialist Examination:**
+Orthopedic and rheumatologic assessment showing positive rheumatoid factor and anti-CCP antibodies.
+
+**Auxiliary Examination:**
+MRI of hands and feet showing synovitis and erosions, X-rays with evidence of juxta-articular osteoporosis.
+
+**Preliminary Diagnosis:**
+Rheumatoid Arthritis
+
+**Diagnostic Basis:**
+Chronic symptoms of morning stiffness and joint pain, positive rheumatoid factor and anti-CCP antibodies, imaging showing synovitis and erosions.
+
+**Differential Diagnosis:**
+- Ankylosing spondylitis ruled out due to lack of sacroiliac joint involvement.
+- Osteoarthritis ruled out due to inflammatory nature of arthritis.
+- Gout ruled out due to negative urate crystals.
+- Psoriatic arthritis ruled out due to absence of psoriatic lesions.
+
+**Admission Records:**
+Physician's Signature: Dr. A. Smith
+
+**Post-Admission Course Records:**
+First Course Record: Within the first 8 hours, patient assessed for severity of symptoms and baseline workup completed. Initiation of DMARDs, specifically Methotrexate. NSAIDs continued for pain management.
+Daily Course Records: Noted improvement in pain with continued medication, regular monitoring of liver function tests due to Methotrexate.
+Senior Physician Rounds Records: Weekly rounds by senior physician confirming treatment plan, slight adjustments in DMARDs dosage.
+Difficult Case Discussion Records: Multidisciplinary discussion involving rheumatology, orthopedics, and physical therapy for long-term management plan.
+Handover Records: N/A
+Transfer Records: N/A
+Stage Summary: Patient showing moderate improvement, less morning stiffness, and slightly better joint mobility.
+Emergency Records: N/A
+Invasive Procedure Records: N/A
+Consultation Records: Rheumatology and physiotherapy consultations documented.
+Discharge Records: Patient to be discharged with outpatient follow-up in rheumatology clinic. Instructions on medication adherence and physical therapy.
+Critically Ill Patient Care Records: N/A
+
+**Medical Orders:**
+Long-term Orders: Methotrexate 15mg orally once weekly, Folic Acid 1mg daily, Naproxen 500mg twice daily as needed for pain.
+Temporary Orders: Liver function tests every 2 weeks, CBC with differential every month.
+
+**Auxiliary Examination Reports:**
+- Rheumatoid factor: positive
+- Anti-CCP: positive
+- ESR: elevated
+- CRP: elevated.
+
+**Temperature Chart:**
+Temperature stable around 37.2°C, pulse stable, blood pressure within normal limits.
+
+**Blood Transfusion Consent:**
+N/A
+
+**Special Examination Consent:**
+Consent obtained for MRI and X-rays.
+
+**Critical Condition Notice:**
+N/A

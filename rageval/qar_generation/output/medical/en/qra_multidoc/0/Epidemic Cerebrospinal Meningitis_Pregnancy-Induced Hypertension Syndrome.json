@@ -1,0 +1,219 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Wilton General Hospital and Greenfield General Hospital, what are the ages of patients H. Flores and H. Sanchez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Age: 82"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_H. Sanchez",
+                    "content": [
+                        "Age: 29"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Wilton General Hospital, patient H. Flores is 82 years old; according to the hospitalization records of Greenfield General Hospital, patient H. Sanchez is 29 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Wilton General Hospital and Greenfield General Hospital, what is the ethnicity of patients H. Flores and H. Sanchez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Ethnicity: Hispanic"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_H. Sanchez",
+                    "content": [
+                        "Ethnicity: Hispanic"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Wilton General Hospital, patient H. Flores is Hispanic; according to the hospitalization records of Greenfield General Hospital, patient H. Sanchez is also Hispanic."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Wilton General Hospital and Greenfield General Hospital, what are the occupations of patients H. Flores and H. Sanchez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Occupation: Retired Teacher"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_H. Sanchez",
+                    "content": [
+                        "Occupation: Teacher"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Wilton General Hospital, patient H. Flores is a retired teacher; according to the hospitalization records of Greenfield General Hospital, patient H. Sanchez is a teacher."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Wilton General Hospital and Greenfield General Hospital, what are the chief complaints of patients H. Flores and H. Sanchez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "Chief Complaint:",
+                        "Severe headache, high fever, and neck stiffness for 2 days."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_H. Sanchez",
+                    "content": [
+                        "Chief Complaint:",
+                        "Hypertension, swelling in legs, and proteinuria for 2 weeks."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Wilton General Hospital, patient H. Flores's chief complaint is severe headache, high fever, and neck stiffness for 2 days; according to the hospitalization records of Greenfield General Hospital, patient H. Sanchez's chief complaint is hypertension, swelling in legs, and proteinuria for 2 weeks."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Wilton General Hospital and Greenfield General Hospital, what past surgeries have patients H. Flores and H. Sanchez undergone?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "Surgery and Trauma History: Appendectomy at age 30, no trauma history."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_H. Sanchez",
+                    "content": [
+                        "Surgery and Trauma History: Appendectomy at age 15."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Wilton General Hospital, patient H. Flores had an appendectomy at age 30; according to the hospitalization records of Greenfield General Hospital, patient H. Sanchez had an appendectomy at age 15."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Wilton General Hospital and Greenfield General Hospital, what are the blood pressure readings of patients H. Flores and H. Sanchez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Blood Pressure: 145/90 mmHg"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_H. Sanchez",
+                    "content": [
+                        "Blood Pressure: 150/95 mmHg."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Wilton General Hospital, patient H. Flores's blood pressure is 145/90 mmHg; according to the hospitalization records of Greenfield General Hospital, patient H. Sanchez's blood pressure is 150/95 mmHg."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Wilton General Hospital and Greenfield General Hospital, what are the diagnoses of patients H. Flores and H. Sanchez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Epidemic Cerebrospinal Meningitis"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_H. Sanchez",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Pregnancy-Induced Hypertension Syndrome."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Wilton General Hospital, patient H. Flores was diagnosed with Epidemic Cerebrospinal Meningitis; according to the hospitalization records of Greenfield General Hospital, patient H. Sanchez was diagnosed with Pregnancy-Induced Hypertension Syndrome."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Wilton General Hospital and Greenfield General Hospital, who was admitted earlier, H. Flores or H. Sanchez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Admission Time: 22nd March"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_H. Sanchez",
+                    "content": [
+                        "Admission Time: 17th, October"
+                    ]
+                }
+            ],
+            "answer": "H. Flores was admitted on March 22, and H. Sanchez was admitted on October 17. H. Flores was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Wilton General Hospital and Greenfield General Hospital, whose blood pressure was higher upon admission, H. Flores or H. Sanchez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Blood Pressure: 145/90 mmHg"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_H. Sanchez",
+                    "content": [
+                        "Blood Pressure: 150/95 mmHg."
+                    ]
+                }
+            ],
+            "answer": "H. Flores had a blood pressure of 145/90 mmHg, and H. Sanchez had a blood pressure of 150/95 mmHg. H. Sanchez's blood pressure was higher upon admission."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Wilton General Hospital and Greenfield General Hospital, whose body temperature was higher upon admission, H. Flores or H. Sanchez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Temperature: 39.5°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_H. Sanchez",
+                    "content": [
+                        "Temperature: 37°C (98.6°F)."
+                    ]
+                }
+            ],
+            "answer": "H. Flores had a body temperature of 39.5°C, while H. Sanchez had a body temperature of 37°C. H. Flores's body temperature was higher upon admission."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Wilton General Hospital and Greenfield General Hospital, whose pulse rate was higher upon admission, H. Flores or H. Sanchez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Pulse: 110 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_H. Sanchez",
+                    "content": [
+                        "Pulse: 88 bpm."
+                    ]
+                }
+            ],
+            "answer": "H. Flores had a pulse rate of 110 bpm, while H. Sanchez had a pulse rate of 88 bpm. H. Flores's pulse rate was higher upon admission."
+        }
+    ]
+}

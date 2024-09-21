@@ -1,0 +1,71 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Vandalia, Bayside, Court",
+        "procuratorate": "Vandalia, Bayside, Procuratorate"
+    },
+    "chiefJudge": "D. Jimenez",
+    "judge": "J. Scott",
+    "clerk": "M. Scott",
+    "defendant": {
+        "name": "G. Torres",
+        "gender": "female",
+        "birthdate": "11th, November, 1960",
+        "residence": "10, Ashton street, Bayside",
+        "ethnicity": "Hispanic",
+        "occupation": "Elementary School Teacher"
+    },
+    "defenseLawyer": {
+        "name": "U. Cox",
+        "lawFirm": "Cox & Hamilton Law Offices"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "15th, March, 2023"
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "20th, March, 2023"
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "25th, March, 2023"
+        },
+        {
+            "event": "Arrest",
+            "date": "30th, March, 2023"
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Traffic Accident",
+            "details": [
+                {
+                    "timePeriod": "10:15 AM, 10th, March, 2023",
+                    "behavior": "While driving a 2018 Toyota Camry, license plate ABC123, defendant G. Torres ran a red light at the intersection of Elm Street and Main Avenue, colliding with a pedestrian, Mr. J. Smith, causing severe injuries to Mr. Smith.",
+                    "evidence": "Traffic camera footage, eyewitness testimony from Ms. L. Johnson, medical reports from Bayside General Hospital showcasing Mr. Smith's injuries."
+                },
+                {
+                    "timePeriod": "10:20 AM, 10th, March, 2023",
+                    "behavior": "Following the initial collision, G. Torres failed to stop and render aid as required by law, fleeing the scene instead.",
+                    "evidence": "Traffic camera footage showing G. Torres leaving the scene, GPS data from G. Torres' vehicle, witness testimony from Mr. K. Wu."
+                },
+                {
+                    "timePeriod": "11:00 AM, 10th, March, 2023",
+                    "behavior": "G. Torres attempted to conceal involvement by parking the damaged vehicle in a remote garage and booking a repair appointment without informing police of the accident.",
+                    "evidence": "Repair service records from Jet Auto Repair, surveillance footage from garage, statements from repair shop technician, Mr. R. Lee."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "20th, April, 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Traffic Accident",
+                "sentence": "Four years of fixed-term imprisonment",
+                "sentencingConsiderations": "Severity of the pedestrian’s injuries, failure to stop and render aid, attempt to conceal involvement; no prior criminal record, shown remorse during trial."
+            }
+        ]
+    }
+}

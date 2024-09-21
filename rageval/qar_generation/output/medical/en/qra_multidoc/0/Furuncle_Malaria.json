@@ -1,0 +1,103 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Ashland General Hospital, what were the chief complaints of patients J. Rodriguez and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Chief Complaint: Local redness, swelling, heat, and pain on the right forearm for 3 days."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Chief Complaint:",
+                        "High fever, chills, and headache for 3 days"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's chief complaint was local redness, swelling, heat, and pain on the right forearm for 3 days. According to the hospitalization records of Ashland General Hospital, patient L. Brown's chief complaint was high fever, chills, and headache for 3 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Ashland General Hospital, what were the preliminary diagnoses for patients J. Rodriguez and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Preliminary Diagnosis: Furuncle of the right forearm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Malaria"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's preliminary diagnosis was a furuncle of the right forearm. According to the hospitalization records of Ashland General Hospital, patient L. Brown's preliminary diagnosis was malaria."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Ashland General Hospital, who was admitted earlier, J. Rodriguez or L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Admission Time: 26th, February"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Admission Time: 25th, March"
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez was admitted on February 26, and L. Brown was admitted on March 25. J. Rodriguez was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Ashland General Hospital, whose temperature was higher upon admission, J. Rodriguez or L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Temperature: 37°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Temperature: 39°C"
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez's temperature was 37°C, and L. Brown's temperature was 39°C. L. Brown's temperature was higher upon admission."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Ashland General Hospital, whose pulse rate was higher upon admission, J. Rodriguez or L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Pulse: 90 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Pulse: 110 bpm"
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez's pulse rate was 90 bpm, and L. Brown's pulse rate was 110 bpm. L. Brown's pulse rate was higher upon admission."
+        }
+    ]
+}

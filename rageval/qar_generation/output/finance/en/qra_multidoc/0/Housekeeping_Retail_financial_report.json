@@ -1,0 +1,206 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the dividend distributions made by CleanCo Housekeeping Services in 2018 and Retail Emporium in 2020?",
+            "ref": [
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "Finally, in December, CleanCo decided to distribute $2 million of dividends to its shareholders, enhancing shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "Retail Emporium",
+                    "content": [
+                        "Firstly, the company decided to distribute $5 million in dividends to its shareholders, enhancing shareholder returns."
+                    ]
+                }
+            ],
+            "answer": "The dividend distribution by CleanCo Housekeeping Services in 2018 returned $2 million to investors and enhanced shareholder returns. Similarly, Retail Emporium's dividend distribution in 2020 returned $5 million to investors and enhanced shareholder returns."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the asset restructuring activities undertaken by CleanCo Housekeeping Services in 2018 and Retail Emporium in 2020?",
+            "ref": [
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "In August, CleanCo underwent an asset restructuring, optimizing its business structure.",
+                        "This asset restructuring improved operational efficiency and increased the company's value."
+                    ]
+                },
+                {
+                    "company_name": "Retail Emporium",
+                    "content": [
+                        "In April 2020, Retail Emporium underwent an asset restructuring, optimizing its business structure.",
+                        "This restructuring led to improved operational efficiency and increased company value."
+                    ]
+                }
+            ],
+            "answer": "CleanCo Housekeeping Services' asset restructuring in 2018 improved operational efficiency and increased company value. Retail Emporium's asset restructuring in 2020 also improved operational efficiency and increased company value."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the outcomes of the debt restructuring activities conducted by CleanCo Housekeeping Services in 2018 and Retail Emporium in 2020?",
+            "ref": [
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "In February, CleanCo underwent debt restructuring, reducing its liabilities by $5 million.",
+                        "This debt restructuring optimized the company's capital structure and improved its financial condition by reducing financial costs."
+                    ]
+                },
+                {
+                    "company_name": "Retail Emporium",
+                    "content": [
+                        "In August 2020, the company underwent debt restructuring, reducing liabilities by $50 million.",
+                        "This move improved the company's financial condition and reduced financial costs."
+                    ]
+                }
+            ],
+            "answer": "CleanCo Housekeeping Services' debt restructuring in 2018 reduced liabilities by $5 million and improved the company's financial condition. Retail Emporium's debt restructuring in 2020 reduced liabilities by $50 million and also improved the company's financial condition."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the major asset acquisitions by CleanCo Housekeeping Services in 2018 and Retail Emporium in 2020?",
+            "ref": [
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "Additionally, in March, CleanCo completed the asset acquisition of Sparkle Cleaners, a leading provider of commercial cleaning services, with a total value of $8 million.",
+                        "This acquisition expanded CleanCo's business scope and enhanced its market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "Retail Emporium",
+                    "content": [
+                        "In July 2020, Retail Emporium completed the asset acquisition of HomeGoods Corporation, with a total value of $100 million.",
+                        "This acquisition expanded the company's business scope and enhanced its market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "CleanCo Housekeeping Services' major asset acquisition in 2018 involved acquiring Sparkle Cleaners for $8 million, which expanded the company's business scope and enhanced market competitiveness. Retail Emporium's major asset acquisition in 2020 involved acquiring HomeGoods Corporation for $100 million, which also expanded the company's business scope and enhanced market competitiveness."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the significant equity acquisitions by CleanCo Housekeeping Services in 2018 and Retail Emporium in 2020?",
+            "ref": [
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "In June, CleanCo completed the acquisition of 30% equity of Fresh Breeze Cleaning Services, further expanding its market share and enhancing its control."
+                    ]
+                },
+                {
+                    "company_name": "Retail Emporium",
+                    "content": [
+                        "Additionally, in May 2020, the company completed the acquisition of 40% equity of Fancy Apparel Company, further expanding its market share and enhancing its control."
+                    ]
+                }
+            ],
+            "answer": "CleanCo Housekeeping Services' significant equity acquisition in 2018 involved acquiring 30% equity of Fresh Breeze Cleaning Services, which expanded the company's market share and enhanced control. Retail Emporium's significant equity acquisition in 2020 involved acquiring 40% equity of Fancy Apparel Company, which also expanded the company's market share and enhanced control."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of CleanCo Housekeeping Services in 2018 and Retail Emporium in 2020. Which company had higher operating income?",
+            "ref": [
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "The company reported an operating income of $25 million in 2018, influenced by market demand and changes in product prices."
+                    ]
+                },
+                {
+                    "company_name": "Retail Emporium",
+                    "content": [
+                        "The operating income for 2020 was $500 million, influenced by market demand and changes in product prices."
+                    ]
+                }
+            ],
+            "answer": "Retail Emporium had higher operating income in 2020 with $500 million compared to CleanCo Housekeeping Services' $25 million in 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of CleanCo Housekeeping Services in 2018 and Retail Emporium in 2020. Which company had higher net profit?",
+            "ref": [
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "The net profit for the year was $3.5 million, influenced by the operating income, cost control, and non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "Retail Emporium",
+                    "content": [
+                        "The net profit for the same period was $50 million, influenced by operating income, cost control, and non-recurring gains and losses."
+                    ]
+                }
+            ],
+            "answer": "Retail Emporium had higher net profit in 2020 with $50 million compared to CleanCo Housekeeping Services' $3.5 million in 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of CleanCo Housekeeping Services in 2018 and Retail Emporium in 2020. Which company had more total assets?",
+            "ref": [
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "CleanCo's total assets reached $40 million, influenced by asset acquisition, disposal, and revaluation."
+                    ]
+                },
+                {
+                    "company_name": "Retail Emporium",
+                    "content": [
+                        "The company's total assets amounted to $1 billion, influenced by asset acquisition, disposal, and revaluation."
+                    ]
+                }
+            ],
+            "answer": "Retail Emporium had more total assets in 2020 with $1 billion compared to CleanCo Housekeeping Services' $40 million in 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the debt restructuring activities of CleanCo Housekeeping Services in 2018 and Retail Emporium in 2020. Which company reduced more liabilities through debt restructuring?",
+            "ref": [
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "In February, CleanCo underwent debt restructuring, reducing its liabilities by $5 million.",
+                        "This debt restructuring optimized the company's capital structure and improved its financial condition by reducing financial costs."
+                    ]
+                },
+                {
+                    "company_name": "Retail Emporium",
+                    "content": [
+                        "In August 2020, the company underwent debt restructuring, reducing liabilities by $50 million.",
+                        "This move improved the company's financial condition and reduced financial costs."
+                    ]
+                }
+            ],
+            "answer": "Retail Emporium reduced more liabilities through debt restructuring in 2020 by $50 million compared to CleanCo Housekeeping Services' $5 million in 2018."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the major asset acquisitions by CleanCo Housekeeping Services in 2018 and Retail Emporium in 2020. Which company acquired assets earlier?",
+            "ref": [
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "Additionally, in March, CleanCo completed the asset acquisition of Sparkle Cleaners, a leading provider of commercial cleaning services, with a total value of $8 million.",
+                        "This acquisition expanded CleanCo's business scope and enhanced its market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "Retail Emporium",
+                    "content": [
+                        "In July 2020, Retail Emporium completed the asset acquisition of HomeGoods Corporation, with a total value of $100 million.",
+                        "This acquisition expanded the company's business scope and enhanced its market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "CleanCo Housekeeping Services acquired assets earlier in March 2018 compared to Retail Emporium's acquisition in July 2020."
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the establishment dates of Artistic Creations Inc. and EduCorp?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "Artistic Creations Inc. is a publicly traded art gallery and exhibitions company that was established in March 2005 in New York, United States.The company has made significant strides in its financial performance in 2019, as evidenced by its corporate financial report."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp, established on March 1, 2005, is an education company that offers educational services through online platforms and physical learning centers, headquartered in the City of Education, Country A.In January 2020, EduCorp underwent an asset restructuring, optimizing its business structure by divesting from underperforming businesses and focusing on core educational services."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. was established in March 2005, and EduCorp was established on March 1, 2005."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the main businesses of Artistic Creations Inc. and EduCorp?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "Artistic Creations Inc. is a publicly traded art gallery and exhibitions company that was established in March 2005 in New York, United States.The company has made significant strides in its financial performance in 2019, as evidenced by its corporate financial report."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp, established on March 1, 2005, is an education company that offers educational services through online platforms and physical learning centers, headquartered in the City of Education, Country A.In January 2020, EduCorp underwent an asset restructuring, optimizing its business structure by divesting from underperforming businesses and focusing on core educational services."
+                    ]
+                }
+            ],
+            "answer": "The main business of Artistic Creations Inc. is art gallery and exhibitions, while EduCorp provides educational services through online platforms and physical learning centers."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the asset restructuring for Artistic Creations Inc. in 2019 and EduCorp in 2020?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "In addition to these specific events, Artistic Creations Inc. underwent asset restructuring in February, optimizing its business structure and improving operational efficiency.",
+                        "This restructuring had a positive impact on the company's total assets, which reached $150 million, and its debt ratio, which stood at 0.47."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp, established on March 1, 2005, is an education company that offers educational services through online platforms and physical learning centers, headquartered in the City of Education, Country A.In January 2020, EduCorp underwent an asset restructuring, optimizing its business structure by divesting from underperforming businesses and focusing on core educational services.",
+                        "This strategic move had a significant impact on the company's operational efficiency and overall value."
+                    ]
+                }
+            ],
+            "answer": "The asset restructuring for Artistic Creations Inc. in 2019 improved operational efficiency and increased company value. For EduCorp in 2020, the asset restructuring also improved operational efficiency and led to an increase in company value."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "Which companies did Artistic Creations Inc. and EduCorp acquire assets from, and what was the value of these acquisitions?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "The company also completed a major asset acquisition in April, acquiring Pacific Art Gallery with a total value of $20 million.",
+                        "This acquisition expanded the company's business scope and enhanced its market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In September 2020, EduCorp completed the asset acquisition of Global Education Solutions, a leading provider of professional development programs for educators, with a total value of $20 million.",
+                        "This major asset acquisition expanded EduCorp's business scope, enhancing its market competitiveness and enabling the provision of comprehensive educational services."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. acquired assets from Pacific Art Gallery with a total value of $20 million in April 2019. EduCorp acquired assets from Global Education Solutions with a total value of $20 million in September 2020."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much funding was raised by Artistic Creations Inc. and EduCorp during their large-scale financing activities, and in which years did these activities occur?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "To support its expansion and development, Artistic Creations Inc. conducted a large-scale financing activity in July, raising $50 million of funds.",
+                        "This strengthened the company's financial strength and provided the necessary resources for its investment plans."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In May 2020, EduCorp conducted a large-scale financing activity, raising $50 million from a consortium of private investors and institutional lenders.",
+                        "This large-scale financing strengthened EduCorp's financial strength, supported its expansion and development plans, and fueled its growth ambitions."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. raised $50 million in July 2019, and EduCorp raised $50 million in May 2020 during their large-scale financing activities."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the amounts of dividends distributed by Artistic Creations Inc. in 2019 and EduCorp in 2020?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "One of the key highlights of the year was the decision to distribute $5 million in dividends to shareholders in January.",
+                        "This move not only returned value to the investors but also enhanced shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In December 2020, EduCorp decided to distribute $4 million of dividends to its shareholders, reflecting its strong financial performance and commitment to enhancing shareholder returns."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. distributed $5 million of dividends in January 2019, and EduCorp distributed $4 million of dividends in December 2020."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the net profits of Artistic Creations Inc. in 2019 and EduCorp in 2020?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "The net profit indicator, which stood at $8 million, also benefited from this expansion."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "The net profit of EduCorp stood at $25 million, representing the net income of the company within a certain accounting period.",
+                        "It is calculated by deducting total costs and taxes from total income.",
+                        "The net profit is influenced by operating income, cost control, and non-recurring gains and losses."
+                    ]
+                }
+            ],
+            "answer": "The net profit of Artistic Creations Inc. in 2019 was $8 million, and the net profit of EduCorp in 2020 was $25 million."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of Artistic Creations Inc. in 2019 and EduCorp in 2020. Which company had higher operating income?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "This was reflected in the operating income indicator, which reached $30 million, a significant increase from the previous year."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "Moving on to the involved indicators, EduCorp's operating income reached $150 million, reflecting the total amount of main business income and other business income within a certain accounting period."
+                    ]
+                }
+            ],
+            "answer": "EduCorp had higher operating income in 2020 with $150 million, compared to Artistic Creations Inc.'s $30 million in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of Artistic Creations Inc. in 2019 and EduCorp in 2020. Which company had higher net profit?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "The net profit indicator, which stood at $8 million, also benefited from this expansion."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "The net profit of EduCorp stood at $25 million, representing the net income of the company within a certain accounting period."
+                    ]
+                }
+            ],
+            "answer": "EduCorp had higher net profit in 2020 with $25 million, compared to Artistic Creations Inc.'s $8 million in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of Artistic Creations Inc. in 2019 and EduCorp in 2020. Which company had more total assets?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "The impact of this acquisition was reflected in the total assets indicator, which reached $150 million, showcasing the company's enhanced business scope and improved market competitiveness.",
+                        "This restructuring had a positive impact on the company's total assets, which reached $150 million, and its debt ratio, which stood at 0.47."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp's total assets amounted to $500 million, indicating the total amount of assets owned by the company at the end of the accounting period."
+                    ]
+                }
+            ],
+            "answer": "EduCorp had more total assets in 2020 with $500 million, compared to Artistic Creations Inc.'s $150 million in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the debt restructuring efforts of Artistic Creations Inc. in 2019 and EduCorp in 2020. Which company reduced more liabilities through debt restructuring?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "To optimize its capital structure, Artistic Creations Inc. underwent debt restructuring in December, reducing liabilities by $15 million."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "To optimize its capital structure, EduCorp underwent debt restructuring in March 2020, reducing its liabilities by $5 million through debt renegotiations and repayment strategies."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. reduced more liabilities through debt restructuring in 2019 by $15 million, compared to EduCorp's $5 million in 2020."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the asset restructuring of Artistic Creations Inc. in 2019 and EduCorp in 2020. Which company underwent asset restructuring earlier?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "In addition to these specific events, Artistic Creations Inc. underwent asset restructuring in February, optimizing its business structure and improving operational efficiency."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp, established on March 1, 2005, is an education company that offers educational services through online platforms and physical learning centers, headquartered in the City of Education, Country A.In January 2020, EduCorp underwent an asset restructuring, optimizing its business structure by divesting from underperforming businesses and focusing on core educational services."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. underwent asset restructuring earlier in February 2019, compared to EduCorp in January 2020."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distribution of Artistic Creations Inc. in January 2019 and EduCorp in December 2020. Which company distributed more dividends?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "One of the key highlights of the year was the decision to distribute $5 million in dividends to shareholders in January."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In December 2020, EduCorp decided to distribute $4 million of dividends to its shareholders, reflecting its strong financial performance and commitment to enhancing shareholder returns."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. distributed more dividends in January 2019 with $5 million, compared to EduCorp's $4 million in December 2020."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the large-scale financing activities of Artistic Creations Inc. in July 2019 and EduCorp in May 2020. Which company raised more funds?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "To support its expansion and development, Artistic Creations Inc. conducted a large-scale financing activity in July, raising $50 million of funds."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In May 2020, EduCorp conducted a large-scale financing activity, raising $50 million from a consortium of private investors and institutional lenders."
+                    ]
+                }
+            ],
+            "answer": "Both Artistic Creations Inc. and EduCorp raised the same amount of funds, $50 million, in their respective large-scale financing activities."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the major asset acquisitions of Artistic Creations Inc. in April 2019 and EduCorp in September 2020. Which company had a higher value of asset acquisition?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "The company also completed a major asset acquisition in April, acquiring Pacific Art Gallery with a total value of $20 million."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In September 2020, EduCorp completed the asset acquisition of Global Education Solutions, a leading provider of professional development programs for educators, with a total value of $20 million."
+                    ]
+                }
+            ],
+            "answer": "Both Artistic Creations Inc. and EduCorp had major asset acquisitions valued at $20 million in their respective years."
+        }
+    ]
+}

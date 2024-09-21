@@ -1,0 +1,80 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Norwood, Unionville, Court",
+        "procuratorate": "Norwood, Unionville, Procuratorate"
+    },
+    "chiefJudge": "T. Robinson",
+    "judge": "N. Cook",
+    "clerk": "O. Murphy",
+    "defendant": {
+        "name": "C. Taylor",
+        "gender": "female",
+        "birthdate": "19th, October, 1960",
+        "residence": "71, Yorkshire street, Unionville",
+        "ethnicity": "Caucasian",
+        "occupation": "Retail Shop Owner"
+    },
+    "defenseLawyer": {
+        "name": "P. Clark",
+        "lawFirm": "Unionville Legal Associates"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "15th August 2022",
+            "description": "An investigation was initiated by the Norwood, Unionville Procuratorate following a series of complaints from brand owners regarding counterfeit goods being sold at a retail shop owned by the defendant, C. Taylor."
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "20th September 2022",
+            "description": "Detention measures were authorized by the court against C. Taylor after substantial evidence was collected implicating her in the sale of counterfeit branded goods."
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "23rd September 2022",
+            "description": "C. Taylor was formally placed under criminal detention as per the arrest warrant issued by the Norwood, Unionville Court."
+        },
+        {
+            "event": "Arrest",
+            "date": "1st October 2022",
+            "description": "An arrest order was executed by the Norwood police, officially arresting C. Taylor for the crime of selling counterfeit registered trademark goods."
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Selling Counterfeit Registered Trademark Goods",
+            "details": [
+                {
+                    "timePeriod": "March 2022 - August 2022",
+                    "behavior": "C. Taylor knowingly sold counterfeit branded handbags under the trademarks of renowned brands such as Louis Vuitton, Chanel, and Gucci at her retail shop located at 25 Baker Street, Unionville.",
+                    "evidence": "Physical evidence consisting of over 200 counterfeit handbags found during a police raid, financial records indicating transactions worth $45,000 linked to the sale of these counterfeit goods, and testimony from multiple witnesses who confirmed purchasing said counterfeit items."
+                },
+                {
+                    "timePeriod": "April 2022",
+                    "behavior": "C. Taylor acquired a shipment of counterfeit Nike shoes from an unverified supplier and displayed them for sale in her shop.",
+                    "evidence": "Invoices and delivery receipts reflecting the acquisition of 150 pairs of shoes for $12,000, as well as physical evidence of the counterfeit shoes seized from her shop."
+                },
+                {
+                    "timePeriod": "June 2022",
+                    "behavior": "C. Taylor promoted a special sale event on social media advertising discounted prices on various luxury brands' goods, which were later discovered to be counterfeit.",
+                    "evidence": "Screenshots from social media platforms of promotional posts, testimonies from customers who purchased these counterfeit items, and the financial trail reflecting a total of $20,000 in sales during the promotional event."
+                },
+                {
+                    "timePeriod": "July 2022",
+                    "behavior": "C. Taylor attempted to cover up her crimes by disposing of counterfeit goods at a nearby dumping ground following rumors of investigation.",
+                    "evidence": "Witness statements from local residents who saw C. Taylor disposing multiple branded bags, and forensic reports matching the discarded items to her inventory."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "10th January 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Selling Counterfeit Registered Trademark Goods",
+                "sentence": "C. Taylor was sentenced to four years of fixed-term imprisonment and fined $100,000 for illicit gains.",
+                "sentencingConsiderations": "The sentencing considered the large scale of the counterfeit goods sold, significant monetary gains, and attempts to obstruct justice by disposing of evidence."
+            }
+        ]
+    }
+}

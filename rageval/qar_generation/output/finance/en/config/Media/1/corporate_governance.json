@@ -1,0 +1,285 @@
+{
+    "Report Type": "Corporate Governance Report",
+    "Report Time": "2018",
+    "Company Information": {
+        "Name": "MediaCorp",
+        "Establishment Date": "January 1, 2000",
+        "Main Business": "Media production and distribution",
+        "Registration Location": "New York, United States",
+        "Listing Status": "Publicly listed on NYSE",
+        "Industry": "Media"
+    },
+    "Report Content": [
+        {
+            "Type": "Governance Structure",
+            "Significant Events": [
+                {
+                    "Event": "Ethics and Integrity Incidents",
+                    "Time": "January, 2018",
+                    "Description": "Significant ethical or integrity violations, such as fraud, corruption, or conflicts of interest, and the measures taken by the company in response.",
+                    "Impact": "May damage the company's reputation and brand value, affecting relationships with investors, customers, and partners.",
+                    "Sub Events": [
+                        {
+                            "Event": "Enhancement of Internal Controls",
+                            "Time": "Q1 2018",
+                            "Description": "MediaCorp implemented a comprehensive review and enhancement of its internal controls, including the implementation of additional monitoring and reporting mechanisms, to prevent and detect ethical and integrity incidents.",
+                            "Impact": "Strengthened internal controls mitigate the risk of future incidents and reinforce the company's commitment to ethics and integrity, enhancing relationships with stakeholders."
+                        },
+                        {
+                            "Event": "Revised Code of Conduct",
+                            "Time": "February 2018",
+                            "Description": "MediaCorp revised its Code of Conduct to explicitly address various ethical aspects, such as fraud, corruption, and conflicts of interest. The revised code emphasized the expected behavior of employees, directors, and other stakeholders.",
+                            "Impact": "The revised Code of Conduct sets a clearer ethical framework, providing guidance to employees and promoting a culture of integrity within the organization."
+                        },
+                        {
+                            "Event": "Whistleblower Protection Program Implementation",
+                            "Time": "March 2018",
+                            "Description": "MediaCorp established a robust Whistleblower Protection Program, enabling employees and stakeholders to report concerns or suspected ethical violations anonymously and without fear of retaliation. The program includes a designated reporting channel and strict confidentiality measures.",
+                            "Impact": "The Whistleblower Protection Program encourages the reporting of potential incidents, facilitating the timely detection and resolution of ethical and integrity issues within the company."
+                        }
+                    ]
+                },
+                {
+                    "Event": "Senior Management Changes",
+                    "Time": "February, 2018",
+                    "Description": "Changes in the company’s senior management, including the CEO or other key positions, and its impact on the company's operational focus and priorities.",
+                    "Impact": "May lead to adjustments in operational focus and strategic priorities, affecting short-term performance and long-term development."
+                },
+                {
+                    "Event": "Annual Shareholders' Dividend Distribution",
+                    "Time": "April, 2018",
+                    "Description": "The distribution of dividends to shareholders based on the company's financial performance in the fiscal year.",
+                    "Impact": "Rewards shareholders and improves investor confidence in the company's financial strength and future prospects."
+                },
+                {
+                    "Event": "Corporate Governance Policy Revision",
+                    "Time": "May, 2018",
+                    "Description": "Revision of the corporate governance framework or policies to enhance transparency, accountability, or stakeholder engagement.",
+                    "Impact": "Enhances corporate governance transparency and accountability, boosting stakeholder confidence."
+                },
+                {
+                    "Event": "Board of Directors Change",
+                    "Time": "June, 2018",
+                    "Description": "The appointment or resignation of board members, and its impact on the company's strategic direction.",
+                    "Impact": "May lead to strategic adjustments, affecting the company’s long-term development direction and shareholder interests."
+                },
+                {
+                    "Event": "Successful Acquisition of a Competing Media Company",
+                    "Time": "July, 2018",
+                    "Description": "The strategic acquisition of a competing media company to expand market share and consolidate industry position.",
+                    "Impact": "Increases the company's market presence and potential revenue streams, leading to potential cost synergies."
+                },
+                {
+                    "Event": "Compliance and Regulatory Updates",
+                    "Time": "August, 2018",
+                    "Description": "Updates to new regulations or compliance standards affecting corporate governance practices, including changes in securities law, corporate law, or specific industry regulations.",
+                    "Impact": "Ensures compliance with the latest laws and regulations, reducing legal risk, protecting the company and shareholder interests."
+                },
+                {
+                    "Event": "Sustainability and Social Responsibility Initiatives",
+                    "Time": "September, 2018",
+                    "Description": "Significant progress in sustainability, environmental protection, social responsibility, and corporate citizenship.",
+                    "Impact": "Enhances the company’s public image and market competitiveness, promoting long-term sustainable development."
+                },
+                {
+                    "Event": "Shareholders' Meeting Resolution",
+                    "Time": "November, 2018",
+                    "Description": "Key decisions made at the annual or extraordinary shareholders’ meeting, including changes to the company’s charter, major corporate actions, and voting results.",
+                    "Impact": "Directly affects the company’s governance structure, future operational strategies, and shareholder rights."
+                },
+                {
+                    "Event": "Risk Management Measures",
+                    "Time": "December, 2018",
+                    "Description": "Updates to the company's risk management framework, including identification of new risks and implementation of mitigation strategies.",
+                    "Impact": "Improves the company’s ability to respond to internal and external risks, ensuring continuous operation and stable development."
+                }
+            ],
+            "Involved Indicators": [
+                {
+                    "Indicator": "Information Disclosure",
+                    "Description": "Principles, methods, and implementation status of company information disclosure.",
+                    "Value": "Regular and comprehensive information disclosure through official company statements, press releases, and annual reports."
+                },
+                {
+                    "Indicator": "Related Transactions",
+                    "Description": "Policies, procedures, and measures to ensure fairness and compliance of related transactions.",
+                    "Value": "Strict policies governing related transactions to ensure fairness, transparency, and compliance with applicable laws and regulations."
+                },
+                {
+                    "Indicator": "Internal Control",
+                    "Description": "Architecture, implementation, and effectiveness assessment of internal controls.",
+                    "Value": "Robust internal control system to ensure accuracy and reliability of financial reporting, mitigate risks, and safeguard assets."
+                }
+            ]
+        }
+    ],
+    "Additional Information": [
+        {
+            "Name": "Governance Improvement Plans",
+            "Content": [
+                {
+                    "Name": "Strengthening the Function of the Board of Directors and Supervisory Board",
+                    "Description": "Enhancing the efficiency and effectiveness of the board of directors and supervisory board in corporate governance, including regular training, increasing the proportion of independent directors, optimizing decision-making processes."
+                },
+                {
+                    "Name": "Enhancing Transparency and Quality of Information Disclosure",
+                    "Description": "Improving the information disclosure process and standards to ensure timely, accurate, and comprehensive reporting to all stakeholders."
+                },
+                {
+                    "Name": "Establishing a Whistleblower Program",
+                    "Description": "Implementing a whistleblower program to encourage employees to report any unethical or illegal activities within the company and protect whistleblowers from retaliation."
+                }
+            ]
+        },
+        {
+            "Name": "Risk Management Strategy",
+            "Content": [
+                {
+                    "Name": "Strengthening the Internal Control System",
+                    "Description": "Establishing and improving the internal control system to identify, assess, monitor, and report financial and operational risks, enhancing the company's ability to withstand risks."
+                },
+                {
+                    "Name": "Integrating Sustainable Development and Social Responsibility",
+                    "Description": "Incorporating sustainable development and social responsibility into the company’s strategy, identifying related risks and opportunities, promoting long-term value creation."
+                },
+                {
+                    "Name": "Diversifying Investment Portfolio",
+                    "Description": "Diversifying investment portfolio to mitigate concentration risk and enhance returns, while considering market conditions and risk appetite."
+                }
+            ]
+        }
+    ],
+    "Generated Outline": "I. Introduction\n   A. Purpose of the Report\n   B. Company Information\n      1. Name: MediaCorp\n      2. Establishment Date: January 1, 2000\n      3. Main Business: Media production and distribution\n      4. Registration Location: New York, United States\n      5. Listing Status: Publicly listed on NYSE\n      6. Industry: Media\n   C. Report Time: 2018\n\nII. Governance Structure\n   A. Ethics and Integrity Incidents (January, 2018)\n      1. Description: Significant ethical or integrity violations, such as fraud, corruption, or conflicts of interest, and the measures taken by the company in response.\n      2. Impact: May damage the company's reputation and brand value, affecting relationships with investors, customers, and partners.\n      3. Enhancement of Internal Controls (Q1 2018)\n         - Description: MediaCorp implemented a comprehensive review and enhancement of its internal controls, including the implementation of additional monitoring and reporting mechanisms, to prevent and detect ethical and integrity incidents.\n         - Impact: Strengthened internal controls mitigate the risk of future incidents and reinforce the company's commitment to ethics and integrity, enhancing relationships with stakeholders.\n      4. Revised Code of Conduct (February 2018)\n         - Description: MediaCorp revised its Code of Conduct to explicitly address various ethical aspects, such as fraud, corruption, and conflicts of interest. The revised code emphasized the expected behavior of employees, directors, and other stakeholders.\n         - Impact: The revised Code of Conduct sets a clearer ethical framework, providing guidance to employees and promoting a culture of integrity within the organization.\n      5. Whistleblower Protection Program Implementation (March 2018)\n         - Description: MediaCorp established a robust Whistleblower Protection Program, enabling employees and stakeholders to report concerns or suspected ethical violations anonymously and without fear of retaliation. The program includes a designated reporting channel and strict confidentiality measures.\n         - Impact: The Whistleblower Protection Program encourages the reporting of potential incidents, facilitating the timely detection and resolution of ethical and integrity issues within the company.\n  B. Senior Management Changes (February, 2018)\n      - Description: Changes in the company’s senior management, including the CEO or other key positions, and its impact on the company's operational focus and priorities.\n      - Impact: May lead to adjustments in operational focus and strategic priorities, affecting short-term performance and long-term development.\n  C. Annual Shareholders' Dividend Distribution (April, 2018)\n      - Description: The distribution of dividends to shareholders based on the company's financial performance in the fiscal year.\n      - Impact: Rewards shareholders and improves investor confidence in the company's financial strength and future prospects.\n  D. Corporate Governance Policy Revision (May, 2018)\n      - Description: Revision of the corporate governance framework or policies to enhance transparency, accountability, or stakeholder engagement.\n      - Impact: Enhances corporate governance transparency and accountability, boosting stakeholder confidence.\n  E. Board of Directors Change (June, 2018)\n      - Description: The appointment or resignation of board members, and its impact on the company's strategic direction.\n      - Impact: May lead to strategic adjustments, affecting the company’s long-term development direction and shareholder interests.\n  F. Successful Acquisition of a Competing Media Company (July, 2018)\n      - Description: The strategic acquisition of a competing media company to expand market share and consolidate industry position.\n      - Impact: Increases the company's market presence and potential revenue streams, leading to potential cost synergies.\n  G. Compliance and Regulatory Updates (August, 2018)\n      - Description: Updates to new regulations or compliance standards affecting corporate governance practices, including changes in securities law, corporate law, or specific industry regulations.\n      - Impact: Ensures compliance with the latest laws and regulations, reducing legal risk, protecting the company and shareholder interests.\n  H. Sustainability and Social Responsibility Initiatives (September, 2018)\n      - Description: Significant progress in sustainability, environmental protection, social responsibility, and corporate citizenship.\n      - Impact: Enhances the company’s public image and market competitiveness, promoting long-term sustainable development.\n  I. Shareholders' Meeting Resolution (November, 2018)\n      - Description: Key decisions made at the annual or extraordinary shareholders’ meeting, including changes to the company’s charter, major corporate actions, and voting results.\n      - Impact: Directly affects the company’s governance structure, future operational strategies, and shareholder rights.\n  J. Risk Management Measures (December, 2018)\n      - Description: Updates to the company's risk management framework, including identification of new risks and implementation of mitigation strategies.\n      - Impact: Improves the company’s ability to respond to internal and external risks, ensuring continuous operation and stable development.\n\nIII. Involved Indicators\n  A. Information Disclosure\n      - Description: Principles, methods, and implementation status of company information disclosure.\n      - Value: Regular and comprehensive information disclosure through official company statements, press releases, and annual reports.\n  B. Related Transactions\n      - Description: Policies, procedures, and measures to ensure fairness and compliance of related transactions.\n      - Value: Strict policies governing related transactions to ensure fairness, transparency, and compliance with applicable laws and regulations.\n  C. Internal Control\n      - Description: Architecture, implementation, and effectiveness assessment of internal controls.\n      - Value: Robust internal control system to ensure accuracy and reliability of financial reporting, mitigate risks, and safeguard assets.\n\nIV. Additional Information\n  A. Governance Improvement Plans\n      1. Strengthening the Function of the Board of Directors and Supervisory Board\n        - Description: Enhancing the efficiency and effectiveness of the board of directors and supervisory board in corporate governance, including regular training, increasing the proportion of independent directors, optimizing decision-making processes.\n      2. Enhancing Transparency and Quality of Information Disclosure\n        - Description: Improving the information disclosure process and standards to ensure timely, accurate, and comprehensive reporting to all stakeholders.\n      3. Establishing a Whistleblower Program\n        - Description: Implementing a whistleblower program to encourage employees to report any unethical or illegal activities within the company and protect whistleblowers from retaliation.\n  B. Risk Management Strategy\n      1. Strengthening the Internal Control System\n        - Description: Establishing and improving the internal control system to identify, assess, monitor, and report financial and operational risks, enhancing the company's ability to withstand risks.\n      2. Integrating Sustainable Development and Social Responsibility\n        - Description: Incorporating sustainable development and social responsibility into the company’s strategy, identifying related risks and opportunities, promoting long-term value creation.\n      3. Diversifying Investment Portfolio\n        - Description: Diversifying investment portfolio to mitigate concentration risk and enhance returns, while considering market conditions and risk appetite.",
+    "Generated Summary": "MediaCorp, established on January 1, 2000, is a publicly listed media company on the NYSE, headquartered in New York, United States, specializing in media production and distribution.",
+    "Generated Article": "In 2018, MediaCorp faced several significant governance challenges and implemented various measures to address them. In January, the company experienced ethics and integrity incidents that could potentially damage its reputation and brand value. To prevent future incidents, MediaCorp undertook a comprehensive review and enhancement of its internal controls in the first quarter of 2018. This included the implementation of additional monitoring and reporting mechanisms, strengthening the company's ability to detect and prevent ethical and integrity violations. The impact of these enhanced internal controls is expected to mitigate the risk of future incidents and reinforce the company's commitment to ethics and integrity, enhancing relationships with stakeholders.\n\nIn February, MediaCorp revised its Code of Conduct to explicitly address various ethical aspects, such as fraud, corruption, and conflicts of interest. The revised code emphasized the expected behavior of employees, directors, and other stakeholders, setting a clearer ethical framework within the organization. This revision is expected to provide guidance to employees and promote a culture of integrity.\n\nIn March, MediaCorp established a robust Whistleblower Protection Program, allowing employees and stakeholders to report concerns or suspected ethical violations anonymously and without fear of retaliation. The program includes a designated reporting channel and strict confidentiality measures. The implementation of this program is expected to encourage the reporting of potential incidents, facilitating the timely detection and resolution of ethical and integrity issues within the company.\n\nIn February, MediaCorp also experienced senior management changes, including the appointment of a new CEO. These changes may lead to adjustments in operational focus and strategic priorities, potentially affecting the company's short-term performance and long-term development.\n\nIn April, MediaCorp distributed dividends to its shareholders based on the company's financial performance in the fiscal year. This distribution rewards shareholders and improves investor confidence in the company's financial strength and future prospects.\n\nIn May, MediaCorp revised its corporate governance policies to enhance transparency, accountability, and stakeholder engagement. This revision is expected to enhance corporate governance transparency and accountability, boosting stakeholder confidence.\n\nIn June, there was a change in the board of directors, which may lead to strategic adjustments and affect the company's long-term development direction and shareholder interests.\n\nIn July, MediaCorp successfully acquired a competing media company, expanding its market share and consolidating its industry position. This acquisition is expected to increase the company's market presence and potential revenue streams, leading to potential cost synergies.\n\nIn August, MediaCorp ensured compliance with the latest regulations and standards affecting corporate governance practices, reducing legal risk and protecting the company and shareholder interests.\n\nIn September, MediaCorp made significant progress in sustainability, environmental protection, social responsibility, and corporate citizenship. These initiatives enhance the company's public image and market competitiveness, promoting long-term sustainable development.\n\nIn November, key decisions were made at the annual shareholders' meeting, directly affecting the company's governance structure, future operational strategies, and shareholder rights.\n\nIn December, MediaCorp updated its risk management framework, identifying new risks and implementing mitigation strategies. These measures improve the company's ability to respond to internal and external risks, ensuring continuous operation and stable development.\n\nThroughout the year, MediaCorp focused on information disclosure, related transactions, and internal control. The company prioritized regular and comprehensive information disclosure through official statements, press releases, and annual reports. MediaCorp also implemented policies, procedures, and measures to ensure fairness and compliance in related transactions. Additionally, the company established a robust internal control system to ensure the accuracy and reliability of financial reporting, mitigate risks, and safeguard assets.\n\nLooking ahead, MediaCorp has outlined governance improvement plans, including strengthening the function of the board of directors and supervisory board, enhancing transparency and the quality of information disclosure, and establishing a whistleblower program. These plans aim to enhance corporate governance, transparency, and accountability within the organization.\n\nIn terms of risk management, MediaCorp aims to strengthen its internal control system, integrate sustainable development and social responsibility into its strategy, and diversify its investment portfolio to mitigate concentration risk and enhance returns.\n\nOverall, MediaCorp's governance structure and initiatives in 2018 demonstrate the company's commitment to ethics, transparency, and stakeholder engagement. Through the implementation of various measures, MediaCorp aims to enhance its reputation, strengthen its internal controls, and ensure long-term sustainable development.",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "When was the Whistleblower Protection Program implemented by MediaCorp?",
+            "answer": "March 2018.",
+            "ref": [
+                "In March, MediaCorp established a robust Whistleblower Protection Program, allowing employees and stakeholders to report concerns or suspected ethical violations anonymously and without fear of retaliation."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "When did MediaCorp experience senior management changes?",
+            "answer": "February 2018.",
+            "ref": [
+                "In February, MediaCorp also experienced senior management changes, including the appointment of a new CEO."
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How did MediaCorp's response to ethics and integrity incidents in January 2018, including the enhancement of internal controls, the revision of the Code of Conduct, and the implementation of a Whistleblower Protection Program, contribute to enhanced relationships with stakeholders?",
+            "answer": "MediaCorp's response to the ethics and integrity incidents in January 2018 included several measures: enhancing internal controls to prevent and detect future incidents, revising the Code of Conduct to provide clearer ethical guidelines, and implementing a Whistleblower Protection Program to encourage the reporting of potential issues. These actions collectively reinforced the company's commitment to ethics and integrity, thereby enhancing trust and relationships with stakeholders.",
+            "ref": [
+                "In January, the company experienced ethics and integrity incidents that could potentially damage its reputation and brand value.",
+                "To prevent future incidents, MediaCorp undertook a comprehensive review and enhancement of its internal controls in the first quarter of 2018.",
+                "This included the implementation of additional monitoring and reporting mechanisms, strengthening the company's ability to detect and prevent ethical and integrity violations.",
+                "The impact of these enhanced internal controls is expected to mitigate the risk of future incidents and reinforce the company's commitment to ethics and integrity, enhancing relationships with stakeholders.",
+                "In February, MediaCorp revised its Code of Conduct to explicitly address various ethical aspects, such as fraud, corruption, and conflicts of interest.",
+                "The revised code emphasized the expected behavior of employees, directors, and other stakeholders, setting a clearer ethical framework within the organization.",
+                "This revision is expected to provide guidance to employees and promote a culture of integrity.",
+                "In March, MediaCorp established a robust Whistleblower Protection Program, allowing employees and stakeholders to report concerns or suspected ethical violations anonymously and without fear of retaliation.",
+                "The program includes a designated reporting channel and strict confidentiality measures.",
+                "The implementation of this program is expected to encourage the reporting of potential incidents, facilitating the timely detection and resolution of ethical and integrity issues within the company."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How did the senior management changes at MediaCorp in February 2018 lead to adjustments in operational focus and strategic priorities, and what was the impact on the company's long-term development?",
+            "answer": "The senior management changes at MediaCorp in February 2018 led to a reassessment of the company's operational focus and strategic priorities. These adjustments aimed to align the company's operations with the new leadership's vision, potentially affecting short-term performance but ultimately positioning the company for better long-term development by ensuring that strategic initiatives were more effectively executed.",
+            "ref": [
+                "In February, MediaCorp also experienced senior management changes, including the appointment of a new CEO.",
+                "These changes may lead to adjustments in operational focus and strategic priorities, potentially affecting the company's short-term performance and long-term development."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How did MediaCorp's successful acquisition of a competing media company in July 2018 lead to the expansion of its market share and consolidation of its industry position, and what were the potential cost synergies resulting from this acquisition?",
+            "answer": "The acquisition of a competing media company in July 2018 allowed MediaCorp to expand its market share and consolidate its position within the industry. This strategic move increased the company's market presence and potential revenue streams. Additionally, the acquisition created opportunities for cost synergies, such as reduced operational costs and improved resource allocation, enhancing overall efficiency and profitability.",
+            "ref": [
+                "In July, MediaCorp successfully acquired a competing media company, expanding its market share and consolidating its industry position.",
+                "This acquisition is expected to increase the company's market presence and potential revenue streams, leading to potential cost synergies."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How did the revision of MediaCorp's corporate governance policy in May 2018 enhance transparency and accountability, and how did these improvements boost stakeholder confidence?",
+            "answer": "The revision of MediaCorp's corporate governance policy in May 2018 focused on enhancing transparency and accountability. By implementing more rigorous governance frameworks and policies, the company ensured that its operations were more transparent and accountable to stakeholders. These improvements fostered greater trust and confidence among stakeholders, as they could see the company's commitment to ethical and responsible governance.",
+            "ref": [
+                "In May, MediaCorp revised its corporate governance policies to enhance transparency, accountability, and stakeholder engagement.",
+                "This revision is expected to enhance corporate governance transparency and accountability, boosting stakeholder confidence."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How did MediaCorp's sustainability and social responsibility initiatives in September 2018 enhance its public image and market competitiveness, and how did these enhancements promote long-term sustainable development?",
+            "answer": "MediaCorp's sustainability and social responsibility initiatives in September 2018 significantly enhanced its public image by demonstrating a commitment to environmental protection and social responsibility. These initiatives also improved market competitiveness by meeting the growing consumer demand for responsible corporate behavior. Together, these enhancements promoted long-term sustainable development by aligning the company's operations with broader societal values and expectations, ensuring continued support from stakeholders and the market.",
+            "ref": [
+                "In September, MediaCorp made significant progress in sustainability, environmental protection, social responsibility, and corporate citizenship.",
+                "These initiatives enhance the company's public image and market competitiveness, promoting long-term sustainable development."
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "Based on MediaCorp's 2018 report, summarize the key events and changes in the company's governance structure.",
+            "answer": "In 2018, MediaCorp experienced several significant events and changes in its governance structure. In January, the company faced significant ethical and integrity incidents, prompting a comprehensive review and enhancement of internal controls. In February, MediaCorp revised its Code of Conduct and experienced senior management changes, including the appointment of a new CEO. In March, the company implemented a Whistleblower Protection Program. In April, MediaCorp distributed dividends to shareholders. In May, the corporate governance policy was revised to enhance transparency and accountability. In June, there were changes in the Board of Directors. In July, MediaCorp successfully acquired a competing media company. In August, the company updated its compliance and regulatory standards. In September, significant progress was made in sustainability and social responsibility initiatives. In November, key decisions were made at the shareholders' meeting, and in December, updates were made to the company's risk management framework.",
+            "ref": [
+                "In January, the company experienced ethics and integrity incidents that could potentially damage its reputation and brand value.",
+                "To prevent future incidents, MediaCorp undertook a comprehensive review and enhancement of its internal controls in the first quarter of 2018.",
+                "This included the implementation of additional monitoring and reporting mechanisms, strengthening the company's ability to detect and prevent ethical and integrity violations.",
+                "In February, MediaCorp revised its Code of Conduct to explicitly address various ethical aspects, such as fraud, corruption, and conflicts of interest.",
+                "The revised code emphasized the expected behavior of employees, directors, and other stakeholders, setting a clearer ethical framework within the organization.",
+                "This revision is expected to provide guidance to employees and promote a culture of integrity.",
+                "In March, MediaCorp established a robust Whistleblower Protection Program, allowing employees and stakeholders to report concerns or suspected ethical violations anonymously and without fear of retaliation.",
+                "The program includes a designated reporting channel and strict confidentiality measures.",
+                "The implementation of this program is expected to encourage the reporting of potential incidents, facilitating the timely detection and resolution of ethical and integrity issues within the company.",
+                "In February, MediaCorp also experienced senior management changes, including the appointment of a new CEO.",
+                "These changes may lead to adjustments in operational focus and strategic priorities, potentially affecting the company's short-term performance and long-term development.",
+                "In April, MediaCorp distributed dividends to its shareholders based on the company's financial performance in the fiscal year.",
+                "In May, MediaCorp revised its corporate governance policies to enhance transparency, accountability, and stakeholder engagement.",
+                "This revision is expected to enhance corporate governance transparency and accountability, boosting stakeholder confidence.",
+                "In June, there was a change in the board of directors, which may lead to strategic adjustments and affect the company's long-term development direction and shareholder interests.",
+                "In July, MediaCorp successfully acquired a competing media company, expanding its market share and consolidating its industry position.",
+                "In August, MediaCorp ensured compliance with the latest regulations and standards affecting corporate governance practices, reducing legal risk and protecting the company and shareholder interests.",
+                "In September, MediaCorp made significant progress in sustainability, environmental protection, social responsibility, and corporate citizenship.",
+                "In November, key decisions were made at the annual shareholders' meeting, directly affecting the company's governance structure, future operational strategies, and shareholder rights.",
+                "In December, MediaCorp updated its risk management framework, identifying new risks and implementing mitigation strategies."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "Based on MediaCorp's 2018 report, summarize the company's sustainability and social responsibility initiatives.",
+            "answer": "In 2018, MediaCorp made significant progress in sustainability and social responsibility initiatives. The company focused on enhancing its public image and market competitiveness through various measures. These initiatives collectively improved the company's environmental performance and fulfilled its social responsibility commitments.",
+            "ref": [
+                "In September, MediaCorp made significant progress in sustainability, environmental protection, social responsibility, and corporate citizenship.",
+                "These initiatives enhance the company's public image and market competitiveness, promoting long-term sustainable development."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "Based on MediaCorp's 2018 report, summarize the risk management measures implemented by the company.",
+            "answer": "In 2018, MediaCorp implemented several risk management measures to enhance its ability to respond to internal and external risks. The company updated its risk management framework in December, identifying new risks and implementing mitigation strategies. Additionally, MediaCorp strengthened its internal control system to ensure the accuracy and reliability of financial reporting, mitigate risks, and safeguard assets. The company also focused on information disclosure and related transactions to ensure fairness and compliance. These measures collectively improved MediaCorp's risk management capabilities, ensuring continuous operation and stable development.",
+            "ref": [
+                "In December, MediaCorp updated its risk management framework, identifying new risks and implementing mitigation strategies.",
+                "These measures improve the company's ability to respond to internal and external risks, ensuring continuous operation and stable development.",
+                "Additionally, the company established a robust internal control system to ensure the accuracy and reliability of financial reporting, mitigate risks, and safeguard assets."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "Based on MediaCorp's 2018 report, summarize the corporate governance improvements planned by the company.",
+            "answer": "In 2018, MediaCorp outlined several plans to improve its corporate governance. The company aimed to strengthen the function of the Board of Directors and Supervisory Board, enhance the transparency and quality of information disclosure, and establish a Whistleblower Program. These improvements were designed to boost stakeholder confidence and promote better corporate governance practices.",
+            "ref": [
+                "Looking ahead, MediaCorp has outlined governance improvement plans, including strengthening the function of the board of directors and supervisory board, enhancing transparency and the quality of information disclosure, and establishing a whistleblower program.",
+                "These plans aim to enhance corporate governance, transparency, and accountability within the organization."
+            ]
+        }
+    ]
+}

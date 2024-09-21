@@ -1,0 +1,149 @@
+**Hospitalization Record**
+
+**Basic Information:**
+Name: C. Cruz
+Gender: female
+Age: 65
+Ethnicity: Hispanic
+Marital Status: Widowed
+Occupation: Retired
+Address: 7, Ashland street, Indianola
+Admission Time: 17th, February
+Record Time: 17th, February, 14:30
+Historian: C. Cruz
+Hospital Name: Indianola General Hospital
+
+**Chief Complaint:**
+Fever, chills, back pain for 2 days
+
+**Present Illness:**
+Onset: Symptoms started abruptly 2 days ago with high fever and chills while at home.
+Main Symptoms: Unilateral back pain on the right side, severe and constant, not relieved by rest, accompanied by nausea and vomiting.
+Accompanying Symptoms: Fever (38.8°C), urgency, frequent urination with burning sensation.
+Diagnosis and Treatment History: Took acetaminophen with minimal relief. No previous treatments or hospital visits for this episode.
+General Condition Changes: Decreased appetite, normal bowel movements, increased urinary frequency, disturbed sleep due to pain.
+
+**Past History:**
+General Health Condition: Generally healthy, with well-managed hypertension.
+Disease History: Hypertension for 10 years.
+Infectious Disease History: Chickenpox during childhood.
+Immunization History: Up to date with routine vaccinations.
+Surgery and Trauma History: Appendectomy at age 30.
+Blood Transfusion History: No history of blood transfusion.
+Allergy History: No known allergies.
+
+**Personal History:**
+Birthplace: Indianola, Iowa.
+Residence: Indianola, Iowa.
+Living Habits: Non-smoker, occasional alcohol consumer.
+Occupation and Working Conditions: Former teacher, retired for 5 years.
+Exposure History: No known exposure to industrial toxins, dust, or radioactive substances.
+Travel History: No recent travel history.
+
+**Marital and Family History:**
+Marital History: 
+- Marital Status: Widowed.
+- Marriage Age: 25.
+- Spouse’s Health Condition: Deceased.
+- Children’s Condition: Two children, both in good health.
+
+Menstrual History:
+- Menarche Age: 13.
+- Menstruation Duration: 5 days.
+- Menstruation Interval: 28 days.
+- Last Menstruation: Menopause at age 50.
+- Menstrual Volume: Normal.
+- Dysmenorrhea: Mild.
+
+Family History: 
+- Father had hypertension and heart disease.
+- Mother had diabetes.
+- No family history of similar diseases or genetic tendencies.
+
+**Physical Examination:**
+General Condition:
+- Temperature: 38.8°C
+- Pulse: 90 bpm
+- Respiration: 18 breaths/min
+- Blood Pressure: 140/85 mmHg
+
+Systematic Examination:
+- Skin: No rashes or lesions.
+- Mucous Membranes: Moist, no pallor, cyanosis, or jaundice.
+- Lymph Nodes: No enlargement detected.
+- Head and Organs: No abnormalities.
+- Neck: Supple, no jugular vein distention.
+- Chest: Clear breath sounds, normal heart sounds.
+- Abdomen: Soft, non-tender, no organomegaly.
+- Rectum and Anus: Not examined.
+- External Genitalia: No abnormalities.
+- Spine: Tenderness over the right lumbar area.
+- Limbs: No edema, normal range of motion.
+- Nervous System: No focal neurological deficits.
+
+**Specialist Examination:**
+Costovertebral angle tenderness on the right side.
+
+**Auxiliary Examination:**
+- Urinalysis: Shows pyuria and bacteriuria. Urine culture pending.
+- CBC: Shows elevated WBC count.
+
+**Preliminary Diagnosis:**
+Acute Pyelonephritis
+
+**Diagnostic Basis:**
+History of fever, chills, unilateral back pain, frequent urination, and burning sensation; physical examination consistent with right-sided costovertebral angle tenderness; supportive lab findings (WBC, urinalysis).
+
+**Differential Diagnosis:**
+- Ruled out acute cystitis due to the presence of systemic symptoms (fever and chills) and costovertebral angle tenderness.
+- Ruled out cholecystitis and pancreatitis based on lack of upper abdominal pain and relevant laboratory findings.
+- Ruled out pelvic inflammatory disease due to lack of pelvic pain and discharge.
+- Ruled out febrile diseases based on urine findings and localized back pain.
+
+**Admission Records:**
+Physician's Signature: Dr. Emily Watson
+
+**Post-Admission Course Records:**
+First Course Record: Patient admitted with acute pyelonephritis. Initiated intravenous antibiotics (Ceftriaxone). Symptomatic treatment with antipyretics and analgesics. Monitor vitals, fluid intake, and output closely.
+Daily Course Records:
+- Day 1: Patient's fever reduced, still experiencing back pain, urine culture positive for E. coli, continue antibiotics.
+- Day 2: Marked improvement, pain significantly reduced, continue current treatment.
+Senior Physician Rounds Records: Reviewed case, agrees with treatment plan, continue current management.
+Difficult Case Discussion Records: No difficult case discussions conducted.
+Handover Records: Handover to night shift, patient's vitals stable, continue monitoring.
+Transfer Records: No transfers.
+Stage Summary: Patient showing significant improvement after 2 days of treatment, continue antibiotics, reevaluate after 3 more days.
+Emergency Records: No emergency events.
+Invasive Procedure Records: Not applicable.
+Consultation Records: Not applicable.
+Discharge Records: To be completed upon discharge.
+Critically Ill Patient Care Records: Not applicable.
+
+**Medical Orders:**
+Long-term Orders:
+- Ceftriaxone 1g IV q24h
+- Antipyretics PRN
+- Maintain strict I/O charting
+- Monitor vitals q4h
+
+Temporary Orders:
+- IV fluids (Normal Saline) at 75ml/hr
+- Acetaminophen 500mg q6h PRN for fever
+
+**Auxiliary Examination Reports:**
+- CBC: WBC 15,000/uL
+- Urinalysis: Positive for WBCs, Positive for bacteria
+- Urine culture: E. coli
+
+**Temperature Chart:**
+- Day 1: Temp 38.8°C, Pulse 90 bpm, Resp 18/min, BP 140/85 mmHg.
+- Day 2: Temp 37.5°C, Pulse 84 bpm, Resp 18/min, BP 135/80 mmHg.
+
+**Blood Transfusion Consent:**
+Not applicable.
+
+**Special Examination Consent:**
+Not applicable.
+
+**Critical Condition Notice:**
+Not applicable.

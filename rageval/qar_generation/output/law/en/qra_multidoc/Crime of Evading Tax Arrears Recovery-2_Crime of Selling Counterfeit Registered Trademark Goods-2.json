@@ -1,0 +1,126 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Riverside, Glenwood, Court and Trenton, Vandalia, Court, what are the occupations of the defendants X. Morgan and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Occupation**: Owner of Morgan & Co.",
+                        "X. Morgan, a seasoned business professional, operates Morgan & Co.",
+                        "Consulting, a firm engaged in providing business consultancy services."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "Occupation: Owner of a Retail Store"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Riverside, Glenwood, Court, the defendant X. Morgan is the owner of Morgan & Co. Consulting; according to the judgment of Trenton, Vandalia, Court, the defendant G. Torres is the owner of a retail store."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Riverside, Glenwood, Court and Trenton, Vandalia, Court, what crimes did the defendants X. Morgan and G. Torres commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "The defendant, X. Morgan, was charged with the crime of evading tax arrears recovery under Article 203.",
+                        "**Count**: Crime of Evading Tax Arrears Recovery under Article 203"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "G. Torres was charged under Article No. 214 for the Crime of Selling Counterfeit Registered Trademark Goods.",
+                        "**Crime**: Crime of Selling Counterfeit Registered Trademark Goods"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Riverside, Glenwood, Court, the defendant X. Morgan committed the crime of evading tax arrears recovery; according to the judgment of Trenton, Vandalia, Court, the defendant G. Torres committed the crime of selling counterfeit registered trademark goods."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Riverside, Glenwood, Court and Trenton, Vandalia, Court, what were the sentences for the defendants X. Morgan and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Sentence**: The defendant, X. Morgan, is sentenced to 5 years imprisonment, with 3 years probation post-release and a fine of $600,000.",
+                        "This sentence takes into account the significant financial loss incurred by the state, the deliberate and calculated nature of the crimes committed, the compelling evidence presented by the prosecution, and the absence of a prior criminal record."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000.",
+                        "The sentence represents a balanced approach, recognizing the severity of the crime while acknowledging the defendant's cooperation, lack of prior offenses, and proactive steps to prevent future occurrences."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Riverside, Glenwood, Court, the defendant X. Morgan was sentenced to 5 years imprisonment, 3 years probation, and fined $600,000; according to the judgment of Trenton, Vandalia, Court, the defendant G. Torres was sentenced to three years of fixed-term imprisonment, with a suspension for five years, and a fine of $30,000."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Riverside Glenwood Court and Trenton Vandalia Court, whose sentencing time is longer, X. Morgan or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Sentence**: The defendant, X. Morgan, is sentenced to 5 years imprisonment, with 3 years probation post-release and a fine of $600,000."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000."
+                    ]
+                }
+            ],
+            "answer": "X. Morgan was sentenced to five years of imprisonment, while G. Torres was sentenced to three years of fixed-term imprisonment. X. Morgan's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Riverside Glenwood Court and Trenton Vandalia Court, whose total fine amount is greater, X. Morgan or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Sentence**: The defendant, X. Morgan, is sentenced to 5 years imprisonment, with 3 years probation post-release and a fine of $600,000."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000."
+                    ]
+                }
+            ],
+            "answer": "X. Morgan was fined $600,000, while G. Torres was fined $30,000. X. Morgan's total fine amount is greater."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Riverside Glenwood Court and Trenton Vandalia Court, whose judgment time is earlier, X. Morgan or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "This judgment has been recorded and issued under the authority of Riverside, Glenwood Court on this 10th day of August, 2023."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Judgment Issued on 20th March 2023**"
+                    ]
+                }
+            ],
+            "answer": "G. Torres' judgment time is earlier, as it was on 20th March 2023, while X. Morgan's judgment time was on 10th August 2023."
+        }
+    ]
+}

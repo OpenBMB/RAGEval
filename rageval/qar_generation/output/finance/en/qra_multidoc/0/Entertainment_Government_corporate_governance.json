@@ -1,0 +1,150 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the board of directors changes at Entertainment Enterprises Inc. in 2019 and Acme Government Solutions in 2021?",
+            "ref": [
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In February 2019, Entertainment Enterprises Inc. appointed two new independent directors, Jennifer Adams and Michael Collins, to its board of directors.",
+                        "This appointment strengthened the board's decision-making process and positively influenced the company's long-term development direction.",
+                        "With the addition of experienced and knowledgeable directors, Entertainment Enterprises Inc. enhanced its governance structure and prioritized the interests of its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Firstly, the Board of Directors Election took place, leading to changes in the governance structure and operational strategies.",
+                        "The election of new board members brought fresh perspectives and expertise to the company's leadership.",
+                        "In April 2021, a change in the Board of Directors further shaped the company's strategic direction and long-term development.",
+                        "The new board members brought diverse expertise and perspectives, contributing to effective decision-making and governance."
+                    ]
+                }
+            ],
+            "answer": "The appointment of two new independent directors at Entertainment Enterprises Inc. in 2019 strengthened the board's decision-making process, positively influencing the company's long-term development and enhancing shareholder interests. At Acme Government Solutions in 2021, the board of directors change impacted the company's strategic direction and long-term development."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the compliance and regulatory updates at Entertainment Enterprises Inc. in 2019 and Acme Government Solutions in 2021?",
+            "ref": [
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In August 2019, Entertainment Enterprises Inc. proactively updated its compliance practices to adhere to the latest regulatory changes in the entertainment industry.",
+                        "This commitment to compliance ensured that the company operated within the bounds of the law, reducing legal risks and safeguarding its reputation.",
+                        "By staying abreast of evolving regulations, Entertainment Enterprises Inc. demonstrated its dedication to responsible and ethical business practices."
+                    ]
+                },
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Compliance and regulatory updates in March 2021 also played a crucial role in Acme Government Solutions' corporate governance.",
+                        "These updates ensured the company's adherence to laws and regulations, reinforcing its commitment to ethical practices and transparency."
+                    ]
+                }
+            ],
+            "answer": "Entertainment Enterprises Inc. proactively updated its compliance practices in 2019 to adhere to the latest regulatory changes in the entertainment industry, reducing legal risks and safeguarding the company's reputation. Acme Government Solutions' compliance and regulatory updates in 2021 ensured adherence to laws and regulations, impacting the company's compliance status."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What risk management measures were strengthened by Entertainment Enterprises Inc. in 2019 and Acme Government Solutions in 2021?",
+            "ref": [
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In October 2019, Entertainment Enterprises Inc. strengthened its risk management measures in response to emerging risks.",
+                        "This proactive approach to risk management enhanced the company's resilience against internal and external risks, ensuring continuous operations and stable development.",
+                        "By effectively managing risks, Entertainment Enterprises Inc. safeguarded its business and protected the interests of its stakeholders."
+                    ]
+                },
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "In terms of risk management strategy, Acme Government Solutions has focused on strengthening its internal control system, integrating sustainable development and social responsibility into its strategy, and enhancing cybersecurity measures.",
+                        "These efforts aim to identify, assess, monitor, and report risks effectively, while also addressing emerging challenges in the digital landscape."
+                    ]
+                }
+            ],
+            "answer": "Entertainment Enterprises Inc. strengthened its risk management measures in 2019 to improve resilience against internal and external risks, ensuring continuous operations and stable development. Acme Government Solutions, in 2021, focused on identifying, assessing, monitoring, and reporting risks as part of its risk management strategy."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of the Board of Directors changes for Entertainment Enterprises Inc. and Acme Government Solutions. Which company had a change in their Board of Directors earlier?",
+            "ref": [
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In February 2019, Entertainment Enterprises Inc. appointed two new independent directors, Jennifer Adams and Michael Collins, to its board of directors."
+                    ]
+                },
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Firstly, the Board of Directors Election took place, leading to changes in the governance structure and operational strategies."
+                    ]
+                }
+            ],
+            "answer": "Entertainment Enterprises Inc. had a change in their Board of Directors earlier in February 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the senior management changes of Entertainment Enterprises Inc. and Acme Government Solutions. Which company appointed a new CEO earlier?",
+            "ref": [
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "Finally, in December 2019, Entertainment Enterprises Inc. appointed Sarah Johnson as its new Chief Executive Officer."
+                    ]
+                },
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Another sub-event following the Shareholders' Meeting Resolution was the appointment of a new CEO in March 2021."
+                    ]
+                }
+            ],
+            "answer": "Entertainment Enterprises Inc. appointed a new CEO earlier in December 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the compliance and regulatory updates of Entertainment Enterprises Inc. and Acme Government Solutions. Which company updated their compliance practices earlier?",
+            "ref": [
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In August 2019, Entertainment Enterprises Inc. proactively updated its compliance practices to adhere to the latest regulatory changes in the entertainment industry."
+                    ]
+                },
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Compliance and regulatory updates in March 2021 also played a crucial role in Acme Government Solutions' corporate governance."
+                    ]
+                }
+            ],
+            "answer": "Entertainment Enterprises Inc. updated their compliance practices earlier in August 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the launch times of sustainability and social responsibility initiatives of Entertainment Enterprises Inc. and Acme Government Solutions. Which company launched these initiatives earlier?",
+            "ref": [
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In January 2019, Entertainment Enterprises Inc. launched a comprehensive sustainability program aimed at reducing its carbon footprint and implementing environmentally friendly practices."
+                    ]
+                },
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions also made significant progress in sustainability and social responsibility initiatives in June 2021."
+                    ]
+                }
+            ],
+            "answer": "Entertainment Enterprises Inc. launched their sustainability and social responsibility initiatives earlier in January 2019."
+        }
+    ]
+}

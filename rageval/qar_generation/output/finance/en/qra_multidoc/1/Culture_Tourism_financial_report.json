@@ -1,0 +1,427 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the establishment dates of Culture Innovators Ltd. and Sunrise Holidays?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd., established on March 1, 2010, is a publicly listed company based in New York, United States, specializing in providing creative solutions and immersive experiences in the culture industry through interactive exhibitions, digital installations, and educational programs.In January 2021, Culture Innovators Ltd. made a major asset acquisition by acquiring ArtEx, a renowned museum exhibition design company, valued at $50 million."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "Sunrise Holidays is a tourism company based in Sunnyville, Florida, offering travel and tourism services, such as hotel bookings, tour packages, and destination management since its establishment on March 1, 2005.In this report, we will delve into the financial performance of Sunrise Holidays for the year 2019."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. was established on March 1, 2010, and Sunrise Holidays was established on March 1, 2005."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the main businesses of Culture Innovators Ltd. and Sunrise Holidays?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd., established on March 1, 2010, is a publicly listed company based in New York, United States, specializing in providing creative solutions and immersive experiences in the culture industry through interactive exhibitions, digital installations, and educational programs.In January 2021, Culture Innovators Ltd. made a major asset acquisition by acquiring ArtEx, a renowned museum exhibition design company, valued at $50 million."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "Sunrise Holidays is a tourism company based in Sunnyville, Florida, offering travel and tourism services, such as hotel bookings, tour packages, and destination management since its establishment on March 1, 2005.In this report, we will delve into the financial performance of Sunrise Holidays for the year 2019."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. specializes in providing creative solutions and immersive experiences in the culture industry, including designing and producing interactive exhibitions, digital installations, and educational programs. Sunrise Holidays focuses on travel and tourism services, including hotel bookings, tour packages, and destination management."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "Where are the registration locations of Culture Innovators Ltd. and Sunrise Holidays?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd., established on March 1, 2010, is a publicly listed company based in New York, United States, specializing in providing creative solutions and immersive experiences in the culture industry through interactive exhibitions, digital installations, and educational programs.In January 2021, Culture Innovators Ltd. made a major asset acquisition by acquiring ArtEx, a renowned museum exhibition design company, valued at $50 million."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "Sunrise Holidays is a tourism company based in Sunnyville, Florida, offering travel and tourism services, such as hotel bookings, tour packages, and destination management since its establishment on March 1, 2005.In this report, we will delve into the financial performance of Sunrise Holidays for the year 2019."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. is registered in New York, United States, while Sunrise Holidays is registered in Sunnyville, Florida."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "What are the listing statuses of Culture Innovators Ltd. and Sunrise Holidays?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd., established on March 1, 2010, is a publicly listed company based in New York, United States, specializing in providing creative solutions and immersive experiences in the culture industry through interactive exhibitions, digital installations, and educational programs.In January 2021, Culture Innovators Ltd. made a major asset acquisition by acquiring ArtEx, a renowned museum exhibition design company, valued at $50 million."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": []
+                }
+            ],
+            "answer": "Culture Innovators Ltd. is publicly listed, whereas Sunrise Holidays is not publicly listed."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "In which industries do Culture Innovators Ltd. and Sunrise Holidays operate?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd., established on March 1, 2010, is a publicly listed company based in New York, United States, specializing in providing creative solutions and immersive experiences in the culture industry through interactive exhibitions, digital installations, and educational programs.In January 2021, Culture Innovators Ltd. made a major asset acquisition by acquiring ArtEx, a renowned museum exhibition design company, valued at $50 million."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "Sunrise Holidays is a tourism company based in Sunnyville, Florida, offering travel and tourism services, such as hotel bookings, tour packages, and destination management since its establishment on March 1, 2005.In this report, we will delve into the financial performance of Sunrise Holidays for the year 2019."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. operates in the culture industry, while Sunrise Holidays operates in the tourism industry."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the net profits of Culture Innovators Ltd. and Sunrise Holidays?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "The net profit for the accounting period amounted to $12 million, reflecting the company's effective cost control and ability to generate income."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "Sunrise Holidays achieved a net profit of $12 million in 2019, reflecting its overall financial performance."
+                    ]
+                }
+            ],
+            "answer": "The net profit of Culture Innovators Ltd. was $12 million, and the net profit of Sunrise Holidays was also $12 million."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the total assets of Culture Innovators Ltd. and Sunrise Holidays?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd.'s total assets stood at $150 million, driven by the acquisition of ArtEx and other asset-related activities."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "The total assets of Sunrise Holidays amounted to $150 million, representing the total amount of assets owned by the company."
+                    ]
+                }
+            ],
+            "answer": "Both Culture Innovators Ltd. and Sunrise Holidays have total assets valued at $150 million."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the total liabilities of Culture Innovators Ltd. and Sunrise Holidays?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "The company's total liabilities were reduced to $80 million following the successful debt restructuring, improving its financial condition."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "On the other hand, the company's total liabilities stood at $80 million, representing its total amount of debts."
+                    ]
+                }
+            ],
+            "answer": "Both Culture Innovators Ltd. and Sunrise Holidays have total liabilities amounting to $80 million."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What is the shareholder equity of Culture Innovators Ltd. and Sunrise Holidays?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Shareholder equity reached $70 million, influenced by the net profit, dividend distribution, and capital reserves."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "Sunrise Holidays' shareholder equity amounted to $70 million, representing the total amount of equity belonging to its shareholders."
+                    ]
+                }
+            ],
+            "answer": "Both Culture Innovators Ltd. and Sunrise Holidays have shareholder equity valued at $70 million."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the debt restructuring for Culture Innovators Ltd. and Sunrise Holidays?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In July 2021, Culture Innovators Ltd. underwent a successful debt restructuring, resulting in a reduction of liabilities by $15 million.",
+                        "This restructuring improved the company's financial condition and increased its investment opportunities."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "Apart from asset restructuring, Sunrise Holidays also underwent debt restructuring in April, which reduced its liabilities by $5 million.",
+                        "This move significantly improved the company's financial condition and reduced its financial costs."
+                    ]
+                }
+            ],
+            "answer": "The debt restructuring for Culture Innovators Ltd. in July 2021 resulted in a reduction of liabilities by $15 million, improving financial condition and increasing investment opportunities. For Sunrise Holidays, the debt restructuring in April 2019 reduced liabilities by $5 million, improving financial condition and reducing financial costs."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much funding was raised during the large-scale financing activities of Culture Innovators Ltd. and Sunrise Holidays, and what were the impacts?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "To support its expansion plans, Culture Innovators Ltd. successfully raised $30 million in funds from prominent investors in May 2021.",
+                        "This large-scale financing strengthened the company's financial strength and provided the necessary support for its growth initiatives."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "In May, the company raised $20 million through bond issuance, strengthening its financial strength and supporting its expansion and development."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. raised $30 million in May 2021, which strengthened financial strength and supported expansion plans. Sunrise Holidays raised $20 million in May 2019 through bond issuance, which also strengthened financial strength and supported expansion and development."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the significant equity acquisitions made by Culture Innovators Ltd. and Sunrise Holidays, and what were the impacts?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In December 2021, Culture Innovators Ltd. acquired 60% equity of Experience Makers, a significant move that expanded its market share and established the company as a prominent player in the sector."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "Another significant event for Sunrise Holidays was the acquisition of 40% equity of Ocean Breeze Hotels in June.",
+                        "This acquisition further expanded the company's market share and enhanced its control in the industry."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. acquired 60% equity of Experience Makers in December 2021, expanding market share and becoming a prominent player in the sector. Sunrise Holidays acquired 40% equity of Ocean Breeze Hotels in June 2019, further expanding market share and enhancing control."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the major asset acquisitions made by Culture Innovators Ltd. and Sunrise Holidays, and what were the impacts?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd., established on March 1, 2010, is a publicly listed company based in New York, United States, specializing in providing creative solutions and immersive experiences in the culture industry through interactive exhibitions, digital installations, and educational programs.In January 2021, Culture Innovators Ltd. made a major asset acquisition by acquiring ArtEx, a renowned museum exhibition design company, valued at $50 million."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "In July, Sunrise Holidays acquired assets of Sunshine Tours worth $15 million, which not only expanded its business scope but also enhanced its market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. acquired ArtEx, a renowned museum exhibition design company, in January 2021 for $50 million, expanding business scope and enhancing market competitiveness. Sunrise Holidays acquired assets of Sunshine Tours worth $15 million in July 2019, also expanding business scope and enhancing market competitiveness."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the dividend distributions made by Culture Innovators Ltd. and Sunrise Holidays, and what were the impacts?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In October 2021, Culture Innovators Ltd. distributed $5 million in dividends to its shareholders.",
+                        "This dividend distribution not only enhanced shareholder returns but also strengthened the company's partnership with its investors."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "In October, Sunrise Holidays distributed $1 million of dividends to its shareholders, further enhancing shareholder returns."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. distributed $5 million in dividends to shareholders in October 2021, enhancing shareholder returns and strengthening partnerships with investors. Sunrise Holidays distributed $1 million in dividends to shareholders in October 2019, also enhancing shareholder returns."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of Culture Innovators Ltd. in 2021 and Sunrise Holidays in 2019. Which company had higher operating income?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "For instance, the company's operating income reached $75 million, influenced by market demand and changes in product prices."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "The company's operating income for the year was $100 million, which includes total main business income and other business income."
+                    ]
+                }
+            ],
+            "answer": "Sunrise Holidays had higher operating income in 2019 with $100 million compared to Culture Innovators Ltd.'s $75 million in 2021."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of Culture Innovators Ltd. in 2021 and Sunrise Holidays in 2019. Which company had a higher net profit?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "The net profit for the accounting period amounted to $12 million, reflecting the company's effective cost control and ability to generate income."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "Sunrise Holidays achieved a net profit of $12 million in 2019, reflecting its overall financial performance."
+                    ]
+                }
+            ],
+            "answer": "Both Culture Innovators Ltd. in 2021 and Sunrise Holidays in 2019 had the same net profit of $12 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of Culture Innovators Ltd. in 2021 and Sunrise Holidays in 2019. Which company had higher total assets?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd.'s total assets stood at $150 million, driven by the acquisition of ArtEx and other asset-related activities."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "The total assets of Sunrise Holidays amounted to $150 million, representing the total amount of assets owned by the company."
+                    ]
+                }
+            ],
+            "answer": "Both Culture Innovators Ltd. in 2021 and Sunrise Holidays in 2019 had the same total assets of $150 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total liabilities of Culture Innovators Ltd. in 2021 and Sunrise Holidays in 2019. Which company had higher total liabilities?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "The company's total liabilities were reduced to $80 million following the successful debt restructuring, improving its financial condition."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "On the other hand, the company's total liabilities stood at $80 million, representing its total amount of debts."
+                    ]
+                }
+            ],
+            "answer": "Both Culture Innovators Ltd. in 2021 and Sunrise Holidays in 2019 had the same total liabilities of $80 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the debt restructuring efforts of Culture Innovators Ltd. in 2021 and Sunrise Holidays in 2019. Which company reduced more liabilities through debt restructuring?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In July 2021, Culture Innovators Ltd. underwent a successful debt restructuring, resulting in a reduction of liabilities by $15 million."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "Apart from asset restructuring, Sunrise Holidays also underwent debt restructuring in April, which reduced its liabilities by $5 million."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. reduced liabilities by $15 million in 2021, while Sunrise Holidays reduced liabilities by $5 million in 2019. Therefore, Culture Innovators Ltd. reduced more liabilities through debt restructuring."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the asset acquisitions by Culture Innovators Ltd. in 2021 and Sunrise Holidays in 2019. Which company acquired assets earlier?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd., established on March 1, 2010, is a publicly listed company based in New York, United States, specializing in providing creative solutions and immersive experiences in the culture industry through interactive exhibitions, digital installations, and educational programs.In January 2021, Culture Innovators Ltd. made a major asset acquisition by acquiring ArtEx, a renowned museum exhibition design company, valued at $50 million."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "In July, Sunrise Holidays acquired assets of Sunshine Tours worth $15 million, which not only expanded its business scope but also enhanced its market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "Sunrise Holidays acquired assets earlier in July 2019, while Culture Innovators Ltd. acquired assets in January 2021."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distributions of Culture Innovators Ltd. in 2021 and Sunrise Holidays in 2019. Which company distributed more dividends?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In October 2021, Culture Innovators Ltd. distributed $5 million in dividends to its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "In October, Sunrise Holidays distributed $1 million of dividends to its shareholders, further enhancing shareholder returns."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. distributed $5 million in dividends in 2021, while Sunrise Holidays distributed $1 million in dividends in 2019. Therefore, Culture Innovators Ltd. distributed more dividends."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the significant equity acquisitions by Culture Innovators Ltd. in 2021 and Sunrise Holidays in 2019. Which company acquired a larger percentage of equity?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In December 2021, Culture Innovators Ltd. acquired 60% equity of Experience Makers, a significant move that expanded its market share and established the company as a prominent player in the sector."
+                    ]
+                },
+                {
+                    "company_name": "Sunrise Holidays",
+                    "content": [
+                        "Another significant event for Sunrise Holidays was the acquisition of 40% equity of Ocean Breeze Hotels in June."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. acquired 60% equity of Experience Makers in 2021, while Sunrise Holidays acquired 40% equity of Ocean Breeze Hotels in 2019. Therefore, Culture Innovators Ltd. acquired a larger percentage of equity."
+        }
+    ]
+}

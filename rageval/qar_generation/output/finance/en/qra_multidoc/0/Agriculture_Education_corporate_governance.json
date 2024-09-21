@@ -1,0 +1,307 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the ethics and integrity incidents reported by Green Fields Agriculture Ltd. and EduCorp?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "In October 2021, the company faced significant ethical or integrity incidents, which had the potential to damage its reputation and brand value.",
+                        "Green Fields Agriculture Ltd. took immediate measures to address these violations, emphasizing the importance of ethics and integrity in its operations."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In January 2020, EduCorp encountered a case of conflicts of interest within its procurement department.",
+                        "However, the company took immediate action to address the issue and mitigate any potential reputational damage.",
+                        "The involved employees were held accountable, and EduCorp implemented enhanced integrity measures to prevent similar incidents in the future."
+                    ]
+                }
+            ],
+            "answer": "Green Fields Agriculture Ltd. reported significant ethical or integrity violations in October 2021 and took measures to address them, while EduCorp identified and addressed a case of conflicts of interest within its procurement department in January 2020, holding the involved employees accountable and implementing enhanced integrity measures."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "When did Green Fields Agriculture Ltd. and EduCorp revise their corporate governance policies?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "In November 2021, Green Fields Agriculture Ltd. revised its corporate governance policy, aiming to enhance transparency, accountability, and stakeholder confidence."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In April 2020, EduCorp also revised its corporate governance framework, placing a strong emphasis on transparency, accountability, and stakeholder engagement."
+                    ]
+                }
+            ],
+            "answer": "Green Fields Agriculture Ltd. revised its corporate governance policy in November 2021. EduCorp revised its corporate governance framework in April 2020, emphasizing transparency, accountability, and stakeholder engagement."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the senior management changes in Green Fields Agriculture Ltd. and EduCorp?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "In March 2021, Green Fields Agriculture Ltd. underwent significant changes in its senior management, which had a profound impact on the company's operational focus and strategic priorities.",
+                        "The first sub-event was the appointment of a new CEO in January 2021."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In May 2020, EduCorp appointed Lisa Collins as its new CEO.",
+                        "Collins' transformative leadership approach aims to emphasize innovation and expand EduCorp's online platform.",
+                        "This change in senior management may lead to adjustments in operational focus and strategic priorities, potentially impacting both short-term performance and long-term development positively."
+                    ]
+                }
+            ],
+            "answer": "Green Fields Agriculture Ltd. experienced senior management changes in March 2021, including the appointment of a new CEO in January 2021. EduCorp appointed Lisa Collins as its new CEO in May 2020, leading to adjustments in operational focus and strategic priorities."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What sustainability and social responsibility initiatives were undertaken by Green Fields Agriculture Ltd. and EduCorp?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "May 2021 marked significant progress for Green Fields Agriculture Ltd. in sustainability, environmental protection, social responsibility, and corporate citizenship.",
+                        "These initiatives had a positive impact on the company's public image and market competitiveness, as they showcased the company's commitment to promoting sustainable development and responsible business practices."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp demonstrated its commitment to sustainability and social responsibility in June 2020 by partnering with environmental organizations to promote sustainability awareness among students.",
+                        "Additionally, the company initiated scholarship programs for underprivileged students.",
+                        "These initiatives enhance EduCorp's public image, market competitiveness, and contribute to long-term sustainable development."
+                    ]
+                }
+            ],
+            "answer": "Green Fields Agriculture Ltd. made significant progress in sustainability, environmental protection, social responsibility, and corporate citizenship in May 2021, enhancing its public image and market competitiveness. EduCorp partnered with environmental organizations to promote sustainability awareness among students and initiated scholarship programs for underprivileged students in June 2020, enhancing its public image and contributing to long-term sustainable development."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What risk management measures were updated by Green Fields Agriculture Ltd. and EduCorp?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "In June 2021, Green Fields Agriculture Ltd. implemented risk management measures to enhance its ability to respond to risks and ensure continuous operation and stable development.",
+                        "This involved updating the risk management framework, identifying new risks, and implementing mitigation strategies.",
+                        "By proactively addressing potential risks, the company aimed to safeguard its operations and protect the interests of its stakeholders."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In July 2020, EduCorp enhanced its risk management framework by identifying emerging risks in the online education sector and implementing proactive mitigation strategies.",
+                        "These updated risk management measures strengthen EduCorp's ability to respond to internal and external risks, ensuring operational continuity and stable development."
+                    ]
+                }
+            ],
+            "answer": "Green Fields Agriculture Ltd. updated its risk management framework in June 2021, improving its ability to respond to risks and ensuring continuous operation and stable development. EduCorp enhanced its risk management framework in July 2020, identifying emerging risks in the online education sector and implementing proactive mitigation strategies, ensuring operational continuity and stable development."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "When did Green Fields Agriculture Ltd. and EduCorp experience changes in their board of directors?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "Finally, in December 2021, there was a change in the board of directors with the appointment or resignation of board members.",
+                        "This event had the potential to bring about strategic adjustments that could impact the company's long-term development and the interests of its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In October 2020, Steven Johnson was appointed as a new board member, bringing extensive experience in the education industry.",
+                        "Johnson's appointment brings fresh perspectives, enabling strategic adjustments and positively impacting EduCorp's long-term development."
+                    ]
+                }
+            ],
+            "answer": "Green Fields Agriculture Ltd. experienced a change in its board of directors in December 2021, which potentially led to strategic adjustments affecting long-term development and shareholder interests. EduCorp appointed Steven Johnson as a new board member in October 2020, bringing fresh perspectives and enabling strategic adjustments positively impacting long-term development."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the key resolutions passed at the shareholders' meetings of Green Fields Agriculture Ltd. and EduCorp?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "August 2021 witnessed key decisions made at the annual or extraordinary shareholders' meeting, which had a direct impact on the company's governance structure, operational strategies, and shareholder rights.",
+                        "These decisions were crucial in shaping the future direction of Green Fields Agriculture Ltd. and ensuring alignment with the interests of its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "At the annual shareholders' meeting in November 2020, a resolution was passed to increase investment in research and development projects and expand EduCorp's presence in emerging markets.",
+                        "This resolution directly influences EduCorp's governance structure, future operational strategies, and enhances shareholder rights."
+                    ]
+                }
+            ],
+            "answer": "At the shareholders' meeting in August 2021, Green Fields Agriculture Ltd. made key decisions affecting governance structure, operational strategies, and shareholder rights. EduCorp's shareholders' meeting in November 2020 passed a resolution to increase investment in research and development projects and expand its presence in emerging markets, directly influencing its governance structure and future operational strategies."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the senior management changes of Green Fields Agriculture Ltd. and EduCorp. Which company had senior management changes earlier?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "Green Fields Agriculture Ltd., established on April 1, 2005, is a listed NASDAQ company based in Sunnydale, California, specializing in the cultivation and distribution of high-quality organic fruits and vegetables.In March 2021, Green Fields Agriculture Ltd. underwent significant changes in its senior management, which had a profound impact on the company's operational focus and strategic priorities."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In May 2020, EduCorp appointed Lisa Collins as its new CEO.",
+                        "Collins' transformative leadership approach aims to emphasize innovation and expand EduCorp's online platform.",
+                        "This change in senior management may lead to adjustments in operational focus and strategic priorities, potentially impacting both short-term performance and long-term development positively."
+                    ]
+                }
+            ],
+            "answer": "EduCorp had senior management changes earlier in May 2020, while Green Fields Agriculture Ltd. had senior management changes in March 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the corporate governance policy revisions of Green Fields Agriculture Ltd. and EduCorp. Which company revised its corporate governance policy earlier?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "In November 2021, Green Fields Agriculture Ltd. revised its corporate governance policy, aiming to enhance transparency, accountability, and stakeholder confidence.",
+                        "This revision reflected the company's commitment to best practices in corporate governance and its dedication to maintaining strong relationships with its stakeholders."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In April 2020, EduCorp also revised its corporate governance framework, placing a strong emphasis on transparency, accountability, and stakeholder engagement.",
+                        "This revision enhanced corporate governance transparency and accountability, boosting stakeholder confidence in EduCorp."
+                    ]
+                }
+            ],
+            "answer": "EduCorp revised its corporate governance policy earlier in April 2020, while Green Fields Agriculture Ltd. revised its corporate governance policy in November 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the sustainability and social responsibility initiatives of Green Fields Agriculture Ltd. and EduCorp. Which company initiated these initiatives earlier?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "May 2021 marked significant progress for Green Fields Agriculture Ltd. in sustainability, environmental protection, social responsibility, and corporate citizenship.",
+                        "These initiatives had a positive impact on the company's public image and market competitiveness, as they showcased the company's commitment to promoting sustainable development and responsible business practices."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp demonstrated its commitment to sustainability and social responsibility in June 2020 by partnering with environmental organizations to promote sustainability awareness among students.",
+                        "Additionally, the company initiated scholarship programs for underprivileged students.",
+                        "These initiatives enhance EduCorp's public image, market competitiveness, and contribute to long-term sustainable development."
+                    ]
+                }
+            ],
+            "answer": "EduCorp initiated its sustainability and social responsibility initiatives earlier in June 2020, while Green Fields Agriculture Ltd. initiated these initiatives in May 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the board of directors changes of Green Fields Agriculture Ltd. and EduCorp. Which company had changes in its board of directors earlier?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "Finally, in December 2021, there was a change in the board of directors with the appointment or resignation of board members.",
+                        "This event had the potential to bring about strategic adjustments that could impact the company's long-term development and the interests of its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In October 2020, Steven Johnson was appointed as a new board member, bringing extensive experience in the education industry.",
+                        "Johnson's appointment brings fresh perspectives, enabling strategic adjustments and positively impacting EduCorp's long-term development."
+                    ]
+                }
+            ],
+            "answer": "EduCorp had changes in its board of directors earlier in October 2020, while Green Fields Agriculture Ltd. had changes in December 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the shareholders' meeting resolutions of Green Fields Agriculture Ltd. and EduCorp. Which company held its shareholders' meeting earlier?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "August 2021 witnessed key decisions made at the annual or extraordinary shareholders' meeting, which had a direct impact on the company's governance structure, operational strategies, and shareholder rights.",
+                        "These decisions were crucial in shaping the future direction of Green Fields Agriculture Ltd. and ensuring alignment with the interests of its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "At the annual shareholders' meeting in November 2020, a resolution was passed to increase investment in research and development projects and expand EduCorp's presence in emerging markets.",
+                        "This resolution directly influences EduCorp's governance structure, future operational strategies, and enhances shareholder rights."
+                    ]
+                }
+            ],
+            "answer": "EduCorp held its shareholders' meeting earlier in November 2020, while Green Fields Agriculture Ltd. held its shareholders' meeting in August 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the compliance and regulatory updates of Green Fields Agriculture Ltd. and EduCorp. Which company updated its compliance and regulatory practices earlier?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "In April 2021, Green Fields Agriculture Ltd. faced updates to regulations affecting corporate governance practices.",
+                        "These updates were implemented to ensure compliance, reduce legal risk, and protect the company and its shareholders.",
+                        "The company actively responded to these changes, adapting its governance structure accordingly."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In December 2020, EduCorp updated its compliance practices to adhere to newly implemented education regulations in the country.",
+                        "These updates ensure EduCorp's compliance with the latest laws and regulations, minimizing legal risk and protecting the company and shareholders' interests."
+                    ]
+                }
+            ],
+            "answer": "EduCorp updated its compliance and regulatory practices earlier in December 2020, while Green Fields Agriculture Ltd. updated its practices in April 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the ethics and integrity incidents of Green Fields Agriculture Ltd. and EduCorp. Which company addressed these incidents earlier?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "In October 2021, the company faced significant ethical or integrity incidents, which had the potential to damage its reputation and brand value.",
+                        "Green Fields Agriculture Ltd. took immediate measures to address these violations, emphasizing the importance of ethics and integrity in its operations.",
+                        "The company recognized the need to rebuild trust with stakeholders and restore its reputation."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp, established in March 2005 in the City of Education, Country A, is a publicly listed company in the education industry that offers educational services through online platforms and physical learning centers.In January 2020, EduCorp encountered a case of conflicts of interest within its procurement department.",
+                        "However, the company took immediate action to address the issue and mitigate any potential reputational damage.",
+                        "The involved employees were held accountable, and EduCorp implemented enhanced integrity measures to prevent similar incidents in the future.",
+                        "This proactive response demonstrated EduCorp's commitment to maintaining trust and transparency with its investors, customers, and partners."
+                    ]
+                }
+            ],
+            "answer": "EduCorp addressed ethics and integrity incidents earlier in January 2020, while Green Fields Agriculture Ltd. addressed these incidents in October 2021."
+        }
+    ]
+}

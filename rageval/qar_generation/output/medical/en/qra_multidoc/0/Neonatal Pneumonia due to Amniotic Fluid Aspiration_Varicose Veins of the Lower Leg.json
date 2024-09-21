@@ -1,0 +1,141 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Richmond General Hospital and Kingsport General Hospital, what are the diagnoses for patients M. Young and A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Richmond General Hospital_M. Young",
+                    "content": [
+                        "Neonatal Pneumonia due to Amniotic Fluid Aspiration",
+                        "Diagnostic Basis"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Varicose Veins of the Lower Leg (Right).",
+                        "Diagnostic Basis:"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Richmond General Hospital, patient M. Young was diagnosed with Neonatal Pneumonia due to Amniotic Fluid Aspiration; according to the hospitalization records of Kingsport General Hospital, patient A. Davis was diagnosed with Varicose Veins of the Lower Leg."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Richmond General Hospital and Kingsport General Hospital, when were patients M. Young and A. Davis admitted?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Richmond General Hospital_M. Young",
+                    "content": [
+                        "Admission Time: 28th, February"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Admission Time: 1st, March"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Richmond General Hospital, patient M. Young was admitted on 28th, February; according to the hospitalization records of Kingsport General Hospital, patient A. Davis was admitted on 1st, March."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Richmond General Hospital and Kingsport General Hospital, who was admitted earlier, M. Young or A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Richmond General Hospital_M. Young",
+                    "content": [
+                        "Admission Time: 28th, February"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Admission Time: 1st, March"
+                    ]
+                }
+            ],
+            "answer": "M. Young was admitted on February 28th, and A. Davis was admitted on March 1st. Therefore, M. Young was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Richmond General Hospital and Kingsport General Hospital, whose body temperature is higher, M. Young or A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Richmond General Hospital_M. Young",
+                    "content": [
+                        "Temperature: 36.2°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Temperature: 36.8°C."
+                    ]
+                }
+            ],
+            "answer": "M. Young's body temperature is 36.2°C, and A. Davis's body temperature is 36.8°C. Therefore, A. Davis's body temperature is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Richmond General Hospital and Kingsport General Hospital, whose pulse rate is higher, M. Young or A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Richmond General Hospital_M. Young",
+                    "content": [
+                        "Pulse: 150 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Pulse: 78 bpm."
+                    ]
+                }
+            ],
+            "answer": "M. Young's pulse rate is 150 bpm, and A. Davis's pulse rate is 78 bpm. Therefore, M. Young's pulse rate is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Richmond General Hospital and Kingsport General Hospital, whose respiration rate is higher, M. Young or A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Richmond General Hospital_M. Young",
+                    "content": [
+                        "Respiration: 70 breaths per minute"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Respiration: 18 breaths/min."
+                    ]
+                }
+            ],
+            "answer": "M. Young's respiration rate is 70 breaths per minute, and A. Davis's respiration rate is 18 breaths per minute. Therefore, M. Young's respiration rate is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Richmond General Hospital and Kingsport General Hospital, whose blood pressure is higher, M. Young or A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Richmond General Hospital_M. Young",
+                    "content": [
+                        "Blood Pressure: 65/40 mmHg"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Blood Pressure: 140/85 mmHg."
+                    ]
+                }
+            ],
+            "answer": "M. Young's blood pressure is 65/40 mmHg, and A. Davis's blood pressure is 140/85 mmHg. Therefore, A. Davis's blood pressure is higher."
+        }
+    ]
+}

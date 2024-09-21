@@ -1,0 +1,199 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the amounts of dividends distributed by Artistic Creations Inc. in 2019 and Evergreen Consumer Goods Co. in 2017?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "One of the key highlights of the year was the decision to distribute $5 million in dividends to shareholders in January."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Evergreen Consumer Goods Co. is a publicly-traded company on NYSE that was established on June 1, 2000, and is primarily engaged in the manufacturing and distribution of personal care and household goods.In January 2017, Evergreen Consumer Goods Co. made the strategic decision to distribute $50 million of dividends to its shareholders."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. distributed $5 million of dividends in 2019, while Evergreen Consumer Goods Co. distributed $50 million of dividends in 2017."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the major asset acquisitions completed by Artistic Creations Inc. in 2019 and Evergreen Consumer Goods Co. in 2017?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "The company also completed a major asset acquisition in April, acquiring Pacific Art Gallery with a total value of $20 million."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In terms of major asset acquisition, Evergreen Consumer Goods Co. completed the acquisition of Green Health Products in February 2017, worth $200 million."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. completed the asset acquisition of Pacific Art Gallery worth $20 million in 2019, while Evergreen Consumer Goods Co. completed the asset acquisition of Green Health Products worth $200 million in 2017."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the debt restructuring activities undertaken by Artistic Creations Inc. in 2019 and Evergreen Consumer Goods Co. in 2017?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "To optimize its capital structure, Artistic Creations Inc. underwent debt restructuring in December, reducing liabilities by $15 million.",
+                        "This move improved the company's financial condition and reduced financial costs."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In April 2017, Evergreen Consumer Goods Co. underwent debt restructuring, reducing its liabilities by $100 million.",
+                        "This debt restructuring initiative improved the company's financial condition and reduced its financial costs."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc.'s debt restructuring in 2019 reduced liabilities by $15 million and improved the company's financial condition. Evergreen Consumer Goods Co.'s debt restructuring in 2017 reduced liabilities by $100 million and also improved the company's financial condition."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the net profits of Artistic Creations Inc. in 2019 and Evergreen Consumer Goods Co. in 2017?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "The net profit indicator, which stood at $8 million, also benefited from this expansion."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Evergreen Consumer Goods Co. also reported a net profit of $400 million, influenced by its operating income, cost control measures, and non-recurring gains and losses."
+                    ]
+                }
+            ],
+            "answer": "The net profit of Artistic Creations Inc. in 2019 was $8 million, while the net profit of Evergreen Consumer Goods Co. in 2017 was $400 million."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the operating incomes of Artistic Creations Inc. in 2019 and Evergreen Consumer Goods Co. in 2017?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "This was reflected in the operating income indicator, which reached $30 million, a significant increase from the previous year."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "The company reported an operating income of $2.5 billion, influenced by market demand and changes in product prices."
+                    ]
+                }
+            ],
+            "answer": "The operating income of Artistic Creations Inc. in 2019 was $30 million, while the operating income of Evergreen Consumer Goods Co. in 2017 was $2.5 billion."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distributions of Artistic Creations Inc. in 2019 and Evergreen Consumer Goods Co. in 2017. Which company distributed a higher amount of dividends?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "One of the key highlights of the year was the decision to distribute $5 million in dividends to shareholders in January."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Evergreen Consumer Goods Co. is a publicly-traded company on NYSE that was established on June 1, 2000, and is primarily engaged in the manufacturing and distribution of personal care and household goods.In January 2017, Evergreen Consumer Goods Co. made the strategic decision to distribute $50 million of dividends to its shareholders."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. distributed a higher amount of dividends in 2017, with $50 million compared to Artistic Creations Inc.'s $5 million in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the major asset acquisitions by Artistic Creations Inc. in 2019 and Evergreen Consumer Goods Co. in 2017. Which company had a larger asset acquisition value?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "The company also completed a major asset acquisition in April, acquiring Pacific Art Gallery with a total value of $20 million."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In terms of major asset acquisition, Evergreen Consumer Goods Co. completed the acquisition of Green Health Products in February 2017, worth $200 million."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. had a larger asset acquisition value in 2017, with $200 million compared to Artistic Creations Inc.'s $20 million in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profits of Artistic Creations Inc. in 2019 and Evergreen Consumer Goods Co. in 2017. Which company had a higher net profit?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "The net profit indicator, which stood at $8 million, also benefited from this expansion."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Evergreen Consumer Goods Co. also reported a net profit of $400 million, influenced by its operating income, cost control measures, and non-recurring gains and losses."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. had a higher net profit in 2017, with $400 million compared to Artistic Creations Inc.'s $8 million in 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the debt restructuring events of Artistic Creations Inc. in 2019 and Evergreen Consumer Goods Co. in 2017. Which company underwent debt restructuring earlier?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "To optimize its capital structure, Artistic Creations Inc. underwent debt restructuring in December, reducing liabilities by $15 million."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In April 2017, Evergreen Consumer Goods Co. underwent debt restructuring, reducing its liabilities by $100 million."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. underwent debt restructuring earlier in April 2017, compared to Artistic Creations Inc. in December 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of Artistic Creations Inc. in 2019 and Evergreen Consumer Goods Co. in 2017. Which company had higher total assets?",
+            "ref": [
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "The impact of this acquisition was reflected in the total assets indicator, which reached $150 million, showcasing the company's enhanced business scope and improved market competitiveness.",
+                        "This restructuring had a positive impact on the company's total assets, which reached $150 million, and its debt ratio, which stood at 0.47."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "With total assets amounting to $5.2 billion, Evergreen Consumer Goods Co. demonstrated its strong financial position."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. had higher total assets in 2017, with $5.2 billion compared to Artistic Creations Inc.'s $150 million in 2019."
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Southport General Hospital, what are the ages of patients A. Smith and K. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Age: 12"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Age: 35"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Farmington City Hospital, patient A. Smith is 12 years old; according to the hospitalization records of Southport General Hospital, patient K. Mendoza is 35 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Southport General Hospital, what were the chief complaints of patients A. Smith and K. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Chief Complaint:",
+                        "Fever, abdominal pain, and bloody stools for 1 week"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Chief Complaint:",
+                        "Tremors in hands and slow movement for 6 months"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Farmington City Hospital, patient A. Smith's chief complaint was fever, abdominal pain, and bloody stools for 1 week; according to the hospitalization records of Southport General Hospital, patient K. Mendoza's chief complaint was tremors in hands and slow movement for 6 months."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Southport General Hospital, what are the past medical histories of patients A. Smith and K. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Surgery and Trauma History: Appendectomy at age 8",
+                        "Disease History: No significant medical history"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Surgery and Trauma History: Appendectomy at age 12",
+                        "Disease History: No chronic illnesses"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Farmington City Hospital, patient A. Smith had an appendectomy at age 8 and no other significant medical history; according to the hospitalization records of Southport General Hospital, patient K. Mendoza had an appendectomy at age 12 and no other significant medical history."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Southport General Hospital, what were the preliminary diagnoses for patients A. Smith and K. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Acute Schistosomiasis"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Primary: Parkinson's Disease"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Farmington City Hospital, patient A. Smith was preliminarily diagnosed with Acute Schistosomiasis; according to the hospitalization records of Southport General Hospital, patient K. Mendoza was preliminarily diagnosed with Parkinson's Disease."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Southport General Hospital, what were the discharge records for patients A. Smith and K. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Discharge Records: Patient discharged after 5 days in improved condition.",
+                        "Advised follow-up in outpatient clinic."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Discharge Records: Discharged on 24th June with instructions on medication adherence, follow-up appointments scheduled."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Farmington City Hospital, patient A. Smith was discharged after 5 days in improved condition with advice for follow-up in the outpatient clinic; according to the hospitalization records of Southport General Hospital, patient K. Mendoza was discharged on 24th June with instructions on medication adherence and follow-up appointments scheduled."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Southport General Hospital, who was admitted earlier, A. Smith or K. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Admission Time: 9th, October"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Admission Time: 20th June"
+                    ]
+                }
+            ],
+            "answer": "A. Smith was admitted on October 9th, and K. Mendoza was admitted on June 20th. K. Mendoza was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Southport General Hospital, what are the chief complaints of A. Smith and K. Mendoza, and how do they differ?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Chief Complaint:",
+                        "Fever, abdominal pain, and bloody stools for 1 week"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Chief Complaint:",
+                        "Tremors in hands and slow movement for 6 months"
+                    ]
+                }
+            ],
+            "answer": "A. Smith's chief complaint is fever, abdominal pain, and bloody stools for 1 week, while K. Mendoza's chief complaint is tremors in hands and slow movement for 6 months. The primary difference is that A. Smith's symptoms are acute and gastrointestinal, whereas K. Mendoza's symptoms are chronic and neurological."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Southport General Hospital, whose pulse rate was higher upon admission, A. Smith or K. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Pulse: 110 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Pulse: 76 bpm"
+                    ]
+                }
+            ],
+            "answer": "A. Smith's pulse rate was 110 bpm upon admission, while K. Mendoza's pulse rate was 76 bpm. A. Smith's pulse rate was higher."
+        }
+    ]
+}

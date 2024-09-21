@@ -1,0 +1,114 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "A. Diaz",
+            "Gender": "male",
+            "Age": "36",
+            "Ethnicity": "Hispanic",
+            "Marital Status": "Married",
+            "Occupation": "Software Engineer",
+            "Address": "68, Huntington street, Princeton",
+            "Admission Time": "11th, April",
+            "Record Time": "11th, April",
+            "Historian": "Self",
+            "Hospital Name": "Princeton General Hospital"
+        },
+        "Chief Complaint": "Uterine bleeding and abdominal mass for 2 months",
+        "Present Illness": {
+            "Onset": "Approximately 2 months ago, at home, insidious onset with gradual increase in symptoms",
+            "Main Symptoms": "Lower abdominal mass and uterine bleeding. The mass is non-tender, firm, and has progressively increased in size. Uterine bleeding is intermittent, moderate in volume, and has been present for 2 months.",
+            "Accompanying Symptoms": "Vaginal discharge and pressure symptoms on the bladder and rectum causing frequency of urination and constipation",
+            "Diagnosis and Treatment History": "Patient has not had prior medical consultations for these symptoms. No previous imaging or surgical interventions.",
+            "General Condition Changes": "Slightly disturbed sleep due to discomfort, reduced appetite, no significant change in weight."
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy",
+            "Disease History": "No other chronic illnesses",
+            "Infectious Disease History": "No history of infectious diseases",
+            "Immunization History": "Up to date with vaccinations",
+            "Surgery and Trauma History": "No prior surgeries or trauma",
+            "Blood Transfusion History": "No history of blood transfusions",
+            "Allergy History": "No known allergies"
+        },
+        "Personal History": {
+            "Birthplace": "Princeton",
+            "Residence": "Princeton",
+            "Living Habits": "Non-smoker, occasional alcohol consumption, regular exercise",
+            "Occupation and Working Conditions": "Works long hours at a desk job with occasional travel",
+            "Exposure History": "No exposure to industrial toxins, dust, or radioactive substances",
+            "Travel History": "No recent travel"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Married",
+                "Marriage Age": "29",
+                "Spouse's Health Condition": "Healthy",
+                "Children's Condition": "Two children, both healthy"
+            },
+            "Family History": "No significant family history of similar conditions or genetic tendencies. Both parents are alive and well; has two siblings, both healthy."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "98.6°F",
+                "Pulse": "76 bpm",
+                "Respiration": "16 breaths/min",
+                "Blood Pressure": "120/80 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Normal skin tone, no rashes or lesions",
+                "Mucous Membranes": "Moist, no abnormalities noted",
+                "Lymph Nodes": "No lymphadenopathy",
+                "Head and Organs": "Normocephalic, atraumatic",
+                "Neck": "Supple, no thyromegaly, trachea midline",
+                "Chest": "Clear to auscultation bilaterally, no wheezes or crackles. Heart: Regular rate and rhythm with no murmurs or gallops.",
+                "Abdomen": "Soft, non-tender, palpable mass in lower abdomen, no hepatosplenomegaly.",
+                "Rectum and Anus": "No masses or tenderness on digital rectal exam",
+                "External Genitalia": "Normal appearance",
+                "Spine": "No deformities or tenderness",
+                "Limbs": "Normal range of motion and strength",
+                "Nervous System": "Alert and oriented, cranial nerves II-XII intact"
+            }
+        },
+        "Specialist Examination": "Gynecological exam reveals a firm uterine mass consistent with fibroids. No cervical motion tenderness.",
+        "Auxiliary Examination": "Pelvic ultrasound shows multiple uterine fibroids of varying sizes with the largest measuring 7 cm in diameter.",
+        "Preliminary Diagnosis": "1. Uterine Fibroids, 2. Rule out Adenomyosis",
+        "Diagnostic Basis": "Patient's history of uterine bleeding, abdominal mass, and pressure symptoms, supported by findings on pelvic ultrasound.",
+        "Differential Diagnosis": "Adenomyosis, ovarian tumors, uterine sarcoma, endometrial cancer, cervical cancer, pelvic inflammatory mass, uterine malformations, pregnancy uterus",
+        "Admission Records": {
+            "Physician's Signature": "Dr. S. Thompson"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "The patient is a 36-year-old male with a 2-month history of uterine bleeding and a palpable abdominal mass. Differential diagnoses include adenomyosis and uterine sarcoma. Plan includes CBC, pelvic MRI, and referral to gynecology for further management.",
+            "Daily Course Records": "Patient stable, awaiting MRI results. No new symptoms reported.",
+            "Senior Physician Rounds Records": "Discussed case with senior attending; agrees with initial assessment and plan for further imaging.",
+            "Difficult Case Discussion Records": "",
+            "Handover Records": "Patient stable, ultrasound completed, awaiting MRI.",
+            "Transfer Records": "",
+            "Stage Summary": "Patient remains stable, MRI confirms presence of multiple uterine fibroids with no signs of malignancy.",
+            "Emergency Records": "",
+            "Invasive Procedure Records": "",
+            "Consultation Records": "Gynecology consulted, recommends medical management of fibroids with close follow-up.",
+            "Discharge Records": "Patient discharged in stable condition with advice to follow up in gynecology clinic for ongoing management.",
+            "Critically Ill Patient Care Records": ""
+        },
+        "Medical Orders": {
+            "Long-term Orders": "CBC, Pelvic MRI, referral to gynecology, iron supplements for anemia, monitoring of vital signs",
+            "Temporary Orders": "NSAIDs for pain management, follow-up blood work in 1 week"
+        },
+        "Auxiliary Examination Reports": {
+            "CBC": "WNL except mild anemia",
+            "Pelvic MRI": "Multiple uterine fibroids, largest 7 cm, no signs of malignancy"
+        },
+        "Temperature Chart": "Stable, no spikes in temperature",
+        "Blood Transfusion Consent": "",
+        "Special Examination Consent": "",
+        "Critical Condition Notice": ""
+    },
+    "DiseaseType": {
+        "Benign, In Situ, and Uncertain Neoplasms": {
+            "Name": "Uterine Fibroids",
+            "Symptoms": "Uterine bleeding, abdominal mass, vaginal discharge, pressure symptoms",
+            "Differential Diagnosis": "Adenomyosis, ovarian tumors, uterine sarcoma, endometrial cancer, cervical cancer, pelvic inflammatory mass, uterine malformations, pregnancy uterus."
+        }
+    }
+}

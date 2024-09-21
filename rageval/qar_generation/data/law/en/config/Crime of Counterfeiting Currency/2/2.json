@@ -1,0 +1,80 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Riverton, Hamilton, Court",
+        "procuratorate": "Riverton, Hamilton, Procuratorate"
+    },
+    "chiefJudge": "Z. Rodriguez",
+    "judge": "V. Thomas",
+    "clerk": "T. James",
+    "defendant": {
+        "name": "H. Walker",
+        "gender": "male",
+        "birthdate": "18th, July, 1964",
+        "residence": "74, Milton street, Hamilton",
+        "ethnicity": "Caucasian",
+        "occupation": "Unemployed"
+    },
+    "defenseLawyer": {
+        "name": "B. Kim",
+        "lawFirm": "Hamilton Defense Associates"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "1st February, 2023",
+            "description": "Riverton, Hamilton, Procuratorate received a tip regarding suspicious activities involving counterfeit currency. Investigation was initiated."
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "15th March, 2023",
+            "description": "After sufficient evidence was collected, detention measures were taken against the suspect H. Walker."
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "20th March, 2023",
+            "description": "H. Walker was criminally detained under suspicion of counterfeiting currency."
+        },
+        {
+            "event": "Arrest",
+            "date": "25th March, 2023",
+            "description": "Formal arrest measures were implemented against H. Walker."
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Counterfeiting Currency",
+            "details": [
+                {
+                    "timePeriod": "January 2023",
+                    "behavior": "H. Walker was found to be in possession of manufacturing equipment and counterfeit bills amounting to $10,000 in a warehouse at 123 Mason Street, Hamilton.",
+                    "evidence": "Confiscated equipment, counterfeit currency seized, security footage from the warehouse."
+                },
+                {
+                    "timePeriod": "February 2023",
+                    "behavior": "Walker distributed counterfeit $100 bills to local retailers resulting in reported losses of approximately $5,000.",
+                    "evidence": "Testimonies from five local businesses, transaction receipts showing counterfeit involvement, forensic analysis of the counterfeit bills matched to Walker's equipment."
+                },
+                {
+                    "timePeriod": "March 2023",
+                    "behavior": "Walker attempted to launder counterfeit currency by purchasing high-value electronics from online marketplaces.",
+                    "evidence": "Digital transaction records, intercepted parcels containing counterfeit bills, statements from sellers who received counterfeit money."
+                },
+                {
+                    "timePeriod": "March 2023",
+                    "behavior": "Walker was found to be producing counterfeit currency equivalent to over $50,000, prepared for distribution within Hamilton.",
+                    "evidence": "A raid on Walker's residence and storage unit uncovered raw materials and partially completed notes totaling over $50,000 in counterfeit currency."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "10th July, 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Counterfeiting Currency",
+                "sentence": "8 years imprisonment and a fine of $20,000.",
+                "sentencingConsiderations": "Given the substantial amount of counterfeit currency produced and distributed, the court applied a strict sentence within the statutory limits."
+            }
+        ]
+    }
+}

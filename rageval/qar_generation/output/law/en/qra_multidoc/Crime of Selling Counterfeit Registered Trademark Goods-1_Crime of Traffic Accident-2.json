@@ -1,0 +1,104 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Norwood, Unionville, Court and Lakewood, Mayfield, Court, what are the occupations of the defendants C. Taylor and X. Alvarez?",
+            "ref": [
+                {
+                    "court_name": "Norwood, Unionville, Court",
+                    "content": [
+                        "- **Occupation**: Retail Shop Owner"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "Occupation: Delivery Driver"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Norwood, Unionville, Court, the defendant C. Taylor is a Retail Shop Owner; according to the judgment of Lakewood, Mayfield, Court, the defendant X. Alvarez is a Delivery Driver."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Norwood, Unionville, Court and Lakewood, Mayfield, Court, what crimes did the defendants C. Taylor and X. Alvarez commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Norwood, Unionville, Court",
+                    "content": [
+                        "C. Taylor, born on 19th October 1960, currently residing at 71 Yorkshire Street, Unionville, and employed as a retail shop owner, is accused of the crime of selling counterfeit registered trademark goods, contrary to Article No. 214.",
+                        "The primary charge against C. Taylor is the crime of Selling Counterfeit Registered Trademark Goods, as stipulated under Article No. 214."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "The Court charges X. Alvarez with the Crime of Traffic Accident, in violation of Article 133 of the relevant penal code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Norwood, Unionville, Court, the defendant C. Taylor committed the Crime of Selling Counterfeit Registered Trademark Goods; according to the judgment of Lakewood, Mayfield, Court, the defendant X. Alvarez committed the Crime of Traffic Accident."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Norwood, Unionville, Court and Lakewood, Mayfield, Court, what were the sentences for the defendants C. Taylor and X. Alvarez?",
+            "ref": [
+                {
+                    "court_name": "Norwood, Unionville, Court",
+                    "content": [
+                        "The defendant is hereby sentenced to four years of fixed-term imprisonment and fined $100,000 for illicit gains."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "The court sentences X. Alvarez to a fixed-term imprisonment of three (3) years.",
+                        "Additionally, upon release, he will be subject to a probation period of one (1) year, during which he must comply with specific legal and rehabilitative conditions intended to monitor and correct his behavior."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Norwood, Unionville, Court, the defendant C. Taylor was sentenced to four years of fixed-term imprisonment and fined $100,000 for illicit gains. According to the judgment of Lakewood, Mayfield, Court, the defendant X. Alvarez was sentenced to 3 years of fixed-term imprisonment with an additional 1-year probation period after release."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Norwood, Unionville Court and Lakewood, Mayfield Court, whose sentencing time is longer, C. Taylor or X. Alvarez?",
+            "ref": [
+                {
+                    "court_name": "Norwood, Unionville, Court",
+                    "content": [
+                        "The defendant is hereby sentenced to four years of fixed-term imprisonment and fined $100,000 for illicit gains."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "The court sentences X. Alvarez to a fixed-term imprisonment of three (3) years.",
+                        "Additionally, upon release, he will be subject to a probation period of one (1) year, during which he must comply with specific legal and rehabilitative conditions intended to monitor and correct his behavior."
+                    ]
+                }
+            ],
+            "answer": "C. Taylor was sentenced to four years of fixed-term imprisonment, while X. Alvarez was sentenced to three years of fixed-term imprisonment with an additional 1-year probation period after release. Therefore, C. Taylor's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Norwood, Unionville Court and Lakewood, Mayfield Court, whose judgment time is earlier, C. Taylor or X. Alvarez?",
+            "ref": [
+                {
+                    "court_name": "Norwood, Unionville, Court",
+                    "content": [
+                        "This judgment is delivered and executed on this 10th day of January 2023, by the Norwood, Unionville Court, with the presence and consent of the Chief Judge T. Robinson, Judge N. Cook, and Court Clerk O. Murphy."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "*This judgment is issued under the authority of the Lakewood, Mayfield, Court on the 1st of June, 2023.*"
+                    ]
+                }
+            ],
+            "answer": "C. Taylor's judgment time is earlier, as it was on 10th January 2023, while X. Alvarez's judgment time was on 1st June 2023."
+        }
+    ]
+}

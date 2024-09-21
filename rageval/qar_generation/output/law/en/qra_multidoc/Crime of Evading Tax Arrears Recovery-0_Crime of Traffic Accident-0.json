@@ -1,0 +1,124 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Vandalia, Bayside, Court, what are the ethnicities of the defendants Z. Ruiz and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Ethnicity:** Hispanic"
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "- **Ethnicity:** Hispanic"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington Court, the defendant Z. Ruiz is Hispanic; according to the judgment of Vandalia, Bayside Court, the defendant G. Torres is also Hispanic."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Vandalia, Bayside, Court, what are the occupations of the defendants Z. Ruiz and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Occupation:** Business Owner"
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "- **Occupation:** Elementary School Teacher"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington Court, the defendant Z. Ruiz is a Business Owner; according to the judgment of Vandalia, Bayside Court, the defendant G. Torres is an Elementary School Teacher."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Vandalia, Bayside, Court, what crimes did the defendants Z. Ruiz and G. Torres commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "Mr. Z. Ruiz stands charged under Article No. 203 with the Crime of Evading Tax Arrears Recovery."
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "These infractions contravene the stipulations under Article No. 133."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington Court, the defendant Z. Ruiz committed the Crime of Evading Tax Arrears Recovery; according to the judgment of Vandalia, Bayside Court, the defendant G. Torres committed the Crime of Traffic Accident."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Vandalia, Bayside, Court, what sentences were given to the defendants Z. Ruiz and G. Torres for their crimes?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- 5 years of fixed-term imprisonment.",
+                        "- A fine of $100,000, reflecting four times the amount of taxes evaded."
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "Consequently, this court sentences G. Torres to four years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington Court, the defendant Z. Ruiz was sentenced to 5 years of fixed-term imprisonment and fined $100,000; according to the judgment of Vandalia, Bayside Court, the defendant G. Torres was sentenced to four years of fixed-term imprisonment."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Vandalia, Bayside, Court, whose sentencing time is longer, Z. Ruiz or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Sentence:**",
+                        "- 5 years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "Based on the evidence presented and the legal arguments made, this court finds G. Torres guilty of the Crime of Traffic Accident as per Article No. 133.",
+                        "Consequently, this court sentences G. Torres to four years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "Z. Ruiz was sentenced to five years of fixed-term imprisonment, while G. Torres was sentenced to four years of fixed-term imprisonment. Z. Ruiz's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Vandalia, Bayside, Court, whose judgment date is earlier, Z. Ruiz or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "This document reflects the proceedings and determinations of this court as of 15th August, 2022, and is issued under the authority vested in this judicature by the laws governing the jurisdiction of Oakwood, Arlington Court.",
+                        "**Date:** 15th August, 2022"
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "**Dated:** 20th, April, 2023"
+                    ]
+                }
+            ],
+            "answer": "Z. Ruiz's judgment date is 15th, August, 2022, while G. Torres's judgment date is 20th, April, 2023. Z. Ruiz's judgment date is earlier."
+        }
+    ]
+}

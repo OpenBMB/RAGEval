@@ -1,0 +1,100 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the major asset acquisitions made by StrongBuild Construction in 2019 and Green Fields Agriculture Ltd. in 2021?",
+            "ref": [
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "September saw StrongBuild Construction acquire the assets of Elite Construction Firm worth $50 million."
+                    ]
+                },
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "In June 2021, Green Fields Agriculture Ltd. made a major asset acquisition by acquiring FreshPro, a leading distributor of premium organic produce."
+                    ]
+                }
+            ],
+            "answer": "StrongBuild Construction acquired assets of Elite Construction Firm worth $50 million in September 2019. Green Fields Agriculture Ltd. acquired FreshPro, a leading distributor of premium organic produce, in June 2021."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much funding was raised through large-scale financing activities by StrongBuild Construction in 2019 and Green Fields Agriculture Ltd. in 2021?",
+            "ref": [
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "In October, the company raised $200 million through large-scale financing activities, strengthening its financial strength and supporting further expansion and development."
+                    ]
+                },
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "In October 2021, the company raised $30 million through a bond issuance, strengthening their financial strength and providing support for future expansion and development."
+                    ]
+                }
+            ],
+            "answer": "StrongBuild Construction raised $200 million through a large-scale financing activity in October 2019. Green Fields Agriculture Ltd. raised $30 million through bond issuance in October 2021."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the debt restructuring efforts of StrongBuild Construction in 2019 and Green Fields Agriculture Ltd. in 2021. Which company reduced its liabilities by a larger amount?",
+            "ref": [
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "One of the key events was the debt restructuring that took place in January.",
+                        "This restructuring aimed to optimize the company's capital structure and resulted in a reduction of liabilities by $25 million."
+                    ]
+                },
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "To improve their financial condition, the company underwent debt restructuring in August 2021, reducing their liabilities by $5 million through refinancing at lower interest rates."
+                    ]
+                }
+            ],
+            "answer": "StrongBuild Construction reduced its liabilities by a larger amount, $25 million, compared to Green Fields Agriculture Ltd., which reduced its liabilities by $5 million."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "Compare the major asset acquisitions by StrongBuild Construction in September 2019 and Green Fields Agriculture Ltd. in June 2021. Which company's acquisition had a higher value?",
+            "ref": [
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "September saw StrongBuild Construction acquire the assets of Elite Construction Firm worth $50 million."
+                    ]
+                },
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": []
+                }
+            ],
+            "answer": "StrongBuild Construction's major asset acquisition in September 2019 had a high value at $50 million compared to Green Fields Agriculture Ltd.'s acquisition in June 2021, which was not specified in value but involved acquiring FreshPro."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the large-scale financing activities of StrongBuild Construction in October 2019 and Green Fields Agriculture Ltd. in October 2021. Which company raised a larger amount of funds?",
+            "ref": [
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "In October, the company raised $200 million through large-scale financing activities, strengthening its financial strength and supporting further expansion and development."
+                    ]
+                },
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "In October 2021, the company raised $30 million through a bond issuance, strengthening their financial strength and providing support for future expansion and development."
+                    ]
+                }
+            ],
+            "answer": "StrongBuild Construction raised a larger amount of funds, $200 million, through large-scale financing in October 2019 compared to Green Fields Agriculture Ltd., which raised $30 million in October 2021."
+        }
+    ]
+}

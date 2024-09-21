@@ -1,0 +1,123 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How did the compliance and regulatory updates in 2021 for Grand Adventures Tourism Ltd. and in 2017 for InnovaTech Solutions impact their corporate governance practices?",
+            "ref": [
+                {
+                    "company_name": "Grand Adventures Tourism Ltd.",
+                    "content": [
+                        "In February 2021, the company implemented compliance and regulatory updates to ensure adherence to the latest laws and regulations.",
+                        "These updates aimed to reduce legal risk and protect the interests of the company and its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In May 2017, InnovaTech Solutions also ensured compliance with updated regulations affecting corporate governance practices.",
+                        "By staying compliant and reducing legal risks, the company protected its interests and maintained its reputation."
+                    ]
+                }
+            ],
+            "answer": "The compliance and regulatory updates in 2021 for Grand Adventures Tourism Ltd. ensured compliance with the latest laws and regulations, reducing legal risk and protecting the company and shareholder interests. Similarly, the updates in 2017 for InnovaTech Solutions ensured compliance, reduced legal risk, and protected the interests of the company and its shareholders."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of the board of directors changes for Grand Adventures Tourism Ltd. and InnovaTech Solutions. Which company experienced this change earlier?",
+            "ref": [
+                {
+                    "company_name": "Grand Adventures Tourism Ltd.",
+                    "content": [
+                        "Additionally, in September 2021, there were changes in the board of directors, which may lead to strategic adjustments and impact the company's long-term development direction and shareholder interests."
+                    ]
+                },
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "One of the key governance changes occurred in January 2017 with the appointment and resignation of board members."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions experienced the board of directors change earlier in January 2017, while Grand Adventures Tourism Ltd. had this change in September 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of compliance and regulatory updates for Grand Adventures Tourism Ltd. and InnovaTech Solutions. Which company updated their compliance and regulatory measures earlier?",
+            "ref": [
+                {
+                    "company_name": "Grand Adventures Tourism Ltd.",
+                    "content": [
+                        "In February 2021, the company implemented compliance and regulatory updates to ensure adherence to the latest laws and regulations."
+                    ]
+                },
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In May 2017, InnovaTech Solutions also ensured compliance with updated regulations affecting corporate governance practices."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions updated their compliance and regulatory measures earlier in May 2017, while Grand Adventures Tourism Ltd. did so in February 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when Grand Adventures Tourism Ltd. and InnovaTech Solutions updated their risk management measures. Which company implemented these measures earlier?",
+            "ref": [
+                {
+                    "company_name": "Grand Adventures Tourism Ltd.",
+                    "content": [
+                        "To mitigate risks, the company focused on strengthening its internal control system, integrating sustainable development and social responsibility into its strategy, and diversifying its revenue streams.",
+                        "These measures aimed to identify, assess, monitor, and report financial and operational risks, enhance the company's ability to withstand risks, and promote long-term value creation."
+                    ]
+                },
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In November 2017, the company implemented updates to its risk management framework."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions updated their risk management measures earlier in November 2017, while Grand Adventures Tourism Ltd. did so in 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of senior management changes for Grand Adventures Tourism Ltd. and InnovaTech Solutions. Which company had these changes earlier?",
+            "ref": [
+                {
+                    "company_name": "Grand Adventures Tourism Ltd.",
+                    "content": [
+                        "Lastly, in November 2021, there were changes in the company's senior management, including the CEO or other key positions."
+                    ]
+                },
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In September 2017, there were changes in senior management positions at InnovaTech Solutions."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions had senior management changes earlier in September 2017, while Grand Adventures Tourism Ltd. had these changes in November 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of shareholders' meeting resolutions for Grand Adventures Tourism Ltd. and InnovaTech Solutions. Which company held their meeting earlier?",
+            "ref": [
+                {
+                    "company_name": "Grand Adventures Tourism Ltd.",
+                    "content": [
+                        "In August 2021, key decisions were made at the annual shareholders' meeting, which directly affected the company's governance structure, future operational strategies, and shareholder rights."
+                    ]
+                },
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "The shareholders' meeting resolution in June 2017 resulted in key decisions that impacted the company's governance structure, operational strategies, and shareholder rights."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions held their shareholders' meeting earlier in June 2017, while Grand Adventures Tourism Ltd. held theirs in August 2021."
+        }
+    ]
+}

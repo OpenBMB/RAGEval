@@ -1,0 +1,75 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Riverside, Glenwood, Court",
+        "procuratorate": "Riverside, Glenwood, Procuratorate"
+    },
+    "chiefJudge": "Y. Jackson",
+    "judge": "M. Sanchez",
+    "clerk": "F. Gutierrez",
+    "defendant": {
+        "name": "X. Morgan",
+        "gender": "female",
+        "birthdate": "11th, March, 1968",
+        "residence": "85, Yorktown street, Glenwood",
+        "ethnicity": "Caucasian",
+        "occupation": "Owner of Morgan & Co. Consulting"
+    },
+    "defenseLawyer": {
+        "name": "H. Ruiz",
+        "lawFirm": "Ruiz & Associates"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "12th January, 2023",
+            "description": "The Riverside Glenwood Procuratorate filed the case against X. Morgan following the audit results from the tax authority indicating substantial tax arrears."
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "18th January, 2023",
+            "description": "The Riverside Glenwood Procuratorate issued a detention order for X. Morgan to ensure she does not flee or tamper with evidence."
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "20th January, 2023",
+            "description": "X. Morgan was placed under criminal detention by County Police."
+        },
+        {
+            "event": "Arrest",
+            "date": "25th January, 2023",
+            "description": "Following confirmatory evidence, Riverside Glenwood Procuratorate approved the formal arrest warrant for X. Morgan."
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Evading Tax Arrears Recovery",
+            "details": [
+                {
+                    "timePeriod": "March 2022 - November 2022",
+                    "behavior": "Transferred company assets to a personal bank account totaling $120,000 to avoid tax payments.",
+                    "evidence": "Bank statements and transaction receipts showing the transfer of $120,000 from Morgan & Co. Consulting's account to her personal account."
+                },
+                {
+                    "timePeriod": "May 2022 - October 2022",
+                    "behavior": "Concealed ownership of a commercial property valued at $200,000 through a shell company",
+                    "evidence": "Property deeds and investigation reports tracing the ownership back to X. Morgan through a shell company 'Green Oaks LLC'."
+                },
+                {
+                    "timePeriod": "July 2022 - December 2022",
+                    "behavior": "Falsely claimed business expenses amounting to $50,000 to reduce taxable income",
+                    "evidence": "Audit reports and fake invoices submitted as business expenses, verified as fraudulent."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "10th August, 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Evading Tax Arrears Recovery",
+                "sentence": "5 years imprisonment, 3 years probation, and fined $600,000",
+                "sentencingConsiderations": "The amount involved was significant, deliberate concealment and transfer of assets, lack of prior criminal record but substantial evidence against her."
+            }
+        ]
+    }
+}

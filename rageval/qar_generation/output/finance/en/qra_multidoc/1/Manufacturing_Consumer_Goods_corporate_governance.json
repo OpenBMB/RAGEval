@@ -1,0 +1,211 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "When were Fabrikon Manufacturing Ltd. and Hudson Consumer Goods Co. established?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "Fabrikon Manufacturing Ltd., established on June 1, 2005, is a publicly listed manufacturing company based in Cityville, specializing in the production and distribution of high-quality industrial machinery and equipment.In February 2021, Fabrikon Manufacturing Ltd. demonstrated its commitment to enhancing shareholder returns by distributing a dividend of $10 million."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "Hudson Consumer Goods Co. is a publicly traded company based in New York, United States, specializing in the manufacturing and distribution of personal care and household products, since its establishment on April 1, 2003.In 2017, Hudson Consumer Goods Co. released its corporate financial report, providing a comprehensive overview of the company's performance and significant events throughout the year."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. was established on June 1, 2005, and Hudson Consumer Goods Co. was established in April 2003."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the main businesses of Fabrikon Manufacturing Ltd. and Hudson Consumer Goods Co.?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "Fabrikon Manufacturing Ltd., established on June 1, 2005, is a publicly listed manufacturing company based in Cityville, specializing in the production and distribution of high-quality industrial machinery and equipment.In February 2021, Fabrikon Manufacturing Ltd. demonstrated its commitment to enhancing shareholder returns by distributing a dividend of $10 million."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "Hudson Consumer Goods Co. is a publicly traded company based in New York, United States, specializing in the manufacturing and distribution of personal care and household products, since its establishment on April 1, 2003.In 2017, Hudson Consumer Goods Co. released its corporate financial report, providing a comprehensive overview of the company's performance and significant events throughout the year."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. specializes in the production and distribution of high-quality industrial machinery and equipment, while Hudson Consumer Goods Co. is involved in the manufacturing and distribution of personal care and household products."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What is the listing status of Fabrikon Manufacturing Ltd. and Hudson Consumer Goods Co.?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "Fabrikon Manufacturing Ltd., established on June 1, 2005, is a publicly listed manufacturing company based in Cityville, specializing in the production and distribution of high-quality industrial machinery and equipment.In February 2021, Fabrikon Manufacturing Ltd. demonstrated its commitment to enhancing shareholder returns by distributing a dividend of $10 million."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "Hudson Consumer Goods Co. is a publicly traded company based in New York, United States, specializing in the manufacturing and distribution of personal care and household products, since its establishment on April 1, 2003.In 2017, Hudson Consumer Goods Co. released its corporate financial report, providing a comprehensive overview of the company's performance and significant events throughout the year."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. is publicly listed, and Hudson Consumer Goods Co. is publicly traded on the New York Stock Exchange (NYSE)."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "In which industries do Fabrikon Manufacturing Ltd. and Hudson Consumer Goods Co. operate?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "Fabrikon Manufacturing Ltd., established on June 1, 2005, is a publicly listed manufacturing company based in Cityville, specializing in the production and distribution of high-quality industrial machinery and equipment.In February 2021, Fabrikon Manufacturing Ltd. demonstrated its commitment to enhancing shareholder returns by distributing a dividend of $10 million."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "Hudson Consumer Goods Co. is a publicly traded company based in New York, United States, specializing in the manufacturing and distribution of personal care and household products, since its establishment on April 1, 2003.In 2017, Hudson Consumer Goods Co. released its corporate financial report, providing a comprehensive overview of the company's performance and significant events throughout the year."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. operates in the manufacturing industry, while Hudson Consumer Goods Co. operates in the consumer goods industry."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "What senior management changes occurred at Fabrikon Manufacturing Ltd. and Hudson Consumer Goods Co. in 2021 and 2017, respectively?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In September 2021, Fabrikon Manufacturing Ltd. underwent senior management changes, including the appointment of new executives in key leadership positions.",
+                        "These changes aimed to bring fresh perspectives and expertise to the company's management team, driving innovation and strategic decision-making.",
+                        "The impact of these changes was reflected in the company's improved operational efficiency and performance."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": []
+                }
+            ],
+            "answer": "In September 2021, Fabrikon Manufacturing Ltd. experienced senior management changes. Cannot answer for Hudson Consumer Goods Co."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "What risk management measures were implemented by Fabrikon Manufacturing Ltd. and Hudson Consumer Goods Co. in 2021 and 2017, respectively?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In May 2021, the company also implemented various risk management measures to mitigate potential threats and uncertainties.",
+                        "These measures included the establishment of a dedicated risk management department, regular risk assessments, and the development of contingency plans.",
+                        "The impact of these measures was evident in the company's ability to proactively identify and address potential risks, minimizing their impact on operations and financial performance."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": []
+                }
+            ],
+            "answer": "In May 2021, Fabrikon Manufacturing Ltd. implemented risk management measures. Cannot answer for Hudson Consumer Goods Co."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the establishment dates of Fabrikon Manufacturing Ltd. and Hudson Consumer Goods Co. Which company was established earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "Fabrikon Manufacturing Ltd., established on June 1, 2005, is a publicly listed manufacturing company based in Cityville, specializing in the production and distribution of high-quality industrial machinery and equipment.In February 2021, Fabrikon Manufacturing Ltd. demonstrated its commitment to enhancing shareholder returns by distributing a dividend of $10 million."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "Hudson Consumer Goods Co. is a publicly traded company based in New York, United States, specializing in the manufacturing and distribution of personal care and household products, since its establishment on April 1, 2003.In 2017, Hudson Consumer Goods Co. released its corporate financial report, providing a comprehensive overview of the company's performance and significant events throughout the year."
+                    ]
+                }
+            ],
+            "answer": "Hudson Consumer Goods Co. was established earlier in April 2003, compared to Fabrikon Manufacturing Ltd. which was established on June 1, 2005."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "Compare the times of senior management changes at Fabrikon Manufacturing Ltd. and Hudson Consumer Goods Co. Which company experienced senior management changes earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In September 2021, Fabrikon Manufacturing Ltd. underwent senior management changes, including the appointment of new executives in key leadership positions."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": []
+                }
+            ],
+            "answer": "Cannot answer"
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when Fabrikon Manufacturing Ltd. and Hudson Consumer Goods Co. initiated their sustainability and social responsibility initiatives. Which company initiated these initiatives earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In November 2021, the company launched various sustainability and social responsibility initiatives.",
+                        "These initiatives aimed to minimize the company's environmental footprint, promote employee well-being, and contribute to the communities in which it operates."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "Hudson Consumer Goods Co. is a publicly traded company based in New York, United States, specializing in the manufacturing and distribution of personal care and household products, since its establishment on April 1, 2003.In 2017, Hudson Consumer Goods Co. released its corporate financial report, providing a comprehensive overview of the company's performance and significant events throughout the year.",
+                        "These efforts included reducing carbon emissions, implementing a recycling program, enhancing employee wellness initiatives, and forming partnerships with local communities."
+                    ]
+                }
+            ],
+            "answer": "Hudson Consumer Goods Co. initiated its sustainability and social responsibility initiatives earlier in January 2017, while Fabrikon Manufacturing Ltd. started its initiatives in November 2021."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "Compare the times of board of directors changes at Fabrikon Manufacturing Ltd. and Hudson Consumer Goods Co. Which company had changes in their board of directors earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "Finally, in December 2021, Fabrikon Manufacturing Ltd. experienced a change in its Board of Directors."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": []
+                }
+            ],
+            "answer": "Cannot answer"
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "Compare the times of ethics and integrity incidents at Fabrikon Manufacturing Ltd. and Hudson Consumer Goods Co. Which company encountered these incidents earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "However, April 2021 also saw some ethics and integrity incidents within the company."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": []
+                }
+            ],
+            "answer": "Cannot answer"
+        }
+    ]
+}

@@ -1,0 +1,253 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the amounts of dividends distributed by Capital Finance Group in February 2018 and Evergreen Consumer Goods Co. in January 2017?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "In February 2018, the company decided to distribute $10 million of dividends to its shareholders, which significantly improved shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Evergreen Consumer Goods Co. is a publicly-traded company on NYSE that was established on June 1, 2000, and is primarily engaged in the manufacturing and distribution of personal care and household goods.In January 2017, Evergreen Consumer Goods Co. made the strategic decision to distribute $50 million of dividends to its shareholders."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group distributed $10 million of dividends in February 2018, and Evergreen Consumer Goods Co. distributed $50 million of dividends in January 2017."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much funding was raised by Capital Finance Group in May 2018 and Evergreen Consumer Goods Co. in March 2017 during their large-scale financing activities?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "In May 2018, the company conducted a large-scale financing activity, raising $500 million of funds."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In March 2017, Evergreen Consumer Goods Co. raised $500 million in a large-scale financing activity."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group raised $500 million in May 2018, and Evergreen Consumer Goods Co. also raised $500 million in March 2017."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the values of the major asset acquisitions completed by Capital Finance Group in September 2018 and Evergreen Consumer Goods Co. in February 2017?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "In September 2018, the company completed the asset acquisition of XYZ Wealth Management, with a total value of $200 million."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In terms of major asset acquisition, Evergreen Consumer Goods Co. completed the acquisition of Green Health Products in February 2017, worth $200 million."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group completed a major asset acquisition worth $200 million in September 2018, and Evergreen Consumer Goods Co. completed a major asset acquisition worth $200 million in February 2017."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What was the amount of liabilities reduced by Capital Finance Group in November 2018 and Evergreen Consumer Goods Co. in April 2017 through debt restructuring?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "To optimize its capital structure, in November 2018, Capital Finance Group underwent debt restructuring, reducing its liabilities by $100 million."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In April 2017, Evergreen Consumer Goods Co. underwent debt restructuring, reducing its liabilities by $100 million."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group reduced liabilities by $100 million in November 2018, and Evergreen Consumer Goods Co. reduced liabilities by $100 million in April 2017."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the net profits of Capital Finance Group in 2018 and Evergreen Consumer Goods Co. in 2017?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "The net profit amounted to $300 million, influenced by the operating income, cost control measures, and non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Evergreen Consumer Goods Co. also reported a net profit of $400 million, influenced by its operating income, cost control measures, and non-recurring gains and losses."
+                    ]
+                }
+            ],
+            "answer": "The net profit of Capital Finance Group in 2018 was $300 million, and the net profit of Evergreen Consumer Goods Co. in 2017 was $400 million."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of Capital Finance Group in 2018 and Evergreen Consumer Goods Co. in 2017. Which company had higher operating income?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "The company's operating income reached $1.5 billion, influenced by market demand and changes in product prices."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "The company reported an operating income of $2.5 billion, influenced by market demand and changes in product prices."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. had higher operating income in 2017 with $2.5 billion compared to Capital Finance Group's $1.5 billion in 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of Capital Finance Group in 2018 and Evergreen Consumer Goods Co. in 2017. Which company had higher net profit?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "The net profit amounted to $300 million, influenced by the operating income, cost control measures, and non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Evergreen Consumer Goods Co. also reported a net profit of $400 million, influenced by its operating income, cost control measures, and non-recurring gains and losses."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. had higher net profit in 2017 with $400 million compared to Capital Finance Group's $300 million in 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of Capital Finance Group in 2018 and Evergreen Consumer Goods Co. in 2017. Which company had more total assets?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "Capital Finance Group's total assets stood at $5 billion, driven by asset acquisitions, disposals, and revaluations."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "With total assets amounting to $5.2 billion, Evergreen Consumer Goods Co. demonstrated its strong financial position."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. had more total assets in 2017 with $5.2 billion compared to Capital Finance Group's $5 billion in 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total liabilities of Capital Finance Group in 2018 and Evergreen Consumer Goods Co. in 2017. Which company had higher total liabilities?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "The company's total liabilities amounted to $2 billion, influenced by new debt issuances, debt repayments, and debt restructuring."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Evergreen Consumer Goods Co. reported total liabilities of $3.1 billion, influenced by new debt issuances, debt repayments, and debt restructuring."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. had higher total liabilities in 2017 with $3.1 billion compared to Capital Finance Group's $2 billion in 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distributions of Capital Finance Group in 2018 and Evergreen Consumer Goods Co. in 2017. Which company distributed more dividends?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "In February 2018, the company decided to distribute $10 million of dividends to its shareholders, which significantly improved shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Evergreen Consumer Goods Co. is a publicly-traded company on NYSE that was established on June 1, 2000, and is primarily engaged in the manufacturing and distribution of personal care and household goods.In January 2017, Evergreen Consumer Goods Co. made the strategic decision to distribute $50 million of dividends to its shareholders."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. distributed more dividends in 2017 with $50 million compared to Capital Finance Group's $10 million in 2018."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the debt restructuring events of Capital Finance Group in 2018 and Evergreen Consumer Goods Co. in 2017. Which company underwent debt restructuring earlier?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "To optimize its capital structure, in November 2018, Capital Finance Group underwent debt restructuring, reducing its liabilities by $100 million."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In April 2017, Evergreen Consumer Goods Co. underwent debt restructuring, reducing its liabilities by $100 million."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. underwent debt restructuring earlier in April 2017 compared to Capital Finance Group's debt restructuring in November 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the major asset acquisitions by Capital Finance Group in 2018 and Evergreen Consumer Goods Co. in 2017. Which company had a higher value of asset acquisition?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "In September 2018, the company completed the asset acquisition of XYZ Wealth Management, with a total value of $200 million."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In terms of major asset acquisition, Evergreen Consumer Goods Co. completed the acquisition of Green Health Products in February 2017, worth $200 million."
+                    ]
+                }
+            ],
+            "answer": "Both Capital Finance Group and Evergreen Consumer Goods Co. had major asset acquisitions worth $200 million in 2018 and 2017 respectively."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the large-scale financing activities of Capital Finance Group in 2018 and Evergreen Consumer Goods Co. in 2017. Which company raised more funds?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "In May 2018, the company conducted a large-scale financing activity, raising $500 million of funds."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In March 2017, Evergreen Consumer Goods Co. raised $500 million in a large-scale financing activity."
+                    ]
+                }
+            ],
+            "answer": "Both Capital Finance Group and Evergreen Consumer Goods Co. raised $500 million in their large-scale financing activities in 2018 and 2017 respectively."
+        }
+    ]
+}

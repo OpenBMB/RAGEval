@@ -1,0 +1,225 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "Which companies did MediaCorp and GreenTech Solutions Inc. acquire assets from in 2018 and 2021, respectively?",
+            "ref": [
+                {
+                    "company_name": "MediaCorp",
+                    "content": [
+                        "One of the major highlights was the acquisition of Big Pictures, a renowned film production company, in April.",
+                        "This asset acquisition, valued at $100 million, allowed MediaCorp to broaden its business scope and tap into the lucrative film industry."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "The company's total assets reached $500 million, reflecting the acquisition of Liberty Energy Solutions, capital expenditures for research and development, and asset revaluation.",
+                        "Additionally, the company completed the acquisition of Liberty Energy Solutions, a prominent renewable energy company, in November 2021.",
+                        "This acquisition, with a total asset value of $100 million, significantly expanded the company's business scope, enabling comprehensive solutions for both waste management and renewable energy, and enhancing market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "MediaCorp acquired assets from Big Pictures in 2018, and GreenTech Solutions Inc. acquired assets from Liberty Energy Solutions in 2021."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much dividend did MediaCorp and GreenTech Solutions Inc. distribute to their shareholders in 2018 and 2021, respectively?",
+            "ref": [
+                {
+                    "company_name": "MediaCorp",
+                    "content": [
+                        "Furthermore, in September, MediaCorp decided to distribute $10 million of dividends to shareholders, enhancing shareholder returns and demonstrating the company's commitment to rewarding its investors."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "The company's shareholder equity reached $350 million, reflecting the generation of net profit, dividend distribution to shareholders, and capital reserves from previous financial periods."
+                    ]
+                }
+            ],
+            "answer": "MediaCorp distributed $10 million in dividends to its shareholders in 2018, and GreenTech Solutions Inc. distributed $10 million in dividends to its shareholders in 2021."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What was the impact of the debt restructuring on the financial conditions of MediaCorp in 2018 and GreenTech Solutions Inc. in 2021?",
+            "ref": [
+                {
+                    "company_name": "MediaCorp",
+                    "content": [
+                        "To optimize its capital structure, MediaCorp underwent debt restructuring in July, reducing its liabilities by $20 million.",
+                        "This move improved MediaCorp's financial condition and reduced financial costs."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "The company's debt restructuring in August 2021 successfully reduced liabilities by $20 million, improving its financial condition and reducing financial costs, providing a more sustainable foundation for future growth."
+                    ]
+                }
+            ],
+            "answer": "The debt restructuring improved MediaCorp's financial condition by reducing liabilities by $20 million in 2018, and it similarly improved GreenTech Solutions Inc.'s financial condition by reducing liabilities by $20 million in 2021."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much funding did MediaCorp and GreenTech Solutions Inc. raise through large-scale financing activities in 2018 and 2021, respectively?",
+            "ref": [
+                {
+                    "company_name": "MediaCorp",
+                    "content": [
+                        "In October, MediaCorp conducted a large-scale financing activity, raising $150 million of funds.",
+                        "This strengthened the company's financial strength and provided support for its expansion and development plans."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "To strengthen its financial position, GreenTech Solutions Inc. conducted a large-scale financing round in December 2021, raising $200 million in funds from leading institutional investors.",
+                        "This has provided the necessary capital for continued expansion and development in the environmental protection sector."
+                    ]
+                }
+            ],
+            "answer": "MediaCorp raised $150 million through large-scale financing activities in 2018, and GreenTech Solutions Inc. raised $200 million through large-scale financing activities in 2021."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the net profits of MediaCorp in 2018 and GreenTech Solutions Inc. in 2021?",
+            "ref": [
+                {
+                    "company_name": "MediaCorp",
+                    "content": [
+                        "Additionally, the net profit for the year stood at $150 million, showcasing the company's ability to effectively control costs and generate substantial returns."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "The impact of these partnerships can be seen in the company's net profit, which reached $30 million.",
+                        "This strong financial performance can be attributed to the company's effective cost control measures and the absence of major non-recurring gains and losses."
+                    ]
+                }
+            ],
+            "answer": "The net profit of MediaCorp in 2018 was $150 million, and the net profit of GreenTech Solutions Inc. in 2021 was $30 million."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of MediaCorp in 2018 and GreenTech Solutions Inc. in 2021. Which company had higher operating income?",
+            "ref": [
+                {
+                    "company_name": "MediaCorp",
+                    "content": [
+                        "The operating income for the year reached $800 million, indicating the success of the company's main business and other income streams."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "As a result, GreenTech Solutions Inc. experienced a substantial increase in operating income, reaching $150 million, driven by increasing market demand for environmental protection technologies, positive changes in global regulations favoring environmentally friendly solutions, and R&D breakthroughs leading to innovative product offerings.",
+                        "In terms of financial indicators, GreenTech Solutions Inc. achieved an operating income of $150 million, a net profit of $30 million, total assets of $500 million, total liabilities of $150 million, and a cash flow of $50 million."
+                    ]
+                }
+            ],
+            "answer": "MediaCorp had higher operating income in 2018 with $800 million compared to GreenTech Solutions Inc.'s $150 million in 2021."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of MediaCorp in 2018 and GreenTech Solutions Inc. in 2021. Which company had higher net profit?",
+            "ref": [
+                {
+                    "company_name": "MediaCorp",
+                    "content": [
+                        "Additionally, the net profit for the year stood at $150 million, showcasing the company's ability to effectively control costs and generate substantial returns."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "The impact of these partnerships can be seen in the company's net profit, which reached $30 million.",
+                        "In terms of financial indicators, GreenTech Solutions Inc. achieved an operating income of $150 million, a net profit of $30 million, total assets of $500 million, total liabilities of $150 million, and a cash flow of $50 million."
+                    ]
+                }
+            ],
+            "answer": "MediaCorp had higher net profit in 2018 with $150 million compared to GreenTech Solutions Inc.'s $30 million in 2021."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of MediaCorp in 2018 and GreenTech Solutions Inc. in 2021. Which company had more total assets?",
+            "ref": [
+                {
+                    "company_name": "MediaCorp",
+                    "content": [
+                        "The acquisition of Big Pictures also had a positive impact on MediaCorp's total assets, which reached $2 billion by the end of the year."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "The company's total assets reached $500 million, reflecting the acquisition of Liberty Energy Solutions, capital expenditures for research and development, and asset revaluation.",
+                        "In terms of financial indicators, GreenTech Solutions Inc. achieved an operating income of $150 million, a net profit of $30 million, total assets of $500 million, total liabilities of $150 million, and a cash flow of $50 million."
+                    ]
+                }
+            ],
+            "answer": "MediaCorp had more total assets in 2018 with $2 billion compared to GreenTech Solutions Inc.'s $500 million in 2021."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the debt restructuring efforts of MediaCorp in 2018 and GreenTech Solutions Inc. in 2021. Which company reduced more liabilities through debt restructuring?",
+            "ref": [
+                {
+                    "company_name": "MediaCorp",
+                    "content": [
+                        "To optimize its capital structure, MediaCorp underwent debt restructuring in July, reducing its liabilities by $20 million."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "The company's debt restructuring in August 2021 successfully reduced liabilities by $20 million, improving its financial condition and reducing financial costs, providing a more sustainable foundation for future growth."
+                    ]
+                }
+            ],
+            "answer": "Both MediaCorp in 2018 and GreenTech Solutions Inc. in 2021 reduced their liabilities by $20 million through debt restructuring."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distributions of MediaCorp in 2018 and GreenTech Solutions Inc. in 2021. Which company distributed more dividends?",
+            "ref": [
+                {
+                    "company_name": "MediaCorp",
+                    "content": [
+                        "Furthermore, in September, MediaCorp decided to distribute $10 million of dividends to shareholders, enhancing shareholder returns and demonstrating the company's commitment to rewarding its investors."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "The company's shareholder equity reached $350 million, reflecting the generation of net profit, dividend distribution to shareholders, and capital reserves from previous financial periods."
+                    ]
+                }
+            ],
+            "answer": "Both MediaCorp in 2018 and GreenTech Solutions Inc. in 2021 distributed $10 million in dividends to their shareholders."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the large-scale financing activities of MediaCorp in 2018 and GreenTech Solutions Inc. in 2021. Which company raised more funds?",
+            "ref": [
+                {
+                    "company_name": "MediaCorp",
+                    "content": [
+                        "In October, MediaCorp conducted a large-scale financing activity, raising $150 million of funds."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "To strengthen its financial position, GreenTech Solutions Inc. conducted a large-scale financing round in December 2021, raising $200 million in funds from leading institutional investors."
+                    ]
+                }
+            ],
+            "answer": "GreenTech Solutions Inc. raised more funds with $200 million in 2021 compared to MediaCorp's $150 million in 2018."
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "I. Chavez",
+            "Gender": "female",
+            "Age": "82",
+            "Ethnicity": "Hispanic",
+            "Marital Status": "Widowed",
+            "Occupation": "Retired",
+            "Address": "71, Knoxville street, Yorkshire",
+            "Admission Time": "12th, February",
+            "Record Time": "12th, February",
+            "Historian": "Patient herself",
+            "Hospital Name": "Yorkshire General Hospital"
+        },
+        "Chief Complaint": "Intermittent abdominal colic, constipation, and abdominal distension for 3 days.",
+        "Present Illness": {
+            "Onset": "Onset occurred three days ago at home, sudden in nature with no identifiable triggers.",
+            "Main Symptoms": "Experiencing intermittent abdominal colic, reduced appetite, constipation, vomiting, inability to pass stool or flatus, and pronounced abdominal distension. Pain severity: 7/10, worsens post-meal, partially relieved by positioning.",
+            "Accompanying Symptoms": "Nausea and occasional vomiting, no fever, no chills, no significant weight loss noted.",
+            "Diagnosis and Treatment History": "Patient self-administered over-the-counter laxatives without relief. No prior hospitalizations for similar symptoms.",
+            "General Condition Changes": "Appetite significantly reduced, difficulty sleeping due to discomfort, no recent weight change, urination normal."
+        },
+        "Past History": {
+            "General Health Condition": "Previously healthy with controlled hypertension.",
+            "Disease History": "Hypertension for 10 years, controlled with medication.",
+            "Infectious Disease History": "No significant history of infectious diseases.",
+            "Immunization History": "Up to date with vaccinations.",
+            "Surgery and Trauma History": "Appendectomy at age 30.",
+            "Blood Transfusion History": "No history of blood transfusion.",
+            "Allergy History": "No known allergies."
+        },
+        "Personal History": {
+            "Birthplace": "Yorkshire",
+            "Residence": "71, Knoxville street, Yorkshire",
+            "Living Habits": "Non-smoker, occasional wine consumption, diet low in fiber.",
+            "Occupation and Working Conditions": "Retired teacher, no known work-related health issues.",
+            "Exposure History": "No known exposure to industrial toxins, dust, or radioactive substances.",
+            "Travel History": "No recent travel history."
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Widowed",
+                "Marriage Age": "Married at age 25",
+                "Spouse's Health Condition": "Deceased due to heart disease",
+                "Children's Condition": "Two children, both healthy."
+            },
+            "Menstrual History": {
+                "Menarche Age": "Age 12",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "Menopause at age 50",
+                "Menstrual Volume": "Normal",
+                "Dysmenorrhea": "Mild"
+            },
+            "Family History": "Mother had similar digestive issues in old age; father deceased due to stroke; one sibling diagnosed with type 2 diabetes."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "37.2°C",
+                "Pulse": "88 bpm",
+                "Respiration": "20 breaths/min",
+                "Blood Pressure": "140/85 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "No rashes or lesions",
+                "Mucous Membranes": "Normal hydration",
+                "Lymph Nodes": "No lymphadenopathy",
+                "Head and Organs": "Normocephalic, atraumatic",
+                "Neck": "Supple, no jugular venous distension",
+                "Chest": "Clear bilateral breath sounds, no wheezes or crackles, heart sounds normal, no murmurs",
+                "Abdomen": "Distended, hyperactive bowel sounds, diffuse tenderness, no rebound tenderness, liver and spleen not palpable",
+                "Rectum and Anus": "No abnormalities",
+                "External Genitalia": "Normal for age",
+                "Spine": "Normal curvature",
+                "Limbs": "No edema, normal range of motion",
+                "Nervous System": "Alert, oriented, no focal deficits"
+            }
+        },
+        "Specialist Examination": "Surgical consultation recommended for possible intestinal obstruction.",
+        "Auxiliary Examination": "Abdominal X-ray showed distended bowel loops with air-fluid levels, indicative of obstruction.",
+        "Preliminary Diagnosis": "Intestinal Obstruction",
+        "Diagnostic Basis": "Based on history of intermittent abdominal colic, constipation, inability to pass stool or flatus, and supportive imaging studies.",
+        "Differential Diagnosis": "Acute perforation of gastric or duodenal ulcer ruled out due to absence of history and systemic signs; acute cholecystitis and pancreatitis less likely due to imaging findings; acute appendicitis ruled out given absence of fixed lower right abdominal tenderness.",
+        "Admission Records": {
+            "Physician's Signature": "Dr. A. Martinez"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with suspected intestinal obstruction based on symptoms and initial imaging. Initial management includes nil per os (NPO), intravenous fluids, and nasogastric tube insertion. Pending further evaluation and surgical consultation.",
+            "Daily Course Records": "Day 2: Symptoms persist, maintaining NPO status, continued IV fluids, and monitoring. Day 3: Slight improvement in abdominal distension, tolerated small sips of water, planned gradual reintroduction of diet.",
+            "Senior Physician Rounds Records": "Reviewed by senior physician Dr. L. Wang; agreed with ongoing management plan, no surgical intervention required at present.",
+            "Difficult Case Discussion Records": "Not applicable.",
+            "Handover Records": "Handover to on-call team completed with detailed overview of the case, current management plan, and pending evaluations.",
+            "Transfer Records": "Not applicable.",
+            "Stage Summary": "Patient showing signs of improvement on conservative management. Gradual reintroduction of diet initiated.",
+            "Emergency Records": "Not applicable.",
+            "Invasive Procedure Records": "Nasogastric tube insertion performed for decompression.",
+            "Consultation Records": "Surgical consultation confirmed no immediate need for surgical intervention.",
+            "Discharge Records": "To be filled upon discharge.",
+            "Critically Ill Patient Care Records": "Not applicable."
+        },
+        "Medical Orders": {
+            "Long-term Orders": "NPO, IV Fluids (Normal Saline 0.9%), Nasogastric Tube Suction, Bed Rest",
+            "Temporary Orders": "Abdominal X-ray, Complete Blood Count, Basic Metabolic Panel"
+        },
+        "Auxiliary Examination Reports": "Complete Blood Count showed mild leukocytosis; Basic Metabolic Panel within normal limits.",
+        "Temperature Chart": "Feb 12: Temp 37.2°C, Pulse 88 bpm, Resp 20 bpm, BP 140/85 mmHg. Feb 13: Temp 37.1°C, Pulse 86 bpm, Resp 18 bpm, BP 138/84 mmHg. Feb 14: Temp 36.9°C, Pulse 82 bpm, Resp 18 bpm, BP 135/82 mmHg.",
+        "Blood Transfusion Consent": "Not applicable.",
+        "Special Examination Consent": "Consent obtained for abdominal X-ray.",
+        "Critical Condition Notice": "Not applicable."
+    },
+    "DiseaseType": {
+        "Digestive System Diseases": {
+            "Name": "Intestinal Obstruction",
+            "Symptoms": "Intermittent abdominal colic, decreased appetite, constipation, vomiting, inability to pass stool or flatus, abdominal distension",
+            "Differential Diagnosis": "Acute perforation of gastric or duodenal ulcer (usually with a history of long-term digestive tract ulcers), acute cholecystitis complicated by gallbladder stones, acute pancreatitis, acute appendicitis (fixed point tenderness in the lower right abdomen)"
+        }
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Newport General Hospital, what are the ages of patients J. Reyes and V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "Age: 52"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Age: 64"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient J. Reyes is 52 years old; according to the hospitalization records of Newport General Hospital, patient V. Lewis is 64 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Newport General Hospital, what are the chief complaints of patients J. Reyes and V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "**Chief Complaint:**",
+                        "Persistent joint pain and morning stiffness for 6 months"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Chief Complaint: Fever, cough, and difficulty breathing for 5 days."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient J. Reyes's chief complaint is persistent joint pain and morning stiffness for 6 months; according to the hospitalization records of Newport General Hospital, patient V. Lewis's chief complaint is fever, cough, and difficulty breathing for 5 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Newport General Hospital, what are the occupations of patients J. Reyes and V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "Occupation: Construction Worker"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Occupation: Retired Teacher"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient J. Reyes is a construction worker; according to the hospitalization records of Newport General Hospital, patient V. Lewis is a retired teacher."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Newport General Hospital, what is the allergy history of patients J. Reyes and V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "Allergy History: Allergic to penicillin."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Allergy History: Allergic to penicillin."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient J. Reyes is allergic to penicillin; according to the hospitalization records of Newport General Hospital, patient V. Lewis is also allergic to penicillin."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Newport General Hospital, what are the preliminary diagnoses of patients J. Reyes and V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "**Preliminary Diagnosis:**",
+                        "Rheumatoid Arthritis"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Preliminary Diagnosis: Community-acquired pneumonia"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient J. Reyes's preliminary diagnosis is rheumatoid arthritis; according to the hospitalization records of Newport General Hospital, patient V. Lewis's preliminary diagnosis is community-acquired pneumonia."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Newport General Hospital, who was admitted earlier, J. Reyes or V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "Admission Time: 7th, September"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Admission Time: 23rd, July"
+                    ]
+                }
+            ],
+            "answer": "J. Reyes was admitted on September 7, and V. Lewis was admitted on July 23. V. Lewis was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Newport General Hospital, whose temperature was higher upon admission, J. Reyes or V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "- Temperature: 37.2°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Temperature: 38.5°C"
+                    ]
+                }
+            ],
+            "answer": "J. Reyes had a temperature of 37.2°C, while V. Lewis had a temperature of 38.5°C. V. Lewis's temperature was higher upon admission."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Newport General Hospital, whose pulse rate was higher, J. Reyes or V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "- Pulse: 78 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Pulse: 92 bpm"
+                    ]
+                }
+            ],
+            "answer": "J. Reyes had a pulse rate of 78 bpm, while V. Lewis had a pulse rate of 92 bpm. V. Lewis's pulse rate was higher."
+        }
+    ]
+}

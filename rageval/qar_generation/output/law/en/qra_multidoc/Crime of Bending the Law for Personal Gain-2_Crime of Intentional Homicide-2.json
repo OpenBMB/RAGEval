@@ -1,0 +1,104 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Danbury, Pinehurst, Court and Preston, Lancaster, Court, what are the occupations of the defendants P. Anderson and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Danbury, Pinehurst, Court",
+                    "content": [
+                        "**Occupation:** Senior Government Auditor"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Occupation:** Accountant"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Danbury, Pinehurst, Court, the defendant P. Anderson is a Senior Government Auditor; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris is an Accountant."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Danbury, Pinehurst, Court and Preston, Lancaster, Court, what crimes did the defendants P. Anderson and M. Harris commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Danbury, Pinehurst, Court",
+                    "content": [
+                        "The defendant, P. Anderson, stood accused of violating Article No. 397, specifically charged with the Crime of Bending the Law for Personal Gain."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Crime Name:** Crime of Intentional Homicide",
+                        "M. Harris stands charged under Article 232 for the Crime of Intentional Homicide."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Danbury, Pinehurst, Court, the defendant P. Anderson committed the Crime of Bending the Law for Personal Gain; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris committed the Crime of Intentional Homicide."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Danbury, Pinehurst, Court and Preston, Lancaster, Court, what sentences were given to the defendants P. Anderson and M. Harris respectively?",
+            "ref": [
+                {
+                    "court_name": "Danbury, Pinehurst, Court",
+                    "content": [
+                        "This court hereby sentences P. Anderson to five years of imprisonment and imposes a fine of $300,000."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Sentence:** Life imprisonment"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Danbury, Pinehurst, Court, the defendant P. Anderson was sentenced to 5 years of imprisonment and a fine of $300,000; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris was sentenced to life imprisonment."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Danbury, Pinehurst, Court and Preston, Lancaster, Court, who received a longer sentence, P. Anderson or M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Danbury, Pinehurst, Court",
+                    "content": [
+                        "Having thoroughly examined the aforementioned evidence and considerations, this court finds P. Anderson guilty of the Crime of Bending the Law for Personal Gain under Article No. 397.",
+                        "This court hereby sentences P. Anderson to five years of imprisonment and imposes a fine of $300,000."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "Having considered all evidence, testimonies, and the circumstances surrounding the crime, this court finds M. Harris guilty of the Crime of Intentional Homicide as charged under Article 232.",
+                        "**Sentence:** Life imprisonment"
+                    ]
+                }
+            ],
+            "answer": "M. Harris received a longer sentence."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Danbury, Pinehurst, Court and Preston, Lancaster, Court, whose judgment date is earlier, P. Anderson or M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Danbury, Pinehurst, Court",
+                    "content": [
+                        "**Judgment rendered on this 30th day of June, 2023.**"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 25th of June, 2023."
+                    ]
+                }
+            ],
+            "answer": "M. Harris's judgment date is earlier."
+        }
+    ]
+}

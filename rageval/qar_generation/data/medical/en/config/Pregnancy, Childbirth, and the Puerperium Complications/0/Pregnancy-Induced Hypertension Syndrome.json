@@ -1,0 +1,130 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "H. Sanchez",
+            "Gender": "female",
+            "Age": "29",
+            "Ethnicity": "Hispanic",
+            "Marital Status": "Married",
+            "Occupation": "Teacher",
+            "Address": "95, Farmington street, Greenfield",
+            "Admission Time": "17th, October",
+            "Record Time": "17th, October",
+            "Historian": "Self",
+            "Hospital Name": "Greenfield General Hospital"
+        },
+        "Chief Complaint": "Hypertension, swelling in legs, and proteinuria for 2 weeks",
+        "Present Illness": {
+            "Onset": "Approximately 2 weeks ago, at home, gradually with no apparent trigger",
+            "Main Symptoms": "Persistent hypertension, notable leg edema, proteinuria detected upon testing; symptoms worsening over the past week despite rest",
+            "Accompanying Symptoms": "Occasional headaches, dizziness predominantly when standing up",
+            "Diagnosis and Treatment History": "Initial consultation with primary care physician led to diagnosis of Pregnancy-Induced Hypertension Syndrome. Prescribed medication and advised bed rest. Symptoms did not improve significantly. Referral to hospital for further management.",
+            "General Condition Changes": "Mental state slightly anxious due to health concerns. Sleep disturbed by discomfort. Appetite decreased slightly. No significant changes in urination and defecation patterns. Mild weight gain attributed to edema."
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy with no significant past illnesses",
+            "Disease History": "No chronic illnesses",
+            "Infectious Disease History": "No significant infectious diseases",
+            "Immunization History": "Up to date with standard immunizations",
+            "Surgery and Trauma History": "Appendectomy at age 15",
+            "Blood Transfusion History": "No history of blood transfusion",
+            "Allergy History": "No known allergies"
+        },
+        "Personal History": {
+            "Birthplace": "Greenfield",
+            "Residence": "Greenfield",
+            "Living Habits": "Non-smoker, occasional social alcohol consumption",
+            "Occupation and Working Conditions": "Works as a teacher, generally sedentary lifestyle",
+            "Exposure History": "No known exposure to industrial toxins, dust, or radioactive substances",
+            "Travel History": "No significant travel history in the past year"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Married",
+                "Marriage Age": "26",
+                "Spouse's Health Condition": "Generally healthy",
+                "Children's Condition": "First pregnancy"
+            },
+            "Menstrual History": {
+                "Menarche Age": "13",
+                "Menstruation Duration": "5-6 days",
+                "Menstruation Interval": "28-30 days",
+                "Last Menstruation": "5 months ago",
+                "Menstrual Volume": "Normal",
+                "Dysmenorrhea": "Mild dysmenorrhea"
+            },
+            "Family History": "Mother has hypertension, father healthy, no siblings"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "37°C (98.6°F)",
+                "Pulse": "88 bpm",
+                "Respiration": "18 breaths/min",
+                "Blood Pressure": "150/95 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "No rash, pale skin",
+                "Mucous Membranes": "No abnormalities",
+                "Lymph Nodes": "No enlargement",
+                "Head and Organs": "No abnormalities",
+                "Neck": "No goiter, no jugular venous distention",
+                "Chest": "Clear lung sounds, no murmurs or added heart sounds",
+                "Abdomen": "Non-tender, no hepatosplenomegaly noted",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "No abnormalities noted",
+                "Spine": "No deformities",
+                "Limbs": "Pitting edema observed in lower extremities",
+                "Nervous System": "No neurological deficits observed"
+            }
+        },
+        "Specialist Examination": "Ophthalmologic examination: No retinopathy; significant pitting edema in lower limbs",
+        "Auxiliary Examination": "Urinalysis: Proteinuria 2+, Blood tests: Elevated serum creatinine, Ultrasonography: Normal fetal growth and development",
+        "Preliminary Diagnosis": "Pregnancy-Induced Hypertension Syndrome",
+        "Diagnostic Basis": "Based on patient's history, presence of hypertension (BP 150/95 mmHg), proteinuria, and edema in a previously normotensive patient",
+        "Differential Diagnosis": "Chronic hypertension (ruled out by lack of pre-pregnancy history and normal baseline tests), preeclampsia (symptoms not severe enough nor congruent progression), chronic hypertension with superimposed preeclampsia (ruled out by onset timing and previous history)",
+        "Admission Records": {
+            "Physician's Signature": "Dr. A. Cooper"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with signs of Pregnancy-Induced Hypertension Syndrome. Initial management includes bed rest, antihypertensive therapy, and monitoring fetal well-being. Differential diagnosis includes chronic hypertension and preeclampsia. Further diagnostic tests pending.",
+            "Daily Course Records": "Daily assessments show consistent BP readings around 145-150/90-95 mmHg with no significant headaches or visual disturbances. Fetal movements normal, mild persistence of edema.",
+            "Senior Physician Rounds Records": "Reviewed patient's ongoing symptoms and test results; current management plan reaffirmed, discussed need for close monitoring due to risk of progression to preeclampsia.",
+            "Difficult Case Discussion Records": "Interdisciplinary meeting discussed patient’s risk profile and potential need for early induction of labor if symptoms worsen.",
+            "Handover Records": "Next shift briefed on patient’s stable, but closely monitored condition, ongoing need for fetal heart monitoring and periodic blood tests.",
+            "Transfer Records": "No transfer required, patient remains in obstetric care unit.",
+            "Stage Summary": "End of week summary: Patient remains stable, BP under control, no signs of eclampsia onset, continuation of current management plan with scheduled ultrasound.",
+            "Emergency Records": "No emergencies recorded during this period.",
+            "Invasive Procedure Records": "No invasive procedures performed.",
+            "Consultation Records": "Cardiology consulted regarding management of hypertensive state, no additional medications prescribed at this time.",
+            "Surgery Related": {
+                "Preoperative Summary": "Indicated for cesarean section due to non-progression of attempts at labor induction and worsening hypertension.",
+                "Preoperative Discussion Records": "Discussion on choice of cesarean section, possible complications including further rise in BP, bleeding risks.",
+                "Anesthesia Preoperative Visit Records": "Patient assessed for anesthesia, deemed fit for spinal anesthesia but with close monitoring due to hypertension.",
+                "Anesthesia Records": "Spinal anesthesia administered without complications, patient remained stable throughout the procedure.",
+                "Surgery Records": "Cesarean section performed, delivery of healthy infant, minor blood loss, patient stable.",
+                "Surgery Safety Checklist": "Completed; patient identity, surgical site, and anesthesia verified pre-surgery.",
+                "Surgery Instrument Count Records": "All instruments and items accounted for post-surgery.",
+                "Postoperative First Course Record": "Patient transferred to recovery, stable vitals, ongoing assessment for any signs of postpartum complications.",
+                "Anesthesia Postoperative Visit Records": "Patient shows good recovery post-anesthesia, all vitals stable, minimal pain."
+            },
+            "Discharge Records": "Planned for discharge after 4 days post-surgery with instructions on monitoring BP and follow-up in 1 week.",
+            "Critically Ill Patient Care Records": "Not applicable"
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Bed rest, ongoing antihypertensive medication, daily BP monitoring, regular fetal cardiac monitoring",
+            "Temporary Orders": "Immediate cesarean section due to non-progress of labor induction and maternal hypertension"
+        },
+        "Auxiliary Examination Reports": "Ultrasound: Normal fetal growth; lab tests: Normal liver function, elevated uric acid, proteinuria 2+",
+        "Temperature Chart": "Temperature stable, BP readings consistently around 145-150/90-95 mmHg, Pulse 88 bpm, Respiration 18 breaths/min",
+        "Blood Transfusion Consent": "Signed in the event of surgical necessity",
+        "Special Examination Consent": "Signed for detailed fetal monitoring and blood tests",
+        "Critical Condition Notice": "Not issued"
+    },
+    "DiseaseType": {
+        "Pregnancy, Childbirth, and the Puerperium Complications": {
+            "Name": "Pregnancy-Induced Hypertension Syndrome",
+            "Symptoms": "Hypertension, edema, proteinuria",
+            "Differential Diagnosis": "Chronic hypertension, preeclampsia, chronic hypertension with superimposed preeclampsia."
+        }
+    }
+}

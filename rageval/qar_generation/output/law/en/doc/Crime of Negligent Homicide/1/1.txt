@@ -1,0 +1,131 @@
+### In the Matter of People v. M. Ward
+
+**Hamilton, Harrison, Court**
+
+**Criminal Judgment**
+
+**Case No.: 2023/655**
+
+### Part I: Court and Prosecutor Information
+
+**Court**:
+Hamilton, Harrison, Court
+
+**Procuratorate**:
+Hamilton, Harrison, Procuratorate
+
+**Chief Judge**: 
+T. Rivera
+
+**Judge**: 
+Q. Stewart
+
+**Clerk**: 
+U. Richardson
+
+### Part II: Defendant and Defense Lawyer Information
+
+**Defendant**:
+Name: M. Ward
+Gender: Female
+Birthdate: 22th August, 1983
+Residence: 86, Tiverton Street, Harrison
+Ethnicity: Caucasian
+Occupation: Nurse 
+
+**Defense Lawyer**:
+Name: I. Richardson
+Law Firm: Richardson & Partners Law Firm
+
+### Part III: Case Procedures
+
+This court received the current case from the Hamilton, Harrison Prosecutor's Office following a detailed investigation surrounding the alleged crime. The prosecuting authorities laid the following timeline for this case:
+
+1. **Case Filing and Investigation**:
+   The case was officially filed and investigation commenced on the 1st of March, 2023.
+   
+2. **Detention Measures Taken**:
+   On the 5th of March, 2023, appropriate measures of detection were put in place concerning the accused individual.
+
+3. **Criminal Detention**:
+   M. Ward was placed under criminal detention on the 10th of March, 2023.
+
+4. **Arrest**:
+   The formal arrest occurred on the 15th of March, 2023.
+
+### Part IV: Case Statement
+
+M. Ward, a nurse employed at Harrison General Hospital, faced charges of negligent homicide following an incident that transpired from the 23rd to the 25th of February, 2023, resulting in the tragic death of patient S. Harris. 
+
+On the evening of 23rd February, 2023, at approximately 8:45 PM, within the confines of her professional duties, M. Ward administered an incorrect dosage of medication. The dosage administered was significantly higher than what was prescribed for patient S. Harris, which was evidenced by intelligible medical records that indicated the discrepancy. J. Olsen, the attending night shift nurse, corroborated this evidence with her testimony, substantiated further by the hospital's surveillance footage that captured the actions of the defendant.
+
+The following day on 24th February, 2023, at around 10:15 PM, M. Ward failed to adequately monitor the patient's vital signs post-administration, despite the patient exhibiting alarming signs of distress. This was identified through patient monitoring logs and reiterated by respiratory therapist G. Sharpe, whose testimony was supported by electronic vital sign data records.
+
+Finally, in the early hours of 25th February, 2023, precisely at 1:25 AM, M. Ward delayed in initiating emergency procedures and failed to promptly contact the on-call physician as the patient's condition deteriorated catastrophically. This action, or lack thereof, was recorded in the emergency response report and was verified by night nurse H. Spencer through witness testimony, along with time-stamped hospital phone records presenting a delay in initiating communication with the on-call physician.
+
+### Part V: Charge
+
+The charge put forward by the prosecution was one of a Crime of Negligent Homicide, as delineated under Article 133. 
+
+### Part VI: Evidence Description
+
+The evidence presented for the deliberation of this court included:
+
+1. **Medical Records**:
+   Detailed records depicting the prescribed and administered dosages were examined and clearly demonstrated the improper administration of medication by the defendant.
+
+2. **Witness Testimonies**:
+   Various healthcare professionals provided testimonies that painted a vivid picture of the sequence of events:
+   
+   - **J. Olsen**, the attending night shift nurse, observed and attested to M. Ward's administration of the higher than prescribed dosage.
+   - **G. Sharpe**, the respiratory therapist, confirmed the patient exhibited signs of distress that were overlooked.
+   - **H. Spencer**, the night nurse on call during the critical hours when S. Harris's condition worsened, testified regarding the delay in emergency response and contacting on-call physician.
+
+3. **Surveillance Footage**:
+   The hospital's surveillance footage provided a chronological visual account of M. Ward's activities on the night of 23rd February, indicating the exact moments she administered the excessive dosage.
+
+4. **Patient Monitoring Logs and Electronic Vital Sign Data Records**:
+   These provided crucial data showing the neglected vital signs which were symptomatic of distress post improper medication, thus bolstering the claims of negligence.
+
+5. **Emergency Response Report**:
+   An official report outlining the emergency procedures that were either inadequately followed or altogether delayed.
+
+6. **Hospital Phone Records**:
+   Time-stamped records validated the delay in contacting the on-call physician as described by the witness testimonies.
+
+### Part VII: Sentencing Considerations
+
+When contemplating the sentencing of M. Ward, this court evaluated numerous factors. Firstly, the court acknowledged M. Ward's role and responsibility as a healthcare professional. Nurses, entrusted with the health and wellbeing of patients, carry paramount responsibility. Any negligence in this capacity can result in severe consequences, as evidenced in this case.
+
+The gravity of the negligence shown by M. Ward was particularly apparent given the outcome — the untimely death of S. Harris. The actions and inactions spanning a critical window where immediate intervention could have prevented the tragic loss impacted the sentencing deliberations significantly. The court also considered that M. Ward had no prior criminal history which was weighed against the severity of her misconduct.
+
+Additionally, the court took into account the professional environment and the stressors experienced by healthcare workers. Nevertheless, the duty of care that is a cornerstone of the medical profession could not be overshadowed by these factors.
+
+### Part VIII: Judgment Result
+
+Thus, in light of the above considerations and the detailed examination of evidence, this court hereby finds M. Ward guilty of the Crime of Negligent Homicide pursuant to Article 133.
+
+**Judgment**:
+
+- M. Ward is sentenced to four (4) years of fixed-term imprisonment.
+
+### Part IX: Appeal Rights Explanation
+
+The defendant is duly informed of her right to appeal this judgment. The appeal must be filed within ten days from the date of the receipt of the judgment. The appeal can be made to the Hamilton, Harrison, Court of Higher Instance. The next steps are for the defendant to consult with her legal counsel to draft and submit the notice of appeal within the stipulated timeframe, should she wish to contest this court's decision.
+
+**Dated this 30th day of April, 2023**
+
+**Issued by:**
+
+Chief Judge: T. Rivera   
+Judge: Q. Stewart  
+Clerk: U. Richardson
+
+---
+
+It is fervently hoped that this judgment serves as a somber reminder within the healthcare profession regarding the critical impact of due diligence, care, and rigor in patient treatment protocols.
+
+
+Reference Article is below：
+Article 133
+Those who cause death by negligence shall be sentenced to fixed-term imprisonment of more than three years but not more than seven years; if the circumstances are relatively minor, they shall be sentenced to fixed-term imprisonment of not more than three years.

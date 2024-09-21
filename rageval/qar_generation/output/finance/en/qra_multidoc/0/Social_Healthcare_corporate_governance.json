@@ -1,0 +1,177 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the key decisions made at the shareholders' meetings of AccuTech Solutions Inc. in February 2019 and HealthPro Innovations in February 2021?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "One significant event that had a profound impact on AccuTech Solutions Inc.'s governance structure was the Shareholders' Meeting Resolution in February 2019.",
+                        "During this meeting, key decisions were made to shape the company's governance structure, operational strategies, and shareholder rights.",
+                        "These decisions included the appointment of a new CEO in January 2019, who was expected to drive the company's growth strategy.",
+                        "The strategic partnership announcement in March 2019 further strengthened AccuTech Solutions' market position, while the launch of a new suite of social media analytics tools in April 2019 attracted new customers and increased revenue."
+                    ]
+                },
+                {
+                    "company_name": "HealthPro Innovations",
+                    "content": [
+                        "In February 2021, the company proposed and obtained approval for a three-year strategic plan at the annual shareholders' meeting.",
+                        "This plan focuses on expanding product offerings, entering new markets, and acquiring complementary businesses.",
+                        "The successful passing of these resolutions shapes the company's governance structure, providing a clear direction and driving future growth opportunities."
+                    ]
+                }
+            ],
+            "answer": "At the shareholders' meeting in February 2019, AccuTech Solutions Inc. made key decisions including the appointment of a new CEO, strategic partnership announcements, and product expansion. In February 2021, HealthPro Innovations' shareholders' meeting approved a three-year strategic plan focusing on expanding product offerings, entering new markets, and acquiring complementary businesses."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How did AccuTech Solutions Inc. and HealthPro Innovations respond to ethics and integrity incidents in 2019 and 2021, respectively?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In April 2019, the company faced significant ethical and integrity violations, but it took swift measures to rectify the situation and ensure compliance with ethical standards.",
+                        "This incident showcased the company's commitment to maintaining a strong ethical foundation and protecting the interests of its stakeholders."
+                    ]
+                },
+                {
+                    "company_name": "HealthPro Innovations",
+                    "content": [
+                        "HealthPro Innovations has also demonstrated its commitment to ethics and integrity.",
+                        "In May 2021, the company swiftly responded to a minor ethics violation by conducting an internal investigation, terminating the employee involved, and reinforcing its robust code of ethics.",
+                        "This incident had no significant financial impact on the company and showcased its commitment to ethical practices, preserving its reputation and strengthening stakeholder trust."
+                    ]
+                }
+            ],
+            "answer": "In April 2019, AccuTech Solutions Inc. responded to significant ethical and integrity violations by taking appropriate measures. In May 2021, HealthPro Innovations swiftly responded to a minor ethics violation by conducting an internal investigation, terminating the employee involved, and reinforcing its robust code of ethics."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What risk management measures were implemented by AccuTech Solutions Inc. in July 2019 and HealthPro Innovations in June 2021?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "To mitigate risks, AccuTech Solutions Inc. implemented updates to its risk management framework in July 2019.",
+                        "These measures aimed to identify, assess, and mitigate financial and operational risks, ensuring the company's long-term stability and growth."
+                    ]
+                },
+                {
+                    "company_name": "HealthPro Innovations",
+                    "content": [
+                        "To ensure sustained operational stability and growth, HealthPro Innovations enhanced its risk management framework in June 2021.",
+                        "The company implemented updated procedures to identify emerging risks, conducted regular risk assessments, and established an enterprise risk management committee.",
+                        "This event enhances the company's ability to navigate risks effectively, ensuring sustained operational stability and growth."
+                    ]
+                }
+            ],
+            "answer": "In July 2019, AccuTech Solutions Inc. updated its risk management framework and implemented mitigation strategies. In June 2021, HealthPro Innovations enhanced its risk management framework by implementing updated procedures to identify emerging risks, conducting regular risk assessments, and establishing an enterprise risk management committee."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the shareholders' meeting resolutions of AccuTech Solutions Inc. and HealthPro Innovations. Which company held their shareholders' meeting earlier?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "One significant event that had a profound impact on AccuTech Solutions Inc.'s governance structure was the Shareholders' Meeting Resolution in February 2019.",
+                        "During this meeting, key decisions were made to shape the company's governance structure, operational strategies, and shareholder rights."
+                    ]
+                },
+                {
+                    "company_name": "HealthPro Innovations",
+                    "content": [
+                        "In February 2021, the company proposed and obtained approval for a three-year strategic plan at the annual shareholders' meeting.",
+                        "This plan focuses on expanding product offerings, entering new markets, and acquiring complementary businesses."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. held their shareholders' meeting earlier in February 2019, while HealthPro Innovations held theirs in February 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of the board of directors changes for AccuTech Solutions Inc. and HealthPro Innovations. Which company made changes to their board of directors earlier?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "These decisions included the appointment of a new CEO in January 2019, who was expected to drive the company's growth strategy."
+                    ]
+                },
+                {
+                    "company_name": "HealthPro Innovations",
+                    "content": [
+                        "The appointment of Mr. Alex Johnson as the new Chairman of the Board in April 2021 brought extensive experience and strategic vision to guide the company's growth.",
+                        "This appointment elevates the company's strategic direction, leveraging Mr. Johnson's expertise to further enhance shareholder value."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. made changes to their board of directors earlier in January 2019, while HealthPro Innovations made their changes in April 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of the ethics and integrity incidents for AccuTech Solutions Inc. and HealthPro Innovations. Which company experienced an incident earlier?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In April 2019, the company faced significant ethical and integrity violations, but it took swift measures to rectify the situation and ensure compliance with ethical standards.",
+                        "This incident showcased the company's commitment to maintaining a strong ethical foundation and protecting the interests of its stakeholders."
+                    ]
+                },
+                {
+                    "company_name": "HealthPro Innovations",
+                    "content": [
+                        "In May 2021, the company swiftly responded to a minor ethics violation by conducting an internal investigation, terminating the employee involved, and reinforcing its robust code of ethics.",
+                        "This incident had no significant financial impact on the company and showcased its commitment to ethical practices, preserving its reputation and strengthening stakeholder trust."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. experienced an ethics and integrity incident earlier in April 2019, while HealthPro Innovations had their incident in May 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of senior management changes for AccuTech Solutions Inc. and HealthPro Innovations. Which company made changes to their senior management earlier?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "Furthermore, AccuTech Solutions Inc. made senior management changes in May 2019, which had a direct impact on the company's operational focus and priorities.",
+                        "These changes aimed to streamline operations and optimize performance."
+                    ]
+                },
+                {
+                    "company_name": "HealthPro Innovations",
+                    "content": [
+                        "In August 2021, HealthPro Innovations appointed Ms. Sarah Thompson as the new Chief Financial Officer.",
+                        "Leveraging her extensive financial management experience, Ms. Thompson's appointment enhances the company's financial operations."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. made changes to their senior management earlier in May 2019, while HealthPro Innovations made their changes in August 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of the sustainability and social responsibility initiatives for AccuTech Solutions Inc. and HealthPro Innovations. Which company launched their initiatives earlier?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "The company also made significant progress in sustainability and social responsibility initiatives in June 2019, demonstrating its commitment to environmental protection, social responsibility, and corporate citizenship."
+                    ]
+                },
+                {
+                    "company_name": "HealthPro Innovations",
+                    "content": [
+                        "In November 2021, the company launched a comprehensive sustainability program, reducing its carbon footprint by 20% through energy-efficient manufacturing processes and optimized supply chain logistics.",
+                        "Additionally, HealthPro Innovations supports local healthcare charities, providing free medical services to underserved communities."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. launched their sustainability and social responsibility initiatives earlier in June 2019, while HealthPro Innovations launched theirs in November 2021."
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Ashland City Hospital and Southport General Hospital, what are the ages of patients Q. Gomez and K. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Age: 28"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Age: 35"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Ashland City Hospital, patient Q. Gomez is 28 years old; according to the hospitalization records of Southport General Hospital, patient K. Mendoza is 35 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Ashland City Hospital and Southport General Hospital, what are the occupations of patients Q. Gomez and K. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Occupation: Graphic Designer"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Occupation: Software Engineer"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Ashland City Hospital, patient Q. Gomez is a graphic designer; according to the hospitalization records of Southport General Hospital, patient K. Mendoza is a software engineer."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Ashland City Hospital and Southport General Hospital, what are the chief complaints of patients Q. Gomez and K. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Blurred vision and severe headache for 3 days"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Tremors in hands and slow movement for 6 months"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Ashland City Hospital, patient Q. Gomez's chief complaint is blurred vision and severe headache for 3 days; according to the hospitalization records of Southport General Hospital, patient K. Mendoza's chief complaint is tremors in hands and slow movement for 6 months."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Ashland City Hospital and Southport General Hospital, what past surgeries have patients Q. Gomez and K. Mendoza undergone?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Surgery and Trauma History: Appendectomy at age 22"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Surgery and Trauma History: Appendectomy at age 12"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Ashland City Hospital, patient Q. Gomez had an appendectomy at age 22; according to the hospitalization records of Southport General Hospital, patient K. Mendoza had an appendectomy at age 12."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Ashland City Hospital and Southport General Hospital, what are the marital statuses of patients Q. Gomez and K. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Marital Status: Single"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Marital Status: Single"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Ashland City Hospital, patient Q. Gomez is single; according to the hospitalization records of Southport General Hospital, patient K. Mendoza is also single."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Ashland City Hospital and Southport General Hospital, what are the diagnoses of patients Q. Gomez and K. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Acute angle-closure glaucoma"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Primary: Parkinson's Disease"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Ashland City Hospital, patient Q. Gomez was diagnosed with acute angle-closure glaucoma; according to the hospitalization records of Southport General Hospital, patient K. Mendoza was diagnosed with Parkinson's Disease."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Ashland City Hospital and Southport General Hospital, who was admitted earlier, Q. Gomez or K. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Admission Time: 9th April"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Admission Time: 20th June"
+                    ]
+                }
+            ],
+            "answer": "Q. Gomez was admitted on April 9th, and K. Mendoza was admitted on June 20th. Q. Gomez was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Ashland City Hospital and Southport General Hospital, what were the pulse rates of Q. Gomez and K. Mendoza during their physical examinations?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Pulse: 78 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Southport General Hospital_K. Mendoza",
+                    "content": [
+                        "Pulse: 76 bpm"
+                    ]
+                }
+            ],
+            "answer": "Q. Gomez's pulse rate was 78 bpm, while K. Mendoza's pulse rate was 76 bpm. Q. Gomez's pulse rate was slightly higher than K. Mendoza's."
+        }
+    ]
+}

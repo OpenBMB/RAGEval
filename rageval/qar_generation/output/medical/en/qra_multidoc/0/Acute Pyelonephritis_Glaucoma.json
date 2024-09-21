@@ -1,0 +1,184 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Ashland City Hospital, what are the ages of patients C. Cruz and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "Age: 65"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Age: 28"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Indianola General Hospital, patient C. Cruz is 65 years old; according to the hospitalization records of Ashland City Hospital, patient Q. Gomez is 28 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Ashland City Hospital, what are the chief complaints of patients C. Cruz and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "**Chief Complaint:**",
+                        "Fever, chills, back pain for 2 days"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "Chief Complaint:",
+                        "- Blurred vision and severe headache for 3 days"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Indianola General Hospital, patient C. Cruz's chief complaint is fever, chills, and back pain for 2 days; according to the hospitalization records of Ashland City Hospital, patient Q. Gomez's chief complaint is blurred vision and severe headache for 3 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Ashland City Hospital, what are the occupations of patients C. Cruz and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "Occupation: Retired",
+                        "Occupation and Working Conditions: Former teacher, retired for 5 years."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Occupation: Graphic Designer",
+                        "- Occupation and Working Conditions: Graphic designer, frequent screen use"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Indianola General Hospital, patient C. Cruz is retired; according to the hospitalization records of Ashland City Hospital, patient Q. Gomez is a graphic designer."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Ashland City Hospital, what past surgeries have patients C. Cruz and Q. Gomez undergone?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "Surgery and Trauma History: Appendectomy at age 30."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Surgery and Trauma History: Appendectomy at age 22"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Indianola General Hospital, patient C. Cruz had an appendectomy at age 30; according to the hospitalization records of Ashland City Hospital, patient Q. Gomez had an appendectomy at age 22."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Ashland City Hospital, what are the marital statuses of patients C. Cruz and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "Marital Status: Widowed",
+                        "- Marital Status: Widowed."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Marital Status: Single"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Indianola General Hospital, patient C. Cruz is widowed; according to the hospitalization records of Ashland City Hospital, patient Q. Gomez is single."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Ashland City Hospital, what are the diagnoses of patients C. Cruz and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "**Preliminary Diagnosis:**",
+                        "Acute Pyelonephritis"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "- Acute angle-closure glaucoma"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Indianola General Hospital, patient C. Cruz was diagnosed with acute pyelonephritis; according to the hospitalization records of Ashland City Hospital, patient Q. Gomez was diagnosed with acute angle-closure glaucoma."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Ashland City Hospital, who was admitted earlier, C. Cruz or Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "Admission Time: 17th, February"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Admission Time: 9th April"
+                    ]
+                }
+            ],
+            "answer": "C. Cruz was admitted on February 17th, and Q. Gomez was admitted on April 9th. C. Cruz was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Ashland City Hospital, who had a higher body temperature upon admission, C. Cruz or Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "- Temperature: 38.8°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Temperature: 36.8°C"
+                    ]
+                }
+            ],
+            "answer": "C. Cruz had a body temperature of 38.8°C, while Q. Gomez had a body temperature of 36.8°C. C. Cruz had a higher body temperature upon admission."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Indianola General Hospital and Ashland City Hospital, whose pulse rate was higher upon admission, C. Cruz or Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Indianola General Hospital_C. Cruz",
+                    "content": [
+                        "- Pulse: 90 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Pulse: 78 bpm"
+                    ]
+                }
+            ],
+            "answer": "C. Cruz had a pulse rate of 90 bpm, while Q. Gomez had a pulse rate of 78 bpm. C. Cruz had a higher pulse rate upon admission."
+        }
+    ]
+}

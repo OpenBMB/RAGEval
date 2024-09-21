@@ -1,0 +1,260 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "A. Davis",
+            "Gender": "female",
+            "Age": "85",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Widowed",
+            "Occupation": "Retired",
+            "Address": "74, Windsor street, Kingsport",
+            "Admission Time": "1st, March",
+            "Record Time": "1st, March",
+            "Historian": "Self",
+            "Hospital Name": "Kingsport General Hospital"
+        },
+        "Chief Complaint": "Sour, heavy, swollen, and painful right lower limb for 6 months; worsening over the last week.",
+        "Present Illness": {
+            "Onset": "6 months ago, at home, gradual onset with no identifiable triggers",
+            "Main Symptoms": "Pain, heaviness, and swelling in the right lower limb, with raised and tortuous superficial veins, more pronounced when standing; symptoms exacerbate with prolonged standing and improve with leg elevation",
+            "Accompanying Symptoms": "Increased fatigue and weakness in the affected limb, mild itching around the swollen veins",
+            "Diagnosis and Treatment History": "Patient had a Doppler ultrasound done at the local clinic, which showed severe blood reflux in superficial veins; compression stockings were prescribed but provided minimal relief",
+            "General Condition Changes": "No significant changes in mental state or sleep. Appetite has been slightly reduced due to discomfort. Regular urination and bowel movements. Mild weight loss noted"
+        },
+        "Past History": {
+            "General Health Condition": "Generally good health for age",
+            "Disease History": "Hypertension for 20 years, controlled with medication. Osteoarthritis in knees",
+            "Infectious Disease History": "No significant infectious diseases",
+            "Immunization History": "Up-to-date with routine vaccinations. Received influenza vaccine last fall",
+            "Surgery and Trauma History": "Cholecystectomy 15 years ago. No significant trauma history",
+            "Blood Transfusion History": "None",
+            "Allergy History": "Allergic to penicillin (rash)"
+        },
+        "Personal History": {
+            "Birthplace": "Kingsport",
+            "Residence": "Kingsport",
+            "Living Habits": "Non-smoker, occasional glass of wine. Eats a balanced diet, limited exercise due to arthritis",
+            "Occupation and Working Conditions": "Retired teacher",
+            "Exposure History": "No significant exposure to industrial toxins, dust, or radioactive substances",
+            "Travel History": "No recent travel"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Widowed",
+                "Marriage Age": "22",
+                "Spouse's Health Condition": "Deceased (heart disease)",
+                "Children's Condition": "Two children, both in good health"
+            },
+            "Menstrual History": {
+                "Menarche Age": "13",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "Menopause at age 50",
+                "Menstrual Volume": "Normal",
+                "Dysmenorrhea": "Mild"
+            },
+            "Family History": "Mother had varicose veins, father had hypertension; no other significant family history"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "36.8°C",
+                "Pulse": "78 bpm",
+                "Respiration": "18 breaths/min",
+                "Blood Pressure": "140/85 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Normal color, warm and dry, no lesions",
+                "Mucous Membranes": "Pink and moist",
+                "Lymph Nodes": "Not palpable",
+                "Head and Organs": "No abnormalities",
+                "Neck": "Supple, no masses or bruit",
+                "Chest": "Thorax normal in shape, lungs clear on auscultation, heart sounds normal without murmurs",
+                "Abdomen": "Soft, non-tender, no hepatosplenomegaly",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Normal for age",
+                "Spine": "Normal curvature, no tenderness",
+                "Limbs": "Right lower limb shows raised, tortuous, varicose veins; mild edema; no ulcers. Left limb normal",
+                "Nervous System": "No focal neurological deficits"
+            }
+        },
+        "Specialist Examination": "Right lower limb with visible, tortuous, dilated superficial veins, positive Trendelenburg test",
+        "Auxiliary Examination": "Doppler ultrasound confirmed severe blood reflux in superficial veins of the right lower limb",
+        "Preliminary Diagnosis": "Varicose Veins of the Lower Leg (Right)",
+        "Diagnostic Basis": "Typical symptoms of pain, heaviness, and swollen limb with visible varicose veins and confirmed Doppler findings",
+        "Differential Diagnosis": {
+            "Post-thrombotic Syndrome": "R/o based on Doppler ultrasound indicating superficial vein involvement without deep vein reflux",
+            "Budd-Chiari Syndrome": "R/o due to absence of ascites and hepatosplenomegaly",
+            "Klippel-Trenaunay Syndrome": "R/o as there is no limb hypertrophy or cutaneous hemangioma"
+        },
+        "Admission Records": {
+            "Physician's Signature": "Dr. T. Carter"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient presents with symptoms characteristic of right lower limb varicose veins. Initial management plan includes continued use of compression stockings, limb elevation, and referral to vascular surgery for evaluation of sclerotherapy. Pain management with NSAIDs as needed. Regular follow-up scheduled.",
+            "Daily Course Records": "Symptomatic relief noted with regular use of compression stockings. Pain has reduced marginally. No signs of thrombophlebitis.",
+            "Senior Physician Rounds Records": "Patient stable, conservative management continues. Discussed potential need for surgical intervention if symptoms persist. Plan to monitor for next 48 hours.",
+            "Difficult Case Discussion Records": "Not applicable",
+            "Handover Records": "Patient stable, continue current management, re-evaluate in morning rounds.",
+            "Transfer Records": "Not applicable",
+            "Stage Summary": "Patient shows mild improvement with conservative management. Vascular surgery consult pending. Discharge planning will depend on surgical opinion.",
+            "Emergency Records": "Not applicable",
+            "Invasive Procedure Records": "Not applicable",
+            "Consultation Records": "Waiting for vascular surgery consultation.",
+            "Discharge Records": "Pending",
+            "Critically Ill Patient Care Records": "Not applicable"
+        },
+        "Medical Orders": {
+            "Long-term Orders": "1. Compression stockings to be worn daily \n2. Elevate right leg when sitting or lying\n3. Ibuprofen 200 mg orally every 6 hours as needed for pain",
+            "Temporary Orders": "1. Vascular surgery consultation\n2. Doppler ultrasound repeat if condition worsens"
+        },
+        "Auxiliary Examination Reports": "Doppler ultrasound report showing severe blood reflux in the superficial veins of the right lower limb",
+        "Temperature Chart": "Temperature: 36.8°C, Pulse: 78 bpm, Respiration: 18 breaths/min, Blood Pressure: 140/85 mmHg",
+        "Blood Transfusion Consent": "Not applicable",
+        "Special Examination Consent": "Not applicable",
+        "Critical Condition Notice": "Not applicable"
+    },
+    "DiseaseType": {
+        "Circulatory System Diseases": {
+            "Name": "Varicose Veins of the Lower Leg",
+            "Symptoms": "The affected limb often feels sour, heavy, swollen, and painful, and is prone to fatigue and weakness; the superficial veins of the affected limb are raised, dilated, and become tortuous, even winding or in lumps, which is more obvious when standing",
+            "Differential Diagnosis": "Post-thrombotic syndrome of the lower limbs (Doppler ultrasound suggests poor blood reflux in the deep veins, with simultaneous blood backflow. Lower limb venography shows rough deep vein walls, and the venous lumen is irregularly narrowed), Budd-Chiari Syndrome (enlarged spleen, large and stubborn ascites), Klippel-Trenaunay Syndrome (limb growth, thickening, abnormally large and tortuous superficial veins, and the triad of cutaneous hemangioma)"
+        }
+    },
+    "Generated Article": "Hospitalization Record:\n\nBasic Information:\nName: A. Davis\nGender: female\nAge: 85\nEthnicity: Caucasian\nMarital Status: Widowed\nOccupation: Retired\nAddress: 74, Windsor street, Kingsport\nAdmission Time: 1st, March\nRecord Time: 1st, March\nHistorian: Self\nHospital Name: Kingsport General Hospital\n\nChief Complaint:\nSour, heavy, swollen, and painful right lower limb for 6 months; worsening over the last week.\n\nPresent Illness:\nOnset: 6 months ago, at home, gradual onset with no identifiable triggers.\nMain Symptoms: Pain, heaviness, and swelling in the right lower limb, with raised and tortuous superficial veins, more pronounced when standing; symptoms exacerbate with prolonged standing and improve with leg elevation.\nAccompanying Symptoms: Increased fatigue and weakness in the affected limb, mild itching around the swollen veins.\nDiagnosis and Treatment History: Patient had a Doppler ultrasound done at the local clinic, which showed severe blood reflux in superficial veins; compression stockings were prescribed but provided minimal relief.\nGeneral Condition Changes: No significant changes in mental state or sleep. Appetite has been slightly reduced due to discomfort. Regular urination and bowel movements. Mild weight loss noted.\n\nPast History:\nGeneral Health Condition: Generally good health for age.\nDisease History: Hypertension for 20 years, controlled with medication. Osteoarthritis in knees.\nInfectious Disease History: No significant infectious diseases.\nImmunization History: Up-to-date with routine vaccinations. Received influenza vaccine last fall.\nSurgery and Trauma History: Cholecystectomy 15 years ago. No significant trauma history.\nBlood Transfusion History: None.\nAllergy History: Allergic to penicillin (rash).\n\nPersonal History:\nBirthplace: Kingsport.\nResidence: Kingsport.\nLiving Habits: Non-smoker, occasional glass of wine. Eats a balanced diet, limited exercise due to arthritis.\nOccupation and Working Conditions: Retired teacher.\nExposure History: No significant exposure to industrial toxins, dust, or radioactive substances.\nTravel History: No recent travel.\n\nMarital and Family History:\nMarital History:\nMarital Status: Widowed.\nMarriage Age: 22.\nSpouse's Health Condition: Deceased (heart disease).\nChildren's Condition: Two children, both in good health.\nMenstrual History:\nMenarche Age: 13.\nMenstruation Duration: 5 days.\nMenstruation Interval: 28 days.\nLast Menstruation: Menopause at age 50.\nMenstrual Volume: Normal.\nDysmenorrhea: Mild.\nFamily History: Mother had varicose veins, father had hypertension; no other significant family history.\n\nPhysical Examination:\nGeneral Condition:\nTemperature: 36.8°C.\nPulse: 78 bpm.\nRespiration: 18 breaths/min.\nBlood Pressure: 140/85 mmHg.\nSystematic Examination:\nSkin: Normal color, warm and dry, no lesions.\nMucous Membranes: Pink and moist.\nLymph Nodes: Not palpable.\nHead and Organs: No abnormalities.\nNeck: Supple, no masses or bruit.\nChest: Thorax normal in shape, lungs clear on auscultation, heart sounds normal without murmurs.\nAbdomen: Soft, non-tender, no hepatosplenomegaly.\nRectum and Anus: Not examined.\nExternal Genitalia: Normal for age.\nSpine: Normal curvature, no tenderness.\nLimbs: Right lower limb shows raised, tortuous, varicose veins; mild edema; no ulcers. Left limb normal.\nNervous System: No focal neurological deficits.\n\nSpecialist Examination:\nRight lower limb with visible, tortuous, dilated superficial veins, positive Trendelenburg test.\n\nAuxiliary Examination:\nDoppler ultrasound confirmed severe blood reflux in superficial veins of the right lower limb.\n\nPreliminary Diagnosis:\nVaricose Veins of the Lower Leg (Right).\n\nDiagnostic Basis:\nTypical symptoms of pain, heaviness, and swollen limb with visible varicose veins and confirmed Doppler findings.\n\nDifferential Diagnosis:\nPost-thrombotic Syndrome: R/o based on Doppler ultrasound indicating superficial vein involvement without deep vein reflux.\nBudd-Chiari Syndrome: R/o due to absence of ascites and hepatosplenomegaly.\nKlippel-Trenaunay Syndrome: R/o as there is no limb hypertrophy or cutaneous hemangioma.\n\nAdmission Records:\nPhysician's Signature: Dr. T. Carter.\n\nPost-Admission Course Records:\nFirst Course Record: Patient presents with symptoms characteristic of right lower limb varicose veins. Initial management plan includes continued use of compression stockings, limb elevation, and referral to vascular surgery for evaluation of sclerotherapy. Pain management with NSAIDs as needed. Regular follow-up scheduled.\nDaily Course Records: Symptomatic relief noted with regular use of compression stockings. Pain has reduced marginally. No signs of thrombophlebitis.\nSenior Physician Rounds Records: Patient stable, conservative management continues. Discussed potential need for surgical intervention if symptoms persist. Plan to monitor for next 48 hours.\nDifficult Case Discussion Records: Not applicable.\nHandover Records: Patient stable, continue current management, re-evaluate in morning rounds.\nTransfer Records: Not applicable.\nStage Summary: Patient shows mild improvement with conservative management. Vascular surgery consult pending. Discharge planning will depend on surgical opinion.\nEmergency Records: Not applicable.\nInvasive Procedure Records: Not applicable.\nConsultation Records: Waiting for vascular surgery consultation.\nDischarge Records: Pending.\nCritically Ill Patient Care Records: Not applicable.\n\nMedical Orders:\nLong-term Orders:\n1. Compression stockings to be worn daily.\n2. Elevate right leg when sitting or lying.\n3. Ibuprofen 200 mg orally every 6 hours as needed for pain.\nTemporary Orders:\n1. Vascular surgery consultation.\n2. Doppler ultrasound repeat if condition worsens.\n\nAuxiliary Examination Reports:\nDoppler ultrasound report showing severe blood reflux in the superficial veins of the right lower limb.\n\nTemperature Chart:\nTemperature: 36.8°C, Pulse: 78 bpm, Respiration: 18 breaths/min, Blood Pressure: 140/85 mmHg.\n\nBlood Transfusion Consent: Not applicable.\nSpecial Examination Consent: Not applicable.\nCritical Condition Notice: Not applicable.",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital, what is A. Davis's chief complaint?",
+            "answer": "Sour, heavy, swollen, and painful right lower limb for 6 months; worsening over the last week.",
+            "ref": [
+                "Chief Complaint:",
+                "Sour, heavy, swollen, and painful right lower limb for 6 months; worsening over the last week."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital, what is the preliminary diagnosis for A. Davis?",
+            "answer": "Varicose Veins of the Lower Leg (Right)",
+            "ref": [
+                "Preliminary Diagnosis:",
+                "Varicose Veins of the Lower Leg (Right)."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital, what is the temperature of A. Davis during the physical examination?",
+            "answer": "36.8°C",
+            "ref": [
+                "Temperature: 36.8°C."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital, what is the pulse rate of A. Davis during the physical examination?",
+            "answer": "78 bpm",
+            "ref": [
+                "Pulse: 78 bpm."
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital, how many diagnostic bases were used to diagnose A. Davis?",
+            "answer": "According to the records, A. Davis had 3 diagnostic bases: the chief complaint of sour, heavy, swollen, and painful right lower limb; the present illness details including pain, heaviness, and swelling in the right lower limb with raised and tortuous superficial veins; and the auxiliary examination of Doppler ultrasound confirming severe blood reflux in superficial veins.",
+            "ref": [
+                "Sour, heavy, swollen, and painful right lower limb for 6 months; worsening over the last week.",
+                "Main Symptoms: Pain, heaviness, and swelling in the right lower limb, with raised and tortuous superficial veins, more pronounced when standing; symptoms exacerbate with prolonged standing and improve with leg elevation.",
+                "Doppler ultrasound confirmed severe blood reflux in superficial veins of the right lower limb."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital, how many auxiliary examinations did A. Davis undergo?",
+            "answer": "According to the records, A. Davis underwent 1 auxiliary examination, which was a Doppler ultrasound confirming severe blood reflux in the superficial veins of the right lower limb.",
+            "ref": [
+                "Doppler ultrasound confirmed severe blood reflux in superficial veins of the right lower limb."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital, how many differential diagnoses were considered for A. Davis?",
+            "answer": "According to the records, 3 differential diagnoses were considered for A. Davis: Post-thrombotic Syndrome, Budd-Chiari Syndrome, and Klippel-Trenaunay Syndrome.",
+            "ref": [
+                "Post-thrombotic Syndrome: R/o based on Doppler ultrasound indicating superficial vein involvement without deep vein reflux.",
+                "Budd-Chiari Syndrome: R/o due to absence of ascites and hepatosplenomegaly.",
+                "Klippel-Trenaunay Syndrome: R/o as there is no limb hypertrophy or cutaneous hemangioma."
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital, summarize the present illness of A. Davis.",
+            "answer": "A. Davis's present illness began 6 months ago at home with a gradual onset and no identifiable triggers. She experiences pain, heaviness, and swelling in the right lower limb, with raised and tortuous superficial veins, more pronounced when standing. Symptoms exacerbate with prolonged standing and improve with leg elevation. Accompanying symptoms include increased fatigue and weakness in the affected limb and mild itching around the swollen veins. A Doppler ultrasound showed severe blood reflux in superficial veins, and compression stockings provided minimal relief. There have been no significant changes in mental state or sleep, a slight reduction in appetite due to discomfort, regular urination and bowel movements, and mild weight loss.",
+            "ref": [
+                "Present Illness:",
+                "Onset: 6 months ago, at home, gradual onset with no identifiable triggers.",
+                "Main Symptoms: Pain, heaviness, and swelling in the right lower limb, with raised and tortuous superficial veins, more pronounced when standing; symptoms exacerbate with prolonged standing and improve with leg elevation.",
+                "Accompanying Symptoms: Increased fatigue and weakness in the affected limb, mild itching around the swollen veins.",
+                "Diagnosis and Treatment History: Patient had a Doppler ultrasound done at the local clinic, which showed severe blood reflux in superficial veins; compression stockings were prescribed but provided minimal relief.",
+                "General Condition Changes: No significant changes in mental state or sleep.",
+                "Appetite has been slightly reduced due to discomfort.",
+                "Regular urination and bowel movements.",
+                "Mild weight loss noted."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital, summarize the past medical history of A. Davis.",
+            "answer": "A. Davis has generally good health for her age. She has a 20-year history of hypertension controlled with medication and osteoarthritis in her knees. She has no significant infectious disease history and is up-to-date with routine vaccinations, having received the influenza vaccine last fall. She underwent a cholecystectomy 15 years ago and has no significant trauma history. She has no history of blood transfusions and is allergic to penicillin (rash).",
+            "ref": [
+                "General Health Condition: Generally good health for age.",
+                "Disease History: Hypertension for 20 years, controlled with medication.",
+                "Osteoarthritis in knees.",
+                "Infectious Disease History: No significant infectious diseases.",
+                "Immunization History: Up-to-date with routine vaccinations.",
+                "Received influenza vaccine last fall.",
+                "Surgery and Trauma History: Cholecystectomy 15 years ago.",
+                "No significant trauma history.",
+                "Blood Transfusion History: None.",
+                "Allergy History: Allergic to penicillin (rash)."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital, summarize the physical examination findings of A. Davis.",
+            "answer": "A. Davis's general condition includes a temperature of 36.8°C, pulse of 78 bpm, respiration of 18 breaths/min, and blood pressure of 140/85 mmHg. Systematic examination shows normal skin color, warm and dry, with no lesions. Mucous membranes are pink and moist, lymph nodes are not palpable, and there are no abnormalities in the head and organs. The neck is supple with no masses or bruit. The chest is normal in shape, lungs are clear on auscultation, and heart sounds are normal without murmurs. The abdomen is soft and non-tender with no hepatosplenomegaly. The rectum and anus were not examined. External genitalia are normal for age, the spine has normal curvature with no tenderness, and the right lower limb shows raised, tortuous, varicose veins with mild edema and no ulcers. The left limb is normal, and there are no focal neurological deficits.",
+            "ref": [
+                "General Condition:",
+                "Temperature: 36.8°C.",
+                "Pulse: 78 bpm.",
+                "Respiration: 18 breaths/min.",
+                "Blood Pressure: 140/85 mmHg.",
+                "Systematic Examination:",
+                "Skin: Normal color, warm and dry, no lesions.",
+                "Mucous Membranes: Pink and moist.",
+                "Lymph Nodes: Not palpable.",
+                "Head and Organs: No abnormalities.",
+                "Neck: Supple, no masses or bruit.",
+                "Chest: Thorax normal in shape, lungs clear on auscultation, heart sounds normal without murmurs.",
+                "Abdomen: Soft, non-tender, no hepatosplenomegaly.",
+                "Rectum and Anus: Not examined.",
+                "External Genitalia: Normal for age.",
+                "Spine: Normal curvature, no tenderness.",
+                "Limbs: Right lower limb shows raised, tortuous, varicose veins; mild edema; no ulcers.",
+                "Left limb normal.",
+                "Nervous System: No focal neurological deficits."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital, summarize the specialist examination findings for A. Davis.",
+            "answer": "The specialist examination of A. Davis's right lower limb revealed visible, tortuous, dilated superficial veins and a positive Trendelenburg test.",
+            "ref": [
+                "Specialist Examination:",
+                "Right lower limb with visible, tortuous, dilated superficial veins, positive Trendelenburg test."
+            ]
+        }
+    ]
+}

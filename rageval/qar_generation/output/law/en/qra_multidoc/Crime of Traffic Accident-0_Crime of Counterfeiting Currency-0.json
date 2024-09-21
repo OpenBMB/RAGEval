@@ -1,0 +1,130 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Northwood, Richmond, Court, what are the occupations of the defendants G. Torres and S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "- **Occupation:** Elementary School Teacher"
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "Occupation: Graphic Designer"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Vandalia, Bayside, Court, the defendant G. Torres is an Elementary School Teacher; according to the judgment of Northwood, Richmond, Court, the defendant S. Taylor is a Graphic Designer."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Northwood, Richmond, Court, what crimes did the defendants G. Torres and S. Taylor commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "The charges levied against G. Torres comprise violation of traffic regulations resulting in severe bodily harm to a pedestrian, criminal negligence, fleeing the scene of an accident, and deliberate attempts to conceal involvement in the aforementioned crime.",
+                        "These infractions contravene the stipulations under Article No. 133.",
+                        "### Judgment Result",
+                        "Based on the evidence presented and the legal arguments made, this court finds G. Torres guilty of the Crime of Traffic Accident as per Article No. 133."
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "This court hereby records the procedural history of the case involving the defendant, S. Taylor, who stands accused of the Crime of Counterfeiting Currency in violation of Article 170 of the Criminal Code.",
+                        "**Charge**",
+                        "**Judgment Result**",
+                        "In light of the aforementioned considerations, this court adjudges the defendant, S. Taylor, guilty of the Crime of Counterfeiting Currency in violation of Article 170 of the Criminal Code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Vandalia, Bayside, Court, the defendant G. Torres committed the Crime of Traffic Accident; according to the judgment of Northwood, Richmond, Court, the defendant S. Taylor committed the Crime of Counterfeiting Currency."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Northwood, Richmond, Court, what were the judgment dates for the cases involving G. Torres and S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "**Dated:** 20th, April, 2023"
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "This document is thus prepared and endorsed in the Northwood, Richmond, Court on this 25th day of March, 2023."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Vandalia, Bayside, Court, the judgment date for the case involving G. Torres was 20th April, 2023; according to the judgment of Northwood, Richmond, Court, the judgment date for the case involving S. Taylor was 25th March, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Northwood, Richmond, Court, who were the defense lawyers for the defendants G. Torres and S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "**Defense Lawyer:**",
+                        "- **Name:** U. Cox",
+                        "- **Law Firm:** Cox & Hamilton Law Offices"
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "Defense Lawyer:",
+                        "Name: U. Cooper",
+                        "Law Firm: Richmond Defenders LLP"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Vandalia, Bayside, Court, the defense lawyer for G. Torres was U. Cox; according to the judgment of Northwood, Richmond, Court, the defense lawyer for S. Taylor was U. Cooper."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Northwood, Richmond, Court, whose sentencing time is longer, G. Torres or S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "Consequently, this court sentences G. Torres to four years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "Seven (7) years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "G. Torres was sentenced to four years of fixed-term imprisonment, while S. Taylor was sentenced to seven years of fixed-term imprisonment. S. Taylor's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Northwood, Richmond, Court, whose judgment date is earlier, G. Torres or S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "**Dated:** 20th, April, 2023"
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "This document is thus prepared and endorsed in the Northwood, Richmond, Court on this 25th day of March, 2023."
+                    ]
+                }
+            ],
+            "answer": "S. Taylor's judgment date is earlier, as it was on 25th March, 2023, while G. Torres' judgment date was on 20th April, 2023."
+        }
+    ]
+}

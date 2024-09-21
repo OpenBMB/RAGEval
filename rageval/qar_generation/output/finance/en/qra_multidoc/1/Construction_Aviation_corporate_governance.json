@@ -1,0 +1,202 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the ethics and integrity incidents on Buildcorp Holdings in 2018 and SkyQuest Airlines in 2017?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "However, in November 2018, Buildcorp Holdings faced ethics and integrity incidents that required internal investigation and the implementation of stronger controls.",
+                        "These incidents potentially posed a risk to the company's reputation and brand value.",
+                        "To mitigate these risks, Buildcorp Holdings took immediate action to address the issues and strengthen its control mechanisms."
+                    ]
+                },
+                {
+                    "company_name": "SkyQuest Airlines",
+                    "content": [
+                        "In February 2017, the company faced an isolated case of ethics and integrity violation, which prompted immediate action to investigate and implement disciplinary measures.",
+                        "This incident reinforced the importance of maintaining a strong ethical culture within the organization and led to the strengthening of internal controls and the ethical code of conduct.",
+                        "To prevent future incidents, SkyQuest Airlines appointed a new Chief Integrity Officer in March 2017.",
+                        "This appointment demonstrated the company's commitment to upholding ethical practices and ensuring compliance."
+                    ]
+                }
+            ],
+            "answer": "The ethics and integrity incidents at Buildcorp Holdings in 2018 led to potential damage to reputation and brand value. For SkyQuest Airlines in 2017, the incidents reinforced the importance of maintaining a strong ethical culture and led to the strengthening of internal controls and the ethical code of conduct."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the senior management changes at Buildcorp Holdings in 2018 and SkyQuest Airlines in 2017, and what potential impacts did they have?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In March 2018, the company experienced a senior management change with the appointment of Ms. Jane Smith as the new CEO.",
+                        "This change potentially led to adjustments in operational focus and strategic priorities, as new leadership often brings fresh perspectives and ideas."
+                    ]
+                },
+                {
+                    "company_name": "SkyQuest Airlines",
+                    "content": [
+                        "In October 2017, there were senior management changes within the company, including a change in CEO and adjustments to the senior management team.",
+                        "These changes had the potential to impact the company's operational focus and strategic priorities, as new leadership often brings fresh perspectives and approaches."
+                    ]
+                }
+            ],
+            "answer": "In 2018, Buildcorp Holdings appointed Ms. Jane Smith as the new CEO, which had the potential to adjust operational focus and strategic priorities. In 2017, SkyQuest Airlines experienced a change in CEO and adjustments to the senior management team, which also had the potential to impact operational focus and strategic priorities."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How did the corporate governance policy revisions in 2018 for Buildcorp Holdings and in 2017 for SkyQuest Airlines aim to enhance transparency and accountability?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In August 2018, the company revised its corporate governance policy, further strengthening transparency, accountability, and stakeholder engagement.",
+                        "This revision aimed to enhance the company's corporate governance practices and ensure that it operates in a responsible and ethical manner."
+                    ]
+                },
+                {
+                    "company_name": "SkyQuest Airlines",
+                    "content": [
+                        "In March 2017, SkyQuest Airlines also revised its corporate governance policy to enhance transparency, accountability, and stakeholder engagement.",
+                        "This policy revision emphasized the importance of ethical practices, responsible decision-making, and financial transparency within the organization."
+                    ]
+                }
+            ],
+            "answer": "The corporate governance policy revision in 2018 for Buildcorp Holdings aimed to strengthen transparency, accountability, and stakeholder engagement. Similarly, the 2017 revision for SkyQuest Airlines focused on enhancing transparency, accountability, and stakeholder engagement, with an emphasis on ethical practices, responsible decision-making, and financial transparency."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the risk management measures implemented by Buildcorp Holdings in 2018 and SkyQuest Airlines in 2017, and what were their impacts?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In February 2018, the company proactively enhanced its risk management framework.",
+                        "This measure aimed to improve its ability to respond to both internal and external risks effectively.",
+                        "By strengthening its risk management practices, Buildcorp Holdings ensured the long-term stability and sustainability of its operations."
+                    ]
+                },
+                {
+                    "company_name": "SkyQuest Airlines",
+                    "content": [
+                        "To further enhance its risk management measures, the company focused on strengthening its risk management framework in December 2017.",
+                        "This included the identification, assessment, and monitoring of financial and operational risks.",
+                        "By implementing clear protocols for risk assessment and reporting, SkyQuest Airlines aimed to safeguard its stability and protect its stakeholders."
+                    ]
+                }
+            ],
+            "answer": "In 2018, Buildcorp Holdings proactively enhanced its risk management framework, improving its ability to respond to internal and external risks. In 2017, SkyQuest Airlines enhanced its risk management framework to address industry risks, establishing clear protocols for risk assessment and reporting."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of ethics and integrity incidents at Buildcorp Holdings and SkyQuest Airlines. Which company experienced such an incident earlier?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "However, in November 2018, Buildcorp Holdings faced ethics and integrity incidents that required internal investigation and the implementation of stronger controls.",
+                        "These incidents potentially posed a risk to the company's reputation and brand value."
+                    ]
+                },
+                {
+                    "company_name": "SkyQuest Airlines",
+                    "content": [
+                        "In February 2017, the company faced an isolated case of ethics and integrity violation, which prompted immediate action to investigate and implement disciplinary measures.",
+                        "This incident reinforced the importance of maintaining a strong ethical culture within the organization and led to the strengthening of internal controls and the ethical code of conduct."
+                    ]
+                }
+            ],
+            "answer": "SkyQuest Airlines experienced an ethics and integrity incident earlier in February 2017, while Buildcorp Holdings had a similar incident in November 2018."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of senior management changes at Buildcorp Holdings and SkyQuest Airlines. Which company had a senior management change earlier?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In March 2018, the company experienced a senior management change with the appointment of Ms. Jane Smith as the new CEO.",
+                        "This change potentially led to adjustments in operational focus and strategic priorities, as new leadership often brings fresh perspectives and ideas."
+                    ]
+                },
+                {
+                    "company_name": "SkyQuest Airlines",
+                    "content": [
+                        "In October 2017, there were senior management changes within the company, including a change in CEO and adjustments to the senior management team.",
+                        "These changes had the potential to impact the company's operational focus and strategic priorities, as new leadership often brings fresh perspectives and approaches."
+                    ]
+                }
+            ],
+            "answer": "SkyQuest Airlines had a senior management change earlier in October 2017, while Buildcorp Holdings had a senior management change in March 2018."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of corporate governance policy revisions at Buildcorp Holdings and SkyQuest Airlines. Which company revised its corporate governance policy earlier?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In August 2018, the company revised its corporate governance policy, further strengthening transparency, accountability, and stakeholder engagement.",
+                        "This revision aimed to enhance the company's corporate governance practices and ensure that it operates in a responsible and ethical manner."
+                    ]
+                },
+                {
+                    "company_name": "SkyQuest Airlines",
+                    "content": [
+                        "In March 2017, SkyQuest Airlines also revised its corporate governance policy to enhance transparency, accountability, and stakeholder engagement.",
+                        "This policy revision emphasized the importance of ethical practices, responsible decision-making, and financial transparency within the organization."
+                    ]
+                }
+            ],
+            "answer": "SkyQuest Airlines revised its corporate governance policy earlier in March 2017, while Buildcorp Holdings did so in August 2018."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of shareholders' meeting resolutions at Buildcorp Holdings and SkyQuest Airlines. Which company held its shareholders' meeting resolution earlier?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In May 2018, the company's shareholders' meeting resulted in significant resolutions.",
+                        "These resolutions included amendments to the company's charter and the approval of a strategic acquisition plan."
+                    ]
+                },
+                {
+                    "company_name": "SkyQuest Airlines",
+                    "content": [
+                        "During the shareholders' meeting in July 2017, SkyQuest Airlines adopted an updated company charter and consolidated its subsidiary operations.",
+                        "This consolidation aimed to streamline operations and improve efficiency."
+                    ]
+                }
+            ],
+            "answer": "SkyQuest Airlines held its shareholders' meeting resolution earlier in July 2017, while Buildcorp Holdings held its shareholders' meeting resolution in May 2018."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of risk management measures at Buildcorp Holdings and SkyQuest Airlines. Which company implemented risk management measures earlier?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In February 2018, the company proactively enhanced its risk management framework.",
+                        "This measure aimed to improve its ability to respond to both internal and external risks effectively.",
+                        "By strengthening its risk management practices, Buildcorp Holdings ensured the long-term stability and sustainability of its operations."
+                    ]
+                },
+                {
+                    "company_name": "SkyQuest Airlines",
+                    "content": [
+                        "To further enhance its risk management measures, the company focused on strengthening its risk management framework in December 2017.",
+                        "This included the identification, assessment, and monitoring of financial and operational risks.",
+                        "By implementing clear protocols for risk assessment and reporting, SkyQuest Airlines aimed to safeguard its stability and protect its stakeholders."
+                    ]
+                }
+            ],
+            "answer": "SkyQuest Airlines implemented risk management measures earlier in December 2017, while Buildcorp Holdings did so in February 2018."
+        }
+    ]
+}

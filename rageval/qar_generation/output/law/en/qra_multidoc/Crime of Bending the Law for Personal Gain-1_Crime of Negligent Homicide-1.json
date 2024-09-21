@@ -1,0 +1,160 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Hamilton, Harrison, Court, what are the occupations of the defendants F. Williams and M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Occupation:** City Official"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "Occupation: Nurse"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Upton, Georgetown, Court, the defendant F. Williams is a City Official; according to the judgment of Hamilton, Harrison, Court, the defendant M. Ward is a Nurse."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Hamilton, Harrison, Court, what crimes did the defendants F. Williams and M. Ward commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "Franklin Williams is charged and stood trial for the Crime of Bending the Law for Personal Gain under Article 397."
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "The charge put forward by the prosecution was one of a Crime of Negligent Homicide, as delineated under Article 133.",
+                        "Thus, in light of the above considerations and the detailed examination of evidence, this court hereby finds M. Ward guilty of the Crime of Negligent Homicide pursuant to Article 133."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Upton, Georgetown, Court, the defendant F. Williams committed the Crime of Bending the Law for Personal Gain; according to the judgment of Hamilton, Harrison, Court, the defendant M. Ward committed the Crime of Negligent Homicide."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Hamilton, Harrison, Court, what sentences were given to the defendants F. Williams and M. Ward respectively?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Five (5) years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "- M. Ward is sentenced to four (4) years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Upton, Georgetown, Court, the defendant F. Williams was sentenced to Five (5) years of fixed-term imprisonment; according to the judgment of Hamilton, Harrison, Court, the defendant M. Ward was sentenced to Four years fixed-term imprisonment."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Hamilton, Harrison, Court, whose sentencing time is longer, F. Williams or M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Five (5) years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "- M. Ward is sentenced to four (4) years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "F. Williams was sentenced to five years of fixed-term imprisonment, while M. Ward was sentenced to four years of fixed-term imprisonment. F. Williams's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Hamilton, Harrison, Court, whose judgment time is earlier, F. Williams or M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Date of Judgment:** 30th, September, 2023",
+                        "Date: 30th September, 2023"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "**Dated this 30th day of April, 2023**"
+                    ]
+                }
+            ],
+            "answer": "M. Ward's judgment time is earlier, as the judgment date for M. Ward was 30th April, 2023, while the judgment date for F. Williams was 30th September, 2023."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Hamilton, Harrison, Court, which case had the investigation initiated first, F. Williams or M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "1. **Case Filing and Investigation (1st March, 2023):**"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "The case was officially filed and investigation commenced on the 1st of March, 2023."
+                    ]
+                }
+            ],
+            "answer": "Both cases had the investigation initiated on the same date, 1st March, 2023."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Hamilton, Harrison, Court, whose criminal detention occurred earlier, F. Williams or M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "3. **Criminal Detention (20th March, 2023):**"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "M. Ward was placed under criminal detention on the 10th of March, 2023."
+                    ]
+                }
+            ],
+            "answer": "M. Ward's criminal detention occurred earlier on 10th March, 2023, while F. Williams's criminal detention occurred on 20th March, 2023."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Hamilton, Harrison, Court, whose arrest occurred earlier, F. Williams or M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "4. **Arrest (5th April, 2023):**"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "The formal arrest occurred on the 15th of March, 2023."
+                    ]
+                }
+            ],
+            "answer": "M. Ward's arrest occurred earlier on 15th March, 2023, while F. Williams's arrest occurred on 5th April, 2023."
+        }
+    ]
+}

@@ -1,0 +1,259 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the establishment dates of InnovaTech Solutions and AccuTech Solutions Inc.?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "InnovaTech Solutions, established on January 1, 2010, is a research and development company based in San Francisco, CA, specializing in creating innovative software and hardware products for industries such as healthcare, finance, and telecommunications, and is listed on NASDAQ.In 2017, InnovaTech Solutions experienced several significant events that shaped its financial performance and market position."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "AccuTech Solutions Inc. is a publicly listed social industry company that was established on April 15, 2005 in San Francisco, California, offering innovative software solutions for social media management and analytics.In January 2019, AccuTech Solutions Inc. completed a major asset acquisition of TrendAnalytica, a renowned data analytics company in the social media industry."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions was established on January 1, 2010, and AccuTech Solutions Inc. was established on April 15, 2005."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the main business focuses of InnovaTech Solutions and AccuTech Solutions Inc.?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "InnovaTech Solutions, established on January 1, 2010, is a research and development company based in San Francisco, CA, specializing in creating innovative software and hardware products for industries such as healthcare, finance, and telecommunications, and is listed on NASDAQ.In 2017, InnovaTech Solutions experienced several significant events that shaped its financial performance and market position."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "AccuTech Solutions Inc. is a publicly listed social industry company that was established on April 15, 2005 in San Francisco, California, offering innovative software solutions for social media management and analytics.In January 2019, AccuTech Solutions Inc. completed a major asset acquisition of TrendAnalytica, a renowned data analytics company in the social media industry."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions focuses on the research and development of innovative technology solutions, including software and hardware products for healthcare, finance, and telecommunications. AccuTech Solutions Inc. provides innovative software solutions for social media management and analytics, helping businesses analyze and optimize their social media presence."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "Where are InnovaTech Solutions and AccuTech Solutions Inc. registered?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "InnovaTech Solutions, established on January 1, 2010, is a research and development company based in San Francisco, CA, specializing in creating innovative software and hardware products for industries such as healthcare, finance, and telecommunications, and is listed on NASDAQ.In 2017, InnovaTech Solutions experienced several significant events that shaped its financial performance and market position."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "AccuTech Solutions Inc. is a publicly listed social industry company that was established on April 15, 2005 in San Francisco, California, offering innovative software solutions for social media management and analytics.In January 2019, AccuTech Solutions Inc. completed a major asset acquisition of TrendAnalytica, a renowned data analytics company in the social media industry."
+                    ]
+                }
+            ],
+            "answer": "Both InnovaTech Solutions and AccuTech Solutions Inc. are registered in San Francisco, California."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "What is the listing status of InnovaTech Solutions and AccuTech Solutions Inc.?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "InnovaTech Solutions, established on January 1, 2010, is a research and development company based in San Francisco, CA, specializing in creating innovative software and hardware products for industries such as healthcare, finance, and telecommunications, and is listed on NASDAQ.In 2017, InnovaTech Solutions experienced several significant events that shaped its financial performance and market position."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": []
+                }
+            ],
+            "answer": "Both InnovaTech Solutions and AccuTech Solutions Inc. are publicly listed on NASDAQ."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the major asset acquisitions completed by InnovaTech Solutions in 2017 and AccuTech Solutions Inc. in 2019?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In June 2017, InnovaTech completed the asset acquisition of Innovate Robotics, with a total value of $25 million."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "AccuTech Solutions Inc. is a publicly listed social industry company that was established on April 15, 2005 in San Francisco, California, offering innovative software solutions for social media management and analytics.In January 2019, AccuTech Solutions Inc. completed a major asset acquisition of TrendAnalytica, a renowned data analytics company in the social media industry.",
+                        "This acquisition, valued at $50 million, expanded AccuTech's business scope and increased its market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions completed the asset acquisition of Innovate Robotics with a total value of $25 million in June 2017. AccuTech Solutions Inc. completed the asset acquisition of TrendAnalytica with a total value of $50 million in January 2019."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the debt restructuring efforts by InnovaTech Solutions in 2017 and AccuTech Solutions Inc. in 2019?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In August 2017, InnovaTech underwent debt restructuring, reducing its liabilities by $15 million.",
+                        "This move improved the company's financial condition, reduced financial costs, and increased profitability."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In June 2019, AccuTech Solutions Inc. successfully underwent a debt restructuring, reducing its liabilities by $20 million.",
+                        "This optimization of the company's capital structure improved its financial stability, resulting in lower interest expenses and a stronger balance sheet."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions underwent debt restructuring in August 2017, reducing liabilities by $15 million, which improved its financial condition, reduced financial costs, and increased profitability. AccuTech Solutions Inc. underwent debt restructuring in June 2019, reducing its liabilities by $20 million, which optimized its capital structure, enhanced financial stability, and reduced financial costs."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the dividend distributions declared by InnovaTech Solutions in 2017 and AccuTech Solutions Inc. in 2019?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "Lastly, in December 2017, InnovaTech declared a dividend distribution of $5 million, returning value to its shareholders and reinforcing its commitment to long-term value creation."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In August 2019, AccuTech Solutions Inc. demonstrated its commitment to generating shareholder value by distributing $5 million of dividends to its shareholders.",
+                        "This dividend distribution strengthened investor confidence and rewarded shareholders for their continued support."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions declared a dividend distribution of $5 million in December 2017. AccuTech Solutions Inc. decided to distribute $5 million of dividends to its shareholders in August 2019."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much funding was raised by InnovaTech Solutions in 2017 and AccuTech Solutions Inc. in 2019 during their large-scale financing activities?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In April 2017, InnovaTech successfully raised $50 million in funds from venture capital firms and strategic investors, which strengthened its financial strength and supported its expansion plans and research and development efforts."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "To further strengthen its financial position and support its expansion and development plans, AccuTech Solutions Inc. successfully completed a large-scale financing activity in October 2019, raising $100 million in funds.",
+                        "This capital infusion significantly enhanced the company's financial strength and provided ample resources to invest in new technologies, research and development, and strategic acquisitions."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions raised $50 million in funds from venture capital firms and strategic investors in April 2017. AccuTech Solutions Inc. raised $100 million in funds in October 2019."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the major asset acquisitions by InnovaTech Solutions in 2017 and AccuTech Solutions Inc. in 2019. Which company had a higher value of asset acquisition?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In June 2017, InnovaTech completed the asset acquisition of Innovate Robotics, with a total value of $25 million."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "AccuTech Solutions Inc. is a publicly listed social industry company that was established on April 15, 2005 in San Francisco, California, offering innovative software solutions for social media management and analytics.In January 2019, AccuTech Solutions Inc. completed a major asset acquisition of TrendAnalytica, a renowned data analytics company in the social media industry.",
+                        "This acquisition, valued at $50 million, expanded AccuTech's business scope and increased its market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. had a higher value of asset acquisition in 2019 with $50 million, compared to InnovaTech Solutions' $25 million in 2017."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the debt restructuring efforts of InnovaTech Solutions in 2017 and AccuTech Solutions Inc. in 2019. Which company reduced its liabilities by a larger amount?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In August 2017, InnovaTech underwent debt restructuring, reducing its liabilities by $15 million."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In June 2019, AccuTech Solutions Inc. successfully underwent a debt restructuring, reducing its liabilities by $20 million.",
+                        "This optimization of the company's capital structure improved its financial stability, resulting in lower interest expenses and a stronger balance sheet."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. reduced its liabilities by a larger amount, $20 million in 2019, compared to InnovaTech Solutions' $15 million in 2017."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the significant equity acquisitions by InnovaTech Solutions in 2017 and AccuTech Solutions Inc. in 2019. Which company made the equity acquisition earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "Firstly, in February 2017, the company acquired 45% equity of OptiGen Corporation, a move that expanded its market share in the healthcare sector and enhanced its control over genetic testing technology."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In February 2019, AccuTech Solutions Inc. solidified its position in the influencer marketing industry by acquiring a 30% equity stake in Influencer Connect, a leading influencer marketing platform."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions made the equity acquisition earlier in February 2017, compared to AccuTech Solutions Inc. in February 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the large-scale financing activities of InnovaTech Solutions in 2017 and AccuTech Solutions Inc. in 2019. Which company raised more funds?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In April 2017, InnovaTech successfully raised $50 million in funds from venture capital firms and strategic investors, which strengthened its financial strength and supported its expansion plans and research and development efforts."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "To further strengthen its financial position and support its expansion and development plans, AccuTech Solutions Inc. successfully completed a large-scale financing activity in October 2019, raising $100 million in funds.",
+                        "This capital infusion significantly enhanced the company's financial strength and provided ample resources to invest in new technologies, research and development, and strategic acquisitions."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. raised more funds with $100 million in 2019, compared to InnovaTech Solutions' $50 million in 2017."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distributions of InnovaTech Solutions in 2017 and AccuTech Solutions Inc. in 2019. Did both companies distribute the same amount in dividends?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "Lastly, in December 2017, InnovaTech declared a dividend distribution of $5 million, returning value to its shareholders and reinforcing its commitment to long-term value creation."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In August 2019, AccuTech Solutions Inc. demonstrated its commitment to generating shareholder value by distributing $5 million of dividends to its shareholders."
+                    ]
+                }
+            ],
+            "answer": "Yes, both InnovaTech Solutions and AccuTech Solutions Inc. distributed the same amount in dividends, $5 million."
+        }
+    ]
+}

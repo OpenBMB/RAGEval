@@ -1,0 +1,120 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Northwood, Richmond, Court and Ashton, Clarksville, Court, what are the occupations of the defendants S. Taylor and J. Gonzalez?",
+            "ref": [
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "Occupation: Graphic Designer"
+                    ]
+                },
+                {
+                    "court_name": "Ashton, Clarksville, Court",
+                    "content": [
+                        "Occupation: Senior Inspector, Clarksville Tax Department"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Northwood, Richmond, Court, the defendant S. Taylor is a Graphic Designer; according to the judgment of Ashton, Clarksville, Court, the defendant J. Gonzalez is a Senior Inspector at the Clarksville Tax Department."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Northwood, Richmond, Court and Ashton, Clarksville, Court, what crimes did the defendants S. Taylor and J. Gonzalez commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "This court finds the collective actions of the defendant, S. Taylor, constitute the Crime of Counterfeiting Currency as per Article 170 of the Criminal Code."
+                    ]
+                },
+                {
+                    "court_name": "Ashton, Clarksville, Court",
+                    "content": [
+                        "Crime of Bending the Law for Personal Gain as per Article 397 of the applicable law."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Northwood, Richmond, Court, the defendant S. Taylor committed the Crime of Counterfeiting Currency; according to the judgment of Ashton, Clarksville, Court, the defendant J. Gonzalez committed the Crime of Bending the Law for Personal Gain."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Northwood, Richmond, Court and Ashton, Clarksville, Court, what are the judgment dates for the cases involving S. Taylor and J. Gonzalez?",
+            "ref": [
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "This document is thus prepared and endorsed in the Northwood, Richmond, Court on this 25th day of March, 2023."
+                    ]
+                },
+                {
+                    "court_name": "Ashton, Clarksville, Court",
+                    "content": [
+                        "15th May 2023"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Northwood, Richmond, Court, the judgment date for the case involving S. Taylor is 25th March, 2023; according to the judgment of Ashton, Clarksville, Court, the judgment date for the case involving J. Gonzalez is 15th May, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Northwood, Richmond, Court and Ashton, Clarksville, Court, when were the detention measures taken for the defendants S. Taylor and J. Gonzalez?",
+            "ref": [
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "On the 15th of January 2023, following preliminary inquiries and collection of physical and testimonial evidence pointing towards S. Taylor, law enforcement agencies executed a detention measure to limit the movement of the defendant and prevent possible tampering with evidence."
+                    ]
+                },
+                {
+                    "court_name": "Ashton, Clarksville, Court",
+                    "content": [
+                        "Consequently, J. Gonzalez was taken into detention on 5th March 2023."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Northwood, Richmond, Court, the detention measures for S. Taylor were taken on 15th January, 2023; according to the judgment of Ashton, Clarksville, Court, the detention measures for J. Gonzalez were taken on 5th March, 2023."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Northwood, Richmond, Court and Ashton, Clarksville, Court, whose sentencing time is longer, S. Taylor or J. Gonzalez?",
+            "ref": [
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "Seven (7) years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Ashton, Clarksville, Court",
+                    "content": [
+                        "This court hereby sentences J. Gonzalez to five years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "S. Taylor was sentenced to 7 years of fixed-term imprisonment, while J. Gonzalez was sentenced to 5 years of fixed-term imprisonment. S. Taylor's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Northwood, Richmond, Court and Ashton, Clarksville, Court, whose judgment time is earlier, S. Taylor or J. Gonzalez?",
+            "ref": [
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "This document is thus prepared and endorsed in the Northwood, Richmond, Court on this 25th day of March, 2023."
+                    ]
+                },
+                {
+                    "court_name": "Ashton, Clarksville, Court",
+                    "content": [
+                        "15th May 2023"
+                    ]
+                }
+            ],
+            "answer": "S. Taylor's judgment time is earlier, on 25th March 2023, compared to J. Gonzalez's judgment time on 15th May 2023."
+        }
+    ]
+}

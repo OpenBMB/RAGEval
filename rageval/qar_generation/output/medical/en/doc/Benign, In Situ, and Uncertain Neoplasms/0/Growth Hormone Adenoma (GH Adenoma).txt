@@ -1,0 +1,129 @@
+Hospitalization Record
+
+Basic Information:
+Name: E. Cruz
+Gender: Female
+Age: 70
+Ethnicity: Hispanic
+Marital Status: Widowed
+Occupation: Retired Teacher
+Address: 56 Hamilton Street, Parker
+Admission Time: 12th, April
+Record Time: 12th, April
+Historian: Patient and daughter
+Hospital Name: Parker City Hospital
+
+Chief Complaint:
+Facial changes and increasing shoe size for 6 months
+
+Present Illness:
+Onset: Facial changes first noticed 6 months ago at home. Progressive facial feature changes over time.
+Main Symptoms: Enlarged forehead, protruding jaw, large nose and lips, thick fingers. Shoes and hats feel tight.
+Accompanying Symptoms: Increased appetite, coarse hair and skin, pigmentation, occasional numbness of fingers.
+Diagnosis and Treatment History: CT scan done outside the hospital showed a pituitary tumor. No prior treatments.
+General Condition Changes: Mental state stable, difficulty sleeping, increased appetite, regular bowel movements. Lost 3 kg over 3 months.
+
+Past History:
+General Health Condition: Good
+Disease History: Type 2 Diabetes diagnosed 10 years ago
+Infectious Disease History: None
+Immunization History: Up-to-date
+Surgery and Trauma History: Appendectomy at age 25
+Blood Transfusion History: None
+Allergy History: Penicillin allergy
+
+Personal History:
+Birthplace: Parker
+Residence: Parker
+Living Habits: Non-smoker, occasional social drinker
+Occupation and Working Conditions: Retired Teacher
+Exposure History: None
+Travel History: No recent travel
+
+Marital and Family History:
+Marital History:
+Marital Status: Widowed
+Marriage Age: 22
+Spouse's Health Condition: Deceased 5 years ago (Heart attack)
+Children's Condition: Two daughters, both in good health
+Menstrual History:
+Menarche Age: 12
+Menstruation Duration: 5 days
+Menstruation Interval: 28 days
+Last Menstruation: 20 years ago
+Menstrual Volume: Moderate
+Dysmenorrhea: Occasional
+Family History: Father deceased (Diabetes), Mother deceased (Hypertension), one brother with hypertension
+
+Physical Examination:
+General Condition:
+Temperature: 98.6°F
+Pulse: 76 bpm
+Respiration: 18 breaths/min
+Blood Pressure: 140/90 mmHg
+Systematic Examination:
+Skin: Coarse, pigmented
+Mucous Membranes: Normal
+Lymph Nodes: Non-palpable
+Head and Organs: Enlarged forehead, protruding jaw, large nose and lips
+Neck: Normal range of motion, no masses
+Chest: Thorax normal, clear breath sounds, regular heart rate with no murmurs
+Abdomen: Non-tender, liver and spleen not palpable
+Rectum and Anus: Not examined
+External Genitalia: Atrophic changes consistent with age
+Spine: No deformities, full range of motion
+Limbs: Thick fingers, muscle strength 5/5
+Nervous System: No focal neurological deficits
+
+Specialist Examination:
+Endocrinology consult: Clinical signs consistent with GH excess
+
+Auxiliary Examination:
+MRI: Pituitary adenoma measuring 1.5 cm
+
+Preliminary Diagnosis:
+Growth Hormone Adenoma (GH Adenoma)
+
+Diagnostic Basis:
+Progressive facial feature changes, tight-fitting shoes and hats, MRI findings of pituitary adenoma
+
+Differential Diagnosis:
+Paget's disease of bone, ruled out by lack of bony abnormalities; Leontiasis ossea, ruled out by MRI; Ectopic growth hormone-releasing factor syndrome, unlikely given pituitary adenoma evidence
+
+Admission Records:
+Physician's Signature: Dr. John Smith
+
+Post-Admission Course Records:
+First Course Record: Patient presents with clinical signs of GH excess. MRI confirmed presence of a pituitary adenoma. Further hormonal workup planned. Monitor glucose levels due to history of type 2 diabetes.
+Daily Course Records: 
+Day 1: Stable, labs pending. 
+Day 2: Blood glucose slightly elevated, continue monitoring. Further endocrine evaluation planned.
+Senior Physician Rounds Records: Discussed patient's case during rounds. Plan to manage with medications to decrease GH levels and consider radiation therapy.
+Difficult Case Discussion Records: Reviewed by Endocrinology and Neurosurgery teams. Consensus to start medical treatment and monitor response.
+Handover Records: Transferred care to evening team, patient stable.
+Transfer Records: None
+Stage Summary: Marked improvement in symptoms with medication. Blood glucose levels stabilized.
+Emergency Records: None
+Invasive Procedure Records: None
+Consultation Records: Endocrine consult: Medication plan adjusted based on latest hormone levels.
+Discharge Records: Pending
+Critically Ill Patient Care Records: N/A
+
+Medical Orders:
+Long-term Orders: Monitor blood glucose levels twice daily, administer octreotide as per endocrinology advice, regular follow-up with endocrine clinic.
+Temporary Orders: MRI with contrast, full hormonal panel, blood glucose monitoring
+
+Auxiliary Examination Reports:
+MRI: Pituitary adenoma 1.5 cm; Hormonal panel: Elevated GH and IGF-1.
+
+Temperature Chart:
+98.6°F, 76 bpm, 18 breaths/min, 140/90 mmHg
+
+Blood Transfusion Consent:
+N/A
+
+Special Examination Consent:
+Consent obtained for MRI
+
+Critical Condition Notice:
+N/A

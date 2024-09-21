@@ -1,0 +1,76 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Bayside, Roseville, Court",
+        "procuratorate": "Bayside, Roseville, Procuratorate"
+    },
+    "chiefJudge": "N. Harris",
+    "judge": "V. Robinson",
+    "clerk": "A. Wood",
+    "defendant": {
+        "name": "V. Martin",
+        "gender": "female",
+        "birthdate": "12th, December, 1973",
+        "residence": "90, Yorkshire street, Roseville",
+        "ethnicity": "Caucasian",
+        "occupation": "Chief Financial Officer at Roseville Municipal Services"
+    },
+    "defenseLawyer": {
+        "name": "Y. Patel",
+        "lawFirm": "Patel & Associates Law Firm"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "1st January, 2022"
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "15th February, 2022"
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "20th February, 2022"
+        },
+        {
+            "event": "Arrest",
+            "date": "28th February, 2022"
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Embezzlement",
+            "details": [
+                {
+                    "timePeriod": "March 2021 - May 2021",
+                    "behavior": "Transferred $150,000 from the municipal disaster relief fund to her personal account.",
+                    "evidence": "Bank transfer records, financial audit reports, and testimony from co-workers."
+                },
+                {
+                    "timePeriod": "June 2021 - August 2021",
+                    "behavior": "Authorized and withdrew $200,000 from the municipal emergency rescue fund for personal use, including the purchase of luxury goods.",
+                    "evidence": "Receipts of luxury goods from 'Elite Brands', surveillance footage, and bank withdrawal records."
+                },
+                {
+                    "timePeriod": "September 2021 - November 2021",
+                    "behavior": "Diverted $250,000 from the flood control fund to an offshore account.",
+                    "evidence": "Overseas bank account statements, email correspondence detailing the transaction, and internal audit records."
+                },
+                {
+                    "timePeriod": "December 2021",
+                    "behavior": "Failing to return $100,000 taken from the municipal rural development fund within three months.",
+                    "evidence": "Internal communication emails, financial ledgers, and witness testimony from municipal staff."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "10th October, 2022",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Embezzlement",
+                "sentence": "12 years of fixed-term imprisonment with no chance of parole within the first 8 years.",
+                "sentencingConsiderations": "The total amount embezzled was $700,000, failure to return the funds, and misuse of disaster relief and emergency funds, which requires a more severe penalty under Article 384."
+            }
+        ]
+    }
+}

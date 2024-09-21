@@ -1,0 +1,234 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "J. Alvarez",
+            "Gender": "female",
+            "Age": "83",
+            "Ethnicity": "Hispanic",
+            "Marital Status": "Widowed",
+            "Occupation": "Retired",
+            "Address": "23, Yarmouth street, Clearwater",
+            "Admission Time": "21th, August",
+            "Record Time": "21th, August",
+            "Historian": "Self",
+            "Hospital Name": "Clearwater General Hospital"
+        },
+        "Chief Complaint": "Repeated respiratory infections, palpitations, and shortness of breath for 2 months",
+        "Present Illness": {
+            "Onset": "Symptoms started 2 months ago with no specific triggering event. Initially, patient noticed mild shortness of breath and occasional palpitations.",
+            "Main Symptoms": "Patient reports progressive shortness of breath, frequent palpitations, and multiple episodes of respiratory infections over the past two months. Symptoms worsen with physical exertion.",
+            "Accompanying Symptoms": "Cyanosis especially during infections; occasional lightheadedness and fatigue; no chest pain or syncope.",
+            "Diagnosis and Treatment History": "Patient visited local clinic where she was treated symptomatically for respiratory infections but symptoms persisted. No previous specific treatment for heart condition.",
+            "General Condition Changes": "Mental state appears slightly anxious; no significant changes in sleep or appetite; normal urination and defecation; slight weight loss of 2 kg reported."
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy for age, managed hypertension.",
+            "Disease History": "Hypertension for 10 years, managed with medication.",
+            "Infectious Disease History": "No significant infectious diseases.",
+            "Immunization History": "Up-to-date with basic immunizations; Flu and Pneumococcal vaccines administered last year.",
+            "Surgery and Trauma History": "Cholecystectomy (1980), no recent trauma.",
+            "Blood Transfusion History": "No history of blood transfusion.",
+            "Allergy History": "Patient allergic to Penicillin."
+        },
+        "Personal History": {
+            "Birthplace": "Clearwater",
+            "Residence": "Clearwater",
+            "Living Habits": "Non-smoker, minimal alcohol use, regular daily activities.",
+            "Occupation and Working Conditions": "Retired, previously worked as a school teacher.",
+            "Exposure History": "No known exposure to industrial toxins, dust, or radioactive substances.",
+            "Travel History": "No recent travel history."
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Widowed",
+                "Marriage Age": "20",
+                "Spouse's Health Condition": "Deceased - myocardial infarction",
+                "Children's Condition": "Two children, both in good health."
+            },
+            "Menstrual History": {
+                "Menarche Age": "12",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "Menopause at age 50",
+                "Menstrual Volume": "Moderate",
+                "Dysmenorrhea": "Mild"
+            },
+            "Family History": "Mother had diabetes, father had hypertension. No known family history of congenital heart disease."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "98.6°F",
+                "Pulse": "90/min",
+                "Respiration": "20/min",
+                "Blood Pressure": "140/85 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Pale, cold and slightly cyanotic extremities.",
+                "Mucous Membranes": "Pale.",
+                "Lymph Nodes": "No significant lymphadenopathy.",
+                "Head and Organs": "Normal.",
+                "Neck": "No jugular vein distention, no thyromegaly.",
+                "Chest": "Thorax normal shape. Lungs clear with no abnormal sounds. Heart - displaced apex beat, audible murmur.",
+                "Abdomen": "Soft, non-tender, no hepatosplenomegaly.",
+                "Rectum and Anus": "Normal.",
+                "External Genitalia": "Normal.",
+                "Spine": "Normal curvature, no deformities.",
+                "Limbs": "Peripheral cyanosis, no edema.",
+                "Nervous System": "Intact, no focal deficits."
+            }
+        },
+        "Specialist Examination": "Cardiology assessment reveals a systolic murmur heard best at left sternal border.",
+        "Auxiliary Examination": "Chest X-ray shows mild cardiomegaly. ECG reveals right bundle branch block. Echocardiogram indicates ventricular septal defect.",
+        "Preliminary Diagnosis": "Congenital Heart Disease (Ventricular Septal Defect)",
+        "Diagnostic Basis": "Based on clinical presentation of repeated respiratory infections, palpitations, shortness of breath, cyanosis, confirmed by echocardiogram findings of VSD.",
+        "Differential Diagnosis": "Rheumatic heart disease (no history of rheumatic fever, no mitral valve involvement), anemia (normal hemoglobin levels), venous hum (innocent murmur not fitting the murmur pattern), common cold (symptoms persist and other signs support heart disease).",
+        "Admission Records": {
+            "Physician's Signature": "Dr. Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "The patient was admitted due to symptoms suggestive of congenital heart disease. Initial diagnostic investigations including echocardiogram confirmed a ventricular septal defect. Treatment plan includes symptomatic relief for respiratory infections and cardiology consultation for potential long-term management.",
+            "Daily Course Records": "Day 1: Patient stabilized, symptomatic treatment for respiratory infections. Cardiology consult arranged. Day 2: Patient showing mild improvement in respiration. Awaiting further test results.",
+            "Senior Physician Rounds Records": "Senior physician confirmed congenital heart disease, advised conservative management with close monitoring.",
+            "Difficult Case Discussion Records": "",
+            "Handover Records": "",
+            "Transfer Records": "",
+            "Stage Summary": "Patient condition improved, stabilized under conservative treatment. Plan for outpatient follow up with cardiology.",
+            "Emergency Records": "",
+            "Invasive Procedure Records": "",
+            "Consultation Records": "Cardiology consult: Recommended conservative management due to patient's age and overall health status. Routine follow-ups and monitoring suggested.",
+            "Discharge Records": "",
+            "Critically Ill Patient Care Records": ""
+        },
+        "Medical Orders": {
+            "Long-term Orders": "1. Administer oxygen therapy as needed for respiratory distress. 2. Continue antihypertensive medication. 3. Monitor vitals regularly. 4. Arrange follow-up with Cardiology.",
+            "Temporary Orders": "1. IV antibiotics for current respiratory infection. 2. Analgesics for pain relief as needed."
+        },
+        "Auxiliary Examination Reports": "1. Chest X-ray: Mild cardiomegaly. 2. ECG: Right bundle branch block. 3. Echocardiogram: Ventricular septal defect.",
+        "Temperature Chart": "99.0°F, Pulse 88/min, Respiration 18/min, Blood Pressure 137/80 mmHg.",
+        "Blood Transfusion Consent": "",
+        "Special Examination Consent": "",
+        "Critical Condition Notice": ""
+    },
+    "DiseaseType": {
+        "Congenital Anomalies": {
+            "Name": "Congenital Heart Disease",
+            "Symptoms": "Repeated respiratory infections, palpitations, shortness of breath, cyanosis, etc.",
+            "Differential Diagnosis": "Rheumatic heart disease, anemia, venous hum, common cold."
+        }
+    },
+    "Generated Article": "Hospitalization Record\n\nBasic Information:\nName: J. Alvarez\nGender: Female\nAge: 83\nEthnicity: Hispanic\nMarital Status: Widowed\nOccupation: Retired\nAddress: 23, Yarmouth Street, Clearwater\nAdmission Time: 21st, August\nRecord Time: 21st, August\nHistorian: Self\nHospital Name: Clearwater General Hospital\n\nChief Complaint:\nRepeated respiratory infections, palpitations, and shortness of breath for 2 months.\n\nPresent Illness:\nOnset:\nSymptoms started 2 months ago with no specific triggering event. Initially, patient noticed mild shortness of breath and occasional palpitations.\n\nMain Symptoms:\nPatient reports progressive shortness of breath, frequent palpitations, and multiple episodes of respiratory infections over the past two months. Symptoms worsen with physical exertion.\n\nAccompanying Symptoms:\nCyanosis especially during infections; occasional lightheadedness and fatigue; no chest pain or syncope.\n\nDiagnosis and Treatment History:\nPatient visited local clinic where she was treated symptomatically for respiratory infections but symptoms persisted. No previous specific treatment for heart condition.\n\nGeneral Condition Changes:\nMental state appears slightly anxious; no significant changes in sleep or appetite; normal urination and defecation; slight weight loss of 2 kg reported.\n\nPast History:\nGeneral Health Condition:\nGenerally healthy for age, managed hypertension.\n\nDisease History:\nHypertension for 10 years, managed with medication.\n\nInfectious Disease History:\nNo significant infectious diseases.\n\nImmunization History:\nUp-to-date with basic immunizations; flu and pneumococcal vaccines administered last year.\n\nSurgery and Trauma History:\nCholecystectomy (1980), no recent trauma.\n\nBlood Transfusion History:\nNo history of blood transfusion.\n\nAllergy History:\nPatient allergic to Penicillin.\n\nPersonal History:\nBirthplace:\nClearwater\n\nResidence:\nClearwater\n\nLiving Habits:\nNon-smoker, minimal alcohol use, regular daily activities.\n\nOccupation and Working Conditions:\nRetired, previously worked as a school teacher.\n\nExposure History:\nNo known exposure to industrial toxins, dust, or radioactive substances.\n\nTravel History:\nNo recent travel history.\n\nMarital and Family History:\nMarital History:\nMarital Status: Widowed\nMarriage Age: 20\nSpouse's Health Condition: Deceased - myocardial infarction\nChildren's Condition: Two children, both in good health.\n\nMenstrual History:\nMenarche Age: 12\nMenstruation Duration: 5 days\nMenstruation Interval: 28 days\nLast Menstruation: Menopause at age 50\nMenstrual Volume: Moderate\nDysmenorrhea: Mild\n\nFamily History:\nMother had diabetes, father had hypertension. No known family history of congenital heart disease.\n\nPhysical Examination:\nGeneral Condition:\nTemperature: 98.6°F\nPulse: 90/min\nRespiration: 20/min\nBlood Pressure: 140/85 mmHg\n\nSystematic Examination:\nSkin: Pale, cold and slightly cyanotic extremities.\nMucous Membranes: Pale.\nLymph Nodes: No significant lymphadenopathy.\nHead and Organs: Normal.\nNeck: No jugular vein distention, no thyromegaly.\nChest: Thorax normal shape. Lungs clear with no abnormal sounds. Heart - displaced apex beat, audible murmur.\nAbdomen: Soft, non-tender, no hepatosplenomegaly.\nRectum and Anus: Normal.\nExternal Genitalia: Normal.\nSpine: Normal curvature, no deformities.\nLimbs: Peripheral cyanosis, no edema.\nNervous System: Intact, no focal deficits.\n\nSpecialist Examination:\nCardiology assessment reveals a systolic murmur heard best at left sternal border.\n\nAuxiliary Examination:\nChest X-ray shows mild cardiomegaly. ECG reveals right bundle branch block. Echocardiogram indicates ventricular septal defect.\n\nPreliminary Diagnosis:\nCongenital Heart Disease (Ventricular Septal Defect)\n\nDiagnostic Basis:\nBased on clinical presentation of repeated respiratory infections, palpitations, shortness of breath, and cyanosis, confirmed by echocardiogram findings of VSD.\n\nDifferential Diagnosis:\nRheumatic heart disease (no history of rheumatic fever, no mitral valve involvement), anemia (normal hemoglobin levels), venous hum (innocent murmur not fitting the murmur pattern), common cold (symptoms persist and other signs support heart disease).\n\nAdmission Records:\nPhysician's Signature: Dr. Smith\n\nPost-Admission Course Records:\n\nFirst Course Record:\nThe patient was admitted due to symptoms suggestive of congenital heart disease. Initial diagnostic investigations including echocardiogram confirmed a ventricular septal defect. Treatment plan includes symptomatic relief for respiratory infections and cardiology consultation for potential long-term management.\n\nDaily Course Records:\nDay 1: Patient stabilized, symptomatic treatment for respiratory infections. Cardiology consult arranged.\nDay 2: Patient showing mild improvement in respiration. Awaiting further test results.\n\nSenior Physician Rounds Records:\nSenior physician confirmed congenital heart disease, advised conservative management with close monitoring.\n\nDifficult Case Discussion Records:\nNone.\n\nHandover Records:\nNone.\n\nTransfer Records:\nNone.\n\nStage Summary:\nPatient condition improved, stabilized under conservative treatment. Plan for outpatient follow-up with cardiology.\n\nEmergency Records:\nNone.\n\nInvasive Procedure Records:\nNone.\n\nConsultation Records:\nCardiology consult: Recommended conservative management due to patient's age and overall health status. Routine follow-ups and monitoring suggested.\n\nDischarge Records:\nNone.\n\nCritically Ill Patient Care Records:\nNone.\n\nMedical Orders:\nLong-term Orders:\n1. Administer oxygen therapy as needed for respiratory distress.\n2. Continue antihypertensive medication.\n3. Monitor vitals regularly.\n4. Arrange follow-up with Cardiology.\n\nTemporary Orders:\n1. IV antibiotics for current respiratory infection.\n2. Analgesics for pain relief as needed.\n\nAuxiliary Examination Reports:\n1. Chest X-ray: Mild cardiomegaly.\n2. ECG: Right bundle branch block.\n3. Echocardiogram: Ventricular septal defect.\n\nTemperature Chart:\n99.0°F, Pulse 88/min, Respiration 18/min, Blood Pressure 137/80 mmHg.\n\nBlood Transfusion Consent:\nNone.\n\nSpecial Examination Consent:\nNone.\n\nCritical Condition Notice:\nNone.\n\nDisease Type:\nCongenital Anomalies:\nName: Congenital Heart Disease\nSymptoms: Repeated respiratory infections, palpitations, shortness of breath, cyanosis, etc.\nDifferential Diagnosis: Rheumatic heart disease, anemia, venous hum, common cold.",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Clearwater General Hospital, what is J. Alvarez allergic to?",
+            "answer": "Penicillin",
+            "ref": [
+                "Allergy History:",
+                "Patient allergic to Penicillin."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Clearwater General Hospital, what is J. Alvarez's birthplace?",
+            "answer": "Clearwater",
+            "ref": [
+                "Birthplace:",
+                "Clearwater"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Clearwater General Hospital, what is J. Alvarez's temperature?",
+            "answer": "98.6°F",
+            "ref": [
+                "Temperature: 98.6°F"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Clearwater General Hospital, what is J. Alvarez's pulse rate?",
+            "answer": "90/min",
+            "ref": [
+                "Pulse: 90/min"
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Clearwater General Hospital, how many auxiliary examinations did J. Alvarez undergo?",
+            "answer": "According to the records, J. Alvarez underwent 3 auxiliary examinations, namely chest X-ray, ECG, and echocardiogram.",
+            "ref": [
+                "Auxiliary Examination:",
+                "Chest X-ray shows mild cardiomegaly.",
+                "ECG reveals right bundle branch block.",
+                "Echocardiogram indicates ventricular septal defect."
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Clearwater General Hospital, summarize the chief complaint and present illness of J. Alvarez.",
+            "answer": "J. Alvarez has been experiencing repeated respiratory infections, palpitations, and shortness of breath for 2 months. The symptoms started 2 months ago with no specific triggering event. The patient reports progressive shortness of breath, frequent palpitations, and multiple episodes of respiratory infections over the past two months. Symptoms worsen with physical exertion. Accompanying symptoms include cyanosis especially during infections; occasional lightheadedness and fatigue; no chest pain or syncope.",
+            "ref": [
+                "Repeated respiratory infections, palpitations, and shortness of breath for 2 months.",
+                "Symptoms started 2 months ago with no specific triggering event.",
+                "Initially, patient noticed mild shortness of breath and occasional palpitations.",
+                "Patient reports progressive shortness of breath, frequent palpitations, and multiple episodes of respiratory infections over the past two months.",
+                "Symptoms worsen with physical exertion.",
+                "Cyanosis especially during infections; occasional lightheadedness and fatigue; no chest pain or syncope."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Clearwater General Hospital, summarize the past history of J. Alvarez.",
+            "answer": "J. Alvarez has been generally healthy for her age, managed hypertension. She has had hypertension for 10 years, managed with medication. She has no significant infectious diseases. Her immunization history is up-to-date with basic immunizations; Flu and Pneumococcal vaccines administered last year. She had a Cholecystectomy in 1980, no recent trauma, and no history of blood transfusion. She is allergic to Penicillin.",
+            "ref": [
+                "Generally healthy for age, managed hypertension.",
+                "Hypertension for 10 years, managed with medication.",
+                "No significant infectious diseases.",
+                "Up-to-date with basic immunizations; flu and pneumococcal vaccines administered last year.",
+                "Cholecystectomy (1980), no recent trauma.",
+                "No history of blood transfusion.",
+                "Patient allergic to Penicillin."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Clearwater General Hospital, summarize the physical examination of J. Alvarez.",
+            "answer": "J. Alvarez's general condition includes a temperature of 98.6°F, pulse of 90/min, respiration of 20/min, and blood pressure of 140/85 mmHg. Her skin is pale, cold and slightly cyanotic. Her mucous membranes are pale. There is no significant lymphadenopathy. Her head and organs are normal. There is no jugular vein distention, no thyromegaly. Her thorax is of normal shape. Lungs are clear with no abnormal sounds. Her heart has a displaced apex beat, audible murmur. Her abdomen is soft, non-tender, no hepatosplenomegaly. Her rectum and anus are normal. Her external genitalia are normal. Her spine has normal curvature, no deformities. Her limbs show peripheral cyanosis, no edema. Her nervous system is intact, no focal deficits.",
+            "ref": [
+                "Temperature: 98.6°F",
+                "Pulse: 90/min",
+                "Respiration: 20/min",
+                "Blood Pressure: 140/85 mmHg",
+                "Skin: Pale, cold and slightly cyanotic extremities.",
+                "Mucous Membranes: Pale.",
+                "Lymph Nodes: No significant lymphadenopathy.",
+                "Head and Organs: Normal.",
+                "Neck: No jugular vein distention, no thyromegaly.",
+                "Chest: Thorax normal shape.",
+                "Lungs clear with no abnormal sounds.",
+                "Heart - displaced apex beat, audible murmur.",
+                "Abdomen: Soft, non-tender, no hepatosplenomegaly.",
+                "Rectum and Anus: Normal.",
+                "External Genitalia: Normal.",
+                "Spine: Normal curvature, no deformities.",
+                "Limbs: Peripheral cyanosis, no edema.",
+                "Nervous System: Intact, no focal deficits."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Clearwater General Hospital, summarize the preliminary diagnosis and treatment plan for J. Alvarez.",
+            "answer": "J. Alvarez has been preliminarily diagnosed with Congenital Heart Disease (Ventricular Septal Defect). The diagnosis is based on clinical presentation of repeated respiratory infections, palpitations, shortness of breath, cyanosis, confirmed by echocardiogram findings of VSD. The treatment plan includes symptomatic relief for respiratory infections and cardiology consultation for potential long-term management.",
+            "ref": [
+                "Congenital Heart Disease (Ventricular Septal Defect)",
+                "Diagnostic Basis:",
+                "Initial diagnostic investigations including echocardiogram confirmed a ventricular septal defect.",
+                "Treatment plan includes symptomatic relief for respiratory infections and cardiology consultation for potential long-term management."
+            ]
+        }
+    ]
+}

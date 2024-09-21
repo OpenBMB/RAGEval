@@ -1,0 +1,105 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Windsor General Hospital and Tremont General Hospital, what are the ages of patients K. Ramos and L. Bailey?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Age: 82"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont General Hospital_L. Bailey",
+                    "content": [
+                        "Age: 27"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Windsor General Hospital, patient K. Ramos is 82 years old; according to the hospitalization records of Tremont General Hospital, patient L. Bailey is 27 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Windsor General Hospital and Tremont General Hospital, what are the chief complaints of patients K. Ramos and L. Bailey?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Chief Complaint:",
+                        "Severe bone pain and difficulty in walking for 3 days."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont General Hospital_L. Bailey",
+                    "content": [
+                        "Chief Complaint:",
+                        "Experiencing auditory hallucinations and delusional thoughts for the past 1 month."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Windsor General Hospital, patient K. Ramos's chief complaint is severe bone pain and difficulty in walking for 3 days; according to the hospitalization records of Tremont General Hospital, patient L. Bailey's chief complaint is experiencing auditory hallucinations and delusional thoughts for the past 1 month."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Windsor General Hospital and Tremont General Hospital, what are the preliminary diagnoses for patients K. Ramos and L. Bailey?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Acute Osteomyelitis"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont General Hospital_L. Bailey",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Schizophrenia"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Windsor General Hospital, the preliminary diagnosis for patient K. Ramos is Acute Osteomyelitis; according to the hospitalization records of Tremont General Hospital, the preliminary diagnosis for patient L. Bailey is Schizophrenia."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Windsor General Hospital and Tremont General Hospital, who was admitted earlier, K. Ramos or L. Bailey?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Admission Time: 26th October"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont General Hospital_L. Bailey",
+                    "content": [
+                        "Admission Time: 24th, September"
+                    ]
+                }
+            ],
+            "answer": "K. Ramos was admitted on October 26, and L. Bailey was admitted on September 24. L. Bailey was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Windsor General Hospital and Tremont General Hospital, whose body temperature was higher upon admission, K. Ramos or L. Bailey?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Temperature: 38.5°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont General Hospital_L. Bailey",
+                    "content": [
+                        "Temperature: 36.7°C"
+                    ]
+                }
+            ],
+            "answer": "K. Ramos had a body temperature of 38.5°C upon admission, while L. Bailey had a body temperature of 36.7°C. K. Ramos had a higher body temperature."
+        }
+    ]
+}

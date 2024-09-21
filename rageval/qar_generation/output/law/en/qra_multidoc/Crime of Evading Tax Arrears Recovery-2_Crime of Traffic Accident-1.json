@@ -1,0 +1,107 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Riverside, Glenwood, Court and Lakewood, Pinehurst, Court, what are the occupations of the defendants X. Morgan and M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Occupation**: Owner of Morgan & Co.",
+                        "X. Morgan, a seasoned business professional, operates Morgan & Co.",
+                        "Consulting, a firm engaged in providing business consultancy services."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Occupation: Delivery Driver"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Riverside, Glenwood, Court, the defendant X. Morgan is the owner of Morgan & Co. Consulting; according to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett is a Delivery Driver."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Riverside, Glenwood, Court and Lakewood, Pinehurst, Court, what crimes did the defendants X. Morgan and M. Bennett commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "The defendant, X. Morgan, was charged with the crime of evading tax arrears recovery under Article 203.",
+                        "**Count**: Crime of Evading Tax Arrears Recovery under Article 203"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Crime of Traffic Accident under Article No. 133 of our legal code.",
+                        "Based on the evidence presented and the severity of the offense, this court finds M. Bennett guilty of the Crime of Traffic Accident under Article No. 133 of our legal code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Riverside, Glenwood, Court, the defendant X. Morgan committed the Crime of Evading Tax Arrears Recovery; according to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett committed the Crime of Traffic Accident."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Riverside, Glenwood, Court and Lakewood, Pinehurst, Court, what were the sentences for the defendants X. Morgan and M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Sentence**: The defendant, X. Morgan, is sentenced to 5 years imprisonment, with 3 years probation post-release and a fine of $600,000.",
+                        "This sentence takes into account the significant financial loss incurred by the state, the deliberate and calculated nature of the crimes committed, the compelling evidence presented by the prosecution, and the absence of a prior criminal record."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "M. Bennett is hereby sentenced to a fixed-term imprisonment of five years without the possibility of probation."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Riverside, Glenwood, Court, the defendant X. Morgan was sentenced to 5 years imprisonment, 3 years probation, and fined $600,000; according to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett was sentenced to 5 years fixed-term imprisonment with no probation."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Riverside Glenwood Court and Lakewood Pinehurst Court, whose sentencing time is longer, X. Morgan or M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Sentence**: The defendant, X. Morgan, is sentenced to 5 years imprisonment, with 3 years probation post-release and a fine of $600,000.",
+                        "This sentence takes into account the significant financial loss incurred by the state, the deliberate and calculated nature of the crimes committed, the compelling evidence presented by the prosecution, and the absence of a prior criminal record."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "M. Bennett is hereby sentenced to a fixed-term imprisonment of five years without the possibility of probation."
+                    ]
+                }
+            ],
+            "answer": "Both X. Morgan and M. Bennett were sentenced to 5 years of imprisonment. However, X. Morgan's sentence includes 3 years of probation, while M. Bennett's sentence does not include probation. Therefore, their sentencing times are the same in terms of imprisonment duration."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Riverside Glenwood Court and Lakewood Pinehurst Court, whose judgment date is earlier, X. Morgan or M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "This judgment has been recorded and issued under the authority of Riverside, Glenwood Court on this 10th day of August, 2023."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "This judgment is pronounced on June 30, 2023, and shall be executed in accordance with our legal provisions."
+                    ]
+                }
+            ],
+            "answer": "M. Bennett's judgment date is earlier. His judgment was on 30th June, 2023, while X. Morgan's judgment was on 10th August, 2023."
+        }
+    ]
+}

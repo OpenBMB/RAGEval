@@ -1,0 +1,132 @@
+Hospitalization Record
+
+Basic Information:
+Name: V. Lewis
+Gender: Female
+Age: 64
+Ethnicity: Caucasian
+Marital Status: Widowed
+Occupation: Retired Teacher
+Address: 94, Yorktown Street, Newport
+Admission Time: 23rd, July
+Record Time: 23rd, July
+Historian: Patient herself
+Hospital Name: Newport General Hospital
+
+Chief Complaint: Fever, cough, and difficulty breathing for 5 days.
+
+Present Illness:
+Onset: Onset occurred 5 days ago at home with sudden onset of high fever. No known trigger.
+Main Symptoms: Persistent dry cough, moderate difficulty breathing, fever of 38.5°C. Symptoms aggravated by exertion.
+Accompanying Symptoms: General malaise, mild chest pain during coughing.
+Diagnosis and Treatment History: Patient visited a local clinic 3 days ago and was prescribed antibiotics with no improvement.
+General Condition Changes: Decreased appetite, difficulty sleeping due to cough, normal urination and defecation, slight weight loss.
+
+Past History:
+General Health Condition: Generally good prior to current illness.
+Disease History: Hypertension for 10 years, well controlled with medication.
+Infectious Disease History: No significant past infectious diseases.
+Immunization History: Up-to-date with vaccinations, including influenza and pneumococcal vaccine.
+Surgery and Trauma History: Appendectomy at age 30, otherwise unremarkable.
+Blood Transfusion History: No history of blood transfusion.
+Allergy History: Allergic to penicillin.
+
+Personal History:
+Birthplace: Newport
+Residence: Newport
+Living Habits: Non-smoker, occasional social drinker.
+Occupation and Working Conditions: Retired teacher, no significant occupational hazards.
+Exposure History: No exposure to industrial toxins or radioactive substances.
+Travel History: No recent travel history.
+
+Marital and Family History:
+Marital History:
+Marital Status: Widowed
+Marriage Age: 22
+Spouse's Health Condition: Deceased
+Children's Condition: Two children, both in good health.
+Menstrual History:
+Menarche Age: 13
+Menstruation Duration: 5 days
+Menstruation Interval: 28 days
+Last Menstruation: Age 50
+Menstrual Volume: Normal
+Dysmenorrhea: No
+Family History: Mother had diabetes, father had chronic bronchitis. No known genetic tendencies.
+
+Physical Examination:
+General Condition:
+Temperature: 38.5°C
+Pulse: 92 bpm
+Respiration: 24 breaths/min
+Blood Pressure: 130/85 mmHg
+Systematic Examination:
+Skin: No abnormalities
+Mucous Membranes: Moist
+Lymph Nodes: No enlargement
+Head and Organs: No abnormalities
+Neck: Supple, no jugular vein distention.
+Chest: Dullness to percussion over right lower lobe, crackles heard on auscultation. Heart sounds normal.
+Abdomen: Soft, non-tender, no organomegaly.
+Rectum and Anus: Not examined.
+External Genitalia: Normal for age.
+Spine: No abnormalities.
+Limbs: No edema or cyanosis.
+Nervous System: No focal neurological deficits.
+
+Specialist Examination: Pulmonary auscultation revealed crackles over the right lower lobe.
+
+Auxiliary Examination: Chest X-ray showed consolidation in the right lower lobe, elevated WBC count, CRP elevated.
+
+Preliminary Diagnosis: Community-acquired pneumonia
+
+Diagnostic Basis: Based on patient's history of fever, cough, difficulty breathing, physical exam findings, and chest X-ray results.
+
+Differential Diagnosis:
+Tuberculosis: Ruled out due to lack of chronic symptoms and relevant exposure history.
+Lung Cancer: Less likely given acute presentation and lack of weight loss.
+Pulmonary Embolism: Ruled out due to absence of risk factors and sudden onset.
+
+Admission Records:
+Physician's Signature: Dr. J. Smith
+
+Post-Admission Course Records:
+First Course Record: Patient presented with symptoms indicative of pneumonia. Initial treatment with broad-spectrum antibiotics and supportive measures initiated.
+Daily Course Records: Patient monitored daily. Fever subsided on the 2nd day, continued improvement in respiratory symptoms.
+Senior Physician Rounds Records: Patient reviewed on rounds. Satisfactory progress, continue current management.
+Difficult Case Discussion Records: 
+Handover Records: Patient handed over to night shift with stable vitals, continue current treatment.
+Transfer Records: 
+Stage Summary: Patient showed significant improvement, afebrile for 48 hours, respiratory symptoms resolving.
+Emergency Records: 
+Invasive Procedure Records: 
+Consultation Records: 
+Discharge Records: Patient discharged home in stable condition with oral antibiotics and follow-up in 1 week.
+Critically Ill Patient Care Records: 
+
+Medical Orders:
+Long-term Orders:
+1. Broad-spectrum antibiotics IV
+2. Oxygen therapy
+3. Monitor vital signs every 4 hours
+Temporary Orders:
+1. Blood cultures
+2. CBC
+3. CRP
+
+Auxiliary Examination Reports:
+1. Chest X-ray: Right lower lobe consolidation.
+2. CBC: Elevated WBC count.
+3. CRP: Elevated.
+
+Temperature Chart: Records indicate fever decreased progressively from 38.5°C to normal over 48 hours.
+
+Blood Transfusion Consent:
+Special Examination Consent:
+Critical Condition Notice:
+
+DiseaseType:
+Respiratory System Diseases:
+Name: Pneumonia
+Symptoms: Fever, cough, difficulty breathing
+Differential Diagnosis: Tuberculosis, lung cancer, pulmonary embolism.

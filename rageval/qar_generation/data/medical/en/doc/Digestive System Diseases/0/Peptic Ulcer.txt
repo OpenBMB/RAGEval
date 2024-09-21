@@ -1,0 +1,161 @@
+Hospitalization Record:
+
+Basic Information:
+Name: H. Kim
+Gender: Male
+Age: 48
+Ethnicity: Asian
+Marital Status: Married
+Occupation: Software Engineer
+Address: 76, Quarryville street, Princeton
+Admission Time: 13th, November
+Record Time: 13th, November
+Historian: Patient
+Hospital Name: Princeton General Hospital
+
+Chief Complaint:
+Upper abdominal pain for 2 weeks
+
+Present Illness:
+Onset: 2 weeks prior at home, gradual onset, no prodromal symptoms. Possible cause: stress at work.
+Main Symptoms: Burning upper abdominal pain, intermittently severe, lasting for several hours, worsened by eating spicy food, ameliorated by antacid use. Progression with increasing frequency of pain episodes.
+Accompanying Symptoms: Frequent acid reflux and heartburn, especially at night. Symptom onset is closely related to meals.
+Diagnosis and Treatment History: Patient used over-the-counter antacids with temporary relief. No prior endoscopic examination.
+General Condition Changes: Patient reports feeling anxious, has had trouble sleeping due to pain and discomfort, normal appetite initially but now decreased due to fear of pain, bowel movements regular, no significant weight change.
+
+Past History:
+General Health Condition: Generally healthy, no chronic illnesses
+Disease History: History of hypertension, well-controlled with medication.
+Infectious Disease History: No history of infectious diseases.
+Immunization History: Up-to-date with immunizations according to age.
+Surgery and Trauma History: Appendectomy 10 years ago, no complications.
+Blood Transfusion History: No history of blood transfusion.
+Allergy History: No known drug allergies.
+
+Personal History:
+Birthplace: Seoul, South Korea
+Residence: Princeton, NJ
+Living Habits: Non-smoker, drinks alcohol socially, moderate exercise routine.
+Occupation and Working Conditions: Works as a software engineer, sedentary lifestyle with occasional long hours.
+Exposure History: No exposure to industrial toxins, dust, or radioactive substances.
+Travel History: No recent travel history.
+
+Marital and Family History:
+Marital History:
+Marital Status: Married
+Marriage Age: 25
+Spouse's Health Condition: Healthy
+Children's Condition: Two children, both healthy
+Family History: Father had peptic ulcer disease, mother with hypertension. No family history of gastric cancer or other serious illnesses.
+
+Physical Examination:
+General Condition:
+Temperature: 98.6°F
+Pulse: 72 bpm
+Respiration: 18 breaths/minute
+Blood Pressure: 130/80 mmHg
+Systematic Examination:
+Skin: Normal
+Mucous Membranes: Moist
+Lymph Nodes: Non-palpable
+Head and Organs: Normocephalic, no abnormalities
+Neck: Supple, no lymphadenopathy
+Chest: Clear to auscultation, heart sounds normal
+Abdomen: Epigastric tenderness without rebound or guarding, liver and spleen not enlarged
+Rectum and Anus: Not examined
+External Genitalia: Normal
+Spine: Normal curvature, no tenderness
+Limbs: Full range of motion, no edema
+Nervous System: Intact, no focal deficits
+
+Specialist Examination:
+Gastroenterology consulted; recommended endoscopy.
+
+Auxiliary Examination:
+Pre-admission blood tests normal. Endoscopy ordered.
+
+Preliminary Diagnosis:
+Peptic Ulcer Disease
+
+Diagnostic Basis:
+Based on patient's history of epigastric pain relieved by antacids, physical exam showing epigastric tenderness, no systemic symptoms suggesting malignancy.
+
+Differential Diagnosis:
+Gastric cancer (no weight loss, no palpable masses)
+Chronic gastritis (less likely given severity of symptoms)
+Gastric neurosis (symptoms more likely organic)
+Cholecystitis/cholelithiasis (RUQ pain absent)
+Gastrinoma (unlikely, stable gastrin levels).
+
+Admission Records:
+Physician's Signature: Dr. Smith
+
+Post-Admission Course Records:
+First Course Record:
+Patient admitted with severe epigastric pain, history suggests peptic ulcer. Plan: Initiate PPI therapy, lifestyle modifications, endoscopy scheduled.
+Daily Course Records:
+Date: 14th November
+Record: Patient reports mild improvement with PPI, awaiting endoscopy.
+Date: 15th November
+Record: Endoscopy performed, revealed a single peptic ulcer, biopsy taken. Awaiting pathology results.
+Senior Physician Rounds Records:
+Reviewed case on 14th November, agreed with current management, emphasized need for biopsy results for ruling out malignancy.
+Difficult Case Discussion Records:
+[None recorded]
+Handover Records:
+Shift handover on 13th November, patient stable, ongoing PPI therapy.
+Transfer Records:
+[None recorded]
+Stage Summary:
+Patient diagnosed with peptic ulcer following endoscopy. Initial treatment with PPI and dietary advice. Awaiting biopsy results.
+Emergency Records:
+[None recorded]
+Invasive Procedure Records:
+Endoscopy performed on 15th November, uneventful.
+Consultation Records:
+Gastroenterology consult on 13th November, recommended endoscopy.
+Discharge Records:
+[None recorded]
+Critically Ill Patient Care Records:
+[None recorded]
+
+Medical Orders:
+Long-term Orders:
+PPI (e.g., Omeprazole) 20mg once daily
+Diet modifications: Avoid spicy food, alcohol, coffee
+Temporary Orders:
+Endoscopy with biopsy
+CBC, CMP
+
+Auxiliary Examination Reports:
+Endoscopy report: Single peptic ulcer located in the antrum, approximately 1cm, clean base. Biopsy taken.
+
+Temperature Chart:
+13th November:
+Temperature: 98.6°F
+Pulse: 72 bpm
+Respiration: 18 breaths/minute
+Blood Pressure: 130/80 mmHg
+14th November:
+Temperature: 98.5°F
+Pulse: 70 bpm
+Respiration: 18 breaths/minute
+Blood Pressure: 128/78 mmHg
+15th November:
+Temperature: 98.7°F
+Pulse: 74 bpm
+Respiration: 19 breaths/minute
+Blood Pressure: 132/82 mmHg
+
+Blood Transfusion Consent:
+[None recorded]
+Special Examination Consent:
+[None recorded]
+Critical Condition Notice:
+[None recorded]
+
+DiseaseType:
+Digestive System Diseases:
+Name: Peptic Ulcer
+Symptoms: Upper abdominal pain, acid reflux, heartburn, etc.
+Differential Diagnosis: Gastric cancer, chronic gastritis, gastric neurosis, cholecystitis, cholelithiasis, gastrinoma.

@@ -1,0 +1,177 @@
+Hospitalization Record:
+
+Basic Information:
+Name: O. Price
+Gender: female
+Age: 76
+Ethnicity: Caucasian
+Marital Status: Widowed
+Occupation: Retired teacher
+Address: 48, Linden street, Victoria
+Admission Time: 18th, September
+Record Time: 18th, September
+Historian: Self-report
+Hospital Name: Victoria General Hospital
+
+Chief Complaint:
+Irritability, restlessness, tachycardia, fatigue, heat intolerance, sweating, weight loss, increased appetite, increased bowel movements for 3 months.
+
+Present Illness:
+Onset:
+Three months ago, at home, gradual onset with no prodromal symptoms. Possible triggers include stress and dietary changes.
+Main Symptoms:
+Persistent and worsening irritability, restlessness, tachycardia, fatigue, heat intolerance, excessive sweating, significant weight loss despite increased appetite, and frequent bowel movements or diarrhea.
+Accompanying Symptoms:
+Increased anxiety, palpitations, and disrupted sleep pattern. Scanty menstruation reported, with irregular periods. No previous diagnosis or treatment for these symptoms; first time seeking medical consultation for these issues.
+General Condition Changes:
+Increased fatigue, disrupted sleep due to nocturnal hyperactivity, decreased quality of life due to weight loss and frequent bowel movements. Symptoms have significantly impacted daily living activities.
+
+Past History:
+General Health Condition:
+Generally healthy aside from hypertension managed with medication.
+Disease History:
+Hypertension for 10 years, controlled with antihypertensive drugs.
+Infectious Disease History:
+No history of infectious diseases.
+Immunization History:
+Up-to-date with all vaccinations.
+Surgery and Trauma History:
+Appendectomy 20 years ago without complications.
+Blood Transfusion History:
+No history of blood transfusions.
+Allergy History:
+No known drug or food allergies.
+
+Personal History:
+Birthplace: Victoria
+Residence: 48, Linden street, Victoria
+Living Habits:
+Quit smoking 15 years ago, occasional alcohol consumption, regular diet, engages in moderate physical activity.
+Occupation and Working Conditions:
+Retired teacher, no exposure to occupational hazards.
+Exposure History:
+No significant exposure to industrial toxins, dust, or radioactive substances.
+Travel History:
+No recent travel history.
+
+Marital and Family History:
+Marital History:
+Widowed, married at age 22. Spouse deceased due to heart disease.
+Children's Condition: 
+Two children, both healthy.
+Menstrual History:
+Menarche at age 13, menstruation duration of 5 days with a 28-day interval, last menstruation at menopause at age 50, normal menstrual volume, mild dysmenorrhea manageable with OTC analgesics.
+Family History:
+Mother had type 2 diabetes, father had hypertension, siblings are healthy.
+
+Physical Examination:
+General Condition:
+Temperature: 36.8°C
+Pulse: 98 bpm
+Respiration: 20 breaths/min
+Blood Pressure: 130/80 mmHg
+
+Systematic Examination:
+Skin:
+Increased sweating, normal turgor.
+Mucous Membranes:
+Moist, no cyanosis or pallor.
+Lymph Nodes:
+No palpable lymphadenopathy.
+Head and Organs:
+Atraumatic, normocephalic.
+Neck:
+Supple with no palpable thyroid enlargement or nodules.
+Chest:
+Chest is normally configured, clear lung fields, normal heart sounds, tachycardia present, no murmurs or additional heart sounds.
+Abdomen:
+Soft and non-tender, no hepatosplenomegaly, active bowel sounds.
+Rectum and Anus:
+No abnormalities detected.
+External Genitalia:
+Normal for age.
+Spine:
+No deformities or tenderness.
+Limbs:
+No edema, normal range of motion.
+Nervous System:
+Alert and oriented, cranial nerves intact, motor and sensory functions normal.
+
+Specialist Examination:
+Thyroid function test reveals elevated Thyroxine (T4) and Triiodothyronine (T3) levels, suppressed Thyroid-Stimulating Hormone (TSH).
+
+Auxiliary Examination:
+Echocardiogram: normal except for sinus tachycardia.
+Ultrasound of the thyroid gland: enlarged thyroid with diffusely increased vascularity.
+Basic metabolic panel and Comprehensive Metabolic Panel pending.
+
+Preliminary Diagnosis:
+Hyperthyroidism.
+
+Diagnostic Basis:
+Presence of symptoms including irritability, restlessness, tachycardia, fatigue, heat intolerance, sweating, weight loss, increased appetite, and increased bowel movements; supported by laboratory findings of elevated T3 and T4 levels and suppressed TSH.
+
+Differential Diagnosis:
+Destructive thyrotoxicosis, exogenous thyroid hormone intake, simple goiter, hypothyroidism, hyperparathyroidism.
+
+Admission Records:
+Physician's Signature: Dr. J. Edwards.
+
+Post-Admission Course Records:
+First Course Record:
+Patient admitted with significant symptoms of hyperthyroidism confirmed by elevated T3/T4 levels and suppressed TSH. Initial treatment plan includes beta-blockers for symptomatic relief and antithyroid medications (Methimazole). Patient advised on disease education and management with follow-up thyroid function tests.
+
+Daily Course Records:
+Patient responding positively to beta-blockers, heart rate and anxiety reduced. Patient receiving methimazole with tolerability, continued monitoring of thyroid function tests required.
+
+Senior Physician Rounds Records:
+Senior physician confirmed the diagnosis of hyperthyroidism and concurred with ongoing treatment plan. No additional interventions recommended at present.
+
+Difficult Case Discussion Records:
+Not applicable.
+
+Handover Records:
+Shift change: Patient shows stable vitals, symptoms improving under current treatment plan.
+
+Transfer Records:
+Not applicable.
+
+Stage Summary:
+After 7 days: Significant improvement in symptoms, heart rate stabilized, weight stable, and patient educated on hyperthyroid condition and long-term management plan. Prepared for discharge with scheduled endocrinology follow-up and repeat thyroid function tests.
+
+Emergency Records:
+Not applicable.
+
+Invasive Procedure Records:
+Not applicable.
+
+Consultation Records:
+Endocrinology consult agrees with current diagnosis of hyperthyroidism and supports current management plan with methimazole and beta-blockers.
+
+Discharge Records:
+Discharged on 25th September, with stabilized thyroid levels and improved symptoms. Scheduled follow-up in two weeks for thyroid function tests and medication adjustment.
+
+Critically Ill Patient Care Records:
+Not applicable.
+
+Medical Orders:
+Long-term Orders:
+Methimazole 10 mg twice daily, Propranolol 40 mg twice daily, regular thyroid function tests every 4 weeks, heart rate monitoring.
+
+Temporary Orders:
+Radioactive iodine uptake scan scheduled if no remission in symptoms after 3 months.
+
+Auxiliary Examination Reports:
+Basic metabolic panel and Comprehensive Metabolic Panel pending.
+
+Temperature Chart:
+Normal temperature, stable vitals, no fever observed.
+
+Blood Transfusion Consent:
+Not required.
+
+Special Examination Consent:
+Consent for thyroid ultrasound and radioactive iodine uptake scan obtained.
+
+Critical Condition Notice:
+Not applicable.

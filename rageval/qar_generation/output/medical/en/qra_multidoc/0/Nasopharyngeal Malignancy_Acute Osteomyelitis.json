@@ -1,0 +1,144 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Windsor General Hospital, what are the ages of patients Y. Evans and K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Age: 47"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Age: 82"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, patient Y. Evans is 47 years old; according to the hospitalization records of Windsor General Hospital, patient K. Ramos is 82 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Windsor General Hospital, what are the chief complaints of patients Y. Evans and K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Chief Complaint:",
+                        "Nasal congestion, tinnitus, and hearing loss for 2 months"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Chief Complaint:",
+                        "Severe bone pain and difficulty in walking for 3 days."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, patient Y. Evans' chief complaint is nasal congestion, tinnitus, and hearing loss for 2 months; according to the hospitalization records of Windsor General Hospital, patient K. Ramos' chief complaint is severe bone pain and difficulty in walking for 3 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Windsor General Hospital, what are the preliminary diagnoses for patients Y. Evans and K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "1. Nasopharyngeal malignancy",
+                        "2. Secondary conductive hearing loss"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Acute Osteomyelitis"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, the preliminary diagnosis for patient Y. Evans is nasopharyngeal malignancy and secondary conductive hearing loss; according to the hospitalization records of Windsor General Hospital, the preliminary diagnosis for patient K. Ramos is acute osteomyelitis."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Windsor General Hospital, who was admitted earlier, Y. Evans or K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Admission Time: 1st, May"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Admission Time: 26th October"
+                    ]
+                }
+            ],
+            "answer": "Y. Evans was admitted on May 1st, and K. Ramos was admitted on October 26th. Y. Evans was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Windsor General Hospital, who is older, Y. Evans or K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Age: 47"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Age: 82"
+                    ]
+                }
+            ],
+            "answer": "Y. Evans is 47 years old, and K. Ramos is 82 years old. K. Ramos is older."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Windsor General Hospital, whose temperature is higher, Y. Evans or K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Temperature: 98.6°F"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Temperature: 38.5°C"
+                    ]
+                }
+            ],
+            "answer": "Y. Evans' temperature is 98.6°F, and K. Ramos' temperature is 38.5°C (101.3°F). K. Ramos' temperature is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Windsor General Hospital, how do the blood pressures of Y. Evans and K. Ramos compare?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Blood Pressure: 130/80 mmHg"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Blood Pressure: 130/80 mmHg"
+                    ]
+                }
+            ],
+            "answer": "Both Y. Evans and K. Ramos have a blood pressure of 130/80 mmHg. Their blood pressures are the same."
+        }
+    ]
+}

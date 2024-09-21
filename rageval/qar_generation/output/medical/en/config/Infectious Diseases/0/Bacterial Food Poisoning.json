@@ -1,0 +1,231 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "Z. Walker",
+            "Gender": "male",
+            "Age": "11",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Single",
+            "Occupation": "Student",
+            "Address": "14, Sterling street, Bridgewater",
+            "Admission Time": "21th, October",
+            "Record Time": "21th, October",
+            "Historian": "Mother",
+            "Hospital Name": "Bridgewater City Hospital"
+        },
+        "Chief Complaint": "Severe abdominal pain, vomiting, and watery diarrhea for 2 days",
+        "Present Illness": {
+            "Onset": "On 19th, October, after consuming a meal at a local restaurant, Z. Walker began to experience nausea and abdominal discomfort.",
+            "Main Symptoms": "Severe abdominal pain located in the lower abdomen, cramping in nature, constant with intermittent severe episodes. Symptoms have persisted for 2 days with progressive worsening. Vomiting and watery stools occurring multiple times a day. Fever recorded at home up to 38.5°C.",
+            "Accompanying Symptoms": "General malaise and headache, consistent with primary symptoms. Unable to retain fluids or food.",
+            "Diagnosis and Treatment History": "Administered oral rehydration salts at home with minimal improvement. No relief from over-the-counter antiemetics.",
+            "General Condition Changes": "Decreased mental alertness due to dehydration, poor sleep due to pain, reduced appetite, missed several meals, normal urination with increased frequency of loose stools, weight loss of 1 kg reported over the past 2 days."
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy prior to this incidence.",
+            "Disease History": "No chronic illnesses. History of mild seasonal allergies.",
+            "Infectious Disease History": "No significant past infectious diseases.",
+            "Immunization History": "Up to date with all scheduled vaccinations including MMR, DPT, Polio, and Hepatitis B.",
+            "Surgery and Trauma History": "No history of surgeries or major trauma.",
+            "Blood Transfusion History": "No history of blood transfusions.",
+            "Allergy History": "No known drug allergies."
+        },
+        "Personal History": {
+            "Birthplace": "Bridgewater",
+            "Residence": "14, Sterling street, Bridgewater",
+            "Living Habits": "Maintains a balanced diet, active lifestyle with regular physical activity.",
+            "Occupation and Working Conditions": "Student at Bridgewater Elementary School.",
+            "Exposure History": "No known exposure to industrial toxins or hazardous substances.",
+            "Travel History": "No recent travel history."
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Single",
+                "Marriage Age": "",
+                "Spouse's Health Condition": "",
+                "Children's Condition": ""
+            },
+            "Family History": "Father has a history of hypertension, mother has no significant medical history. No family history of similar gastrointestinal issues or genetic conditions."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "38.2°C",
+                "Pulse": "105 bpm",
+                "Respiration": "22 breaths/min",
+                "Blood Pressure": "95/60 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Pale, no rashes or lesions",
+                "Mucous Membranes": "Dry",
+                "Lymph Nodes": "No significant enlargement",
+                "Head and Organs": "Normocephalic, atraumatic, pupils equal and reactive",
+                "Neck": "Supple, no thyromegaly",
+                "Chest": "Clear lung sounds bilaterally, heart sounds normal, no murmurs",
+                "Abdomen": "Tender on palpation, particularly in lower quadrants, no guarding or rebound tenderness, active bowel sounds",
+                "Rectum and Anus": "No abnormalities on visual inspection",
+                "External Genitalia": "Normal for age and gender",
+                "Spine": "Normal curvature, no tenderness",
+                "Limbs": "Normal range of motion, no deformities or tenderness",
+                "Nervous System": "Alert but lethargic, oriented to time and place, normal motor and sensory exam"
+            }
+        },
+        "Specialist Examination": "Gastroenterology consultation recommended",
+        "Auxiliary Examination": "Stool culture pending, CBC showing elevated WBC at 15,000/mm3, Electrolytes showing mild hyponatremia at 134 mEq/L",
+        "Preliminary Diagnosis": "Bacterial Food Poisoning",
+        "Diagnostic Basis": "Patient's history of recent meal at a local restaurant, presenting symptoms of nausea, vomiting, and diarrhea, physical examination findings, and initial laboratory results.",
+        "Differential Diagnosis": "Acute bacterial dysentery, cholera, acute hemorrhagic necrotizing enteritis, viral gastroenteritis, pufferfish poisoning, poliomyelitis",
+        "Admission Records": {
+            "Physician's Signature": "Dr. Amanda Greene"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Z. Walker, 11-year-old male, admitted with severe abdominal pain, vomiting, and diarrhea for 2 days. Initial lab results point towards bacterial food poisoning. Differential includes bacterial dysentery and viral enteritis. Treatment plan: IV fluid rehydration, broad-spectrum antibiotics (Ceftriaxone), antiemetics, and maintain NPO status.",
+            "Daily Course Records": "Day 1: Continued IV fluids, patient reports slight reduction in pain, vomiting less frequent, will continue current management and reassess tomorrow. Day 2: Patient shows improvement, pain reduced, fewer episodes of diarrhea, tolerating clear fluids, start oral rehydration.",
+            "Senior Physician Rounds Records": "Reviewed on 22nd October by Dr. Steven Miller, agrees with current treatment plan, emphasizes importance of stool culture results for specific antibiotic management.",
+            "Difficult Case Discussion Records": "",
+            "Handover Records": "On 21th October evening shift, handover to Dr. Sarah Lee with updates on patient's stable condition and ongoing treatments.",
+            "Transfer Records": "",
+            "Stage Summary": "Patient significantly improved by day 3 with reduction in symptoms, transitioning to oral antibiotics, planned discharge on 4th day if stable.",
+            "Emergency Records": "",
+            "Invasive Procedure Records": "",
+            "Consultation Records": "",
+            "Discharge Records": "",
+            "Critically Ill Patient Care Records": ""
+        },
+        "Medical Orders": {
+            "Long-term Orders": "IV fluids (Normal Saline), Ceftriaxone 1g IV Q24h, Antiemetics PRN, Monitor vital signs Q4H",
+            "Temporary Orders": "Stool culture and sensitivity, CBC with differential, Electrolytes panel"
+        },
+        "Auxiliary Examination Reports": "Pending stool culture",
+        "Temperature Chart": "Fluctuating fever up to 38.5°C, down to 37.5°C after antipyretics, pulse and respiration initially elevated, stabilizing by day 2",
+        "Blood Transfusion Consent": "",
+        "Special Examination Consent": "Consent obtained for stool culture",
+        "Critical Condition Notice": ""
+    },
+    "DiseaseType": {
+        "Infectious Diseases": {
+            "Name": "Bacterial Food Poisoning",
+            "Symptoms": "Nausea, vomiting, abdominal pain, diarrhea and watery stools, accompanied by fever, etc.",
+            "Differential Diagnosis": "Acute bacterial dysentery, cholera, acute hemorrhagic necrotizing enteritis, viral gastroenteritis, pufferfish poisoning, poliomyelitis, etc."
+        }
+    },
+    "Generated Article": "Hospitalization Record\n\nBasic Information:\n- Name: Z. Walker\n- Gender: Male\n- Age: 11\n- Ethnicity: Caucasian\n- Marital Status: Single\n- Occupation: Student\n- Address: 14, Sterling street, Bridgewater\n- Admission Time: 21st October\n- Record Time: 21st October\n- Historian: Mother\n- Hospital Name: Bridgewater City Hospital\n\nChief Complaint:\nSevere abdominal pain, vomiting, and watery diarrhea for 2 days.\n\nPresent Illness:\nOnset: On 19th October, after consuming a meal at a local restaurant, Z. Walker began to experience nausea and abdominal discomfort. \nMain Symptoms: Severe abdominal pain located in the lower abdomen, cramping in nature, constant with intermittent severe episodes. Symptoms have persisted for 2 days with progressive worsening. Vomiting and watery stools occurring multiple times a day. Fever recorded at home up to 38.5°C.\nAccompanying Symptoms: General malaise and headache, consistent with primary symptoms. Unable to retain fluids or food.\nDiagnosis and Treatment History: Administered oral rehydration salts at home with minimal improvement. No relief from over-the-counter antiemetics.\nGeneral Condition Changes: Decreased mental alertness due to dehydration, poor sleep due to pain, reduced appetite, missed several meals, normal urination with increased frequency of loose stools, weight loss of 1 kg reported over the past 2 days.\n\nPast History:\nGeneral Health Condition: Generally healthy prior to this incidence.\nDisease History: No chronic illnesses. History of mild seasonal allergies.\nInfectious Disease History: No significant past infectious diseases.\nImmunization History: Up to date with all scheduled vaccinations including MMR, DPT, Polio, and Hepatitis B.\nSurgery and Trauma History: No history of surgeries or major trauma.\nBlood Transfusion History: No history of blood transfusions.\nAllergy History: No known drug allergies.\n\nPersonal History:\nBirthplace: Bridgewater\nResidence: 14, Sterling street, Bridgewater\nLiving Habits: Maintains a balanced diet, active lifestyle with regular physical activity.\nOccupation and Working Conditions: Student at Bridgewater Elementary School.\nExposure History: No known exposure to industrial toxins or hazardous substances.\nTravel History: No recent travel history.\n\nMarital and Family History:\nMarital Status: Single\nMarriage Age: N/A\nSpouse's Health Condition: N/A\nChildren's Condition: N/A\nFamily History: Father has a history of hypertension, mother has no significant medical history. No family history of similar gastrointestinal issues or genetic conditions.\n\nPhysical Examination:\nGeneral Condition:\n- Temperature: 38.2°C\n- Pulse: 105 bpm\n- Respiration: 22 breaths/min\n- Blood Pressure: 95/60 mmHg\n\nSystematic Examination:\n- Skin: Pale, no rashes or lesions\n- Mucous Membranes: Dry\n- Lymph Nodes: No significant enlargement\n- Head and Organs: Normocephalic, atraumatic, pupils equal and reactive\n- Neck: Supple, no thyromegaly\n- Chest: Clear lung sounds bilaterally, heart sounds normal, no murmurs\n- Abdomen: Tender on palpation, particularly in lower quadrants, no guarding or rebound tenderness, active bowel sounds\n- Rectum and Anus: No abnormalities on visual inspection\n- External Genitalia: Normal for age and gender\n- Spine: Normal curvature, no tenderness\n- Limbs: Normal range of motion, no deformities or tenderness\n- Nervous System: Alert but lethargic, oriented to time and place, normal motor and sensory exam\n\nSpecialist Examination:\nGastroenterology consultation recommended.\n\nAuxiliary Examination:\nStool culture pending, CBC showing elevated WBC at 15,000/mm3, Electrolytes showing mild hyponatremia at 134 mEq/L.\n\nPreliminary Diagnosis:\nBacterial Food Poisoning\n\nDiagnostic Basis:\nPatient's history of recent meal at a local restaurant, presenting symptoms of nausea, vomiting, and diarrhea, physical examination findings, and initial laboratory results.\n\nDifferential Diagnosis:\nAcute bacterial dysentery, cholera, acute hemorrhagic necrotizing enteritis, viral gastroenteritis, pufferfish poisoning, poliomyelitis.\n\nAdmission Records:\nPhysician's Signature: Dr. Amanda Greene\n\nPost-Admission Course Records:\nFirst Course Record: Z. Walker, 11-year-old male, admitted with severe abdominal pain, vomiting, and diarrhea for 2 days. Initial lab results point towards bacterial food poisoning. Differential includes bacterial dysentery and viral enteritis. Treatment plan: IV fluid rehydration, broad-spectrum antibiotics (Ceftriaxone), antiemetics, and maintain NPO status.\nDaily Course Records: \nDay 1: Continued IV fluids, patient reports slight reduction in pain, vomiting less frequent, will continue current management and reassess tomorrow.\nDay 2: Patient shows improvement, pain reduced, fewer episodes of diarrhea, tolerating clear fluids, start oral rehydration.\nSenior Physician Rounds Records: Reviewed on 22nd October by Dr. Steven Miller, agrees with current treatment plan, emphasizes importance of stool culture results for specific antibiotic management.\nDifficult Case Discussion Records: None\nHandover Records: On 21st October evening shift, handover to Dr. Sarah Lee with updates on patient's stable condition and ongoing treatments.\nTransfer Records: None\nStage Summary: Patient significantly improved by day 3 with reduction in symptoms, transitioning to oral antibiotics, planned discharge on 4th day if stable.\nEmergency Records: None\nInvasive Procedure Records: None\nConsultation Records: None\nDischarge Records: None\nCritically Ill Patient Care Records: None\n\nMedical Orders:\nLong-term Orders: IV fluids (Normal Saline), Ceftriaxone 1g IV Q24h, Antiemetics PRN, Monitor vital signs Q4H\nTemporary Orders: Stool culture and sensitivity, CBC with differential, Electrolytes panel\n\nAuxiliary Examination Reports:\nPending stool culture\n\nTemperature Chart:\nFluctuating fever up to 38.5°C, down to 37.5°C after antipyretics, pulse and respiration initially elevated, stabilizing by day 2\n\nBlood Transfusion Consent: None\nSpecial Examination Consent: Consent obtained for stool culture\nCritical Condition Notice: None",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital, what is Z. Walker's chief complaint?",
+            "answer": "Severe abdominal pain, vomiting, and watery diarrhea for 2 days",
+            "ref": [
+                "Chief Complaint:",
+                "Severe abdominal pain, vomiting, and watery diarrhea for 2 days."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital, what was Z. Walker's temperature during the physical examination?",
+            "answer": "38.2°C",
+            "ref": [
+                "- Temperature: 38.2°C"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital, what was Z. Walker's pulse rate during the physical examination?",
+            "answer": "105 bpm",
+            "ref": [
+                "- Pulse: 105 bpm"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital, what was Z. Walker's blood pressure during the physical examination?",
+            "answer": "95/60 mmHg",
+            "ref": [
+                "- Blood Pressure: 95/60 mmHg"
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital, how many diagnostic bases were used to determine Z. Walker's preliminary diagnosis?",
+            "answer": "According to the records, four diagnostic bases were used to determine Z. Walker's preliminary diagnosis: patient's history of recent meal at a local restaurant, presenting symptoms of nausea, vomiting, and diarrhea, physical examination findings, and initial laboratory results.",
+            "ref": [
+                "Present Illness:",
+                "Onset: On 19th October, after consuming a meal at a local restaurant, Z. Walker began to experience nausea and abdominal discomfort.",
+                "Main Symptoms: Severe abdominal pain located in the lower abdomen, cramping in nature, constant with intermittent severe episodes.",
+                "Vomiting and watery stools occurring multiple times a day.",
+                "- Abdomen: Tender on palpation, particularly in lower quadrants, no guarding or rebound tenderness, active bowel sounds",
+                "Stool culture pending, CBC showing elevated WBC at 15,000/mm3, Electrolytes showing mild hyponatremia at 134 mEq/L.",
+                "Patient's history of recent meal at a local restaurant, presenting symptoms of nausea, vomiting, and diarrhea, physical examination findings, and initial laboratory results."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital, how many auxiliary examinations did Z. Walker undergo?",
+            "answer": "According to the records, Z. Walker underwent three auxiliary examinations: stool culture, CBC showing elevated WBC at 15,000/mm3, and electrolytes showing mild hyponatremia at 134 mEq/L.",
+            "ref": [
+                "Auxiliary Examination:",
+                "Stool culture pending, CBC showing elevated WBC at 15,000/mm3, Electrolytes showing mild hyponatremia at 134 mEq/L.",
+                "Pending stool culture"
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital, summarize the present illness of Z. Walker.",
+            "answer": "Z. Walker's present illness began on 19th October after consuming a meal at a local restaurant. He experienced severe abdominal pain, cramping, vomiting, and watery stools multiple times a day, along with a fever up to 38.5°C. He also had general malaise, headache, and was unable to retain fluids or food. Oral rehydration salts provided minimal improvement, and over-the-counter antiemetics offered no relief. His condition included decreased mental alertness, poor sleep, reduced appetite, missed meals, normal urination, increased frequency of loose stools, and a weight loss of 1 kg over the past 2 days.",
+            "ref": [
+                "Onset: On 19th October, after consuming a meal at a local restaurant, Z. Walker began to experience nausea and abdominal discomfort.",
+                "Main Symptoms: Severe abdominal pain located in the lower abdomen, cramping in nature, constant with intermittent severe episodes.",
+                "Symptoms have persisted for 2 days with progressive worsening.",
+                "Vomiting and watery stools occurring multiple times a day.",
+                "Fever recorded at home up to 38.5°C.",
+                "Accompanying Symptoms: General malaise and headache, consistent with primary symptoms.",
+                "Unable to retain fluids or food.",
+                "Diagnosis and Treatment History: Administered oral rehydration salts at home with minimal improvement.",
+                "No relief from over-the-counter antiemetics.",
+                "General Condition Changes: Decreased mental alertness due to dehydration, poor sleep due to pain, reduced appetite, missed several meals, normal urination with increased frequency of loose stools, weight loss of 1 kg reported over the past 2 days."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital, summarize the past medical history of Z. Walker.",
+            "answer": "Z. Walker was generally healthy prior to this incident. He has no chronic illnesses, no significant past infectious diseases, and no history of surgeries or major trauma. He has mild seasonal allergies and no known drug allergies. His immunizations are up to date, including MMR, DPT, Polio, and Hepatitis B. He has no history of blood transfusions.",
+            "ref": [
+                "General Health Condition: Generally healthy prior to this incidence.",
+                "Disease History: No chronic illnesses.",
+                "History of mild seasonal allergies.",
+                "Infectious Disease History: No significant past infectious diseases.",
+                "Immunization History: Up to date with all scheduled vaccinations including MMR, DPT, Polio, and Hepatitis B.",
+                "Surgery and Trauma History: No history of surgeries or major trauma.",
+                "Blood Transfusion History: No history of blood transfusions.",
+                "Allergy History: No known drug allergies."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital, summarize the physical examination findings of Z. Walker.",
+            "answer": "Z. Walker's physical examination revealed a temperature of 38.2°C, pulse of 105 bpm, respiration rate of 22 breaths/min, and blood pressure of 95/60 mmHg. His skin was pale with no rashes or lesions, mucous membranes were dry, and there was no significant lymph node enlargement. His head and organs were normal, neck was supple with no thyromegaly, chest had clear lung sounds bilaterally, and heart sounds were normal with no murmurs. His abdomen was tender on palpation, particularly in the lower quadrants, with no guarding or rebound tenderness, and active bowel sounds. No abnormalities were found in the rectum and anus, external genitalia were normal for his age and gender, spine had normal curvature with no tenderness, limbs had normal range of motion with no deformities or tenderness, and his nervous system was alert but lethargic, oriented to time and place, with normal motor and sensory exam.",
+            "ref": [
+                "General Condition:",
+                "- Temperature: 38.2°C",
+                "- Pulse: 105 bpm",
+                "- Respiration: 22 breaths/min",
+                "- Blood Pressure: 95/60 mmHg",
+                "- Skin: Pale, no rashes or lesions",
+                "- Mucous Membranes: Dry",
+                "- Lymph Nodes: No significant enlargement",
+                "- Head and Organs: Normocephalic, atraumatic, pupils equal and reactive",
+                "- Neck: Supple, no thyromegaly",
+                "- Chest: Clear lung sounds bilaterally, heart sounds normal, no murmurs",
+                "- Abdomen: Tender on palpation, particularly in lower quadrants, no guarding or rebound tenderness, active bowel sounds",
+                "- Rectum and Anus: No abnormalities on visual inspection",
+                "- External Genitalia: Normal for age and gender",
+                "- Spine: Normal curvature, no tenderness",
+                "- Limbs: Normal range of motion, no deformities or tenderness",
+                "- Nervous System: Alert but lethargic, oriented to time and place, normal motor and sensory exam"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Brighton, Sterling, Court and Lakewood, Pinehurst, Court, what are the occupations of the defendants N. Adams and M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "- **Occupation:** Accountant at Sterling Public Works Department"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Occupation: Delivery Driver"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Brighton, Sterling, Court, the defendant N. Adams is an accountant at Sterling Public Works Department; according to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett is a delivery driver."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Brighton, Sterling, Court and Lakewood, Pinehurst, Court, what crimes were N. Adams and M. Bennett charged with respectively?",
+            "ref": [
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "The Brighton, Sterling Procuratorate charged Mr. N. Adams with the crime of embezzlement under Article 384 of the Penal Code.",
+                        "The charge brought against Mr. N. Adams is recognized as the Crime of Embezzlement under Article 384 of the Penal Code."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Crime of Traffic Accident under Article No. 133 of our legal code.",
+                        "Based on the evidence presented and the severity of the offense, this court finds M. Bennett guilty of the Crime of Traffic Accident under Article No. 133 of our legal code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Brighton, Sterling, Court, N. Adams was charged with the crime of embezzlement; according to the judgment of Lakewood, Pinehurst, Court, M. Bennett was charged with the crime of causing a major traffic accident."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Brighton, Sterling, Court and Lakewood, Pinehurst, Court, on what dates were the judgments for N. Adams and M. Bennett delivered respectively?",
+            "ref": [
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "**Date:** 3rd March 2023\\"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "This judgment is pronounced on June 30, 2023, and shall be executed in accordance with our legal provisions."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Brighton, Sterling, Court, the judgment for N. Adams was delivered on 3rd, March, 2023; according to the judgment of Lakewood, Pinehurst, Court, the judgment for M. Bennett was delivered on 30th, June, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Brighton, Sterling, Court and Lakewood, Pinehurst, Court, what were the sentences given to N. Adams and M. Bennett respectively?",
+            "ref": [
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "- **12 years of fixed-term imprisonment.",
+                        "- **A fine of $100,000.**\\"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "M. Bennett is hereby sentenced to a fixed-term imprisonment of five years without the possibility of probation."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Brighton, Sterling, Court, N. Adams was sentenced to 12 years of fixed-term imprisonment and a fine of $100,000; according to the judgment of Lakewood, Pinehurst, Court, M. Bennett was sentenced to 5 years of fixed-term imprisonment with no probation."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Brighton, Sterling, Court and Lakewood, Pinehurst, Court, on what dates were the detention measures taken against N. Adams and M. Bennett respectively?",
+            "ref": [
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "**Detention Measures Taken (15th February 2023):**\\"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Based on initial findings, on March 20, 2023, the investigation team determined that there was sufficient evidence to detain M. Bennett."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Brighton, Sterling, Court, detention measures were taken against N. Adams on 15th, February, 2023; according to the judgment of Lakewood, Pinehurst, Court, detention measures were taken against M. Bennett on 20th, March, 2023."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Brighton, Sterling Court and Lakewood, Pinehurst Court, whose sentencing time is longer, N. Adams or M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "- **12 years of fixed-term imprisonment.",
+                        "The nature and extent of his embezzlement activities warrant this term to reflect the gravity of the offense and serve as a deterrent to similar acts by others entrusted with public funds."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "M. Bennett is hereby sentenced to a fixed-term imprisonment of five years without the possibility of probation."
+                    ]
+                }
+            ],
+            "answer": "N. Adams was sentenced to 12 years of fixed-term imprisonment, while M. Bennett was sentenced to 5 years of fixed-term imprisonment. N. Adams' sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Brighton, Sterling Court and Lakewood, Pinehurst Court, whose judgment date is earlier, N. Adams or M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "**Date:** 3rd March 2023\\"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "This judgment is pronounced on June 30, 2023, and shall be executed in accordance with our legal provisions."
+                    ]
+                }
+            ],
+            "answer": "N. Adams' judgment date is 3rd March 2023, while M. Bennett's judgment date is 30th June 2023. N. Adams' judgment date is earlier."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Brighton, Sterling Court and Lakewood, Pinehurst Court, whose criminal detention date is earlier, N. Adams or M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "**Criminal Detention (20th February 2023):**\\"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "On March 22, 2023, M. Bennett was formally placed under criminal detention by the Lakewood Police Department."
+                    ]
+                }
+            ],
+            "answer": "N. Adams' criminal detention date is 20th February 2023, while M. Bennett's criminal detention date is 22nd March 2023. N. Adams' criminal detention date is earlier."
+        }
+    ]
+}

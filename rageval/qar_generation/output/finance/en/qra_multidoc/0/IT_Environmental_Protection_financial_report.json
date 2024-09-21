@@ -1,0 +1,202 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "When were InnovateTech Solutions and EcoGuard Solutions established?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "InnovateTech Solutions, established on March 15, 2010, is an IT company based in Silicon Valley, California, USA, specializing in providing innovative software solutions for enterprises."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "EcoGuard Solutions, established on April 15, 2010, is a listed NASDAQ company based in San Francisco, California, United States, specializing in providing innovative environmental protection services and solutions to various industries.In 2019, EcoGuard Solutions made significant progress in expanding its business scope and strengthening its position in the environmental protection industry."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech Solutions was established on March 15, 2010, and EcoGuard Solutions was established on April 15, 2010."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the main businesses of InnovateTech Solutions and EcoGuard Solutions?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "InnovateTech Solutions, established on March 15, 2010, is an IT company based in Silicon Valley, California, USA, specializing in providing innovative software solutions for enterprises."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "EcoGuard Solutions, established on April 15, 2010, is a listed NASDAQ company based in San Francisco, California, United States, specializing in providing innovative environmental protection services and solutions to various industries.In 2019, EcoGuard Solutions made significant progress in expanding its business scope and strengthening its position in the environmental protection industry."
+                    ]
+                }
+            ],
+            "answer": "The main business of InnovateTech Solutions is providing innovative software solutions for enterprises, while EcoGuard Solutions specializes in providing innovative environmental protection services and solutions."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "On which stock exchange are InnovateTech Solutions and EcoGuard Solutions listed?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "The company is listed on NASDAQ.In January 2021, InnovateTech Solutions made a major investment of $10 million in Project X, an AI-driven analytics platform."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "EcoGuard Solutions, established on April 15, 2010, is a listed NASDAQ company based in San Francisco, California, United States, specializing in providing innovative environmental protection services and solutions to various industries.In 2019, EcoGuard Solutions made significant progress in expanding its business scope and strengthening its position in the environmental protection industry."
+                    ]
+                }
+            ],
+            "answer": "Both InnovateTech Solutions and EcoGuard Solutions are listed on NASDAQ."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the major investments made by InnovateTech Solutions in January 2021 and EcoGuard Solutions in January 2019?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "The company is listed on NASDAQ.In January 2021, InnovateTech Solutions made a major investment of $10 million in Project X, an AI-driven analytics platform."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "One of the major highlights of the year was the company's major investment in Project CleanWater, a cutting-edge water purification technology.",
+                        "The launch of Project CleanWater in January 2019 further solidified the company's expertise in water purification and opened up potential market opportunities."
+                    ]
+                }
+            ],
+            "answer": "In January 2021, InnovateTech Solutions invested $10 million in Project X, an AI-driven analytics platform. In January 2019, EcoGuard Solutions invested $10 million in Project CleanWater, a water purification technology."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the debt restructuring activities undertaken by InnovateTech Solutions in June 2021 and EcoGuard Solutions in September 2019?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "In June 2021, the company underwent debt restructuring, reducing liabilities by $5 million.",
+                        "This move improved the company's financial condition and reduced financial costs."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "To improve its financial condition, EcoGuard Solutions underwent successful debt restructuring in September 2019, reducing its liabilities by $15 million.",
+                        "This debt restructuring improved the company's financial stability and freed up resources for future investments and growth initiatives."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech Solutions' debt restructuring in June 2021 reduced liabilities by $5 million, improving the company's financial condition and reducing financial costs. EcoGuard Solutions' debt restructuring in September 2019 reduced liabilities by $15 million, improving financial condition and freeing up resources for future investments and growth initiatives."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "How much was distributed as dividends by InnovateTech Solutions in February 2021 and EcoGuard Solutions in December 2019?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "In February 2021, the company decided to distribute $1.5 million as dividends to shareholders, enhancing shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": []
+                }
+            ],
+            "answer": "InnovateTech Solutions distributed $1.5 million as dividends in February 2021, while EcoGuard Solutions distributed $5 million as dividends in December 2019."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "Which companies did InnovateTech Solutions and EcoGuard Solutions acquire assets from in 2021 and 2019, respectively?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "Additionally, in October 2021, the company completed the asset acquisition of Tech Solutions Ltd., with a total value of $8 million.",
+                        "This acquisition expanded the company's business scope and enhanced market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "In June 2019, EcoGuard Solutions made a major asset acquisition by acquiring EnergyEco Inc., an established provider of renewable energy solutions, with a total value of $30 million.",
+                        "This acquisition allowed the company to expand its business scope to include renewable energy services and strengthened its market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "In October 2021, InnovateTech Solutions acquired assets from Tech Solutions Ltd. In June 2019, EcoGuard Solutions acquired assets from EnergyEco Inc."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the debt restructuring efforts of InnovateTech Solutions in June 2021 and EcoGuard Solutions in September 2019. Which company reduced more liabilities?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "In June 2021, the company underwent debt restructuring, reducing liabilities by $5 million.",
+                        "This move improved the company's financial condition and reduced financial costs."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "To improve its financial condition, EcoGuard Solutions underwent successful debt restructuring in September 2019, reducing its liabilities by $15 million.",
+                        "This debt restructuring improved the company's financial stability and freed up resources for future investments and growth initiatives."
+                    ]
+                }
+            ],
+            "answer": "EcoGuard Solutions reduced more liabilities by $15 million in September 2019, compared to InnovateTech Solutions, which reduced liabilities by $5 million in June 2021."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the significant equity acquisitions by InnovateTech Solutions in September 2021 and EcoGuard Solutions in May 2019. Which company acquired a larger percentage of equity?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "In September 2021, InnovateTech Solutions completed the acquisition of 30% equity of Data Analytics Corp, further expanding its market share and enhancing control."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "In May 2019, EcoGuard Solutions acquired 75% equity of AquaLife Inc., a renowned provider of sustainable water treatment solutions.",
+                        "This acquisition expanded the company's market share in the water treatment industry and enhanced its control over the supply chain, enabling the offering of comprehensive environmental services."
+                    ]
+                }
+            ],
+            "answer": "EcoGuard Solutions acquired a larger percentage of equity, 75% of AquaLife Inc. in May 2019, compared to InnovateTech Solutions, which acquired 30% equity of Data Analytics Corp. in September 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the large-scale financing activities of InnovateTech Solutions in November 2021 and EcoGuard Solutions in April 2019. Which company conducted the financing activity earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "In November 2021, InnovateTech Solutions conducted a large-scale financing activity, raising $20 million through a successful IPO."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "In April 2019, the company raised $50 million through equity and debt financing, strengthening its financial capability to support operations expansion and accelerate the development of new environmental technologies."
+                    ]
+                }
+            ],
+            "answer": "EcoGuard Solutions conducted the financing activity earlier in April 2019, compared to InnovateTech Solutions, which conducted it in November 2021."
+        }
+    ]
+}

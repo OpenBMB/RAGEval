@@ -1,0 +1,124 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Richmond General Hospital, what were the chief complaints of patients L. Rogers and M. Young?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Chief Complaint:",
+                        "Blurry, foggy vision and decreased visual acuity for the past 3 months"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Richmond General Hospital_M. Young",
+                    "content": [
+                        "Chief Complaint",
+                        "Difficulty breathing and cyanosis occurring immediately after resuscitation"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Knoxville General Hospital, the chief complaint of patient L. Rogers was blurry, foggy vision and decreased visual acuity for the past 3 months. According to the hospitalization records of Richmond General Hospital, the chief complaint of patient M. Young was difficulty breathing and cyanosis occurring immediately after resuscitation."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Richmond General Hospital, what were the preliminary diagnoses for patients L. Rogers and M. Young?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Bilateral Cataract, more pronounced in the right eye"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Richmond General Hospital_M. Young",
+                    "content": [
+                        "Preliminary Diagnosis",
+                        "Neonatal Pneumonia due to Amniotic Fluid Aspiration"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Knoxville General Hospital, the preliminary diagnosis for patient L. Rogers was bilateral cataract, more pronounced in the right eye. According to the hospitalization records of Richmond General Hospital, the preliminary diagnosis for patient M. Young was neonatal pneumonia due to amniotic fluid aspiration."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Richmond General Hospital, who was admitted earlier, L. Rogers or M. Young?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Admission Time: 6th, January"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Richmond General Hospital_M. Young",
+                    "content": [
+                        "Admission Time: 28th, February"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Knoxville General Hospital, L. Rogers was admitted on January 6th; according to the hospitalization records of Richmond General Hospital, M. Young was admitted on February 28th. Therefore, L. Rogers was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Richmond General Hospital, whose pulse rate is higher, L. Rogers or M. Young?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Pulse: 72 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Richmond General Hospital_M. Young",
+                    "content": [
+                        "Pulse: 150 bpm"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records, L. Rogers' pulse rate at Knoxville General Hospital is 72 beats per minute, while M. Young's pulse rate at Richmond General Hospital is 150 beats per minute. Therefore, M. Young's pulse rate is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Richmond General Hospital, whose body temperature is higher, L. Rogers or M. Young?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Temperature: 36.6°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Richmond General Hospital_M. Young",
+                    "content": [
+                        "Temperature: 36.2°C"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records, L. Rogers' body temperature at Knoxville General Hospital is 36.6°C, while M. Young's body temperature at Richmond General Hospital is 36.2°C. Therefore, L. Rogers' body temperature is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Richmond General Hospital, whose blood pressure is higher, L. Rogers or M. Young?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Blood Pressure: 120/80 mmHg"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Richmond General Hospital_M. Young",
+                    "content": [
+                        "Blood Pressure: 65/40 mmHg"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records, L. Rogers' blood pressure at Knoxville General Hospital is 120/80 mmHg, while M. Young's blood pressure at Richmond General Hospital is 65/40 mmHg. Therefore, L. Rogers' blood pressure is higher."
+        }
+    ]
+}

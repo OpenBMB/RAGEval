@@ -1,0 +1,238 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the establishment dates of InnovateTech Solutions and CleanCo Housekeeping Services?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "InnovateTech Solutions, established on March 15, 2010, is an IT company based in Silicon Valley, California, USA, specializing in providing innovative software solutions for enterprises."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "CleanCo Housekeeping Services is a housekeeping company established on April 1, 2013, in New York, United States, and specializes in providing professional cleaning services to residential and commercial clients.In 2018, CleanCo Housekeeping Services experienced several significant events that had a profound impact on its financial performance and market position."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech Solutions was established on March 15, 2010, and CleanCo Housekeeping Services was established on April 1, 2013."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the main businesses of InnovateTech Solutions and CleanCo Housekeeping Services?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "InnovateTech Solutions, established on March 15, 2010, is an IT company based in Silicon Valley, California, USA, specializing in providing innovative software solutions for enterprises."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "CleanCo Housekeeping Services is a housekeeping company established on April 1, 2013, in New York, United States, and specializes in providing professional cleaning services to residential and commercial clients.In 2018, CleanCo Housekeeping Services experienced several significant events that had a profound impact on its financial performance and market position."
+                    ]
+                }
+            ],
+            "answer": "The main business of InnovateTech Solutions is providing innovative software solutions for enterprises, while CleanCo Housekeeping Services provides professional housekeeping and cleaning services to residential and commercial clients."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "Where are InnovateTech Solutions and CleanCo Housekeeping Services registered?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "InnovateTech Solutions, established on March 15, 2010, is an IT company based in Silicon Valley, California, USA, specializing in providing innovative software solutions for enterprises."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "CleanCo Housekeeping Services is a housekeeping company established on April 1, 2013, in New York, United States, and specializes in providing professional cleaning services to residential and commercial clients.In 2018, CleanCo Housekeeping Services experienced several significant events that had a profound impact on its financial performance and market position."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech Solutions is registered in Silicon Valley, California, USA, and CleanCo Housekeeping Services is registered in New York, United States."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "What are the listing statuses of InnovateTech Solutions and CleanCo Housekeeping Services?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "The company is listed on NASDAQ.In January 2021, InnovateTech Solutions made a major investment of $10 million in Project X, an AI-driven analytics platform."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": []
+                }
+            ],
+            "answer": "InnovateTech Solutions is listed on NASDAQ, while CleanCo Housekeeping Services is not listed on any stock exchange."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "In which industries do InnovateTech Solutions and CleanCo Housekeeping Services operate?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "InnovateTech Solutions, established on March 15, 2010, is an IT company based in Silicon Valley, California, USA, specializing in providing innovative software solutions for enterprises."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "CleanCo Housekeeping Services is a housekeeping company established on April 1, 2013, in New York, United States, and specializes in providing professional cleaning services to residential and commercial clients.In 2018, CleanCo Housekeeping Services experienced several significant events that had a profound impact on its financial performance and market position."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech Solutions operates in the IT industry, while CleanCo Housekeeping Services operates in the Housekeeping industry."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much funding was raised during the large-scale financing activities of InnovateTech Solutions in 2021 and CleanCo Housekeeping Services in 2018?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "In November 2021, InnovateTech Solutions conducted a large-scale financing activity, raising $20 million through a successful IPO."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "Firstly, the company conducted a large-scale financing activity in January, raising $10 million in funds."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech Solutions raised $20 million through a successful IPO in November 2021, and CleanCo Housekeeping Services raised $10 million in January 2018."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the debt restructuring activities of InnovateTech Solutions in June 2021 and CleanCo Housekeeping Services in February 2018?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "In June 2021, the company underwent debt restructuring, reducing liabilities by $5 million.",
+                        "This move improved the company's financial condition and reduced financial costs."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "In February, CleanCo underwent debt restructuring, reducing its liabilities by $5 million.",
+                        "This debt restructuring optimized the company's capital structure and improved its financial condition by reducing financial costs."
+                    ]
+                }
+            ],
+            "answer": "The debt restructuring of InnovateTech Solutions in June 2021 reduced liabilities by $5 million and improved the company's financial condition, while the debt restructuring of CleanCo Housekeeping Services in February 2018 also reduced liabilities by $5 million and improved the company's financial condition."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "Which companies did InnovateTech Solutions and CleanCo Housekeeping Services acquire assets from in 2021 and 2018, respectively?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "Additionally, in October 2021, the company completed the asset acquisition of Tech Solutions Ltd., with a total value of $8 million."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "Additionally, in March, CleanCo completed the asset acquisition of Sparkle Cleaners, a leading provider of commercial cleaning services, with a total value of $8 million."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech Solutions acquired assets from Tech Solutions Ltd. in October 2021, and CleanCo Housekeeping Services acquired assets from Sparkle Cleaners in March 2018."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much was distributed as dividends by InnovateTech Solutions in February 2021 and CleanCo Housekeeping Services in December 2018?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "In February 2021, the company decided to distribute $1.5 million as dividends to shareholders, enhancing shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "Finally, in December, CleanCo decided to distribute $2 million of dividends to its shareholders, enhancing shareholder returns."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech Solutions distributed $1.5 million as dividends in February 2021, and CleanCo Housekeeping Services distributed $2 million as dividends in December 2018."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the debt restructuring activities of InnovateTech Solutions in June 2021 and CleanCo Housekeeping Services in February 2018. Which company reduced its liabilities by a larger amount?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "In June 2021, the company underwent debt restructuring, reducing liabilities by $5 million.",
+                        "This move improved the company's financial condition and reduced financial costs."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "In February, CleanCo underwent debt restructuring, reducing its liabilities by $5 million.",
+                        "This debt restructuring optimized the company's capital structure and improved its financial condition by reducing financial costs."
+                    ]
+                }
+            ],
+            "answer": "Both InnovateTech Solutions and CleanCo Housekeeping Services reduced their liabilities by $5 million during their respective debt restructuring activities."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the major asset acquisitions by InnovateTech Solutions in October 2021 and CleanCo Housekeeping Services in March 2018. Which company acquired assets with a higher total value?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "Additionally, in October 2021, the company completed the asset acquisition of Tech Solutions Ltd., with a total value of $8 million.",
+                        "This acquisition expanded the company's business scope and enhanced market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "Additionally, in March, CleanCo completed the asset acquisition of Sparkle Cleaners, a leading provider of commercial cleaning services, with a total value of $8 million.",
+                        "This acquisition expanded CleanCo's business scope and enhanced its market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "Both InnovateTech Solutions and CleanCo Housekeeping Services acquired assets with a total value of $8 million during their respective major asset acquisitions."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distributions of InnovateTech Solutions and CleanCo Housekeeping Services. Which company distributed a larger amount as dividends?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech Solutions",
+                    "content": [
+                        "In February 2021, the company decided to distribute $1.5 million as dividends to shareholders, enhancing shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "CleanCo Housekeeping Services",
+                    "content": [
+                        "Finally, in December, CleanCo decided to distribute $2 million of dividends to its shareholders, enhancing shareholder returns."
+                    ]
+                }
+            ],
+            "answer": "CleanCo Housekeeping Services distributed a larger amount of $2 million as dividends in December 2018, compared to InnovateTech Solutions' $1.5 million distribution in February 2021."
+        }
+    ]
+}

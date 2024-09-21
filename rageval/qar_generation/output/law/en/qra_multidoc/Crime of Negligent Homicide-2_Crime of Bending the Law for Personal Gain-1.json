@@ -1,0 +1,122 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hartford, Ashland, Court and Upton, Georgetown, Court, what are the occupations of the defendants M. Cooper and F. Williams?",
+            "ref": [
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Occupation:** Construction Site Manager"
+                    ]
+                },
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Occupation:** City Official"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hartford, Ashland, Court, the defendant M. Cooper is a Construction Site Manager; according to the judgment of Upton, Georgetown, Court, the defendant F. Williams is a City Official."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hartford, Ashland, Court and Upton, Georgetown, Court, what crimes did the defendants M. Cooper and F. Williams commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "Consequently, the defendant, M. Cooper, was indicted and charged with the Crime of Negligent Homicide, as stipulated under Article No. 133, acknowledging the defendant's supervisory role and negligence as directly contributory to the fatal incident."
+                    ]
+                },
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "Franklin Williams is charged and stood trial for the Crime of Bending the Law for Personal Gain under Article 397."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hartford, Ashland, Court, the defendant M. Cooper committed the Crime of Negligent Homicide; according to the judgment of Upton, Georgetown, Court, the defendant F. Williams committed the Crime of Bending the Law for Personal Gain."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hartford, Ashland, Court and Upton, Georgetown, Court, what sentences were given to the defendants M. Cooper and F. Williams for their respective crimes?",
+            "ref": [
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Four years of fixed-term imprisonment**"
+                    ]
+                },
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Five (5) years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hartford, Ashland, Court, the defendant M. Cooper was sentenced to four years of fixed-term imprisonment for the Crime of Negligent Homicide; according to the judgment of Upton, Georgetown, Court, the defendant F. Williams was sentenced to five years of fixed-term imprisonment for the Crime of Bending the Law for Personal Gain."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Hartford, Ashland, Court and Upton, Georgetown, Court, whose sentencing time is longer, M. Cooper or F. Williams?",
+            "ref": [
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "For the charge of **Negligent Homicide** as per Article No. 133, the defendant is sentenced to:",
+                        "**Four years of fixed-term imprisonment**"
+                    ]
+                },
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "This court hereby sentences Franklin Williams to:",
+                        "**Five (5) years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "M. Cooper was sentenced to four years of fixed-term imprisonment, while F. Williams was sentenced to five years of fixed-term imprisonment. F. Williams's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Hartford, Ashland, Court and Upton, Georgetown, Court, whose judgment time is earlier, M. Cooper or F. Williams?",
+            "ref": [
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Date of Judgment:** 15th August 2022"
+                    ]
+                },
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Date of Judgment:** 30th, September, 2023"
+                    ]
+                }
+            ],
+            "answer": "M. Cooper's judgment time is earlier, as it was on 15th, August, 2022, while F. Williams's judgment time was on 30th, September, 2023."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Hartford, Ashland, Court and Upton, Georgetown, Court, whose case filing and investigation started earlier, M. Cooper or F. Williams?",
+            "ref": [
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "On the 12th day of February 2022, the criminal case involving the defendant M. Cooper was formally documented and filed by the Hartford Ashland Procuratorate following preliminary inquiries, complaint lodging, and review of initial evidence."
+                    ]
+                },
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "1. **Case Filing and Investigation (1st March, 2023):**"
+                    ]
+                }
+            ],
+            "answer": "M. Cooper's case filing and investigation started earlier on 12th, February, 2022, while F. Williams's case filing and investigation started on 1st, March, 2023."
+        }
+    ]
+}

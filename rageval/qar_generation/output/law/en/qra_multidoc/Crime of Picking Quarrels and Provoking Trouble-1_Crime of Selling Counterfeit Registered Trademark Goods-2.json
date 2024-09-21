@@ -1,0 +1,140 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Glenwood, Quailwood, Court and Trenton, Vandalia, Court, what are the occupations of the defendants Y. Nelson and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "*Occupation:* Barista"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "Occupation: Owner of a Retail Store"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Glenwood, Quailwood, Court, the defendant Y. Nelson is a Barista; according to the judgment of Trenton, Vandalia, Court, the defendant G. Torres is the owner of a retail store."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Glenwood, Quailwood, Court and Trenton, Vandalia, Court, what crimes did the defendants Y. Nelson and G. Torres commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "The defendant, Y. Nelson, is charged with the Crime of Picking Quarrels and Provoking Trouble as specified under Article No. 293 of the Criminal Code."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "G. Torres was charged under Article No. 214 for the Crime of Selling Counterfeit Registered Trademark Goods."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Glenwood, Quailwood, Court, the defendant Y. Nelson committed the crime of Picking Quarrels and Provoking Trouble; according to the judgment of Trenton, Vandalia, Court, the defendant G. Torres committed the crime of Selling Counterfeit Registered Trademark Goods."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Glenwood, Quailwood, Court and Trenton, Vandalia, Court, what are the judgment dates for the cases involving Y. Nelson and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "June 10, 2023"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Judgment Issued on 20th March 2023**"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Glenwood, Quailwood, Court, the judgment date for the case involving Y. Nelson is 10th June, 2023; according to the judgment of Trenton, Vandalia, Court, the judgment date for the case involving G. Torres is 20th March, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Glenwood, Quailwood, Court and Trenton, Vandalia, Court, what sentences were given to the defendants Y. Nelson and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "Accordingly, Y. Nelson is sentenced to three years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Glenwood, Quailwood, Court, the defendant Y. Nelson was sentenced to three years of fixed-term imprisonment; according to the judgment of Trenton, Vandalia, Court, the defendant G. Torres was sentenced to three years of fixed-term imprisonment, with a suspension for five years, and a fine of $30,000."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Glenwood, Quailwood, Court and Trenton, Vandalia, Court, who were the defense lawyers for the defendants Y. Nelson and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "*Defense Lawyer:* Y. Parker"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "Defense Lawyer: W. Ortiz"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Glenwood, Quailwood, Court, the defense lawyer for the defendant Y. Nelson was Y. Parker from Parker & Associates; according to the judgment of Trenton, Vandalia, Court, the defense lawyer for the defendant G. Torres was W. Ortiz from Ortiz & Associates."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Glenwood, Quailwood, Court and Trenton, Vandalia, Court, whose sentencing time is longer, Y. Nelson or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "This court finds the defendant, Y. Nelson, guilty of the Crime of Picking Quarrels and Provoking Trouble under Article No. 293 of the Criminal Code.",
+                        "Accordingly, Y. Nelson is sentenced to three years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000."
+                    ]
+                }
+            ],
+            "answer": "Y. Nelson was sentenced to three years of fixed-term imprisonment, while G. Torres was sentenced to three years of fixed-term imprisonment with a suspension for five years. Y. Nelson's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Glenwood, Quailwood, Court and Trenton, Vandalia, Court, whose judgment date is earlier, Y. Nelson or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "June 10, 2023"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Judgment Issued on 20th March 2023**"
+                    ]
+                }
+            ],
+            "answer": "G. Torres' judgment date is earlier, as it was on 20th March 2023, while Y. Nelson's judgment date was on 10th June 2023."
+        }
+    ]
+}

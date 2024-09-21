@@ -1,0 +1,76 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Farmington, Vandalia, Court",
+        "procuratorate": "Farmington, Vandalia, Procuratorate"
+    },
+    "chiefJudge": "J. Martin",
+    "judge": "V. Smith",
+    "clerk": "W. Brooks",
+    "defendant": {
+        "name": "T. Bennett",
+        "gender": "female",
+        "birthdate": "8th, June, 1998",
+        "residence": "45, Eastwood street, Vandalia",
+        "ethnicity": "Caucasian",
+        "occupation": "Self-Employed Consultant"
+    },
+    "defenseLawyer": {
+        "name": "X. Sanders",
+        "lawFirm": "Sanders & Associates Law Firm"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "1st March, 2023",
+            "description": "The Vandalia Tax Bureau conducted a preliminary investigation into the tax arrears of the defendant, T. Bennett, upon suspicion of evading tax recovery for the year 2022."
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "15th March, 2023",
+            "description": "Following the initial findings, detention measures were enforced to prevent flight risk and tampering with evidence."
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "20th March, 2023",
+            "description": "T. Bennett was formally detained under criminal custody upon further evidence corroborating the tax evasion allegations."
+        },
+        {
+            "event": "Arrest",
+            "date": "25th March, 2023",
+            "description": "Arrest warrant was issued and executed on T. Bennett after substantial evidence was reviewed by the Farmington, Vandalia, Procuratorate."
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Evading Tax Arrears Recovery",
+            "details": [
+                {
+                    "timePeriod": "January 2022 - December 2022",
+                    "behavior": "T. Bennett transferred significant assets to her brother’s company in a deliberate attempt to avoid tax recovery measures.",
+                    "evidence": "Bank statements showing transfers amounting to $120,000, testimony from the brother, and emails outlining the transfer process."
+                },
+                {
+                    "timePeriod": "March 2022 - November 2022",
+                    "behavior": "The defendant falsified accounts and underreported her consultancy income to evade taxes.",
+                    "evidence": "Financial audit report detailing discrepancies, written confessions from two employees, and altered balance sheets recovered from her office."
+                },
+                {
+                    "timePeriod": "June 2022",
+                    "behavior": "T. Bennett sold a high-value property located at 123 Main Street, Vandalia, without reporting the transaction to the tax authorities.",
+                    "evidence": "Property sales contract, testimony from the buyer, and email communication regarding the sale."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "15th June, 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Evading Tax Arrears Recovery",
+                "sentence": "5 years imprisonment and a fine of $300,000.",
+                "sentencingConsiderations": "The significant amount of tax owed, the premeditated nature of the evasion, and lack of remorse displayed by the defendant were considered in the sentencing."
+            }
+        ],
+        "probation": "None"
+    }
+}

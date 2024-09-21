@@ -1,0 +1,161 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Upton General Hospital, what is the age of patients A. Davis and K. Moore?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Age: 85"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Upton General Hospital_K. Moore",
+                    "content": [
+                        "Age: 85"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Kingsport General Hospital, patient A. Davis is 85 years old; according to the hospitalization records of Upton General Hospital, patient K. Moore is also 85 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Upton General Hospital, what is the marital status of patients A. Davis and K. Moore?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Marital Status: Widowed",
+                        "Marital Status: Widowed."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Upton General Hospital_K. Moore",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Kingsport General Hospital, patient A. Davis is widowed; according to the hospitalization records of Upton General Hospital, patient K. Moore is also widowed."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Upton General Hospital, what was the occupation of patients A. Davis and K. Moore before retirement?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Occupation: Retired",
+                        "Occupation and Working Conditions: Retired teacher."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Upton General Hospital_K. Moore",
+                    "content": [
+                        "Occupation: Retired",
+                        "Occupation and Working Conditions: Retired, previously worked as a teacher"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Kingsport General Hospital, patient A. Davis was a retired teacher; according to the hospitalization records of Upton General Hospital, patient K. Moore was also a retired teacher."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Upton General Hospital, what is the allergy history of patients A. Davis and K. Moore?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Allergy History: Allergic to penicillin (rash)."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Upton General Hospital_K. Moore",
+                    "content": [
+                        "Allergic to penicillin"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Kingsport General Hospital, patient A. Davis is allergic to penicillin; according to the hospitalization records of Upton General Hospital, patient K. Moore is also allergic to penicillin."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Upton General Hospital, what is the history of hypertension for patients A. Davis and K. Moore?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Disease History: Hypertension for 20 years, controlled with medication."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Upton General Hospital_K. Moore",
+                    "content": [
+                        "Hypertension for 15 years, no history of diabetes or significant chronic illnesses"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Kingsport General Hospital, patient A. Davis has had hypertension for 20 years, controlled with medication; according to the hospitalization records of Upton General Hospital, patient K. Moore has had hypertension for 15 years, also managed with medication."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Upton General Hospital, who was admitted earlier, A. Davis or K. Moore?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Admission Time: 1st, March"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Upton General Hospital_K. Moore",
+                    "content": [
+                        "Admission Time: 10th February"
+                    ]
+                }
+            ],
+            "answer": "K. Moore was admitted on February 10th, and A. Davis was admitted on March 1st. K. Moore was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Upton General Hospital, whose blood pressure is higher, A. Davis or K. Moore?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Blood Pressure: 140/85 mmHg."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Upton General Hospital_K. Moore",
+                    "content": [
+                        "Blood Pressure: 130/80 mmHg"
+                    ]
+                }
+            ],
+            "answer": "A. Davis's blood pressure is 140/85 mmHg, and K. Moore's blood pressure is 130/80 mmHg. A. Davis's blood pressure is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Upton General Hospital, whose body temperature is higher, A. Davis or K. Moore?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Temperature: 36.8°C."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Upton General Hospital_K. Moore",
+                    "content": [
+                        "Temperature: 36.6°C"
+                    ]
+                }
+            ],
+            "answer": "A. Davis's body temperature is 36.8°C, and K. Moore's body temperature is 36.6°C. A. Davis's body temperature is higher."
+        }
+    ]
+}

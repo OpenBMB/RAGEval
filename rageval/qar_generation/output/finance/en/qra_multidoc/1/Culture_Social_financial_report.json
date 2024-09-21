@@ -1,0 +1,300 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "When were Culture Innovators Ltd. and InnovateTech, Inc. established?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd., established on March 1, 2010, is a publicly listed company based in New York, United States, specializing in providing creative solutions and immersive experiences in the culture industry through interactive exhibitions, digital installations, and educational programs.In January 2021, Culture Innovators Ltd. made a major asset acquisition by acquiring ArtEx, a renowned museum exhibition design company, valued at $50 million."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "InnovateTech, Inc., established on May 12, 2012, is a social technology company based in San Francisco, California, specializing in the development of advanced software solutions for social networking platforms.Since its establishment, InnovateTech, Inc. has made significant strides in the industry, positioning itself as a leader in the social technology sector."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. was established on March 1, 2010, and InnovateTech, Inc. was established on May 12, 2012."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the main businesses of Culture Innovators Ltd. and InnovateTech, Inc.?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd., established on March 1, 2010, is a publicly listed company based in New York, United States, specializing in providing creative solutions and immersive experiences in the culture industry through interactive exhibitions, digital installations, and educational programs.In January 2021, Culture Innovators Ltd. made a major asset acquisition by acquiring ArtEx, a renowned museum exhibition design company, valued at $50 million."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "InnovateTech, Inc., established on May 12, 2012, is a social technology company based in San Francisco, California, specializing in the development of advanced software solutions for social networking platforms.Since its establishment, InnovateTech, Inc. has made significant strides in the industry, positioning itself as a leader in the social technology sector."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. specializes in providing creative solutions and immersive experiences in the culture industry, including designing and producing interactive exhibitions, digital installations, and educational programs. InnovateTech, Inc. specializes in developing cutting-edge software solutions for social networking platforms."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "Where are Culture Innovators Ltd. and InnovateTech, Inc. registered?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd., established on March 1, 2010, is a publicly listed company based in New York, United States, specializing in providing creative solutions and immersive experiences in the culture industry through interactive exhibitions, digital installations, and educational programs.In January 2021, Culture Innovators Ltd. made a major asset acquisition by acquiring ArtEx, a renowned museum exhibition design company, valued at $50 million."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "InnovateTech, Inc., established on May 12, 2012, is a social technology company based in San Francisco, California, specializing in the development of advanced software solutions for social networking platforms.Since its establishment, InnovateTech, Inc. has made significant strides in the industry, positioning itself as a leader in the social technology sector."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. is registered in New York, United States, and InnovateTech, Inc. is registered in San Francisco, California."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What is the listing status of Culture Innovators Ltd. and InnovateTech, Inc.?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd., established on March 1, 2010, is a publicly listed company based in New York, United States, specializing in providing creative solutions and immersive experiences in the culture industry through interactive exhibitions, digital installations, and educational programs.In January 2021, Culture Innovators Ltd. made a major asset acquisition by acquiring ArtEx, a renowned museum exhibition design company, valued at $50 million."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "The company went public and is currently listed on NASDAQ, showcasing its commitment to transparency and accountability."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. is publicly listed, and InnovateTech, Inc. is publicly listed on NASDAQ."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "In which industries do Culture Innovators Ltd. and InnovateTech, Inc. operate?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd., established on March 1, 2010, is a publicly listed company based in New York, United States, specializing in providing creative solutions and immersive experiences in the culture industry through interactive exhibitions, digital installations, and educational programs.In January 2021, Culture Innovators Ltd. made a major asset acquisition by acquiring ArtEx, a renowned museum exhibition design company, valued at $50 million."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "InnovateTech, Inc., established on May 12, 2012, is a social technology company based in San Francisco, California, specializing in the development of advanced software solutions for social networking platforms.Since its establishment, InnovateTech, Inc. has made significant strides in the industry, positioning itself as a leader in the social technology sector."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. operates in the culture industry, while InnovateTech, Inc. operates in the social industry."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the asset restructuring activities of Culture Innovators Ltd. in September 2021 and InnovateTech, Inc. in January 2019?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In September 2021, Culture Innovators Ltd. implemented a comprehensive asset restructuring strategy to focus on high-potential areas.",
+                        "This restructuring aimed to improve operational efficiency and increase the company's overall value."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "One of the notable events in InnovateTech's financial history was the asset restructuring in January 2019.",
+                        "This comprehensive strategy aimed to streamline the business structure and reduce costs, resulting in increased operational efficiency and overall value."
+                    ]
+                }
+            ],
+            "answer": "The asset restructuring of Culture Innovators Ltd. in September 2021 improved operational efficiency and increased company value. The asset restructuring of InnovateTech, Inc. in January 2019 increased operational efficiency and overall value."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much funding was raised during the large-scale financing activities of Culture Innovators Ltd. in May 2021 and InnovateTech, Inc. in February 2019?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "To support its expansion plans, Culture Innovators Ltd. successfully raised $30 million in funds from prominent investors in May 2021.",
+                        "This large-scale financing strengthened the company's financial strength and provided the necessary support for its growth initiatives."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "To support its expansion and development opportunities, InnovateTech successfully raised $50 million through large-scale financing in February 2019.",
+                        "This infusion of capital bolstered the company's financial strength and provided resources for future growth initiatives."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. raised $30 million in May 2021, and InnovateTech, Inc. raised $50 million in February 2019."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the amounts distributed as dividends by Culture Innovators Ltd. in October 2021 and InnovateTech, Inc. in June 2019?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In October 2021, Culture Innovators Ltd. distributed $5 million in dividends to its shareholders.",
+                        "This dividend distribution not only enhanced shareholder returns but also strengthened the company's partnership with its investors."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "In June 2019, InnovateTech distributed $10 million in dividends to its shareholders, enhancing shareholder returns and solidifying investor confidence.",
+                        "This move demonstrated the company's commitment to rewarding its shareholders and sharing its success."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. distributed $5 million in dividends in October 2021, and InnovateTech, Inc. distributed $10 million in dividends in June 2019."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the significant equity acquisitions made by Culture Innovators Ltd. in December 2021 and InnovateTech, Inc. in August 2019?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In December 2021, Culture Innovators Ltd. acquired 60% equity of Experience Makers, a significant move that expanded its market share and established the company as a prominent player in the sector."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "In August 2019, InnovateTech completed the acquisition of a 51% equity stake in SocialConnect, Inc., a prominent social media platform.",
+                        "This significant equity acquisition expanded InnovateTech's market share and strengthened its control over the social media technology sector."
+                    ]
+                }
+            ],
+            "answer": "Culture Innovators Ltd. acquired 60% equity of Experience Makers in December 2021, and InnovateTech, Inc. acquired a 51% equity stake in SocialConnect, Inc. in August 2019."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the net profits of Culture Innovators Ltd. and InnovateTech, Inc. in their respective financial reports?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "The net profit for the accounting period amounted to $12 million, reflecting the company's effective cost control and ability to generate income."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "Net profit stood at $40 million, showcasing the company's ability to generate income while effectively controlling costs and managing non-recurring gains and losses."
+                    ]
+                }
+            ],
+            "answer": "The net profit of Culture Innovators Ltd. was $12 million, and the net profit of InnovateTech, Inc. was $40 million."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of Culture Innovators Ltd. and InnovateTech, Inc. in their respective financial reports. Which company had higher operating income?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "For instance, the company's operating income reached $75 million, influenced by market demand and changes in product prices."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "The company's operating income reached $125 million, reflecting the success of its main business and other income sources."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. had higher operating income with $125 million compared to Culture Innovators Ltd.'s $75 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of Culture Innovators Ltd. and InnovateTech, Inc. in their respective financial reports. Which company had a higher net profit?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "The net profit for the accounting period amounted to $12 million, reflecting the company's effective cost control and ability to generate income."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "Net profit stood at $40 million, showcasing the company's ability to generate income while effectively controlling costs and managing non-recurring gains and losses."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. had a higher net profit with $40 million compared to Culture Innovators Ltd.'s $12 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of Culture Innovators Ltd. and InnovateTech, Inc. in their respective financial reports. Which company had more total assets?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd.'s total assets stood at $150 million, driven by the acquisition of ArtEx and other asset-related activities."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "In terms of assets, InnovateTech's total assets amounted to $450 million, influenced by asset acquisitions, disposals, and revaluations."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. had more total assets with $450 million compared to Culture Innovators Ltd.'s $150 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the debt restructuring efforts of Culture Innovators Ltd. in 2021 and InnovateTech, Inc. in 2019. Which company reduced more liabilities through debt restructuring?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In July 2021, Culture Innovators Ltd. underwent a successful debt restructuring, resulting in a reduction of liabilities by $15 million.",
+                        "The company's total liabilities were reduced to $80 million following the successful debt restructuring, improving its financial condition."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "In October 2019, InnovateTech underwent a debt restructuring process, reducing its liabilities by $30 million.",
+                        "The company's total liabilities were $180 million, reflecting its debt obligations, new debt issuances, debt repayments, and debt restructuring efforts."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. reduced more liabilities through debt restructuring with a reduction of $30 million compared to Culture Innovators Ltd.'s $15 million."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the asset restructuring events of Culture Innovators Ltd. in September 2021 and InnovateTech, Inc. in January 2019. Which company undertook asset restructuring earlier?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In September 2021, Culture Innovators Ltd. implemented a comprehensive asset restructuring strategy to focus on high-potential areas."
+                    ]
+                },
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "One of the notable events in InnovateTech's financial history was the asset restructuring in January 2019."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. undertook asset restructuring earlier in January 2019 compared to Culture Innovators Ltd. in September 2021."
+        }
+    ]
+}

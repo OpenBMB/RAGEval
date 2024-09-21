@@ -1,0 +1,144 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Parker City Hospital, what is the occupation of patients A. Davis and E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Occupation: Retired",
+                        "Occupation and Working Conditions: Retired teacher."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Occupation: Retired Teacher",
+                        "Occupation and Working Conditions: Retired Teacher"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Kingsport General Hospital, patient A. Davis is retired; according to the hospitalization records of Parker City Hospital, patient E. Cruz is a retired teacher."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Parker City Hospital, what is the marital status of patients A. Davis and E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Marital Status: Widowed",
+                        "Marital Status: Widowed."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Kingsport General Hospital, patient A. Davis is widowed; according to the hospitalization records of Parker City Hospital, patient E. Cruz is also widowed."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Parker City Hospital, what is the allergy history of patients A. Davis and E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Allergy History: Allergic to penicillin (rash)."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Allergy History: Penicillin allergy"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Kingsport General Hospital, patient A. Davis is allergic to penicillin (rash); according to the hospitalization records of Parker City Hospital, patient E. Cruz is also allergic to penicillin."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Parker City Hospital, what is the blood pressure of patients A. Davis and E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Blood Pressure: 140/85 mmHg."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Blood Pressure: 140/90 mmHg"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Kingsport General Hospital, patient A. Davis has a blood pressure of 140/85 mmHg; according to the hospitalization records of Parker City Hospital, patient E. Cruz has a blood pressure of 140/90 mmHg."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Parker City Hospital, what are the chief complaints of patients A. Davis and E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Chief Complaint:",
+                        "Sour, heavy, swollen, and painful right lower limb for 6 months; worsening over the last week."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Chief Complaint:",
+                        "Facial changes and increasing shoe size for 6 months"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Kingsport General Hospital, patient A. Davis's chief complaint is a sour, heavy, swollen, and painful right lower limb for 6 months, worsening over the last week; according to the hospitalization records of Parker City Hospital, patient E. Cruz's chief complaint is facial changes and increasing shoe size for 6 months."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Parker City Hospital, who was admitted earlier, A. Davis or E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Admission Time: 1st, March"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Admission Time: 12th, April"
+                    ]
+                }
+            ],
+            "answer": "A. Davis was admitted on March 1st, and E. Cruz was admitted on April 12th. A. Davis was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Kingsport General Hospital and Parker City Hospital, whose blood pressure is higher, A. Davis or E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Blood Pressure: 140/85 mmHg."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Blood Pressure: 140/90 mmHg"
+                    ]
+                }
+            ],
+            "answer": "A. Davis's blood pressure is 140/85 mmHg, and E. Cruz's blood pressure is 140/90 mmHg. E. Cruz's blood pressure is higher."
+        }
+    ]
+}

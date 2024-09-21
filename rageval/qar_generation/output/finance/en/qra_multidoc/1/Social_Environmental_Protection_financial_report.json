@@ -1,0 +1,180 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Unanswerable Question",
+            "question": "How much in dividends did InnovateTech, Inc. and GreenTech Solutions Inc. distribute to their shareholders in 2019 and 2021, respectively?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "In June 2019, InnovateTech distributed $10 million in dividends to its shareholders, enhancing shareholder returns and solidifying investor confidence."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": []
+                }
+            ],
+            "answer": "InnovateTech, Inc. distributed $10 million in dividends to its shareholders in June 2019, while GreenTech Solutions Inc. also distributed $10 million in dividends to its shareholders in 2021."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of InnovateTech, Inc. and GreenTech Solutions Inc. in their respective financial reports. Which company had higher operating income?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "The company's operating income reached $125 million, reflecting the success of its main business and other income sources."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "As a result, GreenTech Solutions Inc. experienced a substantial increase in operating income, reaching $150 million, driven by increasing market demand for environmental protection technologies, positive changes in global regulations favoring environmentally friendly solutions, and R&D breakthroughs leading to innovative product offerings.",
+                        "In terms of financial indicators, GreenTech Solutions Inc. achieved an operating income of $150 million, a net profit of $30 million, total assets of $500 million, total liabilities of $150 million, and a cash flow of $50 million."
+                    ]
+                }
+            ],
+            "answer": "GreenTech Solutions Inc. had higher operating income with $150 million compared to InnovateTech, Inc.'s $125 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of InnovateTech, Inc. and GreenTech Solutions Inc. in their respective financial reports. Which company had higher net profit?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "Net profit stood at $40 million, showcasing the company's ability to generate income while effectively controlling costs and managing non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "The impact of these partnerships can be seen in the company's net profit, which reached $30 million.",
+                        "In terms of financial indicators, GreenTech Solutions Inc. achieved an operating income of $150 million, a net profit of $30 million, total assets of $500 million, total liabilities of $150 million, and a cash flow of $50 million."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. had higher net profit with $40 million compared to GreenTech Solutions Inc.'s $30 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of InnovateTech, Inc. and GreenTech Solutions Inc. in their respective financial reports. Which company had higher total assets?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "In terms of assets, InnovateTech's total assets amounted to $450 million, influenced by asset acquisitions, disposals, and revaluations."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "The company's total assets reached $500 million, reflecting the acquisition of Liberty Energy Solutions, capital expenditures for research and development, and asset revaluation.",
+                        "In terms of financial indicators, GreenTech Solutions Inc. achieved an operating income of $150 million, a net profit of $30 million, total assets of $500 million, total liabilities of $150 million, and a cash flow of $50 million."
+                    ]
+                }
+            ],
+            "answer": "GreenTech Solutions Inc. had higher total assets with $500 million compared to InnovateTech, Inc.'s $450 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total liabilities of InnovateTech, Inc. and GreenTech Solutions Inc. in their respective financial reports. Which company had lower total liabilities?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "The company's total liabilities were $180 million, reflecting its debt obligations, new debt issuances, debt repayments, and debt restructuring efforts."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "The company's debt restructuring in August 2021 successfully reduced liabilities by $20 million, improving its financial condition and reducing financial costs, providing a more sustainable foundation for future growth.",
+                        "In terms of financial indicators, GreenTech Solutions Inc. achieved an operating income of $150 million, a net profit of $30 million, total assets of $500 million, total liabilities of $150 million, and a cash flow of $50 million."
+                    ]
+                }
+            ],
+            "answer": "GreenTech Solutions Inc. had lower total liabilities with $150 million compared to InnovateTech, Inc.'s $180 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the shareholder equity of InnovateTech, Inc. and GreenTech Solutions Inc. in their respective financial reports. Which company had higher shareholder equity?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "Shareholder equity, representing the total equity belonging to shareholders, reached $270 million."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "The company's shareholder equity reached $350 million, reflecting the generation of net profit, dividend distribution to shareholders, and capital reserves from previous financial periods."
+                    ]
+                }
+            ],
+            "answer": "GreenTech Solutions Inc. had higher shareholder equity with $350 million compared to InnovateTech, Inc.'s $270 million."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the asset restructuring events of InnovateTech, Inc. and GreenTech Solutions Inc. Which company underwent asset restructuring earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "One of the notable events in InnovateTech's financial history was the asset restructuring in January 2019."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "Firstly, the company embarked on a comprehensive asset restructuring in April, optimizing its business structure to focus on high-growth sectors within the environmental protection industry."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. underwent asset restructuring earlier in January 2019 compared to GreenTech Solutions Inc. in April 2021."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distributions of InnovateTech, Inc. and GreenTech Solutions Inc. in their respective financial reports. Which company distributed dividends earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "In June 2019, InnovateTech distributed $10 million in dividends to its shareholders, enhancing shareholder returns and solidifying investor confidence."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "To strengthen its financial position, GreenTech Solutions Inc. conducted a large-scale financing round in December 2021, raising $200 million in funds from leading institutional investors."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. distributed dividends earlier in June 2019 compared to GreenTech Solutions Inc. in December 2021."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the major asset acquisitions of InnovateTech, Inc. and GreenTech Solutions Inc. in their respective financial reports. Which company made a larger asset acquisition?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "In December 2019, InnovateTech acquired DreamLife Studios, a renowned mobile gaming company, for $60 million."
+                    ]
+                },
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "Additionally, the company completed the acquisition of Liberty Energy Solutions, a prominent renewable energy company, in November 2021.",
+                        "This acquisition, with a total asset value of $100 million, significantly expanded the company's business scope, enabling comprehensive solutions for both waste management and renewable energy, and enhancing market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "GreenTech Solutions Inc. made a larger asset acquisition with $100 million for Liberty Energy Solutions compared to InnovateTech, Inc.'s $60 million acquisition of DreamLife Studios."
+        }
+    ]
+}

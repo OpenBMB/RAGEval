@@ -1,0 +1,162 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Windsor General Hospital, what were the recorded temperatures of patients I. Thomas and K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_I. Thomas",
+                    "content": [
+                        "Temperature: 38.5°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Temperature: 38.5°C"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient I. Thomas had a recorded temperature of 38.5°C. According to the hospitalization records of Windsor General Hospital, patient K. Ramos also had a recorded temperature of 38.5°C."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Windsor General Hospital, what were the chief complaints of patients I. Thomas and K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_I. Thomas",
+                    "content": [
+                        "Chief Complaint:",
+                        "Ear discharge, hearing loss, and severe headache for 2 weeks"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Chief Complaint:",
+                        "Severe bone pain and difficulty in walking for 3 days."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient I. Thomas's chief complaint was ear discharge, hearing loss, and severe headache for 2 weeks. According to the hospitalization records of Windsor General Hospital, patient K. Ramos's chief complaint was severe bone pain and difficulty in walking for 3 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Windsor General Hospital, what were the preliminary diagnoses for patients I. Thomas and K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_I. Thomas",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Chronic Otitis Media with mastoiditis"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Acute Osteomyelitis"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient I. Thomas was preliminarily diagnosed with Chronic Otitis Media with mastoiditis. According to the hospitalization records of Windsor General Hospital, patient K. Ramos was preliminarily diagnosed with Acute Osteomyelitis."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Windsor General Hospital, what are the ages of patients I. Thomas and K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_I. Thomas",
+                    "content": [
+                        "Age: 10"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Age: 82"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient I. Thomas is 10 years old. According to the hospitalization records of Windsor General Hospital, patient K. Ramos is 82 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Windsor General Hospital, what are the genders of patients I. Thomas and K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_I. Thomas",
+                    "content": [
+                        "Gender: Male"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Gender: Female"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient I. Thomas is male. According to the hospitalization records of Windsor General Hospital, patient K. Ramos is female."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Windsor General Hospital, who was admitted earlier, I. Thomas or K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_I. Thomas",
+                    "content": [
+                        "Admission Time: 24th, December"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Admission Time: 26th October"
+                    ]
+                }
+            ],
+            "answer": "I. Thomas was admitted on December 24th, and K. Ramos was admitted on October 26th. K. Ramos was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Windsor General Hospital, whose temperature was higher upon admission, I. Thomas or K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_I. Thomas",
+                    "content": [
+                        "Temperature: 38.5°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Temperature: 38.5°C"
+                    ]
+                }
+            ],
+            "answer": "Both I. Thomas and K. Ramos had a temperature of 38.5°C upon admission."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Windsor General Hospital, whose pulse rate was higher upon admission, I. Thomas or K. Ramos?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_I. Thomas",
+                    "content": [
+                        "Pulse: 100 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Windsor General Hospital_K. Ramos",
+                    "content": [
+                        "Pulse: 88 bpm"
+                    ]
+                }
+            ],
+            "answer": "I. Thomas had a pulse rate of 100 bpm, while K. Ramos had a pulse rate of 88 bpm. I. Thomas's pulse rate was higher."
+        }
+    ]
+}

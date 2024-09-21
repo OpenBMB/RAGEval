@@ -1,0 +1,178 @@
+Hospitalization Record:
+
+Basic Information:
+Name: K. Moore
+Gender: Male
+Age: 85
+Ethnicity: Caucasian
+Marital Status: Widowed
+Occupation: Retired
+Address: 27, Milton Street, Upton
+Admission Time: 10th February
+Record Time: 10th February
+Historian: Self
+Hospital Name: Upton General Hospital
+
+Chief Complaint:
+Itchy skin rashes for 2 weeks
+
+Present Illness:
+Onset:
+Started suddenly 2 weeks ago at home, no obvious prodrome, possible trigger unknown
+
+Main Symptoms:
+Red, itchy skin rashes on wrists, forearms, and neck; papules and occasional blisters; symptoms worsen with scratching and slightly improve with topical creams
+
+Accompanying Symptoms:
+Mild swelling and lichenification in areas of persistent scratching, no fever or systemic symptoms
+
+Diagnosis and Treatment History:
+Applied over-the-counter hydrocortisone cream with partial relief, no prior consultation before admission
+
+General Condition Changes:
+Normal mental state, slightly disturbed sleep due to itching, normal appetite, no change in urination and defecation, stable weight
+
+Past History:
+General Health Condition:
+Generally healthy for age, chronic hypertension managed with medication
+
+Disease History:
+Hypertension for 15 years, no history of diabetes or significant chronic illnesses
+
+Infectious Disease History:
+No history of significant infectious diseases
+
+Immunization History:
+Up-to-date with vaccinations, including influenza and pneumonia
+
+Surgery and Trauma History:
+Appendectomy at age 25, no significant trauma history
+
+Blood Transfusion History:
+No history of blood transfusions
+
+Allergy History:
+Allergic to penicillin
+
+Personal History:
+Birthplace: Upton
+Residence: Upton
+Living Habits: Non-smoker, drinks alcohol occasionally, balanced diet
+Occupation and Working Conditions: Retired, previously worked as a teacher
+Exposure History: No known exposure to industrial toxins, dust, or radioactive substances
+Travel History: No recent travel history
+
+Marital and Family History:
+Marital History:
+Marital Status: Widowed
+Marriage Age: 24
+Spouse's Health Condition: Passed away due to natural causes
+Children's Condition: One son, healthy, aged 60
+
+Family History:
+Father had hypertension, mother was generally healthy, no siblings
+
+Physical Examination:
+General Condition:
+Temperature: 36.6°C
+Pulse: 72 bpm
+Respiration: 16 breaths/min
+Blood Pressure: 130/80 mmHg
+
+Systematic Examination:
+Skin: Erythematous rashes on wrists, forearms, and neck with papules, occasional blisters, and lichenification
+Mucous Membranes: Normal, no lesions
+Lymph Nodes: No significant lymphadenopathy
+Head and Organs: Normocephalic, atraumatic, normal vision and hearing
+Neck: Supple, no thyroid enlargement
+Chest: Clear breath sounds, no wheezing or crackles; normal heart sounds, no murmurs
+Abdomen: Soft, non-tender, no hepatosplenomegaly
+Rectum and Anus: Normal, no masses or hemorrhoids
+External Genitalia: Normal for age
+Spine: No deformities or tenderness
+Limbs: No clubbing or cyanosis, normal range of motion
+Nervous System: Alert and oriented, normal reflexes and motor strength
+
+Specialist Examination:
+Dermatology consult: consistent with dermatitis, further evaluation needed to rule out differential diagnoses
+
+Auxiliary Examination:
+CBC: WBC 7.2 x 10^3/µL, Eosinophils 5%; Skin biopsy: pending results
+
+Preliminary Diagnosis:
+Dermatitis
+
+Diagnostic Basis:
+Clinical presentation of itchy erythematous rashes, history of partial relief with topical treatment, physical examination findings
+
+Differential Diagnosis:
+Atopic dermatitis: less likely due to onset in elderly; Contact dermatitis: possible but no clear exposure; Seborrheic dermatitis: unlikely due to distribution; Others: ruled out based on history and examination
+
+Admission Records:
+Physician's Signature: Dr. A. Smith
+
+Post-Admission Course Records:
+First Course Record:
+Admitted for evaluation and management of dermatitis. Differential includes contact dermatitis, atopic dermatitis, and other eczematous conditions. Plan: Continue hydrocortisone, initiate oral antihistamines, consult dermatology for further evaluation
+
+Daily Course Records:
+10th February: Slight improvement in itching, no new lesions
+11th February: Dermatology saw the patient, recommended patch testing for allergens
+
+Senior Physician Rounds Records:
+Reviewed case, agrees with current plan, monitor for response to treatment
+
+Difficult Case Discussion Records: 
+(Hypothetical insertion if further discussion needed)
+
+Handover Records:
+Patient stable, to continue current management, pending patch test results
+
+Transfer Records:
+(Hypothetical if patient needs transfer)
+
+Stage Summary:
+(Hypothetical if needed mid-way evaluation)
+
+Emergency Records:
+(Hypothetical if any emergency intervention required)
+
+Invasive Procedure Records:
+(Hypothetical if any invasive procedures performed)
+
+Consultation Records:
+Dermatology consult on 11th February, recommendations: patch testing, continue topical and oral treatments
+
+Discharge Records:
+(Hypothetical when discharging patient)
+
+Critically Ill Patient Care Records:
+(Hypothetical if patient becomes critically ill)
+
+Medical Orders:
+Long-term Orders:
+Topical hydrocortisone cream, apply twice daily; Oral antihistamine once daily at bedtime
+
+Temporary Orders:
+Skin biopsy, pending results; Patch testing for allergens
+
+Auxiliary Examination Reports:
+Skin biopsy result: spongiotic dermatitis, consistent with eczematous conditions; Patch test: pending
+
+Temperature Chart:
+Temperature stable, 36.6°C; Pulse stable, 72 bpm; Respiration stable, 16 breaths/min; Blood pressure stable, 130/80 mmHg
+
+Blood Transfusion Consent: 
+(Hypothetical if needed)
+
+Special Examination Consent: 
+(Hypothetical if any special exams need consent)
+
+Critical Condition Notice:
+(Hypothetical if patient becomes critically ill)
+
+DiseaseType:
+Diseases of the Skin and Subcutaneous Tissue:
+Name: Dermatitis
+Symptoms: Skin rashes, papules, blisters, lichenification, etc.
+Differential Diagnosis: Atopic dermatitis, contact dermatitis, seborrheic dermatitis, stasis dermatitis, neurodermatitis, superficial fungal infections, scabies, polymorphic light eruption, eosinophilia syndrome, pellagra, etc.

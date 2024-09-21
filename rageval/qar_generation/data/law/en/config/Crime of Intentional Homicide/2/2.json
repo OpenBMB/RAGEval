@@ -1,0 +1,75 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Preston, Lancaster, Court",
+        "procuratorate": "Preston, Lancaster, Procuratorate"
+    },
+    "chiefJudge": "Q. Gray",
+    "judge": "W. Smith",
+    "clerk": "K. Sanchez",
+    "defendant": {
+        "name": "M. Harris",
+        "gender": "female",
+        "birthdate": "27th, August, 1980",
+        "residence": "78, Manchester Street, Lancaster",
+        "ethnicity": "Caucasian",
+        "occupation": "Accountant"
+    },
+    "defenseLawyer": {
+        "name": "V. Smith",
+        "lawFirm": "Smith & Associates Law Firm"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "3rd January 2023",
+            "description": "The case of intentional homicide by M. Harris was officially filed and an investigation was launched by the Preston, Lancaster, Procuratorate."
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "5th January 2023",
+            "description": "Initial detention measures were taken, and M. Harris was taken into custody for the purpose of further investigation and questioning."
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "10th January 2023",
+            "description": "Formal criminal detention of M. Harris was authorized as sufficient evidence was gathered to warrant continued custody."
+        },
+        {
+            "event": "Arrest",
+            "date": "12th January 2023",
+            "description": "An arrest warrant was issued, and M. Harris was formally arrested on charges of intentional homicide."
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Intentional Homicide",
+            "details": [
+                {
+                    "timePeriod": "15th December 2022 - 17th December 2022",
+                    "behavior": "M. Harris intentionally tampered with the brakes of the car owned by her business partner, J. Thompson, with the intent to cause a fatal accident.",
+                    "evidence": "Security camera footage showing M. Harris accessing the garage, expert testimony linking the tampering to the cause of the accident, and text messages revealing her premeditated intent."
+                },
+                {
+                    "timePeriod": "17th December 2022",
+                    "behavior": "M. Harris provided false information to authorities regarding her whereabouts during the time of the incident in an attempt to create an alibi.",
+                    "evidence": "Phone GPS data contradicting her statements and witness testimony from neighbors placing her near the scene."
+                },
+                {
+                    "timePeriod": "18th December 2022 - 19th December 2022",
+                    "behavior": "M. Harris destroyed potential evidence by attempting to delete incriminating text messages and emails.",
+                    "evidence": "Forensic computer analysis revealing deleted messages and digital footprints indicating deliberate attempts to conceal evidence."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "25th June 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Intentional Homicide",
+                "sentence": "Life imprisonment",
+                "sentencingConsiderations": "The severity of premeditated intent, the clear malice aforethought, and the attempted destruction of evidence."
+            }
+        ]
+    }
+}

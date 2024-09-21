@@ -1,0 +1,123 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "A. Davis",
+            "Gender": "female",
+            "Age": "85",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Widowed",
+            "Occupation": "Retired",
+            "Address": "74, Windsor street, Kingsport",
+            "Admission Time": "1st, March",
+            "Record Time": "1st, March",
+            "Historian": "Self",
+            "Hospital Name": "Kingsport General Hospital"
+        },
+        "Chief Complaint": "Sour, heavy, swollen, and painful right lower limb for 6 months; worsening over the last week.",
+        "Present Illness": {
+            "Onset": "6 months ago, at home, gradual onset with no identifiable triggers",
+            "Main Symptoms": "Pain, heaviness, and swelling in the right lower limb, with raised and tortuous superficial veins, more pronounced when standing; symptoms exacerbate with prolonged standing and improve with leg elevation",
+            "Accompanying Symptoms": "Increased fatigue and weakness in the affected limb, mild itching around the swollen veins",
+            "Diagnosis and Treatment History": "Patient had a Doppler ultrasound done at the local clinic, which showed severe blood reflux in superficial veins; compression stockings were prescribed but provided minimal relief",
+            "General Condition Changes": "No significant changes in mental state or sleep. Appetite has been slightly reduced due to discomfort. Regular urination and bowel movements. Mild weight loss noted"
+        },
+        "Past History": {
+            "General Health Condition": "Generally good health for age",
+            "Disease History": "Hypertension for 20 years, controlled with medication. Osteoarthritis in knees",
+            "Infectious Disease History": "No significant infectious diseases",
+            "Immunization History": "Up-to-date with routine vaccinations. Received influenza vaccine last fall",
+            "Surgery and Trauma History": "Cholecystectomy 15 years ago. No significant trauma history",
+            "Blood Transfusion History": "None",
+            "Allergy History": "Allergic to penicillin (rash)"
+        },
+        "Personal History": {
+            "Birthplace": "Kingsport",
+            "Residence": "Kingsport",
+            "Living Habits": "Non-smoker, occasional glass of wine. Eats a balanced diet, limited exercise due to arthritis",
+            "Occupation and Working Conditions": "Retired teacher",
+            "Exposure History": "No significant exposure to industrial toxins, dust, or radioactive substances",
+            "Travel History": "No recent travel"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Widowed",
+                "Marriage Age": "22",
+                "Spouse's Health Condition": "Deceased (heart disease)",
+                "Children's Condition": "Two children, both in good health"
+            },
+            "Menstrual History": {
+                "Menarche Age": "13",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "Menopause at age 50",
+                "Menstrual Volume": "Normal",
+                "Dysmenorrhea": "Mild"
+            },
+            "Family History": "Mother had varicose veins, father had hypertension; no other significant family history"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "36.8°C",
+                "Pulse": "78 bpm",
+                "Respiration": "18 breaths/min",
+                "Blood Pressure": "140/85 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Normal color, warm and dry, no lesions",
+                "Mucous Membranes": "Pink and moist",
+                "Lymph Nodes": "Not palpable",
+                "Head and Organs": "No abnormalities",
+                "Neck": "Supple, no masses or bruit",
+                "Chest": "Thorax normal in shape, lungs clear on auscultation, heart sounds normal without murmurs",
+                "Abdomen": "Soft, non-tender, no hepatosplenomegaly",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Normal for age",
+                "Spine": "Normal curvature, no tenderness",
+                "Limbs": "Right lower limb shows raised, tortuous, varicose veins; mild edema; no ulcers. Left limb normal",
+                "Nervous System": "No focal neurological deficits"
+            }
+        },
+        "Specialist Examination": "Right lower limb with visible, tortuous, dilated superficial veins, positive Trendelenburg test",
+        "Auxiliary Examination": "Doppler ultrasound confirmed severe blood reflux in superficial veins of the right lower limb",
+        "Preliminary Diagnosis": "Varicose Veins of the Lower Leg (Right)",
+        "Diagnostic Basis": "Typical symptoms of pain, heaviness, and swollen limb with visible varicose veins and confirmed Doppler findings",
+        "Differential Diagnosis": {
+            "Post-thrombotic Syndrome": "R/o based on Doppler ultrasound indicating superficial vein involvement without deep vein reflux",
+            "Budd-Chiari Syndrome": "R/o due to absence of ascites and hepatosplenomegaly",
+            "Klippel-Trenaunay Syndrome": "R/o as there is no limb hypertrophy or cutaneous hemangioma"
+        },
+        "Admission Records": {
+            "Physician's Signature": "Dr. T. Carter"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient presents with symptoms characteristic of right lower limb varicose veins. Initial management plan includes continued use of compression stockings, limb elevation, and referral to vascular surgery for evaluation of sclerotherapy. Pain management with NSAIDs as needed. Regular follow-up scheduled.",
+            "Daily Course Records": "Symptomatic relief noted with regular use of compression stockings. Pain has reduced marginally. No signs of thrombophlebitis.",
+            "Senior Physician Rounds Records": "Patient stable, conservative management continues. Discussed potential need for surgical intervention if symptoms persist. Plan to monitor for next 48 hours.",
+            "Difficult Case Discussion Records": "Not applicable",
+            "Handover Records": "Patient stable, continue current management, re-evaluate in morning rounds.",
+            "Transfer Records": "Not applicable",
+            "Stage Summary": "Patient shows mild improvement with conservative management. Vascular surgery consult pending. Discharge planning will depend on surgical opinion.",
+            "Emergency Records": "Not applicable",
+            "Invasive Procedure Records": "Not applicable",
+            "Consultation Records": "Waiting for vascular surgery consultation.",
+            "Discharge Records": "Pending",
+            "Critically Ill Patient Care Records": "Not applicable"
+        },
+        "Medical Orders": {
+            "Long-term Orders": "1. Compression stockings to be worn daily \n2. Elevate right leg when sitting or lying\n3. Ibuprofen 200 mg orally every 6 hours as needed for pain",
+            "Temporary Orders": "1. Vascular surgery consultation\n2. Doppler ultrasound repeat if condition worsens"
+        },
+        "Auxiliary Examination Reports": "Doppler ultrasound report showing severe blood reflux in the superficial veins of the right lower limb",
+        "Temperature Chart": "Temperature: 36.8°C, Pulse: 78 bpm, Respiration: 18 breaths/min, Blood Pressure: 140/85 mmHg",
+        "Blood Transfusion Consent": "Not applicable",
+        "Special Examination Consent": "Not applicable",
+        "Critical Condition Notice": "Not applicable"
+    },
+    "DiseaseType": {
+        "Circulatory System Diseases": {
+            "Name": "Varicose Veins of the Lower Leg",
+            "Symptoms": "The affected limb often feels sour, heavy, swollen, and painful, and is prone to fatigue and weakness; the superficial veins of the affected limb are raised, dilated, and become tortuous, even winding or in lumps, which is more obvious when standing",
+            "Differential Diagnosis": "Post-thrombotic syndrome of the lower limbs (Doppler ultrasound suggests poor blood reflux in the deep veins, with simultaneous blood backflow. Lower limb venography shows rough deep vein walls, and the venous lumen is irregularly narrowed), Budd-Chiari Syndrome (enlarged spleen, large and stubborn ascites), Klippel-Trenaunay Syndrome (limb growth, thickening, abnormally large and tortuous superficial veins, and the triad of cutaneous hemangioma)"
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Hartford, Ashland, Court",
+        "procuratorate": "Hartford, Ashland, Procuratorate"
+    },
+    "chiefJudge": "Z. Kelly",
+    "judge": "M. Davis",
+    "clerk": "U. Kelly",
+    "defendant": {
+        "name": "M. Cooper",
+        "gender": "male",
+        "birthdate": "16th, March, 1986",
+        "residence": "78, Trenton street, Ashland",
+        "ethnicity": "Caucasian",
+        "occupation": "Construction Site Manager"
+    },
+    "defenseLawyer": {
+        "name": "B. Ramirez",
+        "lawFirm": "Ramirez & Associates"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "12th, February, 2022"
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "15th, February, 2022"
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "18th, February, 2022"
+        },
+        {
+            "event": "Arrest",
+            "date": "20th, February, 2022"
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Negligent Homicide",
+            "details": [
+                {
+                    "timePeriod": "8th February 2022",
+                    "behavior": "The defendant, M. Cooper, improperly supervised the construction site at 45, Elm Street, Ashland, leading to improperly secured scaffolding.",
+                    "evidence": "Site inspection reports, photographs of the unsecured scaffolding, and testimony from the site safety officer."
+                },
+                {
+                    "timePeriod": "10th February 2022",
+                    "behavior": "The defendant ignored multiple warnings regarding the stability of the scaffolding and failed to take corrective actions.",
+                    "evidence": "Email correspondence from the project engineer, recorded phone calls, and witness testimonies from three construction workers."
+                },
+                {
+                    "timePeriod": "10th February 2022",
+                    "behavior": "The unstable scaffolding collapsed, causing the death of a worker named J. Harris.",
+                    "evidence": "Autopsy report, death certificate, and security camera footage depicting the collapse."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "15th, August, 2022",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Negligent Homicide",
+                "sentence": "Four years of fixed-term imprisonment",
+                "sentencingConsiderations": "Although the negligence was substantial, the court took into account M. Cooper's clean prior record and eventual cooperation with the investigation."
+            }
+        ]
+    }
+}

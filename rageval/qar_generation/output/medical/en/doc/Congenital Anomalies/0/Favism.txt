@@ -1,0 +1,139 @@
+Hospitalization Record:
+
+Basic Information:
+Name: X. Price
+Gender: female
+Age: 7
+Ethnicity: Caucasian
+Marital Status: single
+Occupation: student
+Address: 55, Windsor street, Tremont
+Admission Time: 27th, January
+Record Time: 27th, January
+Historian: Mother
+Hospital Name: Tremont City Hospital
+
+Chief Complaint:
+Hemolysis, fatigue, and abdominal pain after consuming fresh fava beans 1 day ago.
+
+Present Illness:
+Onset: 1 day ago at home after consuming fresh fava beans. Sudden onset following ingestion with prodromal symptoms of malaise and fatigue.
+Main Symptoms: Hemolysis, severe abdominal pain, fatigue, and dizziness occurring within 24 hours post ingestion.
+Accompanying Symptoms: Chills, fever, headache, anorexia, nausea, vomiting, general malaise observed along with main symptoms.
+Diagnosis and Treatment History: Presented to ED; preliminary diagnosis of Favism confirmed through G6PD deficiency test.
+General Condition Changes: Increased fatigue, abdominal pain, fever, and nausea since onset. Reduced appetite, stable urinary and bowel functions.
+
+Past History:
+General Health Condition: Generally healthy prior to current illness.
+Disease History: No significant past medical history.
+Infectious Disease History: No known history of infectious diseases.
+Immunization History: Up-to-date with vaccinations for age.
+Surgery and Trauma History: No previous surgeries or significant trauma.
+Blood Transfusion History: No prior blood transfusions.
+Allergy History: No known drug allergies. Allergy to fresh fava beans confirmed.
+
+Personal History:
+Birthplace: Tremont
+Residence: Tremont
+Living Habits: Lives with parents, regular diet, and sleep patterns.
+Occupation and Working Conditions: Primary school student, good academic performance.
+Exposure History: No exposure to industrial toxins, dust, or radioactive substances.
+Travel History: No recent travel history.
+
+Marital and Family History:
+Marital History:
+Marital Status: single
+Marriage Age: N/A
+Spouse's Health Condition: N/A
+Children's Condition: N/A
+Menstrual History:
+Menarche Age: N/A
+Menstruation Duration: N/A
+Menstruation Interval: N/A
+Last Menstruation: N/A
+Menstrual Volume: N/A
+Dysmenorrhea: N/A
+Family History: No known family history of similar conditions or genetic diseases. Parents and siblings are in good health.
+
+Physical Examination:
+General Condition:
+Temperature: 38°C
+Pulse: 105 bpm
+Respiration: 24 breaths/min
+Blood Pressure: 110/70 mmHg
+Systematic Examination:
+Skin: Pallor noted, no rashes.
+Mucous Membranes: Pale oral mucosa.
+Lymph Nodes: No lymphadenopathy.
+Head and Organs: Normocephalic, atraumatic.
+Neck: Supple, no masses.
+Chest: Clear to auscultation bilaterally, heart sounds regular with no murmurs.
+Abdomen: Tenderness noted in the epigastric region, no organomegaly.
+Rectum and Anus: Not examined.
+External Genitalia: Normal for age.
+Spine: Normal alignment.
+Limbs: No cyanosis or edema.
+Nervous System: Alert and oriented, no focal neurological deficits.
+
+Specialist Examination:
+Hematology consultation requested, confirming G6PD deficiency.
+
+Auxiliary Examination:
+CBC: Hemoglobin 9.5 g/dL, Reticulocytes: 4%. Bilirubin: 2.5 mg/dL. G6PD activity assay: markedly reduced.
+
+Preliminary Diagnosis:
+Favism leading to acute hemolytic anemia.
+
+Diagnostic Basis:
+History of fava bean ingestion, clinical symptoms, and laboratory results confirming hemolysis and G6PD deficiency.
+
+Differential Diagnosis:
+Infectious anemia ruled out due to lack of infection indicators. Hemolytic anemia consistent but G6PD deficiency confirms Favism. Thalassemia and hereditary spherocytosis ruled out with specific lab findings.
+
+Admission Records:
+Physician's Signature: Dr. John Smith
+
+Post-Admission Course Records:
+First Course Record: Patient admitted with acute hemolytic anemia secondary to Favism. Initial stabilization with IV fluids, blood transfusion if necessary. Monitoring hemoglobin levels and symptoms.
+Daily Course Records: 
+Jan 28: Stable after initial treatment, minor reduction in abdominal pain. Hemoglobin stable at 9.5 g/dL.
+Jan 29: Improvement in general condition, appetite returning. Continued monitoring.
+Senior Physician Rounds Records: Reviewed case on Jan 29, plan to continue supportive care and monitoring.
+Difficult Case Discussion Records: N/A
+Handover Records: Postoperative and intra-hospital handovers documented.
+Transfer Records: N/A
+Stage Summary: Patient showing significant improvement. Hemolysis controlled, ongoing supportive care.
+Emergency Records: No emergencies since admission.
+Invasive Procedure Records: N/A
+Consultation Records: Hematology consult confirming continued treatment plan.
+Surgery Related:
+Preoperative Summary: N/A
+Preoperative Discussion Records: N/A
+Anesthesia Preoperative Visit Records: N/A
+Anesthesia Records: N/A
+Surgery Records: N/A
+Surgery Safety Checklist: N/A
+Surgery Instrument Count Records: N/A
+Postoperative First Course Record: N/A
+Anesthesia Postoperative Visit Records: N/A
+Discharge Records: Pending improvement and stabilization of hemoglobin levels.
+Critically Ill Patient Care Records: N/A
+
+Medical Orders:
+Long-term Orders: IV fluids, regular monitoring of CBC and bilirubin levels, dietary restrictions against legumes.
+Temporary Orders: PRN for pain and fever management, blood transfusion if hemoglobin drops below 7g/dL.
+
+Auxiliary Examination Reports:
+CBC, Bilirubin, G6PD activity assay results confirming diagnosis of Favism.
+
+Temperature Chart:
+Jan 27: Temp 38°C, Pulse 105 bpm, Respiration 24 bpm, BP 110/70 mmHg.
+Jan 28: Temp 37.8°C, Pulse 100 bpm, Respiration 22 bpm, BP 108/68 mmHg.
+
+Blood Transfusion Consent:
+Signed by parents pending need.
+
+Special Examination Consent:
+Signed for hematology and specific assays.
+
+Critical Condition Notice: N/A

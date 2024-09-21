@@ -1,0 +1,177 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Charleston, Linden, Court, what is the gender of the defendants G. Torres and J. Gonzalez?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "- **Gender:** Female"
+                    ]
+                },
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "Gender: Female"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Vandalia, Bayside, Court, the defendant G. Torres is female; according to the judgment of Charleston, Linden, Court, the defendant J. Gonzalez is also female."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Charleston, Linden, Court, what is the ethnicity of the defendants G. Torres and J. Gonzalez?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "- **Ethnicity:** Hispanic"
+                    ]
+                },
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "Ethnicity: Hispanic"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Vandalia, Bayside, Court, the defendant G. Torres is of Hispanic ethnicity; according to the judgment of Charleston, Linden, Court, the defendant J. Gonzalez is also of Hispanic ethnicity."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Charleston, Linden, Court, where do the defendants G. Torres and J. Gonzalez reside?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "- **Residence:** 10, Ashton Street, Bayside"
+                    ]
+                },
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "Residence: 93 Lakewood Street, Linden"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Vandalia, Bayside, Court, the defendant G. Torres resides at 10, Ashton Street, Bayside; according to the judgment of Charleston, Linden, Court, the defendant J. Gonzalez resides at 93, Lakewood Street, Linden."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Charleston, Linden, Court, what are the occupations of the defendants G. Torres and J. Gonzalez?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "- **Occupation:** Elementary School Teacher"
+                    ]
+                },
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "Occupation: Unemployed"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Vandalia, Bayside, Court, the defendant G. Torres is an Elementary School Teacher; according to the judgment of Charleston, Linden, Court, the defendant J. Gonzalez is unemployed."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Charleston, Linden, Court, what crimes did the defendants G. Torres and J. Gonzalez commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "Based on the evidence presented and the legal arguments made, this court finds G. Torres guilty of the Crime of Traffic Accident as per Article No. 133."
+                    ]
+                },
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "The defendant, J. Gonzalez, stands charged with the Crime of Picking Quarrels and Provoking Trouble pursuant to Article 293."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Vandalia, Bayside, Court, the defendant G. Torres committed the Crime of Traffic Accident; according to the judgment of Charleston, Linden, Court, the defendant J. Gonzalez committed the Crime of Picking Quarrels and Provoking Trouble."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Charleston, Linden, Court, when were the judgments for the defendants G. Torres and J. Gonzalez delivered?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "**Dated:** 20th, April, 2023"
+                    ]
+                },
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "Date: 1st March 2023"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Vandalia, Bayside, Court, the judgment for G. Torres was delivered on 20th April, 2023; according to the judgment of Charleston, Linden, Court, the judgment for J. Gonzalez was delivered on 1st March, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Charleston, Linden, Court, what sentences were given to the defendants G. Torres and J. Gonzalez?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "Consequently, this court sentences G. Torres to four years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "In accordance with the laws governing this court, particularly in reference to Article 293, this court sentences the defendant, J. Gonzalez, to a fixed-term imprisonment of three (3) years for the Crime of Picking Quarrels and Provoking Trouble."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Vandalia, Bayside, Court, the defendant G. Torres was sentenced to four years of fixed-term imprisonment; according to the judgment of Charleston, Linden, Court, the defendant J. Gonzalez was sentenced to a fixed-term imprisonment of 3 years."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Charleston, Linden, Court, whose sentencing time is longer, G. Torres or J. Gonzalez?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "Consequently, this court sentences G. Torres to four years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "In accordance with the laws governing this court, particularly in reference to Article 293, this court sentences the defendant, J. Gonzalez, to a fixed-term imprisonment of three (3) years for the Crime of Picking Quarrels and Provoking Trouble."
+                    ]
+                }
+            ],
+            "answer": "G. Torres was sentenced to four years of fixed-term imprisonment, while J. Gonzalez was sentenced to three years of fixed-term imprisonment. G. Torres' sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Vandalia, Bayside, Court and Charleston, Linden, Court, whose judgment time is earlier, G. Torres or J. Gonzalez?",
+            "ref": [
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "**Dated:** 20th, April, 2023"
+                    ]
+                },
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "Date: 1st March 2023"
+                    ]
+                }
+            ],
+            "answer": "J. Gonzalez's judgment time is earlier, as the judgment date was 1st March, 2023, while G. Torres' judgment date was 20th April, 2023."
+        }
+    ]
+}

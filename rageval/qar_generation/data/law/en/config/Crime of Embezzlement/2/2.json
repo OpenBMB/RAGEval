@@ -1,0 +1,71 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Quarryville, Yorktown, Court",
+        "procuratorate": "Quarryville, Yorktown, Procuratorate"
+    },
+    "chiefJudge": "J. Phillips",
+    "judge": "G. Campbell",
+    "clerk": "R. Gutierrez",
+    "defendant": {
+        "name": "J. Thompson",
+        "gender": "male",
+        "birthdate": "24th, August, 1988",
+        "residence": "47, Charleston street, Yorktown",
+        "ethnicity": "Caucasian",
+        "occupation": "Finance Manager at Yorktown Municipal Office"
+    },
+    "defenseLawyer": {
+        "name": "B. Lewis",
+        "lawFirm": "Lewis & Associates"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "15th, March, 2023"
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "20th, March, 2023"
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "25th, March, 2023"
+        },
+        {
+            "event": "Arrest",
+            "date": "30th, March, 2023"
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Embezzlement",
+            "details": [
+                {
+                    "timePeriod": "January 2023 - February 2023",
+                    "behavior": "During this period, J. Thompson transferred $50,000 from the Yorktown Municipal Office's disaster relief fund into a personal bank account held at Yorktown Federal Bank.",
+                    "evidence": "Bank statements showing the transfers, witness testimony from municipal office employees, and email correspondence between J. Thompson and bank officials."
+                },
+                {
+                    "timePeriod": "February 2023 - March 2023",
+                    "behavior": "J. Thompson authorized payments totaling $30,000 to a fictitious vendor, diverting funds intended for emergency rescue operations into a private business owned by an associate.",
+                    "evidence": "Invoices from the fictitious vendor, security footage showing Thompson authorizing payments, and confession from the associate."
+                },
+                {
+                    "timePeriod": "March 2023",
+                    "behavior": "On multiple occasions, J. Thompson used his position to withdraw an additional $20,000 from the flood control budget, which was again diverted for personal use.",
+                    "evidence": "Audit reports showing discrepancies, statement from the accounting department head, and physical evidence of unauthorized access to budget accounts."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "10th, October, 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Embezzlement",
+                "sentence": "J. Thompson is sentenced to a fixed-term imprisonment of ten years and is ordered to pay restitution of the embezzled $100,000.",
+                "sentencingConsiderations": "Given the defendant's embezzlement of a large amount of public funds intended for disaster relief, the court deemed this as severe embezzlement, justifying a ten-year sentence. Probation is not applicable due to the serious nature of the crime."
+            }
+        ]
+    }
+}

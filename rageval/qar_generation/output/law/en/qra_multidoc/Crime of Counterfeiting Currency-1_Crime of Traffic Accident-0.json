@@ -1,0 +1,141 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Greenfield, Fairview Court and Vandalia, Bayside Court, what are the occupations of the defendants H. Price and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "**Occupation:** Graphic Designer"
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "- **Occupation:** Elementary School Teacher"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Greenfield, Fairview Court, the defendant H. Price is a Graphic Designer; according to the judgment of Vandalia, Bayside Court, the defendant G. Torres is an Elementary School Teacher."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Greenfield, Fairview Court and Vandalia, Bayside Court, what are the judgment dates for the cases involving H. Price and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "**Date: 10th March 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "**Dated:** 20th, April, 2023"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Greenfield, Fairview Court, the judgment date for the case involving H. Price is 10th March 2023; according to the judgment of Vandalia, Bayside Court, the judgment date for the case involving G. Torres is 20th April 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Greenfield, Fairview Court and Vandalia, Bayside Court, what are the genders of the defendants H. Price and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "**Gender:** Female"
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "- **Gender:** Female"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Greenfield, Fairview Court, the defendant H. Price is female; according to the judgment of Vandalia, Bayside Court, the defendant G. Torres is also female."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Greenfield, Fairview Court and Vandalia, Bayside Court, what are the names of the defense lawyers for the defendants H. Price and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "**Defense Lawyer:** T. Scott"
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "- **Name:** U. Cox"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Greenfield, Fairview Court, the defense lawyer for H. Price is T. Scott; according to the judgment of Vandalia, Bayside Court, the defense lawyer for G. Torres is U. Cox."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Greenfield, Fairview, Court and Vandalia, Bayside, Court, whose sentencing time is longer, H. Price or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "The defendant, H. Price, is hereby sentenced to:",
+                        "- **Imprisonment:** Eight (8) years"
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "Based on the evidence presented and the legal arguments made, this court finds G. Torres guilty of the Crime of Traffic Accident as per Article No. 133.",
+                        "Consequently, this court sentences G. Torres to four years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "H. Price was sentenced to eight years of imprisonment, while G. Torres was sentenced to four years of fixed-term imprisonment. H. Price's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Greenfield, Fairview, Court and Vandalia, Bayside, Court, whose judgment date is earlier, H. Price or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "**Date: 10th March 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "**Dated:** 20th, April, 2023"
+                    ]
+                }
+            ],
+            "answer": "H. Price's judgment date is 10th March 2023, while G. Torres's judgment date is 20th April 2023. H. Price's judgment date is earlier."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Greenfield, Fairview, Court and Vandalia, Bayside, Court, whose case was filed earlier, H. Price or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "On 1st February 2023, the Greenfield, Fairview Procuratorate received an anonymous tip regarding suspected counterfeiting operations based in a small warehouse located at 16, Riverside Avenue, Fairview."
+                    ]
+                },
+                {
+                    "court_name": "Vandalia, Bayside, Court",
+                    "content": [
+                        "The proceedings of this case began on the 15th of March, 2023, when the case was filed and an investigation was initiated."
+                    ]
+                }
+            ],
+            "answer": "H. Price's case was filed on 1st February 2023, while G. Torres's case was filed on 15th March 2023. H. Price's case was filed earlier."
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Glenwood, Quailwood, Court, where do the defendants Q. Ruiz and Y. Nelson reside?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Residence:** 14, Seaside Street, Springfield"
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "*Residence:* 79 Yorkshire Street, Quailwood"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Springfield, Court, the defendant Q. Ruiz resides at 14, Seaside Street, Springfield; according to the judgment of Glenwood, Quailwood, Court, the defendant Y. Nelson resides at 79, Yorkshire Street, Quailwood."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Glenwood, Quailwood, Court, what are the occupations of the defendants Q. Ruiz and Y. Nelson?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Occupation:** Unemployed"
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "*Occupation:* Barista"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Springfield, Court, the defendant Q. Ruiz is unemployed; according to the judgment of Glenwood, Quailwood, Court, the defendant Y. Nelson is a barista."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Glenwood, Quailwood, Court, what crimes did the defendants Q. Ruiz and Y. Nelson commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "The defendant, Q. Ruiz, stands formally charged with the crime of theft under Article No. 264."
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "The defendant, Y. Nelson, is charged with the Crime of Picking Quarrels and Provoking Trouble as specified under Article No. 293 of the Criminal Code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Springfield, Court, the defendant Q. Ruiz committed the crime of theft; according to the judgment of Glenwood, Quailwood, Court, the defendant Y. Nelson committed the crime of picking quarrels and provoking trouble."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Glenwood, Quailwood, Court, on what dates were the judgments for the defendants Q. Ruiz and Y. Nelson issued?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "**This judgment is decreed and executed by this court on the 20th of March, 2023.**"
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "June 10, 2023"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Springfield, Court, the judgment for Q. Ruiz was issued on 20th March, 2023; according to the judgment of Glenwood, Quailwood, Court, the judgment for Y. Nelson was issued on 10th June, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Glenwood, Quailwood, Court, what sentences were given to the defendants Q. Ruiz and Y. Nelson?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Imprisonment:** Q. Ruiz is hereby sentenced to 5 years of fixed-term imprisonment.",
+                        "- **Monetary Fine:** Q. Ruiz is ordered to pay a fine of $5,000, which must be settled within 90 days of the issuance of this judgment."
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "Accordingly, Y. Nelson is sentenced to three years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Springfield, Court, the defendant Q. Ruiz was sentenced to 5 years of fixed-term imprisonment and fined $5,000; according to the judgment of Glenwood, Quailwood, Court, the defendant Y. Nelson was sentenced to three years of fixed-term imprisonment."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Glenwood, Quailwood, Court, whose sentencing time is longer, Q. Ruiz or Y. Nelson?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Imprisonment:** Q. Ruiz is hereby sentenced to 5 years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "Accordingly, Y. Nelson is sentenced to three years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "Q. Ruiz was sentenced to five years of fixed-term imprisonment, while Y. Nelson was sentenced to three years of fixed-term imprisonment. Q. Ruiz's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Glenwood, Quailwood, Court, whose judgment time is earlier, Q. Ruiz or Y. Nelson?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "**This judgment is decreed and executed by this court on the 20th of March, 2023.**"
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "June 10, 2023"
+                    ]
+                }
+            ],
+            "answer": "Q. Ruiz's judgment time is earlier, as the judgment date was 20th March, 2023, while Y. Nelson's judgment date was 10th June, 2023."
+        }
+    ]
+}

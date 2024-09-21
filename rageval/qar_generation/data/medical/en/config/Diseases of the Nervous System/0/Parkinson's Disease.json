@@ -1,0 +1,115 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "K. Mendoza",
+            "Gender": "male",
+            "Age": "35",
+            "Ethnicity": "Latino",
+            "Marital Status": "Single",
+            "Occupation": "Software Engineer",
+            "Address": "72, Trenton street, Southport",
+            "Admission Time": "20th, June",
+            "Record Time": "20th, June",
+            "Historian": "Self",
+            "Hospital Name": "Southport General Hospital"
+        },
+        "Chief Complaint": "Tremors in hands and slow movement for 6 months",
+        "Present Illness": {
+            "Onset": "6 months ago, at home, gradual onset with no identifiable trigger",
+            "Main Symptoms": "Tremors primarily in right hand, difficulty initiating movement, bradykinesia, postural instability; symptoms have progressively worsened",
+            "Accompanying Symptoms": "Chronic constipation, intermittent anosmia, fragmented sleep with vivid dreams, incidences of dizziness, anxiety, and depression",
+            "Diagnosis and Treatment History": "Evaluated by primary care doctor 3 months ago, prescribed carbidopa/levodopa with some symptom improvement, referred to neurology for further evaluation",
+            "General Condition Changes": "Decreased mental sharpness, poor sleep quality, normal appetite, inconsistent bowel movements, slight weight loss (approx. 4 lbs over 6 months)"
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy prior to onset of symptoms",
+            "Disease History": "No chronic illnesses",
+            "Infectious Disease History": "No significant infectious diseases",
+            "Immunization History": "Up-to-date with regular vaccinations",
+            "Surgery and Trauma History": "Appendectomy at age 12",
+            "Blood Transfusion History": "No history of blood transfusions",
+            "Allergy History": "No known allergies"
+        },
+        "Personal History": {
+            "Birthplace": "Southport",
+            "Residence": "Permanent resident of 72, Trenton street, Southport",
+            "Living Habits": "Non-smoker, occasional social alcohol consumption, sedentary lifestyle",
+            "Occupation and Working Conditions": "Works as a software engineer, job involves prolonged sitting and computer use, minimal physical activity",
+            "Exposure History": "No known exposure to industrial toxins, dust, or radioactive substances",
+            "Travel History": "No significant travel history in the past two years"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Single",
+                "Marriage Age": "N/A",
+                "Spouse's Health Condition": "N/A",
+                "Children's Condition": "N/A"
+            },
+            "Family History": "Father has hypertension; mother is healthy; no known family history of Parkinson's Disease or other neurodegenerative diseases"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "98.6°F",
+                "Pulse": "76 bpm",
+                "Respiration": "16 breaths per minute",
+                "Blood Pressure": "120/80 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "No rashes or lesions; normal turgor",
+                "Mucous Membranes": "Moist and pink",
+                "Lymph Nodes": "No lymphadenopathy",
+                "Head and Organs": "Normocephalic, atraumatic; cranial nerves II-XII intact",
+                "Neck": "Supple, no thyromegaly or lymphadenopathy",
+                "Chest": "Clear to auscultation bilaterally; regular heart sounds with no murmurs",
+                "Abdomen": "Soft, non-tender, no hepatosplenomegaly",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Normal male genitalia, no abnormalities noted",
+                "Spine": "No deformities, normal curvature",
+                "Limbs": "Tremor noted in right hand; mild rigidity in limbs; bradykinesia with reduced dexterity",
+                "Nervous System": "Impaired rapid alternating movements; normal reflexes; slightly decreased gag reflex"
+            }
+        },
+        "Specialist Examination": "Bradykinesia, resting tremor in right hand, cogwheel rigidity, and postural instability",
+        "Auxiliary Examination": "MRI of brain: Mild atrophy of the substantia nigra; DAT scan: Decreased uptake in the putamen suggesting Parkinsonism",
+        "Preliminary Diagnosis": "Primary: Parkinson's Disease",
+        "Diagnostic Basis": "Presentation of motor symptoms (tremor, bradykinesia, rigidity), positive response to dopaminergic medication, MRI, and DAT scan findings",
+        "Differential Diagnosis": "Parkinson's Plus Syndromes (no significant atypical features), Essential Tremor (absence of postural tremor only), Depression (no significant rigidity or resting tremor)",
+        "Admission Records": {
+            "Physician's Signature": "Dr. John Doe"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Presented with right hand tremor, bradykinesia, rigidity, postural instability. Positive FH of hypertension. Diagnosis of Parkinson's Disease made. Initiation of physical therapy, occupational therapy, and continuation of carbidopa/levodopa.",
+            "Daily Course Records": [
+                "21st June: Slight improvement in tremor control, no significant side effects from medication.",
+                "22nd June: Continues to respond to treatment, ongoing physiotherapy for mobility.",
+                "23rd June: Patient reported improved sleep, mild constipation remains."
+            ],
+            "Senior Physician Rounds Records": "Reviewed case, confirmed diagnosis and management plan, recommended DBS consideration in future.",
+            "Difficult Case Discussion Records": "No difficult case discussions required.",
+            "Handover Records": "Handover to evening shift undertaken, no new issues to report.",
+            "Transfer Records": "No inter-departmental transfers.",
+            "Stage Summary": "Patient stable, responding to treatment. Plan for outpatient follow-up with neurology.",
+            "Emergency Records": "No emergency events occurred.",
+            "Invasive Procedure Records": "No invasive procedures performed.",
+            "Consultation Records": "Consulted with dietitian for management of constipation.",
+            "Discharge Records": "Discharged on 24th June with instructions on medication adherence, follow-up appointments scheduled.",
+            "Critically Ill Patient Care Records": "No critically ill events."
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Carbidopa/Levodopa 25/100 mg PO TID, Physiotherapy daily, Occupational therapy as per schedule",
+            "Temporary Orders": "Stool softener PRN for constipation, Sleep hygiene education, Dietary modifications"
+        },
+        "Auxiliary Examination Reports": "21st June: MRI, DAT scan results",
+        "Temperature Chart": "20th June: Temp: 98.6°F, Pulse: 76 bpm, Resp: 16 bpm, BP: 120/80 mmHg; 21st June: Temp: 98.4°F, Pulse: 78 bpm, Resp: 17 bpm, BP: 118/76 mmHg; 22nd June: Temp: 98.5°F, Pulse: 77 bpm, Resp: 16 bpm, BP: 119/78 mmHg",
+        "Blood Transfusion Consent": "Not applicable",
+        "Special Examination Consent": "Consent for DAT scan obtained",
+        "Critical Condition Notice": "Not applicable"
+    },
+    "DiseaseType": {
+        "Diseases of the Nervous System": {
+            "Name": "Parkinson's Disease",
+            "Symptoms": "Motor symptoms: tremors, rigidity of limbs, slow movement, instability in posture; Non-motor symptoms: presence of constipation, olfactory disorders, sleep disorders, autonomic dysfunction, and mental and cognitive impairments",
+            "Differential Diagnosis": "Parkinson's Plus Syndromes that occur with other neurodegenerative diseases (overall less frequent occurrence of resting tremor), Essential Tremor (postural/action tremor as the only manifestation), Depression (lack of facial expression, monotonous speech, without rigidity and tremor)"
+        }
+    }
+}

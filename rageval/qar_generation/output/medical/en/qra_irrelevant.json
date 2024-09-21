@@ -1,0 +1,422 @@
+[
+    {
+        "hospital_patient_name": "Parker General Hospital_Y. Evans",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Parker General Hospital, what is the color of the patient's car?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Parker General Hospital_Y. Evans",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Parker General Hospital, how many books has Y. Evans read in the past year?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Parker General Hospital_Y. Evans",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Parker General Hospital, what is the favorite food of Y. Evans' spouse?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Parker General Hospital_Y. Evans",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Parker General Hospital, what is the name of Y. Evans' childhood pet?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Parker General Hospital_Y. Evans",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Parker General Hospital, what is the favorite movie of Y. Evans' children?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Parker General Hospital_Y. Evans",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Parker General Hospital, what is the brand of the television in Y. Evans' living room?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Parker General Hospital_Y. Evans",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Parker General Hospital, what is the favorite vacation destination of Y. Evans?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Parker General Hospital_Y. Evans",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Parker General Hospital, what is the name of Y. Evans' best friend?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Parker General Hospital_Y. Evans",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Parker General Hospital, what is the favorite hobby of Y. Evans' sibling with diabetes?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Parker General Hospital_Y. Evans",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Parker General Hospital, what is the name of the doctor who performed Y. Evans' appendectomy?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Apple Hospital",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Apple Hospital, what is the color of the sky on Mars?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Apple Hospital",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Apple Hospital, how many grains of sand are there in the Sahara Desert?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Apple Hospital",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Apple Hospital, what is the favorite food of the President of the United States?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Apple Hospital",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Apple Hospital, what is the meaning of life?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Apple Hospital",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Apple Hospital, how many stars are in the Milky Way galaxy?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Apple Hospital",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Apple Hospital, what is the secret recipe for Coca-Cola?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Apple Hospital",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Apple Hospital, what is the exact number of leaves on a specific oak tree in Central Park?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Apple Hospital",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Apple Hospital, what is the next winning lottery number?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Apple Hospital",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Apple Hospital, what is the true identity of the author of the pseudonym 'Elena Ferrante'?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Apple Hospital",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Apple Hospital, what is the exact number of atoms in a grain of salt?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Farmington General Hospital_J. Brooks",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Farmington General Hospital, what is the color of the patient's car?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Farmington General Hospital_J. Brooks",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Farmington General Hospital, how many books has J. Brooks read in the past year?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Farmington General Hospital_J. Brooks",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Farmington General Hospital, what is the favorite food of J. Brooks' spouse?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Farmington General Hospital_J. Brooks",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Farmington General Hospital, what is the name of J. Brooks' childhood pet?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Farmington General Hospital_J. Brooks",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Farmington General Hospital, what is the favorite movie of J. Brooks' children?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Farmington General Hospital_J. Brooks",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Farmington General Hospital, what is the brand of J. Brooks' wristwatch?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Farmington General Hospital_J. Brooks",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Farmington General Hospital, what is the favorite vacation destination of J. Brooks?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Farmington General Hospital_J. Brooks",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Farmington General Hospital, what is the name of J. Brooks' high school?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Farmington General Hospital_J. Brooks",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Farmington General Hospital, what is the favorite sport of J. Brooks?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Farmington General Hospital_J. Brooks",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Farmington General Hospital, what is the name of J. Brooks' best friend?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Bridgewater City Hospital, what is the color of the car parked outside the hospital?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Bridgewater City Hospital, how many books are in the hospital library?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Bridgewater City Hospital, what is the favorite food of the hospital's chief surgeon?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Bridgewater City Hospital, what is the name of the hospital's janitor?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Bridgewater City Hospital, how many patients visited the hospital on the 21st of October?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Bridgewater City Hospital, what is the hospital's annual budget?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Bridgewater City Hospital, what is the favorite movie of Z. Walker's mother?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Bridgewater City Hospital, how many windows are in the patient's room?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Bridgewater City Hospital, what is the name of the restaurant where Z. Walker had his meal?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Bridgewater City Hospital, what is the brand of the IV fluid used?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Upton General Hospital_K. Moore",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Upton General Hospital, what is the color of the car parked in front of K. Moore's house?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Upton General Hospital_K. Moore",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Upton General Hospital, how many books did K. Moore read last year?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Upton General Hospital_K. Moore",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Upton General Hospital, what is the favorite food of K. Moore's son?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Upton General Hospital_K. Moore",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Upton General Hospital, what is the name of K. Moore's childhood pet?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Upton General Hospital_K. Moore",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Upton General Hospital, what is the airspeed velocity of an unladen swallow?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Upton General Hospital_K. Moore",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Upton General Hospital, what is the meaning of life?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Upton General Hospital_K. Moore",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Upton General Hospital, how many stars are in the Milky Way galaxy?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Upton General Hospital_K. Moore",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Upton General Hospital, what is the favorite movie of K. Moore's late spouse?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Upton General Hospital_K. Moore",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Upton General Hospital, what is the total number of leaves on the tree outside K. Moore's window?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Upton General Hospital_K. Moore",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Upton General Hospital, what is the favorite song of K. Moore's father?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Granville General Hospital, what is the capital of Mars?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Granville General Hospital, how many grains of sand are there on Brighton Beach?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Granville General Hospital, what is the favorite color of the hospital's chief physician?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Granville General Hospital, how many stars are in the Andromeda Galaxy?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Granville General Hospital, what is the meaning of life?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Granville General Hospital, what is the airspeed velocity of an unladen swallow?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Granville General Hospital, who will win the next World Cup?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Granville General Hospital, what is the square root of the number of stars in the Milky Way?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Granville General Hospital, what is the favorite food of the hospital's janitor?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "Based on the hospitalization record of Granville General Hospital, how many parallel universes exist?",
+        "ref": [],
+        "answer": "Unable to answer."
+    }
+]

@@ -1,0 +1,71 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Trenton, Eastwood, Court",
+        "procuratorate": "Trenton, Eastwood, Procuratorate"
+    },
+    "chiefJudge": "P. Reyes",
+    "judge": "N. Mendoza",
+    "clerk": "Z. Davis",
+    "defendant": {
+        "name": "C. King",
+        "gender": "male",
+        "birthdate": "23th, October, 1974",
+        "residence": "64, Arlington street, Eastwood",
+        "ethnicity": "Caucasian",
+        "occupation": "Construction worker"
+    },
+    "defenseLawyer": {
+        "name": "O. Rodriguez",
+        "lawFirm": "Rodriguez & Associates"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "15th January 2023"
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "20th January 2023"
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "22nd January 2023"
+        },
+        {
+            "event": "Arrest",
+            "date": "25th January 2023"
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Intentional Homicide",
+            "details": [
+                {
+                    "timePeriod": "8:30 PM - 9:00 PM, 12th January 2023",
+                    "behavior": "C. King, together with an accomplice, forcibly entered the residence of the victim, identified as J. Doe, located at 128 Maple Avenue, Eastwood. King was armed with a kitchen knife, which he used to stab J. Doe multiple times in the chest, causing fatal injuries.",
+                    "evidence": "1. Written evidence: Witness statement from neighbor, M. Wong, confirming sighting of C. King entering the victim's residence. 2. Physical evidence: The blood-stained knife found at the scene with C. King's fingerprints. 3. Medical evidence: Autopsy report confirming death by multiple stab wounds consistent with the knife recovered. 4. Surveillance footage from a nearby ATM showing C. King and accomplice walking towards the victim's residence."
+                },
+                {
+                    "timePeriod": "9:05 PM, 12th January 2023",
+                    "behavior": "Immediately after the incident, C. King was seen fleeing the scene of the crime in a blue Ford pickup truck, later identified as belonging to his accomplice.",
+                    "evidence": "1. Witness testimony: Statement from local shop owner, R. Patel, who saw the vehicle speeding away from the crime scene. 2. Surveillance footage: Traffic camera footage capturing the Ford pickup truck on Bridge Street."
+                },
+                {
+                    "timePeriod": "10:00 PM, 12th January 2023",
+                    "behavior": "C. King discarded his blood-stained clothing and the weapon in a dumpster behind a grocery store on Park Avenue. He then returned to his residence.",
+                    "evidence": "1. Physical evidence: Blood-stained clothing and knife retrieved from the dumpster. 2. Forensic analysis: Blood on the clothing and knife matches the victim’s DNA. 3. Surveillance footage: Grocery store camera showing C. King disposing items in the dumpster."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "5th March 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Intentional Homicide",
+                "sentence": "Life imprisonment with the possibility of parole after 25 years",
+                "sentencingConsiderations": "The severity of the crime, premeditation, and brutality of the act were taken into account, while giving weight to the lack of a prior criminal record of the defendant."
+            }
+        ]
+    }
+}

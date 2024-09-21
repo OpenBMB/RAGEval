@@ -1,0 +1,134 @@
+Hospitalization Record:
+Basic Information:
+Name: Y. Evans
+Gender: female
+Age: 47
+Ethnicity: Caucasian
+Marital Status: Married
+Occupation: Teacher
+Address: 72, Ashland street, Parker
+Admission Time: 1st, May
+Record Time: 1st, May
+Historian: Self
+Hospital Name: Parker General Hospital
+
+Chief Complaint:
+Nasal congestion, tinnitus, and hearing loss for 2 months
+
+Present Illness:
+Onset: Onset was gradual, noticed 2 months ago, no clear prodrome
+Main Symptoms: Persistent nasal congestion, tinnitus in the left ear, progressive hearing loss in the same ear. Severity has increased over the past month. Symptoms temporarily alleviate with decongestants, but aggravate at night and with exertion.
+Accompanying Symptoms: Intermittent blood-tinged nasal discharge, headaches, occasional facial numbness, double vision, and a noticeable lump on the left side of the neck.
+Diagnosis and Treatment History: Visited local clinic 1 month ago; prescribed decongestants and antibiotics with minimal relief. Underwent nasal endoscopy and CT scan revealing a lesion in the nasopharynx. Referred to our hospital for further management.
+General Condition Changes: Mental state and sleep unaffected; appetite slightly decreased, experiencing weight loss (~5lbs in the past month). Normal urination and defecation.
+
+Past History:
+General Health Condition: Generally healthy
+Disease History: Hypertension diagnosed 5 years ago, well-controlled with medication
+Infectious Disease History: No significant infectious diseases reported
+Immunization History: Up to date with routine vaccinations
+Surgery and Trauma History: Appendectomy at age 25
+Blood Transfusion History: None
+Allergy History: Allergic to penicillin
+
+Personal History:
+Birthplace: Parker
+Residence: 72, Ashland street, Parker
+Living Habits: Non-smoker, social alcohol consumption, balanced diet, regular exercise
+Occupation and Working Conditions: Teaches in a middle school, no significant exposure to industrial toxins
+Exposure History: No significant exposure to toxins, dust, or radioactive substances in the past
+Travel History: No recent travel history
+
+Marital and Family History:
+Marital History:
+Marital Status: Married
+Marriage Age: 24
+Spouse's Health Condition: Healthy
+Children's Condition: Two children, healthy
+Menstrual History:
+Menarche Age: 13
+Menstruation Duration: 5 days
+Menstruation Interval: 28 days
+Last Menstruation: 15th, April
+Menstrual Volume: Normal
+Dysmenorrhea: Mild
+Family History: Father and mother are healthy, one sibling with diabetes. No known family history of malignancy or genetic disorders.
+
+Physical Examination:
+General Condition:
+Temperature: 98.6°F
+Pulse: 76 bpm
+Respiration: 16 breaths/min
+Blood Pressure: 130/80 mmHg
+Systematic Examination:
+Skin: No rashes or lesions
+Mucous Membranes: Moist, pale
+Lymph Nodes: Palpable, firm, non-tender lymph nodes on the left side of the neck
+Head and Organs: Normal head shape and size, no external abnormalities
+Neck: Swelling on the left side, limited mobility due to lump
+Chest: Normal thoracic configuration, clear lung sounds, normal heart sounds, no murmurs
+Abdomen: Soft, non-tender, no organomegaly or masses
+Rectum and Anus: Not examined
+External Genitalia: Normal
+Spine: No deformities, normal curvature
+Limbs: Normal range of motion, no edema
+Nervous System: Cranial nerves II-XII intact, no focal neurological deficits
+
+Specialist Examination:
+Nasal endoscopy revealed a mass in the left nasopharynx extending to the left Eustachian tube. Biopsy confirmed malignant cells.
+
+Auxiliary Examination:
+CT scan: Lesion in the left nasopharynx, possible invasion into the adjacent structures.
+Nasal endoscopy: Mass present, biopsy taken.
+Audiogram: Left ear conductive hearing loss.
+MRI: Detailed imaging, awaiting report.
+
+Preliminary Diagnosis:
+1. Nasopharyngeal malignancy
+2. Secondary conductive hearing loss
+
+Diagnostic Basis:
+History of nasal congestion, tinnitus, and hearing loss.
+Nasal endoscopy and biopsy confirming malignancy.
+CT scan showing lesion location and extent.
+
+Differential Diagnosis:
+Nasopharyngeal angiofibroma: excluded due to age and biopsy results;
+Lymphadenitis: excluded due to biopsy;
+Malignant lymphoma: excluded by biopsy;
+Nasopharyngeal tuberculosis: less likely due to absence of TB symptoms and negative TB tests;
+Proliferative lesions: ruled out by biopsy results.
+
+Admission Records:
+Physician's Signature: Dr. J. Smith
+
+Post-Admission Course Records:
+First Course Record: Patient admitted with primary complaint of persistent nasal congestion, tinnitus, and hearing loss. Physical examination and imaging indicated nasopharyngeal malignancy. Initial treatment plan includes further imaging, a multidisciplinary review, and initiation of chemoradiotherapy.
+Daily Course Records: Daily monitoring of symptoms, response to treatment, any new symptoms or side effects.
+Senior Physician Rounds Records: Reviewed by senior physician Dr. M. Johnson on May 2nd. Confirmed diagnosis, discussed treatment plan, and advised additional imaging.
+Difficult Case Discussion Records: Multidisciplinary team meeting on May 3rd. Consensus on chemoradiotherapy; surgery not recommended at this stage.
+Handover Records: Handover on May 5th, no major changes in patient conditions, ongoing monitoring and imaging studies.
+
+Medical Orders:
+Long-term Orders: 
+1. Bed rest with head elevation;
+2. Continuous monitoring of vital signs;
+3. Chemotherapy as per protocol;
+4. Radiation therapy consultation
+Temporary Orders: 
+1. CT scan
+2. MRI
+3. Continuous oxygen if desaturation occurs
+4. IV hydration
+
+Auxiliary Examination Reports:
+CT scan: Nasopharyngeal lesion;
+Biopsy: Confirmed malignancy;
+Audiogram: Conductive hearing loss;
+MRI: Pending results.
+
+Temperature Chart:
+Maintained within normal range, pulse and BP stable.
+
+Special Examination Consent:
+Consent obtained for MRI

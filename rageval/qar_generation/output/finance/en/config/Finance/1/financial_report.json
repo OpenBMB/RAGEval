@@ -1,0 +1,345 @@
+{
+    "Report Type": "Corporate Financial Report",
+    "Report Time": "2020",
+    "Company Information": {
+        "Name": "Acme Financial Services",
+        "Establishment Date": "October 1, 2002",
+        "Main Business": "Acme Financial Services provides comprehensive financial solutions to clients, including wealth management, investment advisory, and financial planning.",
+        "Registration Location": "New York, United States",
+        "Listing Status": "Publicly listed on NYSE",
+        "Industry": "Finance"
+    },
+    "Report Content": [
+        {
+            "Type": "Financial Information",
+            "Significant Events": [
+                {
+                    "Event": "Dividend Distribution",
+                    "Time": "February, 2020",
+                    "Description": "The company decided to distribute $50 million of dividends to shareholders.",
+                    "Impact": "Returned to the investors, enhanced shareholder returns.",
+                    "Sub Events": [
+                        {
+                            "Event": "Expansion of Services",
+                            "Time": "March, 2020",
+                            "Description": "Acme Financial Services expanded its service offerings by introducing a new division specializing in insurance services.",
+                            "Impact": "Increased revenue streams and diversified service portfolio."
+                        },
+                        {
+                            "Event": "Strategic Partnership",
+                            "Time": "April, 2020",
+                            "Description": "Acme Financial Services entered into a strategic partnership with a leading technology company to enhance its digital capabilities and improve customer experience.",
+                            "Impact": "Access to cutting-edge technology, improved operational efficiencies, and enhanced customer satisfaction."
+                        },
+                        {
+                            "Event": "Corporate Restructuring",
+                            "Time": "August, 2020",
+                            "Description": "As part of its ongoing efforts to optimize operations, Acme Financial Services implemented a corporate restructuring, streamlining various departments and functions.",
+                            "Impact": "Improved cost management, increased operational efficiency, and enhanced scalability."
+                        },
+                        {
+                            "Event": "New Investment Product Launch",
+                            "Time": "November, 2020",
+                            "Description": "Acme Financial Services launched a new investment product offering, targeting high-net-worth individuals, which provides exclusive access to a diversified portfolio of alternative assets.",
+                            "Impact": "Expanded client base and increased revenue through additional investment product sales."
+                        }
+                    ]
+                },
+                {
+                    "Event": "Asset Restructuring",
+                    "Time": "April, 2020",
+                    "Description": "The company underwent an asset restructuring, optimizing its business structure.",
+                    "Impact": "Improved operational efficiency, increased company value."
+                },
+                {
+                    "Event": "Major Investment",
+                    "Time": "May, 2020",
+                    "Description": "The company invested $100 million in Project Alpha, a high-tech startup focusing on artificial intelligence and data analytics.",
+                    "Impact": "Further broadened the company's business areas, enhanced profitability."
+                },
+                {
+                    "Event": "Major Asset Acquisition",
+                    "Time": "August, 2020",
+                    "Description": "The company completed the asset acquisition of XYZ Investment Bank, with a total value of $500 million.",
+                    "Impact": "Expanded the company's business scope, enhanced market competitiveness."
+                },
+                {
+                    "Event": "Large-scale Financing",
+                    "Time": "September, 2020",
+                    "Description": "The company conducted a large-scale financing activity, raising $1 billion of funds through a bond issuance.",
+                    "Impact": "Strengthened the company's financial strength, supported expansion and development."
+                },
+                {
+                    "Event": "Debt Restructuring",
+                    "Time": "November, 2020",
+                    "Description": "To optimize the capital structure, the company underwent debt restructuring, reducing liabilities by $200 million.",
+                    "Impact": "Improved the company's financial condition, reduced financial costs."
+                },
+                {
+                    "Event": "Significant Equity Acquisition",
+                    "Time": "December, 2020",
+                    "Description": "The company completed the acquisition of 40% equity of ABC Insurance Company.",
+                    "Impact": "Further expanded the company's market share, enhanced the company's control."
+                }
+            ],
+            "Involved Indicators": [
+                {
+                    "Indicator": "Operating Income",
+                    "Description": "The total amount of main business income and other business income within a certain accounting period.",
+                    "Influencing Factors": [
+                        "Market Demand",
+                        "Changes in Product Prices"
+                    ],
+                    "Value": "$500 million"
+                },
+                {
+                    "Indicator": "Net Profit",
+                    "Description": "The net income of the company within a certain accounting period, i.e., total income minus total costs and taxes.",
+                    "Influencing Factors": [
+                        "Operating Income",
+                        "Cost Control",
+                        "Non-recurring Gains and Losses"
+                    ],
+                    "Value": "$150 million"
+                },
+                {
+                    "Indicator": "Total Assets",
+                    "Description": "The total amount of assets owned by the company at the end of the accounting period.",
+                    "Influencing Factors": [
+                        "Asset Acquisition",
+                        "Asset Disposal",
+                        "Asset Revaluation"
+                    ],
+                    "Value": "$2.5 billion"
+                },
+                {
+                    "Indicator": "Total Liabilities",
+                    "Description": "The total amount of debts the company is obligated to repay at the end of the accounting period.",
+                    "Influencing Factors": [
+                        "New Debt Issuance",
+                        "Debt Repayment",
+                        "Debt Restructuring"
+                    ],
+                    "Value": "$1.2 billion"
+                },
+                {
+                    "Indicator": "Shareholder Equity",
+                    "Description": "The total amount of equity belonging to shareholders at the end of the accounting period.",
+                    "Influencing Factors": [
+                        "Net Profit",
+                        "Dividend Distribution",
+                        "Capital Reserves"
+                    ],
+                    "Value": "$1.3 billion"
+                },
+                {
+                    "Indicator": "Cash Flow",
+                    "Description": "The total cash inflows and outflows of the company within a certain accounting period.",
+                    "Influencing Factors": [
+                        "Operating Activities",
+                        "Investment Activities",
+                        "Financing Activities"
+                    ],
+                    "Value": "$300 million"
+                },
+                {
+                    "Indicator": "Debt Ratio",
+                    "Description": "The ratio of total liabilities to total assets, reflecting the company's debt level.",
+                    "Influencing Factors": [
+                        "Changes in Total Liabilities",
+                        "Changes in Total Assets"
+                    ],
+                    "Value": "48.0%"
+                },
+                {
+                    "Indicator": "Debt to Assets Ratio",
+                    "Description": "The percentage of total liabilities to total assets, a measure of the company's financial leverage.",
+                    "Influencing Factors": [
+                        "Increases or decreases in assets and liabilities"
+                    ],
+                    "Value": "32.0%"
+                },
+                {
+                    "Indicator": "Return on Equity",
+                    "Description": "Reflects the operational efficiency of shareholder equity, namely the ratio of net profit to average shareholder equity.",
+                    "Influencing Factors": [
+                        "Change in Net Profit",
+                        "Change in Shareholder Equity"
+                    ],
+                    "Value": "11.5%"
+                }
+            ]
+        }
+    ],
+    "Additional Information": [
+        {
+            "Name": "Future Outlook",
+            "Content": [
+                {
+                    "Name": "Financial Strategy",
+                    "Description": "Acme Financial Services plans to focus on cost control measures to improve profitability. Additionally, the company will explore new opportunities for strategic capital investments."
+                },
+                {
+                    "Name": "Investment Plans",
+                    "Description": "The company aims to invest significantly in financial technology advancements to enhance its service offerings. Acme Financial Services also plans to expand its operations internationally through strategic partnerships and acquisitions."
+                },
+                {
+                    "Name": "Risk Management",
+                    "Description": "Acme Financial Services has identified cybersecurity threats and changing regulatory environments as major financial risks. The company will implement robust cybersecurity measures and closely monitor regulatory changes to mitigate these risks effectively."
+                }
+            ]
+        }
+    ],
+    "Generated Outline": "Outline for the Corporate Financial Report:\n\nI. Introduction\n   A. Company Information\n      1. Name: Acme Financial Services\n      2. Establishment Date: October 1, 2002\n      3. Main Business: Offers comprehensive financial solutions including wealth management, investment advisory, and financial planning\n      4. Registration Location: New York, United States\n      5. Listing Status: Publicly listed on NYSE\n      6. Industry: Finance\n\nII. Financial Information\n   A. Significant Events\n      1. Dividend Distribution (February, 2020)\n         - Description: Company decided to distribute $50 million in dividends to shareholders\n         - Impact: Enhanced shareholder returns\n         - Sub Events:\n            a. Expansion of Services (March, 2020)\n               - Description: Expanded service offerings by introducing a new division specializing in insurance services\n               - Impact: Increased revenue streams and diversified service portfolio\n            b. Strategic Partnership (April, 2020)\n               - Description: Entered into a strategic partnership with a leading technology company to enhance digital capabilities and improve customer experience\n               - Impact: Access to cutting-edge technology, improved operational efficiencies, and enhanced customer satisfaction\n            c. Corporate Restructuring (August, 2020)\n               - Description: Implemented corporate restructuring, streamlining various departments and functions\n               - Impact: Improved cost management, increased operational efficiency, and enhanced scalability\n            d. New Investment Product Launch (November, 2020)\n               - Description: Launched a new investment product targeting high-net-worth individuals, offering exclusive access to a diversified portfolio of alternative assets\n               - Impact: Expanded client base and increased revenue through additional investment product sales\n      2. Asset Restructuring (April, 2020)\n         - Description: Underwent asset restructuring to optimize business structure\n         - Impact: Improved operational efficiency and increased company value\n      3. Major Investment (May, 2020)\n         - Description: Invested $100 million in Project Alpha, a high-tech startup focusing on artificial intelligence and data analytics\n         - Impact: Broadened the company's business areas and enhanced profitability\n      4. Major Asset Acquisition (August, 2020)\n         - Description: Completed asset acquisition of XYZ Investment Bank worth $500 million\n         - Impact: Expanded the company's business scope and enhanced market competitiveness\n      5. Large-scale Financing (September, 2020)\n         - Description: Conducted a large-scale financing activity, raised $1 billion through bond issuance\n         - Impact: Strengthened financial strength, supported expansion and development\n      6. Debt Restructuring (November, 2020)\n         - Description: Underwent debt restructuring, reducing liabilities by $200 million\n         - Impact: Improved financial condition and reduced financial costs\n      7. Significant Equity Acquisition (December, 2020)\n         - Description: Completed acquisition of 40% equity of ABC Insurance Company\n         - Impact: Further expanded market share and enhanced control\n\n   B. Involved Indicators\n      1. Operating Income ($500 million)\n         - Description: Total main business income and other business income within a certain accounting period\n         - Influencing Factors: Market Demand, Changes in Product Prices\n      2. Net Profit ($150 million)\n         - Description: Net income of the company within a certain accounting period, i.e., total income minus total costs and taxes\n         - Influencing Factors: Operating Income, Cost Control, Non-recurring Gains and Losses\n      3. Total Assets ($2.5 billion)\n         - Description: Total amount of assets owned by the company at the end of the accounting period\n         - Influencing Factors: Asset Acquisition, Asset Disposal, Asset Revaluation\n      4. Total Liabilities ($1.2 billion)\n         - Description: Total amount of debts the company is obligated to repay at the end of the accounting period\n         - Influencing Factors: New Debt Issuance, Debt Repayment, Debt Restructuring\n      5. Shareholder Equity ($1.3 billion)\n         - Description: Total amount of equity belonging to shareholders at the end of the accounting period\n         - Influencing Factors: Net Profit, Dividend Distribution, Capital Reserves\n      6. Cash Flow ($300 million)\n         - Description: Total cash inflows and outflows of the company within a certain accounting period\n         - Influencing Factors: Operating Activities, Investment Activities, Financing Activities\n      7. Debt Ratio (48.0%)\n         - Description: Ratio of total liabilities to total assets, reflecting the company's debt level\n         - Influencing Factors: Changes in Total Liabilities, Changes in Total Assets\n      8. Debt to Assets Ratio (32.0%)\n         - Description: Percentage of total liabilities to total assets, a measure of the company's financial leverage\n         - Influencing Factors: Increases or decreases in assets and liabilities\n      9. Return on Equity (11.5%)\n         - Description: Reflects the operational efficiency of shareholder equity, i.e., ratio of net profit to average shareholder equity\n         - Influencing Factors: Change in Net Profit, Change in Shareholder Equity\n\nIII. Additional Information\n   A. Future Outlook\n      1. Financial Strategy\n         - Description: Plan to focus on cost control measures to improve profitability. Explore new opportunities for strategic capital investments.\n      2. Investment Plans\n         - Description: Aim to invest significantly in financial technology advancements to enhance service offerings. Plan to expand operations internationally through strategic partnerships and acquisitions.\n      3. Risk Management\n         - Description: Identified cybersecurity threats and changing regulatory environments as major financial risks. Will implement robust cybersecurity measures and closely monitor regulatory changes to mitigate these risks effectively.",
+    "Generated Summary": "Acme Financial Services is a publicly listed finance company established on October 1, 2002 in New York, United States, specializing in providing comprehensive financial solutions such as wealth management, investment advisory, and financial planning.",
+    "Generated Article": "In recent years, Acme Financial Services has experienced significant events that have shaped its operations and financial performance. One such event was the decision to distribute $50 million in dividends to shareholders in February 2020. This move aimed to enhance shareholder returns and was followed by several sub-events that further strengthened the company's position. Firstly, in March 2020, Acme Financial Services expanded its service offerings by introducing a new division specializing in insurance services. This expansion not only diversified the company's service portfolio but also increased its revenue streams.\n\nFurthermore, in April 2020, Acme Financial Services entered into a strategic partnership with a leading technology company. This partnership aimed to enhance the company's digital capabilities and improve customer experience. By gaining access to cutting-edge technology, Acme Financial Services was able to improve operational efficiencies and enhance customer satisfaction. Additionally, in August 2020, the company implemented a corporate restructuring, streamlining various departments and functions. This restructuring resulted in improved cost management, increased operational efficiency, and enhanced scalability.\n\nIn November 2020, Acme Financial Services launched a new investment product targeting high-net-worth individuals. This product offered exclusive access to a diversified portfolio of alternative assets, expanding the company's client base and increasing revenue through additional investment product sales. These events have had a significant impact on Acme Financial Services' financial indicators.\n\nOperating income for the company reached $500 million, driven by market demand and changes in product prices. Net profit stood at $150 million, influenced by the company's operating income, cost control measures, and non-recurring gains and losses. Acme Financial Services' total assets reached $2.5 billion, reflecting the impact of asset acquisitions, disposals, and revaluations. The company's total liabilities amounted to $1.2 billion, influenced by new debt issuances, debt repayments, and debt restructuring.\n\nShareholder equity stood at $1.3 billion, driven by net profit, dividend distribution, and capital reserves. The company's cash flow reached $300 million, reflecting the total cash inflows and outflows from operating activities, investment activities, and financing activities. Acme Financial Services maintained a debt ratio of 48.0%, indicating its debt level in relation to total assets. The debt to assets ratio stood at 32.0%, reflecting the company's financial leverage. Finally, the return on equity for Acme Financial Services was 11.5%, reflecting the operational efficiency of shareholder equity.\n\nLooking ahead, Acme Financial Services has outlined its future outlook. The company plans to focus on cost control measures to improve profitability and explore new opportunities for strategic capital investments. Additionally, Acme Financial Services aims to invest significantly in financial technology advancements to enhance its service offerings. The company also plans to expand its operations internationally through strategic partnerships and acquisitions. However, Acme Financial Services has identified cybersecurity threats and changing regulatory environments as major financial risks. To mitigate these risks effectively, the company will implement robust cybersecurity measures and closely monitor regulatory changes.\n\nIn conclusion, Acme Financial Services has experienced significant events that have shaped its operations and financial performance. Through dividend distributions, strategic partnerships, corporate restructuring, and new product launches, the company has enhanced shareholder returns, improved operational efficiency, and expanded its market share. The company's financial indicators reflect these events, with operating income, net profit, total assets, total liabilities, shareholder equity, cash flow, debt ratios, and return on equity all demonstrating the impact of these events. Looking ahead, Acme Financial Services remains focused on cost control, technological advancements, and risk management to drive future growth and success.",
+    "qa_fact_based": [
+        {
+            "question type": "Unanswerable Question",
+            "question": "On which stock exchange is Acme Financial Services publicly listed?",
+            "answer": "Unable to answer",
+            "ref": []
+        },
+        {
+            "question type": "Factual Question",
+            "question": "How much did Acme Financial Services distribute in dividends in February 2020?",
+            "answer": "$50 million.",
+            "ref": [
+                "One such event was the decision to distribute $50 million in dividends to shareholders in February 2020."
+            ]
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "What was the value of the asset acquisition of XYZ Investment Bank completed by Acme Financial Services in August 2020?",
+            "answer": "Unable to answer",
+            "ref": []
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "How much did Acme Financial Services raise through bond issuance in September 2020?",
+            "answer": "Unable to answer",
+            "ref": []
+        },
+        {
+            "question type": "Factual Question",
+            "question": "What was the net profit of Acme Financial Services?",
+            "answer": "$150 million.",
+            "ref": [
+                "Net profit stood at $150 million, influenced by the company's operating income, cost control measures, and non-recurring gains and losses."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "What was the total asset value of Acme Financial Services?",
+            "answer": "$2.5 billion.",
+            "ref": [
+                "Acme Financial Services' total assets reached $2.5 billion, reflecting the impact of asset acquisitions, disposals, and revaluations."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "What was the total liabilities amount of Acme Financial Services?",
+            "answer": "$1.2 billion.",
+            "ref": [
+                "The company's total liabilities amounted to $1.2 billion, influenced by new debt issuances, debt repayments, and debt restructuring."
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How did Acme Financial Services' decision to distribute $50 million in dividends in February 2020 lead to enhanced market competitiveness through subsequent events such as the expansion of services, strategic partnership, corporate restructuring, and the launch of a new investment product?",
+            "answer": "Acme Financial Services' decision to distribute $50 million in dividends in February 2020 enhanced shareholder returns. Following this, the company expanded its services in March 2020 by introducing a new division specializing in insurance services, increasing revenue streams and diversifying its service portfolio. In April 2020, Acme entered into a strategic partnership with a leading technology company, enhancing its digital capabilities and improving customer experience. In August 2020, the company implemented corporate restructuring, streamlining various departments and functions, which improved cost management and operational efficiency. Finally, in November 2020, Acme launched a new investment product targeting high-net-worth individuals, expanding its client base and increasing revenue. These steps collectively enhanced Acme Financial Services' market competitiveness.",
+            "ref": [
+                "One such event was the decision to distribute $50 million in dividends to shareholders in February 2020.",
+                "Firstly, in March 2020, Acme Financial Services expanded its service offerings by introducing a new division specializing in insurance services.",
+                "This expansion not only diversified the company's service portfolio but also increased its revenue streams.",
+                "Furthermore, in April 2020, Acme Financial Services entered into a strategic partnership with a leading technology company.",
+                "This partnership aimed to enhance the company's digital capabilities and improve customer experience.",
+                "Additionally, in August 2020, the company implemented a corporate restructuring, streamlining various departments and functions.",
+                "This restructuring resulted in improved cost management, increased operational efficiency, and enhanced scalability.",
+                "In November 2020, Acme Financial Services launched a new investment product targeting high-net-worth individuals.",
+                "This product offered exclusive access to a diversified portfolio of alternative assets, expanding the company's client base and increasing revenue through additional investment product sales."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How does Acme Financial Services' operating income of $500 million influence its return on equity of 11.5% through the net profit and shareholder equity?",
+            "answer": "Acme Financial Services' operating income of $500 million, driven by market demand and changes in product prices, directly influences its net profit. The net profit of $150 million is influenced by the company's operating income, cost control measures, and non-recurring gains and losses. This net profit, in turn, impacts the shareholder equity, which stands at $1.3 billion, driven by net profit, dividend distribution, and capital reserves. The return on equity (ROE) of 11.5% reflects the operational efficiency of shareholder equity. Therefore, the operating income contributes to the net profit, which, when considered alongside the shareholder equity, results in a return on equity of 11.5%.",
+            "ref": [
+                "Operating income for the company reached $500 million, driven by market demand and changes in product prices.",
+                "Net profit stood at $150 million, influenced by the company's operating income, cost control measures, and non-recurring gains and losses.",
+                "Shareholder equity stood at $1.3 billion, driven by net profit, dividend distribution, and capital reserves.",
+                "Finally, the return on equity for Acme Financial Services was 11.5%, reflecting the operational efficiency of shareholder equity."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How does Acme Financial Services plan to enhance its service offerings through its future investment plans, focusing on financial technology advancements and international expansion?",
+            "answer": "Acme Financial Services plans to enhance its service offerings by significantly investing in financial technology advancements to improve its technological capabilities, allowing it to offer more innovative and efficient financial solutions to its clients. Additionally, Acme plans to expand its operations internationally through strategic partnerships and acquisitions. By forming alliances with other companies and acquiring new businesses, Acme can broaden its market reach and diversify its service portfolio, further enhancing its service offerings.",
+            "ref": [
+                "Additionally, Acme Financial Services aims to invest significantly in financial technology advancements to enhance its service offerings.",
+                "The company also plans to expand its operations internationally through strategic partnerships and acquisitions."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How did Acme Financial Services' debt restructuring in November 2020 lead to an improved financial condition through the reduction of liabilities and lower financial costs?",
+            "answer": "Acme Financial Services' debt restructuring in November 2020 resulted in a reduction of liabilities. This significant decrease in debt obligations improved the company's balance sheet and reduced the financial burden. Consequently, the lower liabilities led to reduced financial costs, such as interest payments, which further improved the company's financial condition. By decreasing its debt and associated costs, Acme was able to enhance its overall financial stability and operational efficiency.",
+            "ref": [
+                "Additionally, in August 2020, the company implemented a corporate restructuring, streamlining various departments and functions.",
+                "This restructuring resulted in improved cost management, increased operational efficiency, and enhanced scalability.",
+                "The company's total liabilities amounted to $1.2 billion, influenced by new debt issuances, debt repayments, and debt restructuring."
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "Based on Acme Financial Services' 2020 financial report, summarize the significant financial events that occurred in 2020.",
+            "answer": "According to Acme Financial Services' 2020 financial report, several significant financial events occurred in 2020. In February, the company distributed $50 million in dividends to shareholders, enhancing shareholder returns. In March, the company expanded its service offerings by introducing a new division specializing in insurance services, which increased revenue streams and diversified its service portfolio. In April, Acme entered into a strategic partnership with a leading technology company to enhance digital capabilities and improve customer experience. In August, the company implemented a corporate restructuring, streamlining various departments and functions to improve cost management and operational efficiency. In November, the company launched a new investment product targeting high-net-worth individuals, expanding its client base and increasing revenue through additional investment product sales.",
+            "ref": [
+                "One such event was the decision to distribute $50 million in dividends to shareholders in February 2020.",
+                "This move aimed to enhance shareholder returns and was followed by several sub-events that further strengthened the company's position.",
+                "Firstly, in March 2020, Acme Financial Services expanded its service offerings by introducing a new division specializing in insurance services.",
+                "This expansion not only diversified the company's service portfolio but also increased its revenue streams.",
+                "Furthermore, in April 2020, Acme Financial Services entered into a strategic partnership with a leading technology company.",
+                "This partnership aimed to enhance the company's digital capabilities and improve customer experience.",
+                "By gaining access to cutting-edge technology, Acme Financial Services was able to improve operational efficiencies and enhance customer satisfaction.",
+                "Additionally, in August 2020, the company implemented a corporate restructuring, streamlining various departments and functions.",
+                "This restructuring resulted in improved cost management, increased operational efficiency, and enhanced scalability.",
+                "In November 2020, Acme Financial Services launched a new investment product targeting high-net-worth individuals.",
+                "This product offered exclusive access to a diversified portfolio of alternative assets, expanding the company's client base and increasing revenue through additional investment product sales."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "Based on Acme Financial Services' 2020 financial report, summarize the key financial performance indicators.",
+            "answer": "Acme Financial Services' 2020 financial report highlights several key financial performance indicators. The company reported an operating income of $500 million, influenced by market demand and changes in product prices. The net profit for the year was $150 million, affected by operating income, cost control, and non-recurring gains and losses. Total assets amounted to $2.5 billion, influenced by asset acquisition, disposal, and revaluation. Total liabilities were $1.2 billion, impacted by new debt issuance, debt repayment, and debt restructuring. Shareholder equity stood at $1.3 billion, influenced by net profit, dividend distribution, and capital reserves. The company had a cash flow of $300 million, driven by operating, investment, and financing activities. The debt ratio was 48.0%, reflecting the company's debt level, and the debt to assets ratio was 32.0%, indicating financial leverage. Lastly, the return on equity was 11.5%, reflecting the operational efficiency of shareholder equity.",
+            "ref": [
+                "Operating income for the company reached $500 million, driven by market demand and changes in product prices.",
+                "Net profit stood at $150 million, influenced by the company's operating income, cost control measures, and non-recurring gains and losses.",
+                "Acme Financial Services' total assets reached $2.5 billion, reflecting the impact of asset acquisitions, disposals, and revaluations.",
+                "The company's total liabilities amounted to $1.2 billion, influenced by new debt issuances, debt repayments, and debt restructuring.",
+                "Shareholder equity stood at $1.3 billion, driven by net profit, dividend distribution, and capital reserves.",
+                "The company's cash flow reached $300 million, reflecting the total cash inflows and outflows from operating activities, investment activities, and financing activities.",
+                "Acme Financial Services maintained a debt ratio of 48.0%, indicating its debt level in relation to total assets.",
+                "The debt to assets ratio stood at 32.0%, reflecting the company's financial leverage.",
+                "Finally, the return on equity for Acme Financial Services was 11.5%, reflecting the operational efficiency of shareholder equity."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "Based on Acme Financial Services' 2020 financial report, summarize the company's future outlook.",
+            "answer": "According to Acme Financial Services' 2020 financial report, the company has a clear and promising future outlook. The financial strategy focuses on cost control measures to improve profitability and exploring new opportunities for strategic capital investments. The company plans to invest significantly in financial technology advancements to enhance its service offerings. Additionally, Acme aims to expand its operations internationally through strategic partnerships and acquisitions. In terms of risk management, the company has identified cybersecurity threats and changing regulatory environments as major financial risks. To mitigate these risks, Acme will implement robust cybersecurity measures and closely monitor regulatory changes.",
+            "ref": [
+                "Looking ahead, Acme Financial Services has outlined its future outlook.",
+                "The company plans to focus on cost control measures to improve profitability and explore new opportunities for strategic capital investments.",
+                "Additionally, Acme Financial Services aims to invest significantly in financial technology advancements to enhance its service offerings.",
+                "The company also plans to expand its operations internationally through strategic partnerships and acquisitions.",
+                "However, Acme Financial Services has identified cybersecurity threats and changing regulatory environments as major financial risks.",
+                "To mitigate these risks effectively, the company will implement robust cybersecurity measures and closely monitor regulatory changes."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+Hospitalization Record:
+
+Basic Information:
+- Name: Q. Gomez
+- Gender: Female
+- Age: 28
+- Ethnicity: Latina
+- Marital Status: Single
+- Occupation: Graphic Designer
+- Address: 40, Wilton Street, Ashland
+- Admission Time: 9th April
+- Record Time: 9th April
+- Historian: Self
+- Hospital Name: Ashland City Hospital
+
+Chief Complaint:
+- Blurred vision and severe headache for 3 days
+
+Present Illness:
+- Onset: Three days ago at home, sudden onset with no prodromal symptoms. Possible trigger unknown.
+- Main Symptoms: Blurred vision in both eyes, severe headache rated 8/10, persistent for 3 days, worsened by dim light, not relieved by over-the-counter analgesics.
+- Accompanying Symptoms: Eye swelling, eye pain, nausea, vomiting, foggy vision, unequal pupil sizes, and decreased vision.
+- Diagnosis and Treatment History: Visited an urgent care center two days ago, prescribed eye drops and analgesics with no significant improvement.
+- General Condition Changes: Mental state anxious due to persistent symptoms; sleep normal but disturbed by pain, appetite decreased, normal urination and defecation, slight weight loss noted.
+
+Past History:
+- General Health Condition: Generally healthy
+- Disease History: No chronic illnesses
+- Infectious Disease History: None reported
+- Immunization History: Up-to-date
+- Surgery and Trauma History: Appendectomy at age 22
+- Blood Transfusion History: None
+- Allergy History: Allergic to penicillin
+
+Personal History:
+- Birthplace: Ashland
+- Residence: Ashland
+- Living Habits: Non-smoker, occasional social alcohol use
+- Occupation and Working Conditions: Graphic designer, frequent screen use
+- Exposure History: No exposure to industrial toxins, dust, radioactive substances, etc.
+- Travel History: No recent travel
+
+Marital and Family History:
+- Marital History:
+    - Marital Status: Single
+    - Marriage Age: N/A
+    - Spouse's Health Condition: N/A
+    - Children's Condition: N/A
+- Menstrual History:
+    - Menarche Age: 12
+    - Menstruation Duration: 5 days
+    - Menstruation Interval: 28 days
+    - Last Menstruation: 5 days ago
+    - Menstrual Volume: Normal
+    - Dysmenorrhea: Mild
+- Family History: Parents healthy, no history of eye diseases in siblings
+
+Physical Examination:
+- General Condition:
+    - Temperature: 36.8°C
+    - Pulse: 78 bpm
+    - Respiration: 16 breaths/min
+    - Blood Pressure: 120/80 mmHg
+- Systematic Examination:
+    - Skin: Normal, no abnormalities
+    - Mucous Membranes: Moist, no lesions
+    - Lymph Nodes: Not palpable
+    - Head and Organs: Normocephalic, PERRLA abnormal (unequal pupils)
+    - Neck: Supple, no masses
+    - Chest: Normal, lungs clear, heart sounds normal
+    - Abdomen: Soft, non-tender, liver and spleen not palpable
+    - Rectum and Anus: Normal
+    - External Genitalia: Normal
+    - Spine: Normal curvature
+    - Limbs: No edema, full range of motion
+    - Nervous System: Cranial nerves intact, no focal deficits
+
+Specialist Examination:
+- Ophthalmology: Elevated intraocular pressure noted, cup-to-disc ratio increased, visual field test shows peripheral vision loss.
+
+Auxiliary Examination:
+- Tonometry showing elevated intraocular pressure at 28 mmHg.
+- Gonioscopy confirming closed angles.
+- Visual field test indicating peripheral vision loss.
+
+Preliminary Diagnosis:
+- Acute angle-closure glaucoma
+
+Diagnostic Basis:
+- Based on history of sudden vision change, eye pain, elevated intraocular pressure, visual field loss, and examination findings.
+
+Differential Diagnosis:
+- Acute iridocyclitis and acute conjunctivitis ruled out by lack of photophobia and discharge.
+- Acute gastroenteritis and neurological diseases ruled out by ocular findings.
+
+Admission Records:
+- Physician's Signature: Dr. Smith
+
+Post-Admission Course Records:
+- First Course Record: Admitted with acute angle-closure glaucoma, started on mannitol IV and acetazolamide to lower intraocular pressure. Scheduled for emergency laser peripheral iridotomy.
+- Daily Course Records: Day 1 post-surgery: no complications noted, intraocular pressure decreased to 18 mmHg. Pain and vision improving. Continue monitoring and medications.
+- Senior Physician Rounds Records: Reviewed patient on morning rounds, stable post-op, plan to continue current management and re-evaluate in 24 hours.
+- Difficult Case Discussion Records: N/A
+- Handover Records: Patient stable, no new issues overnight. Continue with postoperative care and monitoring.
+- Transfer Records: N/A
+- Stage Summary: At the end of week 1: Patient responding well to treatment, intraocular pressure stable. Discharge planned for tomorrow with follow-up in ophthalmology clinic.
+- Emergency Records: N/A
+- Invasive Procedure Records: N/A
+- Consultation Records: N/A
+
+Surgery Related:
+- Preoperative Summary: Confirmed diagnosis of acute angle-closure glaucoma, decided on laser peripheral iridotomy.
+- Preoperative Discussion Records: Discussed benefits and risks of surgery, potential for persistent high intraocular pressure or need for further surgery.
+- Anesthesia Preoperative Visit Records: Patient evaluated and cleared for local anesthesia with sedation.
+- Anesthesia Records: Local anesthesia with sedation administered, patient tolerated well.
+- Surgery Records: Laser peripheral iridotomy performed without complications, intraocular pressure reduced post-op.
+- Surgery Safety Checklist: Completed, all items verified and confirmed.
+- Surgery Instrument Count Records: All instruments accounted for post-surgery, no discrepancies.
+- Postoperative First Course Record: Patient stable, intraocular pressure decreased, pain controlled, no immediate complications.
+- Anesthesia Postoperative Visit Records: Patient recovering well from anesthesia, normal vital signs, no adverse effects noted.
+
+Discharge Records:
+- Patient discharged on 15th April with instructions for medications and follow-up in 1 week.
+
+Critically Ill Patient Care Records:
+- N/A
+
+Medical Orders:
+- Long-term Orders: Acetazolamide 250 mg PO QID
+- Temporary Orders: Mannitol IV PRN for elevated intraocular pressure
+
+Auxiliary Examination Reports:
+- Tonometry, Gonioscopy, Visual Field Test
+
+Temperature Chart:
+- T: 36.8°C, P: 78 bpm, R: 16 bpm, BP: 120/80 mmHg
+
+Blood Transfusion Consent:
+- N/A
+
+Special Examination Consent:
+- Consent obtained for diagnostic tonometry and gonioscopy
+
+Critical Condition Notice:
+- N/A

@@ -1,0 +1,165 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Bayside, Roseville, Court, what were the respective courts involved in the cases of Q. Ruiz and V. Martin?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "# **Trenton, Springfield, Court**",
+                        "- **Court:** Trenton, Springfield, Court"
+                    ]
+                },
+                {
+                    "court_name": "Bayside, Roseville, Court",
+                    "content": [
+                        "**In the Court of Bayside, Roseville**",
+                        "Bayside, Roseville, Court"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Springfield, Court, the court involved in the case of Q. Ruiz was Trenton, Springfield, Court; according to the judgment of Bayside, Roseville, Court, the court involved in the case of V. Martin was Bayside, Roseville, Court."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Bayside, Roseville, Court, who were the chief judges presiding over the cases of Q. Ruiz and V. Martin?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Chief Judge:** O. Hill"
+                    ]
+                },
+                {
+                    "court_name": "Bayside, Roseville, Court",
+                    "content": [
+                        "**Before: Chief Judge N. Harris, Judge V. Robinson, Court Clerk A. Wood**",
+                        "**Chief Judge:**"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Springfield, Court, the chief judge presiding over the case of Q. Ruiz was O. Hill; according to the judgment of Bayside, Roseville, Court, the chief judge presiding over the case of V. Martin was N. Harris."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Bayside, Roseville, Court, where were the residences of the defendants Q. Ruiz and V. Martin?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Residence:** 14, Seaside Street, Springfield"
+                    ]
+                },
+                {
+                    "court_name": "Bayside, Roseville, Court",
+                    "content": [
+                        "Residence: 90, Yorkshire Street, Roseville"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Springfield, Court, the residence of the defendant Q. Ruiz was 14, Seaside Street, Springfield; according to the judgment of Bayside, Roseville, Court, the residence of the defendant V. Martin was 90, Yorkshire Street, Roseville."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Bayside, Roseville, Court, what crimes were committed by the defendants Q. Ruiz and V. Martin?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "The defendant, Q. Ruiz, stands formally charged with the crime of theft under Article No. 264."
+                    ]
+                },
+                {
+                    "court_name": "Bayside, Roseville, Court",
+                    "content": [
+                        "The procuratorate has charged V. Martin with the Crime of Embezzlement, classified under Article 384."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Springfield, Court, the defendant Q. Ruiz committed the crime of theft; according to the judgment of Bayside, Roseville, Court, the defendant V. Martin committed the crime of embezzlement."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Bayside, Roseville, Court, what were the judgment dates for the cases of Q. Ruiz and V. Martin?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "**This judgment is decreed and executed by this court on the 20th of March, 2023.**"
+                    ]
+                },
+                {
+                    "court_name": "Bayside, Roseville, Court",
+                    "content": [
+                        "**Date:** 10th October, 2022"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Springfield, Court, the judgment date for the case of Q. Ruiz was 20th, March, 2023; according to the judgment of Bayside, Roseville, Court, the judgment date for the case of V. Martin was 10th October, 2022."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Bayside, Roseville, Court, what were the sentences given to the defendants Q. Ruiz and V. Martin?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Imprisonment:** Q. Ruiz is hereby sentenced to 5 years of fixed-term imprisonment.",
+                        "- **Monetary Fine:** Q. Ruiz is ordered to pay a fine of $5,000, which must be settled within 90 days of the issuance of this judgment."
+                    ]
+                },
+                {
+                    "court_name": "Bayside, Roseville, Court",
+                    "content": [
+                        "V. Martin is hereby sentenced to 12 years of fixed-term imprisonment.",
+                        "Furthermore, she is rendered ineligible for parole within the first 8 years of her sentence."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Springfield, Court, the defendant Q. Ruiz was sentenced to 5 years of fixed-term imprisonment and fined $5,000; according to the judgment of Bayside, Roseville, Court, the defendant V. Martin was sentenced to 12 years of fixed-term imprisonment with no chance of parole within the first 8 years."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Bayside, Roseville, Court, whose sentencing time is longer, Q. Ruiz or V. Martin?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "After deliberation, this court finds the sentence of 5 years of fixed-term imprisonment and a fine of $5,000 to be a fitting punitive measure that respects the gravity of the offenses while aligning with statutory provisions under Article No. 264.",
+                        "- **Imprisonment:** Q. Ruiz is hereby sentenced to 5 years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Bayside, Roseville, Court",
+                    "content": [
+                        "V. Martin is hereby sentenced to 12 years of fixed-term imprisonment.",
+                        "Furthermore, she is rendered ineligible for parole within the first 8 years of her sentence."
+                    ]
+                }
+            ],
+            "answer": "Q. Ruiz was sentenced to 5 years of fixed-term imprisonment, while V. Martin was sentenced to 12 years of fixed-term imprisonment with no chance of parole within the first 8 years. V. Martin's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Bayside, Roseville, Court, whose judgment time is earlier, Q. Ruiz or V. Martin?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "**This judgment is decreed and executed by this court on the 20th of March, 2023.**"
+                    ]
+                },
+                {
+                    "court_name": "Bayside, Roseville, Court",
+                    "content": [
+                        "**Date:** 10th October, 2022"
+                    ]
+                }
+            ],
+            "answer": "V. Martin's judgment time is earlier, on 10th October, 2022, compared to Q. Ruiz's judgment time on 20th March, 2023."
+        }
+    ]
+}

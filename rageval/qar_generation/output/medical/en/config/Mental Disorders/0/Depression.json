@@ -1,0 +1,256 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "T. Jackson",
+            "Gender": "male",
+            "Age": "95",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Widowed",
+            "Occupation": "Retired",
+            "Address": "91, Irvington street, Greenfield",
+            "Admission Time": "11th, July",
+            "Record Time": "11th, July",
+            "Historian": "Self",
+            "Hospital Name": "Greenfield General Hospital"
+        },
+        "Chief Complaint": "Persistent low mood, loss of interest in daily activities for the past 6 months",
+        "Present Illness": {
+            "Onset": "Onset 6 months ago, at home, gradual onset with periods of mild improvement and worsening, prodromal symptoms included occasional sadness, potential trigger might be the loss of a close friend",
+            "Main Symptoms": "Patient reports persistent low mood, describes it as a heaviness in his chest, constant throughout the day, severity moderate to severe, temporary improvement when with family, worse in the mornings, progression slow but steady decline",
+            "Accompanying Symptoms": "Low self-esteem, self-blame, occasional suicidal thoughts (denies plans or intent), poor concentration, difficulty sleeping (insomnia), decreased appetite",
+            "Diagnosis and Treatment History": "Visited family physician 4 months ago, prescribed antidepressants which provided minimal relief, attended 3 sessions of cognitive-behavioral therapy with limited success",
+            "General Condition Changes": "Mental state: depressed mood, Sleep: disrupted with frequent awakenings, Appetite: reduced, Urination and Defecation: normal, Weight: minor unintentional weight loss (~5 lbs)"
+        },
+        "Past History": {
+            "General Health Condition": "Previously in good health with mild age-related changes",
+            "Disease History": "Hypertension (well-controlled with medication), osteoarthritis",
+            "Infectious Disease History": "No significant infectious disease history",
+            "Immunization History": "Up-to-date, including seasonal flu vaccine",
+            "Surgery and Trauma History": "Left hip replacement 5 years ago, no complications",
+            "Blood Transfusion History": "None",
+            "Allergy History": "Allergic to penicillin (rash)"
+        },
+        "Personal History": {
+            "Birthplace": "Greenfield",
+            "Residence": "Same address for over 50 years",
+            "Living Habits": "Lives alone, previously active in community, reduced social interaction in recent months, non-smoker, occasional alcohol use",
+            "Occupation and Working Conditions": "Retired engineer, previously worked in office settings",
+            "Exposure History": "No known exposure to industrial toxins, dust, radioactive substances",
+            "Travel History": "Limited travel in recent years due to age and mobility issues"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Widowed",
+                "Marriage Age": "Married at 25, spouse passed 10 years ago",
+                "Spouse's Health Condition": "Spouse had cardiovascular disease",
+                "Children's Condition": "Two adult children, both in good health, maintain regular contact"
+            },
+            "Family History": "Father had depression, mother deceased due to stroke, two siblings (one with hypertension, other in good health)"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "98.4°F",
+                "Pulse": "70 bpm",
+                "Respiration": "16 breaths/min",
+                "Blood Pressure": "130/80 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Normal for age, no lesions or rashes",
+                "Mucous Membranes": "Pale, moist",
+                "Lymph Nodes": "Not enlarged",
+                "Head and Organs": "Normocephalic, atraumatic",
+                "Neck": "Supple, no masses or tenderness",
+                "Chest": "Normal shape, clear to auscultation bilaterally, heart sounds regular without murmurs",
+                "Abdomen": "Soft, non-tender, no hepatosplenomegaly",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Normal for age",
+                "Spine": "Normal alignment, mild tenderness in lumbar region",
+                "Limbs": "No edema, full range of motion in all joints",
+                "Nervous System": "Alert and oriented, cranial nerves II-XII intact, motor strength 5/5 in all extremities, sensory normal, reflexes 2+ and equal"
+            }
+        },
+        "Specialist Examination": "Psychiatric examination: Patient appears anxious and depressed, eye contact poor, speech slow, thought process logical but with themes of hopelessness and worthlessness",
+        "Auxiliary Examination": "CBC, CMP, TSH, Vitamin B12, and folate levels within normal limits; Head CT showed age-appropriate brain atrophy, no acute changes",
+        "Preliminary Diagnosis": "Major Depressive Disorder",
+        "Diagnostic Basis": "History of persistent low mood, loss of interest, and accompanying symptoms; physical and psychiatric examination; exclusion of other medical causes through lab tests",
+        "Differential Diagnosis": "Depression related to physical illness (excluded by normal test results), dementia (no significant cognitive impairment detected), schizophrenia (no psychotic symptoms), post-traumatic stress disorder (no trauma history), bipolar depression (no manic episodes)",
+        "Admission Records": {
+            "Physician's Signature": "Dr. A. Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted for further evaluation and management of depression. Plan includes continued antidepressant therapy, adjusting dosage, initiating psychotherapy, and monitoring for suicidal ideation.",
+            "Daily Course Records": "Patient reports slight improvement in mood with medication adjustment. Continues to have difficulty sleeping. Will initiate sleep hygiene education and consider sleep aid if necessary.",
+            "Senior Physician Rounds Records": "Senior physician agrees with current management plan, suggests increasing psychotherapy frequency.",
+            "Difficult Case Discussion Records": "",
+            "Handover Records": "No significant overnight changes, patient stable, plan to continue current treatment strategy.",
+            "Transfer Records": "",
+            "Stage Summary": "Following 1 week of treatment, patient reports moderate improvement in mood, better sleep, appetite remains low. Will continue current therapeutic regimen.",
+            "Emergency Records": "",
+            "Invasive Procedure Records": "",
+            "Consultation Records": "Consultation with psychiatry confirmed diagnosis and recommended combined pharmacotherapy and psychotherapy.",
+            "Discharge Records": "",
+            "Critically Ill Patient Care Records": ""
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Sertraline 50mg daily, Trazodone 50mg at bedtime if needed for sleep, General diet, Fall precautions, Daily psychiatrist visits",
+            "Temporary Orders": "CBC and CMP in 1 week, Increase Sertraline to 75mg if no significant effect in 2 weeks"
+        },
+        "Auxiliary Examination Reports": "See previous auxiliary examination comments",
+        "Temperature Chart": "Temperature: 98.4°F, Pulse: 70 bpm, Respiration: 16 breaths/min, Blood Pressure: 130/80 mmHg",
+        "Blood Transfusion Consent": "",
+        "Special Examination Consent": "Patient consented to psychiatric evaluation and treatment plan",
+        "Critical Condition Notice": ""
+    },
+    "DiseaseType": {
+        "Mental Disorders": {
+            "Name": "Depression",
+            "Symptoms": "Low mood, loss of interest, low self-esteem, self-blame, suicidal thoughts",
+            "Differential Diagnosis": "Depression related to physical illness, dementia, schizophrenia, post-traumatic stress disorder (PTSD), bipolar depression."
+        }
+    },
+    "Generated Article": "Hospitalization Record\n\nBasic Information:\nName: T. Jackson\nGender: Male\nAge: 95\nEthnicity: Caucasian\nMarital Status: Widowed\nOccupation: Retired\nAddress: 91, Irvington Street, Greenfield\nAdmission Time: 11th, July\nRecord Time: 11th, July\nHistorian: Self\nHospital Name: Greenfield General Hospital\n\nChief Complaint:\nPersistent low mood, loss of interest in daily activities for the past 6 months.\n\nPresent Illness:\nOnset: The symptoms started 6 months ago at home with a gradual onset. There have been periods of mild improvement and worsening. Prodromal symptoms included occasional sadness. A potential trigger might be the loss of a close friend.\nMain Symptoms: The patient reports a persistent low mood, describing it as a heaviness in the chest, constant throughout the day. The severity is moderate to severe, with temporary improvement when with family and worse in the mornings. The progression has been slow but steadily declining.\nAccompanying Symptoms: The patient has low self-esteem, self-blame, occasional suicidal thoughts (denies plans or intent), poor concentration, difficulty sleeping (insomnia), and decreased appetite.\nDiagnosis and Treatment History: The patient visited a family physician 4 months ago and was prescribed antidepressants, which provided minimal relief. He attended three sessions of cognitive-behavioral therapy with limited success.\nGeneral Condition Changes: \nMental state: Depressed mood.\nSleep: Disrupted with frequent awakenings.\nAppetite: Reduced.\nUrination and Defecation: Normal.\nWeight: Minor unintentional weight loss (~5 lbs).\n\nPast History:\nGeneral Health Condition: Previously in good health with mild age-related changes.\nDisease History: Hypertension (well-controlled with medication), osteoarthritis.\nInfectious Disease History: No significant infectious disease history.\nImmunization History: Up-to-date, including seasonal flu vaccine.\nSurgery and Trauma History: Left hip replacement 5 years ago, no complications.\nBlood Transfusion History: None.\nAllergy History: Allergic to penicillin (rash).\n\nPersonal History:\nBirthplace: Greenfield.\nResidence: Same address for over 50 years.\nLiving Habits: Lives alone, previously active in the community, has reduced social interaction in recent months, non-smoker, occasional alcohol use.\nOccupation and Working Conditions: Retired engineer, previously worked in office settings.\nExposure History: No known exposure to industrial toxins, dust, radioactive substances.\nTravel History: Limited travel in recent years due to age and mobility issues.\n\nMarital and Family History:\nMarital History:\nMarital Status: Widowed.\nMarriage Age: Married at 25, spouse passed 10 years ago.\nSpouse's Health Condition: Spouse had cardiovascular disease.\nChildren's Condition: Two adult children, both in good health, maintain regular contact.\n\nFamily History: \nFather had depression, mother deceased due to stroke, two siblings (one with hypertension, the other in good health).\n\nPhysical Examination:\nGeneral Condition:\nTemperature: 98.4°F\nPulse: 70 bpm\nRespiration: 16 breaths/min\nBlood Pressure: 130/80 mmHg\n\nSystematic Examination:\nSkin: Normal for age, no lesions or rashes.\nMucous Membranes: Pale, moist.\nLymph Nodes: Not enlarged.\nHead and Organs: Normocephalic, atraumatic.\nNeck: Supple, no masses or tenderness.\nChest: Normal shape, clear to auscultation bilaterally, heart sounds regular without murmurs.\nAbdomen: Soft, non-tender, no hepatosplenomegaly.\nRectum and Anus: Not examined.\nExternal Genitalia: Normal for age.\nSpine: Normal alignment, mild tenderness in the lumbar region.\nLimbs: No edema, full range of motion in all joints.\nNervous System: Alert and oriented, cranial nerves II-XII intact, motor strength 5/5 in all extremities, sensory normal, reflexes 2+ and equal.\n\nSpecialist Examination:\nPsychiatric examination: Patient appears anxious and depressed, eye contact poor, speech slow, thought process logical but with themes of hopelessness and worthlessness.\n\nAuxiliary Examination:\nCBC, CMP, TSH, Vitamin B12, and folate levels within normal limits; Head CT showed age-appropriate brain atrophy, no acute changes.\n\nPreliminary Diagnosis:\nMajor Depressive Disorder.\n\nDiagnostic Basis:\nHistory of persistent low mood, loss of interest, and accompanying symptoms; physical and psychiatric examination; exclusion of other medical causes through lab tests.\n\nDifferential Diagnosis:\nDepression related to physical illness (excluded by normal test results), dementia (no significant cognitive impairment detected), schizophrenia (no psychotic symptoms), post-traumatic stress disorder (no trauma history), bipolar depression (no manic episodes).\n\nAdmission Records:\nPhysician's Signature: Dr. A. Smith\n\nPost-Admission Course Records:\nFirst Course Record: Patient admitted for further evaluation and management of depression. Plan includes continued antidepressant therapy, adjusting dosage, initiating psychotherapy, and monitoring for suicidal ideation.\nDaily Course Records: Patient reports slight improvement in mood with medication adjustment. Continues to have difficulty sleeping. Will initiate sleep hygiene education and consider sleep aid if necessary.\nSenior Physician Rounds Records: Senior physician agrees with current management plan, suggests increasing psychotherapy frequency.\nDifficult Case Discussion Records: None.\nHandover Records: No significant overnight changes, patient stable, plan to continue current treatment strategy.\nTransfer Records: None.\nStage Summary: Following 1 week of treatment, patient reports moderate improvement in mood, better sleep, appetite remains low. Will continue current therapeutic regimen.\nEmergency Records: None.\nInvasive Procedure Records: None.\nConsultation Records: Consultation with psychiatry confirmed diagnosis and recommended combined pharmacotherapy and psychotherapy.\nDischarge Records: None.\nCritically Ill Patient Care Records: None.\n\nMedical Orders:\nLong-term Orders: \nSertraline 50mg daily\nTrazodone 50mg at bedtime if needed for sleep\nGeneral diet\nFall precautions\nDaily psychiatrist visits\n\nTemporary Orders: \nCBC and CMP in 1 week\nIncrease Sertraline to 75mg if no significant effect in 2 weeks\n\nAuxiliary Examination Reports:\nSee previous auxiliary examination comments.\n\nTemperature Chart:\nTemperature: 98.4°F\nPulse: 70 bpm\nRespiration: 16 breaths/min\nBlood Pressure: 130/80 mmHg\n\nBlood Transfusion Consent: None.\n\nSpecial Examination Consent:\nPatient consented to psychiatric evaluation and treatment plan.\n\nCritical Condition Notice: None.\n\nDiseaseType:\nMental Disorders:\nName: Depression\nSymptoms: Low mood, loss of interest, low self-esteem, self-blame, suicidal thoughts\nDifferential Diagnosis: Depression related to physical illness, dementia, schizophrenia, post-traumatic stress disorder (PTSD), bipolar depression.",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital, what is T. Jackson's chief complaint?",
+            "answer": "Persistent low mood, loss of interest in daily activities for the past 6 months.",
+            "ref": [
+                "Chief Complaint:",
+                "Persistent low mood, loss of interest in daily activities for the past 6 months."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital, what was the trigger for T. Jackson's persistent low mood?",
+            "answer": "The loss of a close friend.",
+            "ref": [
+                "A potential trigger might be the loss of a close friend."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital, what antidepressant was T. Jackson prescribed by his family physician?",
+            "answer": "Antidepressants.",
+            "ref": [
+                "Diagnosis and Treatment History: The patient visited a family physician 4 months ago and was prescribed antidepressants, which provided minimal relief."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital, what is T. Jackson allergic to?",
+            "answer": "Penicillin.",
+            "ref": [
+                "Allergy History: Allergic to penicillin (rash)."
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital, how many diagnostic bases were used to diagnose T. Jackson?",
+            "answer": "According to the records, T. Jackson's diagnosis of Major Depressive Disorder was based on 5 diagnostic bases: history of persistent low mood, loss of interest, accompanying symptoms, physical and psychiatric examination, and exclusion of other medical causes through lab tests.",
+            "ref": [
+                "Major Depressive Disorder.",
+                "Diagnostic Basis:",
+                "History of persistent low mood, loss of interest, and accompanying symptoms; physical and psychiatric examination; exclusion of other medical causes through lab tests."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital, how many auxiliary examinations did T. Jackson undergo?",
+            "answer": "According to the records, T. Jackson underwent 6 auxiliary examinations: CBC, CMP, TSH, Vitamin B12, folate levels, and Head CT.",
+            "ref": [
+                "Auxiliary Examination:",
+                "CBC, CMP, TSH, Vitamin B12, and folate levels within normal limits; Head CT showed age-appropriate brain atrophy, no acute changes."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital, how many daily course records were documented for T. Jackson?",
+            "answer": "According to the records, there were 4 daily course records documented for T. Jackson: slight improvement in mood, difficulty sleeping, sleep hygiene education, and consideration of a sleep aid.",
+            "ref": [
+                "Daily Course Records: Patient reports slight improvement in mood with medication adjustment.",
+                "Continues to have difficulty sleeping.",
+                "Will initiate sleep hygiene education and consider sleep aid if necessary."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital, how many long-term medical orders were prescribed for T. Jackson?",
+            "answer": "According to the records, T. Jackson had 5 long-term medical orders: Sertraline 50mg daily, Trazodone 50mg at bedtime if needed for sleep, General diet, Fall precautions, and Daily psychiatrist visits.",
+            "ref": [
+                "Long-term Orders:",
+                "Sertraline 50mg daily",
+                "Trazodone 50mg at bedtime if needed for sleep",
+                "General diet",
+                "Fall precautions",
+                "Daily psychiatrist visits"
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital, summarize the present illness of T. Jackson.",
+            "answer": "The onset of T. Jackson's illness was 6 months ago at home, with a gradual onset and periods of mild improvement and worsening. Prodromal symptoms included occasional sadness, potentially triggered by the loss of a close friend. Main symptoms include persistent low mood, described as a heaviness in his chest, moderate to severe in severity, worse in the mornings, and temporary improvement when with family. Accompanying symptoms include low self-esteem, self-blame, occasional suicidal thoughts (denies plans or intent), poor concentration, difficulty sleeping (insomnia), and decreased appetite. He visited a family physician 4 months ago and was prescribed antidepressants with minimal relief and attended 3 sessions of cognitive-behavioral therapy with limited success. His general condition changes include a depressed mental state, disrupted sleep with frequent awakenings, reduced appetite, normal urination and defecation, and minor unintentional weight loss (~5 lbs).",
+            "ref": [
+                "Present Illness:",
+                "Onset: The symptoms started 6 months ago at home with a gradual onset.",
+                "There have been periods of mild improvement and worsening.",
+                "Prodromal symptoms included occasional sadness.",
+                "A potential trigger might be the loss of a close friend.",
+                "Main Symptoms: The patient reports a persistent low mood, describing it as a heaviness in the chest, constant throughout the day.",
+                "The severity is moderate to severe, with temporary improvement when with family and worse in the mornings.",
+                "The progression has been slow but steadily declining.",
+                "Accompanying Symptoms: The patient has low self-esteem, self-blame, occasional suicidal thoughts (denies plans or intent), poor concentration, difficulty sleeping (insomnia), and decreased appetite.",
+                "Diagnosis and Treatment History: The patient visited a family physician 4 months ago and was prescribed antidepressants, which provided minimal relief.",
+                "He attended three sessions of cognitive-behavioral therapy with limited success.",
+                "General Condition Changes:",
+                "Mental state: Depressed mood.",
+                "Sleep: Disrupted with frequent awakenings.",
+                "Appetite: Reduced.",
+                "Urination and Defecation: Normal.",
+                "Weight: Minor unintentional weight loss (~5 lbs)."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital, summarize the past history of T. Jackson.",
+            "answer": "T. Jackson was previously in good health with mild age-related changes. He has a history of hypertension (well-controlled with medication) and osteoarthritis. He has no significant infectious disease history and is up-to-date on immunizations, including the seasonal flu vaccine. He had a left hip replacement 5 years ago with no complications and has no history of blood transfusions. He is allergic to penicillin (rash).",
+            "ref": [
+                "Past History:",
+                "General Health Condition: Previously in good health with mild age-related changes.",
+                "Disease History: Hypertension (well-controlled with medication), osteoarthritis.",
+                "Infectious Disease History: No significant infectious disease history.",
+                "Immunization History: Up-to-date, including seasonal flu vaccine.",
+                "Surgery and Trauma History: Left hip replacement 5 years ago, no complications.",
+                "Blood Transfusion History: None.",
+                "Allergy History: Allergic to penicillin (rash)."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital, summarize the physical examination findings of T. Jackson.",
+            "answer": "T. Jackson's general condition includes a temperature of 98.4°F, pulse of 70 bpm, respiration of 16 breaths/min, and blood pressure of 130/80 mmHg. Systematic examination findings include normal skin for age, pale and moist mucous membranes, non-enlarged lymph nodes, normocephalic and atraumatic head, supple neck with no masses or tenderness, normal chest shape with clear auscultation bilaterally, regular heart sounds without murmurs, soft and non-tender abdomen with no hepatosplenomegaly, normal external genitalia for age, normal spine alignment with mild lumbar tenderness, no edema in limbs with full range of motion in all joints, and an alert and oriented nervous system with intact cranial nerves II-XII, motor strength 5/5 in all extremities, normal sensory, and reflexes 2+ and equal.",
+            "ref": [
+                "General Condition:",
+                "Temperature: 98.4°F",
+                "Pulse: 70 bpm",
+                "Respiration: 16 breaths/min",
+                "Blood Pressure: 130/80 mmHg",
+                "Systematic Examination:",
+                "Skin: Normal for age, no lesions or rashes.",
+                "Mucous Membranes: Pale, moist.",
+                "Lymph Nodes: Not enlarged.",
+                "Head and Organs: Normocephalic, atraumatic.",
+                "Neck: Supple, no masses or tenderness.",
+                "Chest: Normal shape, clear to auscultation bilaterally, heart sounds regular without murmurs.",
+                "Abdomen: Soft, non-tender, no hepatosplenomegaly.",
+                "External Genitalia: Normal for age.",
+                "Spine: Normal alignment, mild tenderness in the lumbar region.",
+                "Limbs: No edema, full range of motion in all joints.",
+                "Nervous System: Alert and oriented, cranial nerves II-XII intact, motor strength 5/5 in all extremities, sensory normal, reflexes 2+ and equal."
+            ]
+        }
+    ]
+}

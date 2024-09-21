@@ -1,0 +1,125 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Northwood, Richmond, Court, what are the occupations of the defendants Z. Torres and S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "- Occupation: Owner of retail electronics store"
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "Occupation: Graphic Designer"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Sterling, Quarryville, Court, the defendant Z. Torres is the owner of a retail electronics store; according to the judgment of Northwood, Richmond, Court, the defendant S. Taylor is a Graphic Designer."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Northwood, Richmond, Court, what crimes did the defendants Z. Torres and S. Taylor commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "Z. Torres was subsequently charged with the crime of selling counterfeit registered trademark goods, pursuant to Article No. 214.",
+                        "The defendant, Z. Torres, has been implicated in the serious crime of selling counterfeit registered trademark goods, betraying the trust of his consumers and infringing on intellectual property laws.",
+                        "The defendant, Z. Torres, is hereby charged with the crime of selling counterfeit registered trademark goods, a severe violation that has economic, ethical, and legal implications."
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "This court hereby records the procedural history of the case involving the defendant, S. Taylor, who stands accused of the Crime of Counterfeiting Currency in violation of Article 170 of the Criminal Code.",
+                        "This court finds the collective actions of the defendant, S. Taylor, constitute the Crime of Counterfeiting Currency as per Article 170 of the Criminal Code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Sterling, Quarryville, Court, the defendant Z. Torres committed the crime of selling counterfeit registered trademark goods; according to the judgment of Northwood, Richmond, Court, the defendant S. Taylor committed the crime of counterfeiting currency."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Northwood, Richmond, Court, what were the sentences given to the defendants Z. Torres and S. Taylor for their crimes?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "- Five years of fixed-term imprisonment",
+                        "- A fine of $100,000"
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "Seven (7) years of fixed-term imprisonment.",
+                        "Fine: $50,000."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Sterling, Quarryville, Court, the defendant Z. Torres was sentenced to five years of fixed-term imprisonment with a fine of $100,000; according to the judgment of Northwood, Richmond, Court, the defendant S. Taylor was sentenced to seven years of fixed-term imprisonment with a fine of $50,000."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Northwood, Richmond, Court, whose sentencing time is longer, Z. Torres or S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "- Five years of fixed-term imprisonment"
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "Seven (7) years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "Z. Torres was sentenced to five years of fixed-term imprisonment, while S. Taylor was sentenced to seven years of fixed-term imprisonment. S. Taylor's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Northwood, Richmond, Court, whose total fine amount is greater, Z. Torres or S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "- A fine of $100,000"
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "Fine: $50,000."
+                    ]
+                }
+            ],
+            "answer": "Z. Torres was fined $100,000, while S. Taylor was fined $50,000. Z. Torres's total fine amount is greater."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Northwood, Richmond, Court, whose judgment time is earlier, Z. Torres or S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "**Dated: 15th March, 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "This document is thus prepared and endorsed in the Northwood, Richmond, Court on this 25th day of March, 2023."
+                    ]
+                }
+            ],
+            "answer": "Z. Torres's judgment time is earlier, as the judgment date was 15th March, 2023, while S. Taylor's judgment date was 25th March, 2023."
+        }
+    ]
+}

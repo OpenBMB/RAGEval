@@ -1,0 +1,82 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Oakwood, Arlington, Court, what is the duration of the fixed-term imprisonment sentenced to the defendants Q. Ruiz and Z. Ruiz respectively?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Imprisonment:** Q. Ruiz is hereby sentenced to 5 years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- 5 years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Springfield, Court, the defendant Q. Ruiz is sentenced to 5 years of fixed-term imprisonment. According to the judgment of Oakwood, Arlington, Court, the defendant Z. Ruiz is also sentenced to 5 years of fixed-term imprisonment."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Oakwood, Arlington, Court, what crimes did the defendants Q. Ruiz and Z. Ruiz commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "**Charge:** Crime of Theft under Article No. 264"
+                    ]
+                },
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "Mr. Z. Ruiz stands charged under Article No. 203 with the Crime of Evading Tax Arrears Recovery."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Springfield, Court, the defendant Q. Ruiz committed the crime of theft. According to the judgment of Oakwood, Arlington, Court, the defendant Z. Ruiz committed the crime of evading tax arrears recovery."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Oakwood, Arlington, Court, whose sentencing time is longer, Q. Ruiz or Z. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Imprisonment:** Q. Ruiz is hereby sentenced to 5 years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- 5 years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "Both Q. Ruiz and Z. Ruiz were sentenced to 5 years of fixed-term imprisonment. Therefore, their sentencing times are the same."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Oakwood, Arlington, Court, whose judgment time is earlier, Q. Ruiz or Z. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "**This judgment is decreed and executed by this court on the 20th of March, 2023.**"
+                    ]
+                },
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "This document reflects the proceedings and determinations of this court as of 15th August, 2022, and is issued under the authority vested in this judicature by the laws governing the jurisdiction of Oakwood, Arlington Court."
+                    ]
+                }
+            ],
+            "answer": "Z. Ruiz's judgment time is earlier. His judgment date was on 15th, August, 2022, while Q. Ruiz's judgment date was on 20th, March, 2023."
+        }
+    ]
+}

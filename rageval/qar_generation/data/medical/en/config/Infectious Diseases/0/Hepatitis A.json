@@ -1,0 +1,126 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "J. Brooks",
+            "Gender": "male",
+            "Age": "59",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Married",
+            "Occupation": "Retired",
+            "Address": "46, Oakwood street, Farmington",
+            "Admission Time": "23rd, November",
+            "Record Time": "23rd, November",
+            "Historian": "Self",
+            "Hospital Name": "Farmington General Hospital"
+        },
+        "Chief Complaint": "Fatigue and loss of appetite for 2 weeks",
+        "Present Illness": {
+            "Onset": "Started 2 weeks ago at home, gradual onset, followed by fatigue and loss of appetite. No known triggers",
+            "Main Symptoms": "Fatigue and loss of appetite, persistent, moderate to severe, no relieving factors noted, worsened with activity",
+            "Accompanying Symptoms": "Enlarged liver and abnormal liver function tests seen on examination",
+            "Diagnosis and Treatment History": "Evaluated by primary care two weeks ago, liver function tests revealed elevated AST and ALT levels. Referred to hospital for further evaluation and management.",
+            "General Condition Changes": "Mental state stable, sleep patterns disturbed due to fatigue, significantly reduced appetite, normal urination and bowel movements, unintentional weight loss of 5 kg"
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy, no significant past medical history",
+            "Disease History": "No history of chronic diseases",
+            "Infectious Disease History": "No known history of infectious diseases",
+            "Immunization History": "Up-to-date on vaccinations",
+            "Surgery and Trauma History": "Appendectomy 20 years ago, uneventful",
+            "Blood Transfusion History": "No blood transfusions",
+            "Allergy History": "No known allergies"
+        },
+        "Personal History": {
+            "Birthplace": "Farmington",
+            "Residence": "46, Oakwood street, Farmington",
+            "Living Habits": "Nonsmoker, occasional alcohol use",
+            "Occupation and Working Conditions": "Retired office worker, previously worked in an office setting",
+            "Exposure History": "No significant exposure to industrial toxins, dust, or radioactive substances",
+            "Travel History": "No recent travel history"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Married",
+                "Marriage Age": "Married at 25",
+                "Spouse's Health Condition": "Spouse is in good health",
+                "Children's Condition": "Two children, both healthy"
+            },
+            "Family History": "Parents deceased, father had hypertension, mother had diabetes. Siblings are healthy"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "37.2°C",
+                "Pulse": "80 bpm",
+                "Respiration": "18 breaths/min",
+                "Blood Pressure": "120/80 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "No rashes or lesions",
+                "Mucous Membranes": "Normal",
+                "Lymph Nodes": "No enlargement",
+                "Head and Organs": "Normal head and neck examination",
+                "Neck": "No abnormal masses, normal thyroid",
+                "Chest": "Clear lung sounds, normal heart sounds",
+                "Abdomen": "Mild hepatomegaly",
+                "Rectum and Anus": "Normal",
+                "External Genitalia": "Normal",
+                "Spine": "Normal alignment",
+                "Limbs": "No edema, normal strength",
+                "Nervous System": "No neurological deficits"
+            }
+        },
+        "Specialist Examination": "Gastroenterology consultation confirmed hepatomegaly and raised liver enzymes",
+        "Auxiliary Examination": "Liver function tests: AST 150 U/L, ALT 200 U/L, Bilirubin 2.5 mg/dL",
+        "Preliminary Diagnosis": "Hepatitis A",
+        "Diagnostic Basis": "Patient history of symptoms, physical examination indicating hepatomegaly, abnormal liver function tests",
+        "Differential Diagnosis": "Hepatitis B, Hepatitis C, toxic hepatitis ruled out based on patient history and lab results",
+        "Admission Records": {
+            "Physician's Signature": "Dr. A. Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with symptoms suggestive of Hepatitis A. Diagnostic basis includes elevated liver enzymes, hepatomegaly, and history of fatigue and loss of appetite. Differential diagnosis includes other types of viral hepatitis and toxic hepatitis but clinical presentation and lab results point towards Hepatitis A.",
+            "Daily Course Records": "Recorded as per daily patient monitoring",
+            "Senior Physician Rounds Records": "Dr. B. Williams observed steady condition, continued monitoring and supportive care",
+            "Difficult Case Discussion Records": "",
+            "Handover Records": "Patient handover to night shift with no significant changes, continued monitoring advised",
+            "Transfer Records": "",
+            "Stage Summary": "Intermediate stage summary indicates persistent liver enzyme elevations, no new symptoms, continued supportive treatment",
+            "Emergency Records": "",
+            "Invasive Procedure Records": "",
+            "Consultation Records": "Infectious disease consultation firmed up the diagnosis of Hepatitis A",
+            "Surgery Related": {
+                "Preoperative Summary": "Procedure planned for abdominal drainage due to hepatomegaly",
+                "Preoperative Discussion Records": "Discussed approach, risks, and procedural details. Family consent obtained",
+                "Anesthesia Preoperative Visit Records": "Patient evaluated as low risk for anesthesia complications",
+                "Anesthesia Records": "General anesthesia used, patient tolerated well",
+                "Surgery Records": "Procedure completed, no immediate complications noted",
+                "Surgery Safety Checklist": "Checklist completed, all protocols followed",
+                "Surgery Instrument Count Records": "All instruments accounted for after surgery",
+                "Postoperative First Course Record": "Stable post-procedure, monitoring for potential complications",
+                "Anesthesia Postoperative Visit Records": "Patient recovering well from anesthesia, stable vitals"
+            },
+            "Discharge Records": "",
+            "Death Related": {
+                "Death Case Discussion Records": "Final discussion concluded cause of death related to complications of severe Hepatitis A and procedure-related factors",
+                "Death Records": "Patient passed away on 2nd December. Report completed by Dr. A. Smith"
+            },
+            "Critically Ill Patient Care Records": "Recorded as per hospital protocol for critically ill patient"
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Bed rest, IV fluids, liver function tests daily, consult Infectious Disease specialist",
+            "Temporary Orders": "Administer acetaminophen for fever, antiemetics for nausea as needed"
+        },
+        "Auxiliary Examination Reports": "Ultrasound of liver shows hepatomegaly, no focal lesions",
+        "Temperature Chart": "Regular monitoring of temperature, pulse, respiration, and blood pressure recorded",
+        "Blood Transfusion Consent": "",
+        "Special Examination Consent": "Consent obtained for specialized liver function tests",
+        "Critical Condition Notice": "Family informed of patient's critical condition on multiple occasions"
+    },
+    "DiseaseType": {
+        "Infectious Diseases": {
+            "Name": "Hepatitis A",
+            "Symptoms": "Fatigue, loss of appetite, enlarged liver, abnormal liver function",
+            "Differential Diagnosis": "Other types of viral hepatitis, toxic hepatitis"
+        }
+    }
+}

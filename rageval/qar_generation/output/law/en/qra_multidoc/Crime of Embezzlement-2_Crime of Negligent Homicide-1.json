@@ -1,0 +1,144 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Quarryville, Yorktown, Court and Hamilton, Harrison, Court, what are the occupations of the defendants J. Thompson and M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Quarryville, Yorktown, Court",
+                    "content": [
+                        "**Occupation**: Finance Manager at Yorktown Municipal Office"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "Occupation: Nurse"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Quarryville, Yorktown, Court, the defendant J. Thompson is a Finance Manager at Yorktown Municipal Office; according to the judgment of Hamilton, Harrison, Court, the defendant M. Ward is a Nurse."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Quarryville, Yorktown, Court and Hamilton, Harrison, Court, what crimes did the defendants J. Thompson and M. Ward commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Quarryville, Yorktown, Court",
+                    "content": [
+                        "This court charges James Thompson with the Crime of Embezzlement under Article 384.",
+                        "**James Thompson is guilty of the Crime of Embezzlement under Article 384**."
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "The charge put forward by the prosecution was one of a Crime of Negligent Homicide, as delineated under Article 133.",
+                        "Thus, in light of the above considerations and the detailed examination of evidence, this court hereby finds M. Ward guilty of the Crime of Negligent Homicide pursuant to Article 133."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Quarryville, Yorktown, Court, the defendant J. Thompson committed the Crime of Embezzlement; according to the judgment of Hamilton, Harrison, Court, the defendant M. Ward committed the Crime of Negligent Homicide."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Quarryville, Yorktown, Court and Hamilton, Harrison, Court, what are the judgment dates for the cases involving J. Thompson and M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Quarryville, Yorktown, Court",
+                    "content": [
+                        "**This Court's presiding judges extend this judgment on the 10th day of October, 2023.**"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "**Dated this 30th day of April, 2023**"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Quarryville, Yorktown, Court, the judgment date for the case involving J. Thompson is 10th October, 2023; according to the judgment of Hamilton, Harrison, Court, the judgment date for the case involving M. Ward is 30th April, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Quarryville, Yorktown, Court and Hamilton, Harrison, Court, what sentences were given to the defendants J. Thompson and M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Quarryville, Yorktown, Court",
+                    "content": [
+                        "The court sentences James Thompson to a fixed-term imprisonment of ten years.",
+                        "Furthermore, he is ordered to pay restitution amounting to the embezzled $100,000 to the Yorktown Municipal Office, ensuring the financial rectification of the public deficits incurred by his conduct."
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "- M. Ward is sentenced to four (4) years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Quarryville, Yorktown, Court, J. Thompson is sentenced to a fixed-term imprisonment of ten years and is ordered to pay restitution of the embezzled $100,000; according to the judgment of Hamilton, Harrison, Court, M. Ward is sentenced to four years fixed-term imprisonment."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Quarryville, Yorktown, Court and Hamilton, Harrison, Court, who were the chief judges presiding over the cases of J. Thompson and M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Quarryville, Yorktown, Court",
+                    "content": [
+                        "**Chief Judge**: J. Phillips\\",
+                        "Phillips, Chief Judge**"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "T. Rivera",
+                        "Chief Judge: T. Rivera"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Quarryville, Yorktown, Court, the chief judge presiding over the case of J. Thompson was J. Phillips; according to the judgment of Hamilton, Harrison, Court, the chief judge presiding over the case of M. Ward was T. Rivera."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Quarryville, Yorktown, Court and Hamilton, Harrison, Court, whose sentencing time is longer, J. Thompson or M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Quarryville, Yorktown, Court",
+                    "content": [
+                        "The court sentences James Thompson to a fixed-term imprisonment of ten years."
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "- M. Ward is sentenced to four (4) years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "J. Thompson was sentenced to ten years of imprisonment, while M. Ward was sentenced to four years of imprisonment. J. Thompson's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Quarryville, Yorktown, Court and Hamilton, Harrison, Court, whose judgment time is earlier, J. Thompson or M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Quarryville, Yorktown, Court",
+                    "content": [
+                        "**This Court's presiding judges extend this judgment on the 10th day of October, 2023.**"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "**Dated this 30th day of April, 2023**"
+                    ]
+                }
+            ],
+            "answer": "M. Ward's judgment time is earlier, as her judgment date was 30th April, 2023, while J. Thompson's judgment date was 10th October, 2023."
+        }
+    ]
+}

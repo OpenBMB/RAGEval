@@ -1,0 +1,122 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of debt restructuring on Acme Financial Services in 2020 and Sparkling Clean Housekeeping Services in 2019?",
+            "ref": [
+                {
+                    "company_name": "Acme Financial Services",
+                    "content": [
+                        "Additionally, in August 2020, the company implemented a corporate restructuring, streamlining various departments and functions.",
+                        "This restructuring resulted in improved cost management, increased operational efficiency, and enhanced scalability."
+                    ]
+                },
+                {
+                    "company_name": "Sparkling Clean Housekeeping Services",
+                    "content": [
+                        "One of the key events was the debt restructuring in February 2019, which resulted in a reduction of liabilities by £500,000.",
+                        "This strategic move not only optimized the company's capital structure but also improved its financial condition by reducing financial costs."
+                    ]
+                }
+            ],
+            "answer": "The debt restructuring of Acme Financial Services in 2020 resulted in improved cost management, increased operational efficiency, and enhanced scalability. For Sparkling Clean Housekeeping Services in 2019, the debt restructuring reduced liabilities by £500,000, optimizing the company's capital structure and improving its financial condition by reducing financial costs."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the net profits of Acme Financial Services in 2020 and Sparkling Clean Housekeeping Services in 2019?",
+            "ref": [
+                {
+                    "company_name": "Acme Financial Services",
+                    "content": [
+                        "Net profit stood at $150 million, influenced by the company's operating income, cost control measures, and non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "Sparkling Clean Housekeeping Services",
+                    "content": [
+                        "The company's net profit for the same period amounted to £800,000, which is influenced by the operating income, cost control measures, and non-recurring gains and losses."
+                    ]
+                }
+            ],
+            "answer": "The net profit of Acme Financial Services in 2020 was $150 million, while the net profit of Sparkling Clean Housekeeping Services in 2019 was £800,000."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the debt restructuring efforts of Acme Financial Services in 2020 and Sparkling Clean Housekeeping Services in 2019. Which company reduced its liabilities by a larger amount?",
+            "ref": [
+                {
+                    "company_name": "Acme Financial Services",
+                    "content": [
+                        "Additionally, in August 2020, the company implemented a corporate restructuring, streamlining various departments and functions.",
+                        "This restructuring resulted in improved cost management, increased operational efficiency, and enhanced scalability."
+                    ]
+                },
+                {
+                    "company_name": "Sparkling Clean Housekeeping Services",
+                    "content": [
+                        "One of the key events was the debt restructuring in February 2019, which resulted in a reduction of liabilities by £500,000.",
+                        "This strategic move not only optimized the company's capital structure but also improved its financial condition by reducing financial costs."
+                    ]
+                }
+            ],
+            "answer": "Sparkling Clean Housekeeping Services reduced its liabilities by a larger amount (£500,000) in 2019 compared to Acme Financial Services, which implemented a corporate restructuring in 2020."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "Compare the dividend distributions by Acme Financial Services in 2020 and Sparkling Clean Housekeeping Services in 2019. Which company distributed dividends earlier?",
+            "ref": [
+                {
+                    "company_name": "Acme Financial Services",
+                    "content": [
+                        "One such event was the decision to distribute $50 million in dividends to shareholders in February 2020."
+                    ]
+                },
+                {
+                    "company_name": "Sparkling Clean Housekeeping Services",
+                    "content": []
+                }
+            ],
+            "answer": "Acme Financial Services distributed dividends in February 2020. There is no information about Sparkling Clean Housekeeping Services distributing dividends in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of Acme Financial Services and Sparkling Clean Housekeeping Services. Which company had a higher operating income?",
+            "ref": [
+                {
+                    "company_name": "Acme Financial Services",
+                    "content": [
+                        "Operating income for the company reached $500 million, driven by market demand and changes in product prices."
+                    ]
+                },
+                {
+                    "company_name": "Sparkling Clean Housekeeping Services",
+                    "content": [
+                        "Analyzing the involved indicators, Sparkling Clean Housekeeping Services reported an operating income of £5,000,000 in 2019."
+                    ]
+                }
+            ],
+            "answer": "Acme Financial Services had a higher operating income of $500 million compared to Sparkling Clean Housekeeping Services' operating income of £5,000,000."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of Acme Financial Services and Sparkling Clean Housekeeping Services. Which company had a higher net profit?",
+            "ref": [
+                {
+                    "company_name": "Acme Financial Services",
+                    "content": [
+                        "Net profit stood at $150 million, influenced by the company's operating income, cost control measures, and non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "Sparkling Clean Housekeeping Services",
+                    "content": [
+                        "The company's net profit for the same period amounted to £800,000, which is influenced by the operating income, cost control measures, and non-recurring gains and losses."
+                    ]
+                }
+            ],
+            "answer": "Acme Financial Services had a higher net profit of $150 million compared to Sparkling Clean Housekeeping Services' net profit of £800,000."
+        }
+    ]
+}

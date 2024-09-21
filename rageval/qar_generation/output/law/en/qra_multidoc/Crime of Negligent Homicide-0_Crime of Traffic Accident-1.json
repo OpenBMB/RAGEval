@@ -1,0 +1,141 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Lakewood, Pinehurst, Court, what are the occupations of the defendants T. Collins and M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "Occupation: Registered Nurse"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Occupation: Delivery Driver"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashland, Charleston, Court, the defendant T. Collins is a Registered Nurse; according to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett is a Delivery Driver."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Lakewood, Pinehurst, Court, what crimes were T. Collins and M. Bennett convicted of?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "T. Collins stands charged under the statute defined in Article No. 133, accused of committing the crime of Negligent Homicide.",
+                        "Having meticulously examined the evidence presented, and considering both the mitigating and aggravating factors, this court finds T. Collins guilty of the Crime of Negligent Homicide pursuant to Article No. 133."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Crime of Traffic Accident under Article No. 133 of our legal code.",
+                        "Based on the evidence presented and the severity of the offense, this court finds M. Bennett guilty of the Crime of Traffic Accident under Article No. 133 of our legal code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashland, Charleston, Court, T. Collins was convicted of the Crime of Negligent Homicide; according to the judgment of Lakewood, Pinehurst, Court, M. Bennett was convicted of the Crime of Traffic Accident."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Lakewood, Pinehurst, Court, on what dates were T. Collins and M. Bennett arrested?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "By the 25th of April, 2024, an arrest warrant was issued after findings suggested a clear link between T. Collins’ actions and the resultant death of the patient."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "On March 25, 2023, based on additional evidence obtained during the detention period, the Lakewood, Pinehurst, Procuratorate issued an arrest warrant for M. Bennett."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashland, Charleston, Court, T. Collins was arrested on 25th April, 2024; according to the judgment of Lakewood, Pinehurst, Court, M. Bennett was arrested on 25th March, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Lakewood, Pinehurst, Court, on what dates were the judgments for T. Collins and M. Bennett delivered?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "15th October 2024"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "This judgment is pronounced on June 30, 2023, and shall be executed in accordance with our legal provisions."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashland, Charleston, Court, the judgment for T. Collins was delivered on 15th October, 2024; according to the judgment of Lakewood, Pinehurst, Court, the judgment for M. Bennett was delivered on 30th June, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Lakewood, Pinehurst, Court, what are the lengths of imprisonment for T. Collins and M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "T. Collins is hereby sentenced to serve a fixed-term imprisonment of 3 years."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "M. Bennett is hereby sentenced to a fixed-term imprisonment of five years without the possibility of probation."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Ashland, Charleston, Court, T. Collins is sentenced to 3 years fixed-term imprisonment; according to the judgment of Lakewood, Pinehurst, Court, M. Bennett is sentenced to 5 years fixed-term imprisonment with no probation."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Lakewood, Pinehurst, Court, whose sentencing time is longer, T. Collins or M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "T. Collins is hereby sentenced to serve a fixed-term imprisonment of 3 years."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "M. Bennett is hereby sentenced to a fixed-term imprisonment of five years without the possibility of probation."
+                    ]
+                }
+            ],
+            "answer": "T. Collins was sentenced to 3 years of imprisonment, while M. Bennett was sentenced to 5 years of imprisonment. M. Bennett's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Ashland, Charleston, Court and Lakewood, Pinehurst, Court, whose judgment time is earlier, T. Collins or M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Ashland, Charleston, Court",
+                    "content": [
+                        "15th October 2024"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "This judgment is pronounced on June 30, 2023, and shall be executed in accordance with our legal provisions."
+                    ]
+                }
+            ],
+            "answer": "M. Bennett's judgment time is earlier, as his judgment date was 30th June, 2023, while T. Collins' judgment date was 15th October, 2024."
+        }
+    ]
+}

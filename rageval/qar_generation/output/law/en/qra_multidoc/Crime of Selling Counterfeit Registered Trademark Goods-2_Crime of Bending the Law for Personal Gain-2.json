@@ -1,0 +1,123 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Vandalia, Court and Danbury, Pinehurst, Court, what are the occupations of the defendants G. Torres and P. Anderson?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "Occupation: Owner of a Retail Store"
+                    ]
+                },
+                {
+                    "court_name": "Danbury, Pinehurst, Court",
+                    "content": [
+                        "**Occupation:** Senior Government Auditor"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Vandalia, Court, the defendant G. Torres is the owner of a retail store; according to the judgment of Danbury, Pinehurst, Court, the defendant P. Anderson is a Senior Government Auditor."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Vandalia, Court and Danbury, Pinehurst, Court, what crimes did the defendants G. Torres and P. Anderson commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "G. Torres was charged under Article No. 214 for the Crime of Selling Counterfeit Registered Trademark Goods.",
+                        "The evidence substantiated that she knowingly engaged in the distribution of counterfeit luxury items, misleading consumers and infringing on the trademark rights of the authentic brands.",
+                        "**Crime**: Crime of Selling Counterfeit Registered Trademark Goods"
+                    ]
+                },
+                {
+                    "court_name": "Danbury, Pinehurst, Court",
+                    "content": [
+                        "The defendant, P. Anderson, stood accused of violating Article No. 397, specifically charged with the Crime of Bending the Law for Personal Gain.",
+                        "Having thoroughly examined the aforementioned evidence and considerations, this court finds P. Anderson guilty of the Crime of Bending the Law for Personal Gain under Article No. 397."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Vandalia, Court, the defendant G. Torres committed the Crime of Selling Counterfeit Registered Trademark Goods; according to the judgment of Danbury, Pinehurst, Court, the defendant P. Anderson committed the Crime of Bending the Law for Personal Gain."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Vandalia, Court and Danbury, Pinehurst, Court, what were the judgment dates for the cases involving G. Torres and P. Anderson?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Judgment Issued on 20th March 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Danbury, Pinehurst, Court",
+                    "content": [
+                        "**Judgment rendered on this 30th day of June, 2023.**"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Trenton, Vandalia, Court, the judgment date for the case involving G. Torres was 20th March 2023; according to the judgment of Danbury, Pinehurst, Court, the judgment date for the case involving P. Anderson was 30th June 2023."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Trenton, Vandalia, Court and Danbury, Pinehurst, Court, whose judgment date is earlier, G. Torres or P. Anderson?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Judgment Issued on 20th March 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Danbury, Pinehurst, Court",
+                    "content": [
+                        "**Judgment rendered on this 30th day of June, 2023.**"
+                    ]
+                }
+            ],
+            "answer": "The judgment date for G. Torres is earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Trenton, Vandalia, Court and Danbury, Pinehurst, Court, whose sentence is longer, G. Torres or P. Anderson?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000."
+                    ]
+                },
+                {
+                    "court_name": "Danbury, Pinehurst, Court",
+                    "content": [
+                        "This court hereby sentences P. Anderson to five years of imprisonment and imposes a fine of $300,000."
+                    ]
+                }
+            ],
+            "answer": "P. Anderson has a longer sentence."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Trenton, Vandalia, Court and Danbury, Pinehurst, Court, whose fine amount is larger, G. Torres or P. Anderson?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000."
+                    ]
+                },
+                {
+                    "court_name": "Danbury, Pinehurst, Court",
+                    "content": [
+                        "This court hereby sentences P. Anderson to five years of imprisonment and imposes a fine of $300,000."
+                    ]
+                }
+            ],
+            "answer": "P. Anderson's fine amount is larger."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Farmington City Hospital, what are the ages of patients L. Rogers and A. Smith?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Age: 56"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Age: 12"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Knoxville General Hospital, patient L. Rogers is 56 years old; according to the hospitalization records of Farmington City Hospital, patient A. Smith is 12 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Farmington City Hospital, what are the chief complaints of patients L. Rogers and A. Smith?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Chief Complaint:",
+                        "Blurry, foggy vision and decreased visual acuity for the past 3 months"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Chief Complaint:",
+                        "Fever, abdominal pain, and bloody stools for 1 week"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Knoxville General Hospital, patient L. Rogers' chief complaint is blurry, foggy vision and decreased visual acuity for the past 3 months; according to the hospitalization records of Farmington City Hospital, patient A. Smith's chief complaint is fever, abdominal pain, and bloody stools for 1 week."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Farmington City Hospital, what are the diagnoses of patients L. Rogers and A. Smith?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Bilateral Cataract, more pronounced in the right eye"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Acute Schistosomiasis"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Knoxville General Hospital, patient L. Rogers was diagnosed with bilateral cataract, more pronounced in the right eye; according to the hospitalization records of Farmington City Hospital, patient A. Smith was diagnosed with acute schistosomiasis."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Farmington City Hospital, what is the ethnicity of patients L. Rogers and A. Smith?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Ethnicity: Caucasian"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Ethnicity: Caucasian"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Knoxville General Hospital, patient L. Rogers is Caucasian; according to the hospitalization records of Farmington City Hospital, patient A. Smith is also Caucasian."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Farmington City Hospital, who was admitted earlier, L. Rogers or A. Smith?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Admission Time: 6th, January"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Admission Time: 9th, October"
+                    ]
+                }
+            ],
+            "answer": "L. Rogers was admitted on 6th January, and A. Smith was admitted on 9th October. L. Rogers was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Farmington City Hospital, whose pulse rate is higher, L. Rogers or A. Smith?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Pulse: 72 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Pulse: 110 bpm"
+                    ]
+                }
+            ],
+            "answer": "L. Rogers's pulse rate is 72 bpm, and A. Smith's pulse rate is 110 bpm. A. Smith's pulse rate is higher."
+        }
+    ]
+}

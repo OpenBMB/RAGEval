@@ -1,0 +1,130 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "S. Moore",
+            "Gender": "female",
+            "Age": "74",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Widowed",
+            "Occupation": "Retired",
+            "Address": "60, Newport street, Knoxville",
+            "Admission Time": "11th, January",
+            "Record Time": "11th, January 14:00",
+            "Historian": "Self",
+            "Hospital Name": "Knoxville City Hospital"
+        },
+        "Chief Complaint": "Intermittent wheezing, coughing, and shortness of breath for 2 weeks",
+        "Present Illness": {
+            "Onset": "The symptoms appeared 2 weeks ago at home with wheezing and coughing, likely triggered by a cold environment",
+            "Main Symptoms": "Persistent wheezing, coughing, chest tightness, and shortness of breath, which worsened at night and improved with the use of an inhaler",
+            "Accompanying Symptoms": "Occasional mild fever, fatigue, and reduced appetite",
+            "Diagnosis and Treatment History": "Previous use of inhalable bronchodilators with partial relief; prior emergency visit with no significant symptom resolution",
+            "General Condition Changes": "Notable fatigue, decreased appetite, poor sleep due to breathing difficulties, weight loss of 2 kg"
+        },
+        "Past History": {
+            "General Health Condition": "Generally good with occasional seasonal allergies",
+            "Disease History": "Diagnosed with asthma 10 years ago, managed with inhalers",
+            "Infectious Disease History": "No significant history",
+            "Immunization History": "Up-to-date with standard vaccinations; received flu shot annually",
+            "Surgery and Trauma History": "Cholecystectomy 5 years ago, no trauma",
+            "Blood Transfusion History": "None",
+            "Allergy History": "Allergic to pollen, dust mites"
+        },
+        "Personal History": {
+            "Birthplace": "Knoxville",
+            "Residence": "60, Newport street, Knoxville",
+            "Living Habits": "Non-smoker, occasional social drinker, balanced diet",
+            "Occupation and Working Conditions": "Former elementary school teacher",
+            "Exposure History": "No significant exposure to industrial toxins, dust, or radiation",
+            "Travel History": "No recent travel history"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Widowed",
+                "Marriage Age": "27",
+                "Spouse's Health Condition": "Deceased",
+                "Children's Condition": "Two children, both in good health"
+            },
+            "Menstrual History": {
+                "Menarche Age": "13",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "Menopause at 52",
+                "Menstrual Volume": "Normal",
+                "Dysmenorrhea": "Mild"
+            },
+            "Family History": "Father had hypertension, mother had diabetes; no history of asthma among siblings"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "37.5°C",
+                "Pulse": "88 bpm",
+                "Respiration": "24 breaths/min",
+                "Blood Pressure": "140/85 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "No rashes or lesions, intact",
+                "Mucous Membranes": "Moist and pink",
+                "Lymph Nodes": "No significant enlargement",
+                "Head and Organs": "Normocephalic, PERRLA, no JVD",
+                "Neck": "Supple, no lymphadenopathy",
+                "Chest": "Increased AP diameter, scattered wheezes, prolonged expiratory phase",
+                "Abdomen": "Soft, non-tender, liver and spleen not palpable",
+                "Rectum and Anus": "No abnormalities",
+                "External Genitalia": "Normal for age",
+                "Spine": "No deformities",
+                "Limbs": "No edema, normal movement",
+                "Nervous System": "Alert, oriented, no focal deficits"
+            }
+        },
+        "Specialist Examination": "Pulmonary function tests show reversible airway obstruction",
+        "Auxiliary Examination": "Chest X-ray: Hyperinflated lungs, no acute infiltrates. Blood gases: Mild hypoxemia. CBC: Slightly elevated eosinophils.",
+        "Preliminary Diagnosis": "1. Asthma exacerbation 2. Rule out COPD",
+        "Diagnostic Basis": "History of asthma, typical symptoms, physical examination findings, and response to bronchodilators",
+        "Differential Diagnosis": "Allergic rhinitis, sinusitis, foreign body aspiration, tracheal stenosis, laryngotracheomalacia ruled out based on history and examination",
+        "Admission Records": {
+            "Physician's Signature": "Dr. A. Johnson"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with asthma exacerbation. Plan: Bronchodilators, corticosteroids, oxygen therapy, and monitoring",
+            "Daily Course Records": "Day 1: Symptoms partially alleviated, continue current treatment. Day 2: Further improvement, plan for discharge in 2 days barring complications.",
+            "Senior Physician Rounds Records": "Reviewed case, discussed treatment plan; agreed on current management. Recommended post-discharge follow-up.",
+            "Difficult Case Discussion Records": "N/A",
+            "Handover Records": "Patient S. Moore, 74, with asthma exacerbation, vital signs stable. Continue bronchodilators and monitor",
+            "Transfer Records": "N/A",
+            "Stage Summary": "Patient shows significant improvement after initiation of treatment, preparing for discharge",
+            "Emergency Records": "N/A",
+            "Invasive Procedure Records": "N/A",
+            "Consultation Records": "Pulmonology consult agreed with treatment plan",
+            "Surgery Related": {
+                "Preoperative Summary": "N/A",
+                "Preoperative Discussion Records": "N/A",
+                "Anesthesia Preoperative Visit Records": "N/A",
+                "Anesthesia Records": "N/A",
+                "Surgery Records": "N/A",
+                "Surgery Safety Checklist": "N/A",
+                "Surgery Instrument Count Records": "N/A",
+                "Postoperative First Course Record": "N/A",
+                "Anesthesia Postoperative Visit Records": "N/A"
+            },
+            "Discharge Records": "Patient stabilized and discharged with medication and follow-up instructions",
+            "Critically Ill Patient Care Records": "N/A"
+        },
+        "Medical Orders": {
+            "Long-term Orders": "1. Inhaled bronchodilator PRN 2. Inhaled corticosteroid BID 3. Continue home oxygen therapy 4. Follow-up with primary care in 1 week",
+            "Temporary Orders": "1. Albuterol nebulizer Q4H PRN 2. Intravenous corticosteroid for first 24 hours"
+        },
+        "Auxiliary Examination Reports": "Pulmonary function test confirming reversible airway obstruction",
+        "Temperature Chart": "11th Jan: Temp: 37.5°C, Pulse: 88 bpm, Resp: 24/min, BP: 140/85 mmHg; 12th Jan: Temp: 37.2°C, Pulse: 84 bpm, Resp: 22/min, BP: 135/85 mmHg",
+        "Blood Transfusion Consent": "N/A",
+        "Special Examination Consent": "Signed by patient for pulmonary function test",
+        "Critical Condition Notice": "N/A"
+    },
+    "DiseaseType": {
+        "Respiratory System Diseases": {
+            "Name": "Asthma",
+            "Symptoms": "Wheezing, coughing, chest tightness, chest oppression, and shortness of breath recur intermittently",
+            "Differential Diagnosis": "Allergic rhinitis, sinusitis, foreign body aspiration, tracheal stenosis, laryngotracheomalacia"
+        }
+    }
+}

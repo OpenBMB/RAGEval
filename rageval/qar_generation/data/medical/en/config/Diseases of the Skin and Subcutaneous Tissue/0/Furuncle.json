@@ -1,0 +1,119 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "J. Rodriguez",
+            "Gender": "female",
+            "Age": "7",
+            "Ethnicity": "Hispanic",
+            "Marital Status": "Single",
+            "Occupation": "Student",
+            "Address": "52, Brighton street, Granville",
+            "Admission Time": "26th, February",
+            "Record Time": "26th, February",
+            "Historian": "Mother: Maria Rodriguez",
+            "Hospital Name": "Granville General Hospital"
+        },
+        "Chief Complaint": "Local redness, swelling, heat, and pain on the right forearm for 3 days.",
+        "Present Illness": {
+            "Onset": "3 days ago, at home, suddenly noticed by mother",
+            "Main Symptoms": "Localized redness, swelling, heat, and pain on the right forearm. The symptoms have progressively worsened over the last 3 days.",
+            "Accompanying Symptoms": "No fever, no systemic symptoms",
+            "Diagnosis and Treatment History": "Seen by a local physician, prescribed topical antibiotic ointment with no significant relief",
+            "General Condition Changes": "Mental state normal, no changes in sleep, appetite good, normal urination and defecation, no weight change"
+        },
+        "Past History": {
+            "General Health Condition": "Good",
+            "Disease History": "None",
+            "Infectious Disease History": "None",
+            "Immunization History": "Up-to-date with vaccination schedule",
+            "Surgery and Trauma History": "None",
+            "Blood Transfusion History": "None",
+            "Allergy History": "No known allergies"
+        },
+        "Personal History": {
+            "Birthplace": "Granville",
+            "Residence": "Granville",
+            "Living Habits": "Regular attendance at school, balanced diet",
+            "Occupation and Working Conditions": "Student, no exposure to industrial toxins or hazardous working conditions",
+            "Exposure History": "No exposure to industrial toxins, dust, radioactive substances",
+            "Travel History": "No significant travel history"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Single",
+                "Marriage Age": "",
+                "Spouse's Health Condition": "",
+                "Children's Condition": ""
+            },
+            "Menstrual History": {
+                "Menarche Age": "",
+                "Menstruation Duration": "",
+                "Menstruation Interval": "",
+                "Last Menstruation": "",
+                "Menstrual Volume": "",
+                "Dysmenorrhea": ""
+            },
+            "Family History": "Father (healthy), Mother (healthy), no siblings, no known family history of skin infections or genetic disorders"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "37°C",
+                "Pulse": "90 bpm",
+                "Respiration": "20 breaths/min",
+                "Blood Pressure": "100/60 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Erythema, heat, swelling, and tenderness over the right forearm, approximately 2 cm diameter",
+                "Mucous Membranes": "Normal",
+                "Lymph Nodes": "Non-palpable",
+                "Head and Organs": "Normal",
+                "Neck": "Supple, no masses",
+                "Chest": "No abnormalities in thorax, lungs clear, heart sounds normal, no murmurs",
+                "Abdomen": "Soft, non-tender, no hepatosplenomegaly",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Normal",
+                "Spine": "Normal",
+                "Limbs": "Normal mobility, aside from affected right forearm",
+                "Nervous System": "Intact, no focal neurological deficits"
+            }
+        },
+        "Specialist Examination": "Dermatology consultation advised",
+        "Auxiliary Examination": "Complete Blood Count (CBC) showed mild leukocytosis, no other significant findings",
+        "Preliminary Diagnosis": "Furuncle of the right forearm",
+        "Diagnostic Basis": "Based on clinical presentation, presence of localized infection, erythema, and tenderness, supported by CBC findings",
+        "Differential Diagnosis": "Carbuncle (no multiple purulent plugs seen), Folliculitis (lacks purulent plugs), Infected sebaceous cyst (more deeply located), Acne with mild infection (presenting differently)",
+        "Admission Records": {
+            "Physician's Signature": "Dr. William Hughes"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Furuncle diagnosed based on clinical presentation. Plan: Topical and systemic antibiotics, warm compresses, and pain management. Monitor progress over the next 24 hours.",
+            "Daily Course Records": "Day 1: Slight reduction in swelling, patient reports less pain. Continue current plan.",
+            "Senior Physician Rounds Records": "Day 2: Reviewed by Dr. Smith. Noted mild improvement, continue current therapy, plan for reassessment in 24 hours.",
+            "Difficult Case Discussion Records": "",
+            "Handover Records": "Patient improving, continue with current management, reassess in rounds tomorrow.",
+            "Transfer Records": "",
+            "Stage Summary": "Not applicable, early in treatment phase",
+            "Emergency Records": "None",
+            "Invasive Procedure Records": "None",
+            "Consultation Records": "Dermatology consult on Day 2, confirmed furuncle diagnosis",
+            "Discharge Records": "",
+            "Critically Ill Patient Care Records": ""
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Topical antibiotics (Mupirocin ointment) applied to affected area twice daily; Oral antibiotics (Cephalexin 250 mg) three times daily for 7 days",
+            "Temporary Orders": "Warm compresses applied to the affected area for 15 minutes, four times daily; Acetaminophen 10 mg/kg for pain as needed"
+        },
+        "Auxiliary Examination Reports": "Complete Blood Count (CBC): mild leukocytosis",
+        "Temperature Chart": "37°C, Pulse: 90 bpm, Respiration: 20 breaths/min, BP: 100/60 mmHg on admission",
+        "Blood Transfusion Consent": "Not applicable",
+        "Special Examination Consent": "",
+        "Critical Condition Notice": ""
+    },
+    "DiseaseType": {
+        "Diseases of the Skin and Subcutaneous Tissue": {
+            "Name": "Furuncle",
+            "Symptoms": "Superficial skin infection by fire poison, local redness, swelling, heat, and pain, acute suppuration",
+            "Differential Diagnosis": "Carbuncle (with multiple honeycomb-like purulent plugs on the surface), folliculitis (similar to a furuncle but without purulent plugs), infected sebaceous cyst, acne with mild infection"
+        }
+    }
+}

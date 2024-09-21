@@ -1,0 +1,198 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland City Hospital, what are the ages of the patients Y. Evans and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Age: 47"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Age: 28"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, patient Y. Evans is 47 years old; according to the hospitalization records of Ashland City Hospital, patient Q. Gomez is 28 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland City Hospital, what are the chief complaints of Y. Evans and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Chief Complaint:",
+                        "Nasal congestion, tinnitus, and hearing loss for 2 months"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "Chief Complaint:",
+                        "- Blurred vision and severe headache for 3 days"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, Y. Evans' chief complaint is nasal congestion, tinnitus, and hearing loss for 2 months; according to the hospitalization records of Ashland City Hospital, Q. Gomez's chief complaint is blurred vision and severe headache for 3 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland City Hospital, what are the occupations of the patients Y. Evans and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Occupation: Teacher"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Occupation: Graphic Designer"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, Y. Evans is a teacher; according to the hospitalization records of Ashland City Hospital, Q. Gomez is a graphic designer."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland City Hospital, what are the marital statuses of Y. Evans and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Marital Status: Married"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Marital Status: Single"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, Y. Evans is married; according to the hospitalization records of Ashland City Hospital, Q. Gomez is single."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland City Hospital, what allergies do Y. Evans and Q. Gomez have?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Allergy History: Allergic to penicillin"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Allergy History: Allergic to penicillin"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, Y. Evans is allergic to penicillin; according to the hospitalization records of Ashland City Hospital, Q. Gomez is also allergic to penicillin."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland City Hospital, what past surgeries have Y. Evans and Q. Gomez undergone?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Surgery and Trauma History: Appendectomy at age 25"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Surgery and Trauma History: Appendectomy at age 22"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, Y. Evans had an appendectomy at age 25; according to the hospitalization records of Ashland City Hospital, Q. Gomez had an appendectomy at age 22."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland City Hospital, what are the addresses of the patients Y. Evans and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Address: 72, Ashland street, Parker"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Address: 40, Wilton Street, Ashland"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, Y. Evans' address is 72, Ashland street, Parker; according to the hospitalization records of Ashland City Hospital, Q. Gomez's address is 40, Wilton street, Ashland."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland City Hospital, who are the chief physicians for patients Y. Evans and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Physician's Signature: Dr. J. Smith"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Physician's Signature: Dr. Smith"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, the chief physician for Y. Evans is Dr. J. Smith; according to the hospitalization records of Ashland City Hospital, the chief physician for Q. Gomez is Dr. Smith."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland City Hospital, who was admitted earlier, Y. Evans or Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Admission Time: 1st, May"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Admission Time: 9th April"
+                    ]
+                }
+            ],
+            "answer": "Q. Gomez was admitted on April 9, and Y. Evans was admitted on May 1. Q. Gomez was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland City Hospital, whose pulse rate is higher, Y. Evans or Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Pulse: 76 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Pulse: 78 bpm"
+                    ]
+                }
+            ],
+            "answer": "Y. Evans's pulse rate is 76 beats per minute, and Q. Gomez's pulse rate is 78 beats per minute. Q. Gomez's pulse rate is higher."
+        }
+    ]
+}

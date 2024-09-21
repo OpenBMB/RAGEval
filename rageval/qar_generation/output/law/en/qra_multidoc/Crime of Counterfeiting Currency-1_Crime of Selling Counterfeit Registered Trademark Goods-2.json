@@ -1,0 +1,143 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Greenfield, Fairview Court and Trenton, Vandalia Court, what are the occupations of the defendants H. Price and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "**Occupation:** Graphic Designer"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "Occupation: Owner of a Retail Store"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Greenfield, Fairview Court, the defendant H. Price is a Graphic Designer; according to the judgment of Trenton, Vandalia Court, the defendant G. Torres is the owner of a retail store."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Greenfield, Fairview Court and Trenton, Vandalia Court, what crimes did the defendants H. Price and G. Torres commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "The defendant, H. Price, stands charged with the crime of counterfeiting currency as per Article No. 170.",
+                        "The specified article delineates the legal framework for prosecuting individuals who engage in the creation, distribution, or laundering of counterfeit currency."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "## Charge",
+                        "The evidence substantiated that she knowingly engaged in the distribution of counterfeit luxury items, misleading consumers and infringing on the trademark rights of the authentic brands."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Greenfield, Fairview Court, the defendant H. Price committed the crime of counterfeiting currency; according to the judgment of Trenton, Vandalia Court, the defendant G. Torres committed the crime of selling counterfeit registered trademark goods."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Greenfield, Fairview Court and Trenton, Vandalia Court, what are the judgment dates for the cases involving H. Price and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "**Date: 10th March 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Judgment Issued on 20th March 2023**"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Greenfield, Fairview Court, the judgment date for the case involving H. Price is 10th March 2023; according to the judgment of Trenton, Vandalia Court, the judgment date for the case involving G. Torres is 20th March 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Greenfield, Fairview Court and Trenton, Vandalia Court, what sentences were given to the defendants H. Price and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "The defendant, H. Price, is hereby sentenced to:",
+                        "- **Imprisonment:** Eight (8) years",
+                        "- **Fine:** $50,000"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Greenfield, Fairview Court, the defendant H. Price was sentenced to 8 years imprisonment and a fine of $50,000; according to the judgment of Trenton, Vandalia Court, the defendant G. Torres was sentenced to three years of fixed-term imprisonment, with a suspension for five years, and a fine of $30,000."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Greenfield, Fairview, Court and Trenton, Vandalia, Court, whose judgment date is earlier, H. Price or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "**Date: 10th March 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Judgment Issued on 20th March 2023**"
+                    ]
+                }
+            ],
+            "answer": "The judgment date for H. Price is earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Greenfield, Fairview, Court and Trenton, Vandalia, Court, who received a longer sentence, H. Price or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "- **Imprisonment:** Eight (8) years"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000."
+                    ]
+                }
+            ],
+            "answer": "H. Price received a longer sentence."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Greenfield, Fairview, Court and Trenton, Vandalia, Court, who was fined a larger amount, H. Price or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Greenfield, Fairview, Court",
+                    "content": [
+                        "- **Fine:** $50,000"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000."
+                    ]
+                }
+            ],
+            "answer": "H. Price was fined a larger amount."
+        }
+    ]
+}

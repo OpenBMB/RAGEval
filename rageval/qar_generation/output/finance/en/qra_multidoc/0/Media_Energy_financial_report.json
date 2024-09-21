@@ -1,0 +1,219 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the dividend distributions for Vanguard Media Group in 2019 and Energex Corporation in 2021?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In July, the company distributed $0.75 per share of dividends to shareholders, reflecting its commitment to profit sharing with investors and enhancing shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "Energex Corporation",
+                    "content": [
+                        "In April, Energex distributed dividends to its shareholders, reflecting the company's commitment to providing returns to its investors."
+                    ]
+                }
+            ],
+            "answer": "Vanguard Media Group distributed $0.75 per share of dividends to shareholders in July 2019, while Energex Corporation distributed dividends in April 2021."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the large-scale financing activities undertaken by Vanguard Media Group in 2019 and Energex Corporation in 2021?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "Additionally, in August, Vanguard successfully raised $100 million in debt capital for strategic initiatives and acquisitions, strengthening its financial position and supporting expansion and development."
+                    ]
+                },
+                {
+                    "company_name": "Energex Corporation",
+                    "content": [
+                        "To support its growth and investment plans, Energex engaged in large-scale financing in June."
+                    ]
+                }
+            ],
+            "answer": "Vanguard Media Group raised $100 million in debt capital in August 2019, while Energex Corporation conducted large-scale financing in June 2021."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What major asset acquisitions did Vanguard Media Group and Energex Corporation complete in 2019 and 2021, respectively?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In October, Vanguard completed the acquisition of Silver Screen Studios for $200 million, further expanding its film production capabilities and enhancing its market position.",
+                        "This major asset acquisition allowed the company to broaden its business scope and increase its market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "Energex Corporation",
+                    "content": [
+                        "In November, Energex made a major asset acquisition, strengthening its asset base and supporting its growth strategy."
+                    ]
+                }
+            ],
+            "answer": "Vanguard Media Group completed the acquisition of Silver Screen Studios worth $200 million in October 2019, while Energex Corporation completed a major asset acquisition in November 2021."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the outcomes of the debt restructuring activities for Vanguard Media Group in 2019 and Energex Corporation in 2021?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In November, Vanguard underwent debt restructuring, resulting in a $50 million reduction in liabilities.",
+                        "This move improved the company's financial condition and reduced financial costs."
+                    ]
+                },
+                {
+                    "company_name": "Energex Corporation",
+                    "content": [
+                        "Finally, in December, Energex underwent debt restructuring, optimizing its debt obligations and improving its financial position.",
+                        "This restructuring had an impact on the debt ratio and debt to assets ratio, further enhancing the company's financial stability."
+                    ]
+                }
+            ],
+            "answer": "Vanguard Media Group's debt restructuring in November 2019 resulted in a $50 million reduction in liabilities, improving financial condition and reducing costs. Energex Corporation's debt restructuring took place in December 2021."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the net profits of Vanguard Media Group in 2019 and Energex Corporation in 2021?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "Net profit amounted to $300 million, reflecting the company's ability to grow its operating income, efficiently control costs, and minimize non-recurring losses."
+                    ]
+                },
+                {
+                    "company_name": "Energex Corporation",
+                    "content": [
+                        "This distribution had an impact on the net profit, which stood at $500 million."
+                    ]
+                }
+            ],
+            "answer": "The net profit of Vanguard Media Group in 2019 was $300 million, while the net profit of Energex Corporation in 2021 was $500 million."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of Vanguard Media Group in 2019 and Energex Corporation in 2021. Which company had higher operating income?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "The company's operating income reached $1.2 billion, driven by market demand for original content and changes in advertising revenues."
+                    ]
+                },
+                {
+                    "company_name": "Energex Corporation",
+                    "content": [
+                        "This success led to a boost in operating income, reaching an impressive $1.2 billion."
+                    ]
+                }
+            ],
+            "answer": "Both Vanguard Media Group in 2019 and Energex Corporation in 2021 had the same operating income of $1.2 billion."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of Vanguard Media Group in 2019 and Energex Corporation in 2021. Which company had higher net profit?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "Net profit amounted to $300 million, reflecting the company's ability to grow its operating income, efficiently control costs, and minimize non-recurring losses."
+                    ]
+                },
+                {
+                    "company_name": "Energex Corporation",
+                    "content": [
+                        "This distribution had an impact on the net profit, which stood at $500 million."
+                    ]
+                }
+            ],
+            "answer": "Energex Corporation had a higher net profit in 2021 with $500 million compared to Vanguard Media Group's $300 million in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of Vanguard Media Group in 2019 and Energex Corporation in 2021. Which company had more total assets?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "Total assets stood at $2.5 billion, primarily influenced by the acquisition of Silver Screen Studios, appreciation in the value of investment properties, and increased cash reserves."
+                    ]
+                },
+                {
+                    "company_name": "Energex Corporation",
+                    "content": [
+                        "This investment had a direct impact on the total assets of the company, which reached $5 billion."
+                    ]
+                }
+            ],
+            "answer": "Energex Corporation had more total assets in 2021 with $5 billion compared to Vanguard Media Group's $2.5 billion in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total liabilities of Vanguard Media Group in 2019 and Energex Corporation in 2021. Which company had higher total liabilities?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "Total liabilities amounted to $1.1 billion, reflecting the company's debt repayment, liability reduction through debt restructuring, and effective debt management."
+                    ]
+                },
+                {
+                    "company_name": "Energex Corporation",
+                    "content": [
+                        "This financing activity had implications for the company's total liabilities, which stood at $2.5 billion."
+                    ]
+                }
+            ],
+            "answer": "Energex Corporation had higher total liabilities in 2021 with $2.5 billion compared to Vanguard Media Group's $1.1 billion in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the shareholder equity of Vanguard Media Group in 2019 and Energex Corporation in 2021. Which company had higher shareholder equity?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "Shareholder equity reached $1.4 billion, driven by net profit growth, dividend distribution, and the accumulation of capital reserves."
+                    ]
+                },
+                {
+                    "company_name": "Energex Corporation",
+                    "content": [
+                        "This restructuring had an impact on the shareholder equity, which reached $2.5 billion."
+                    ]
+                }
+            ],
+            "answer": "Energex Corporation had higher shareholder equity in 2021 with $2.5 billion compared to Vanguard Media Group's $1.4 billion in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the major asset acquisitions by Vanguard Media Group in 2019 and Energex Corporation in 2021. Which company had a larger asset acquisition?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In October, Vanguard completed the acquisition of Silver Screen Studios for $200 million, further expanding its film production capabilities and enhancing its market position.",
+                        "This major asset acquisition allowed the company to broaden its business scope and increase its market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "Energex Corporation",
+                    "content": [
+                        "In November, Energex made a major asset acquisition, strengthening its asset base and supporting its growth strategy."
+                    ]
+                }
+            ],
+            "answer": "Vanguard Media Group had a larger asset acquisition in 2019 with the $200 million acquisition of Silver Screen Studios compared to Energex Corporation's major asset acquisition in 2021."
+        }
+    ]
+}

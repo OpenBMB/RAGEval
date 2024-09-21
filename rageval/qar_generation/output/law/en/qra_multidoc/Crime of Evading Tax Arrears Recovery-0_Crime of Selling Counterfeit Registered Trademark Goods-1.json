@@ -1,0 +1,144 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Norwood, Unionville, Court, what are the occupations of the defendants Z. Ruiz and C. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Occupation:** Business Owner"
+                    ]
+                },
+                {
+                    "court_name": "Norwood, Unionville, Court",
+                    "content": [
+                        "- **Occupation**: Retail Shop Owner"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington, Court, the defendant Z. Ruiz is a Business Owner; according to the judgment of Norwood, Unionville, Court, the defendant C. Taylor is a Retail Shop Owner."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Norwood, Unionville, Court, what crimes did the defendants Z. Ruiz and C. Taylor commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "Mr. Z. Ruiz stands charged under Article No. 203 with the Crime of Evading Tax Arrears Recovery."
+                    ]
+                },
+                {
+                    "court_name": "Norwood, Unionville, Court",
+                    "content": [
+                        "The primary charge against C. Taylor is the crime of Selling Counterfeit Registered Trademark Goods, as stipulated under Article No. 214."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington, Court, the defendant Z. Ruiz committed the crime of evading tax arrears recovery; according to the judgment of Norwood, Unionville, Court, the defendant C. Taylor committed the crime of selling counterfeit registered trademark goods."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Norwood, Unionville, Court, when were the judgments for the defendants Z. Ruiz and C. Taylor delivered?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "This document reflects the proceedings and determinations of this court as of 15th August, 2022, and is issued under the authority vested in this judicature by the laws governing the jurisdiction of Oakwood, Arlington Court."
+                    ]
+                },
+                {
+                    "court_name": "Norwood, Unionville, Court",
+                    "content": [
+                        "This judgment is delivered and executed on this 10th day of January 2023, by the Norwood, Unionville Court, with the presence and consent of the Chief Judge T. Robinson, Judge N. Cook, and Court Clerk O. Murphy."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington, Court, the judgment for Z. Ruiz was delivered on 15th August 2022; according to the judgment of Norwood, Unionville, Court, the judgment for C. Taylor was delivered on 10th January 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Norwood, Unionville, Court, what sentences were given to the defendants Z. Ruiz and C. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Guilty** of the Crime of Evading Tax Arrears Recovery under Article No. 203.",
+                        "- 5 years of fixed-term imprisonment.",
+                        "- A fine of $100,000, reflecting four times the amount of taxes evaded."
+                    ]
+                },
+                {
+                    "court_name": "Norwood, Unionville, Court",
+                    "content": [
+                        "In view of the overwhelming evidence, the severity of the offense, and the considerations detailed above, this court finds C. Taylor guilty of the crime of Selling Counterfeit Registered Trademark Goods under Article No. 214.",
+                        "The defendant is hereby sentenced to four years of fixed-term imprisonment and fined $100,000 for illicit gains."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington, Court, Z. Ruiz was sentenced to 5 years of fixed-term imprisonment and fined $100,000; according to the judgment of Norwood, Unionville, Court, C. Taylor was sentenced to 4 years of fixed-term imprisonment and fined $100,000."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Norwood, Unionville, Court, when were detention measures taken against the defendants Z. Ruiz and C. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "On 18th January, 2022, in response to the escalating concern regarding evidence tampering, the Oakwood, Arlington Procuratorate petitioned for the imposition of detention measures against Mr. Ruiz."
+                    ]
+                },
+                {
+                    "court_name": "Norwood, Unionville, Court",
+                    "content": [
+                        "On 20th September 2022, following the thorough investigation, the court authorized detention measures against C. Taylor in light of the overwhelming evidence implicating her in the unauthorized sale of counterfeit branded merchandise."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington, Court, detention measures were taken against Z. Ruiz on 18th January 2022; according to the judgment of Norwood, Unionville, Court, detention measures were taken against C. Taylor on 20th September 2022."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Norwood, Unionville, Court, whose sentencing time is longer, Z. Ruiz or C. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Sentence:**",
+                        "- 5 years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Norwood, Unionville, Court",
+                    "content": [
+                        "The defendant is hereby sentenced to four years of fixed-term imprisonment and fined $100,000 for illicit gains."
+                    ]
+                }
+            ],
+            "answer": "Z. Ruiz was sentenced to five years of fixed-term imprisonment, while C. Taylor was sentenced to four years of fixed-term imprisonment. Z. Ruiz's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Norwood, Unionville, Court, whose judgment time is earlier, Z. Ruiz or C. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "This document reflects the proceedings and determinations of this court as of 15th August, 2022, and is issued under the authority vested in this judicature by the laws governing the jurisdiction of Oakwood, Arlington Court.",
+                        "**Date:** 15th August, 2022"
+                    ]
+                },
+                {
+                    "court_name": "Norwood, Unionville, Court",
+                    "content": [
+                        "This judgment is delivered and executed on this 10th day of January 2023, by the Norwood, Unionville Court, with the presence and consent of the Chief Judge T. Robinson, Judge N. Cook, and Court Clerk O. Murphy."
+                    ]
+                }
+            ],
+            "answer": "Z. Ruiz's judgment time is earlier."
+        }
+    ]
+}

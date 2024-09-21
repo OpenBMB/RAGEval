@@ -1,0 +1,124 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "M. Young",
+            "Gender": "female",
+            "Age": "8 hours after birth",
+            "Ethnicity": "",
+            "Marital Status": "",
+            "Occupation": "",
+            "Address": "90, Maplewood street, Richmond",
+            "Admission Time": "28th, February",
+            "Record Time": "28th, February",
+            "Historian": "Mother",
+            "Hospital Name": "Richmond General Hospital"
+        },
+        "Chief Complaint": "Difficulty breathing and cyanosis occurring immediately after resuscitation",
+        "Present Illness": {
+            "Onset": "Born at 40 weeks of gestation via normal vaginal delivery at Richmond General Hospital. Immediately after birth, the newborn presented with difficulty breathing and cyanosis.",
+            "Main Symptoms": "Difficulty breathing and cyanosis, with fluid or foam flowing out from the mouth almost immediately after resuscitation. Moist rales were auscultated in the lungs. Severity remained constant since onset.",
+            "Accompanying Symptoms": "No other symptoms reported except for those mentioned.",
+            "Diagnosis and Treatment History": "Initial resuscitation was performed immediately after birth. No previous history of diseases or medication as this is a newborn.",
+            "General Condition Changes": "Mentally unresponsive, no trouble with sleep as predominantly unconscious. No oral intake since birth. No urination or defecation noted."
+        },
+        "Past History": {
+            "General Health Condition": "Newborn, no prior health issues",
+            "Disease History": "None",
+            "Infectious Disease History": "None",
+            "Immunization History": "No immunizations given immediately after birth",
+            "Surgery and Trauma History": "None",
+            "Blood Transfusion History": "None",
+            "Allergy History": "No known allergies"
+        },
+        "Personal History": {
+            "Birthplace": "Richmond",
+            "Residence": "Richmond",
+            "Living Habits": "Newborn",
+            "Occupation and Working Conditions": "Newborn",
+            "Exposure History": "None",
+            "Travel History": "Newborn"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Newborn",
+                "Marriage Age": "Newborn",
+                "Spouse's Health Condition": "Newborn",
+                "Children's Condition": "Newborn"
+            },
+            "Menstrual History": {
+                "Menarche Age": "Newborn",
+                "Menstruation Duration": "Newborn",
+                "Menstruation Interval": "Newborn",
+                "Last Menstruation": "Newborn",
+                "Menstrual Volume": "Newborn",
+                "Dysmenorrhea": "Newborn"
+            },
+            "Family History": "Parents are healthy, no family history of respiratory or genetic disorders"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "36.2°C",
+                "Pulse": "150 bpm",
+                "Respiration": "70 breaths per minute",
+                "Blood Pressure": "65/40 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Cyanosis present",
+                "Mucous Membranes": "Normal",
+                "Lymph Nodes": "Not palpable",
+                "Head and Organs": "Head appears normal with no abnormalities",
+                "Neck": "Supple, no masses",
+                "Chest": "Cyanosis noted, bilateral moist rales auscultated",
+                "Abdomen": "Soft, non-tender, no organomegaly",
+                "Rectum and Anus": "Normal",
+                "External Genitalia": "Normal female genitalia noted",
+                "Spine": "Normal, no deformities",
+                "Limbs": "Normal movement, cyanotic",
+                "Nervous System": "Unresponsive, weak suck reflex"
+            }
+        },
+        "Specialist Examination": "Pediatric examination confirms initial findings of respiratory distress and cyanosis, likely secondary to amniotic fluid aspiration.",
+        "Auxiliary Examination": "Chest X-ray shows bilateral infiltrates. Blood gases indicate respiratory acidosis.",
+        "Preliminary Diagnosis": "Neonatal Pneumonia due to Amniotic Fluid Aspiration",
+        "Diagnostic Basis": "History of difficulty breathing and cyanosis immediately post-resuscitation, clinical findings of moist rales in the lungs. Chest X-ray and blood gases support diagnosis.",
+        "Differential Diagnosis": "Meconium Aspiration Pneumonia, Milk Aspiration Pneumonia",
+        "Admission Records": {
+            "Physician's Signature": "Dr. Jane Doe"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Neonate admitted with respiratory distress and cyanosis post-resuscitation. Initial findings include difficulty breathing, fluid from mouth, and moist rales. Diagnosis of Neonatal Pneumonia due to Amniotic Fluid Aspiration supported by X-ray and blood gases. Treatment plan includes oxygen therapy, intravenous fluids, and antibiotics.",
+            "Daily Course Records": [
+                {
+                    "date": "28th, February",
+                    "condition": "Condition stable, on oxygen therapy, continued monitoring"
+                }
+            ],
+            "Senior Physician Rounds Records": "Reviewed case, recommended continuation of current management plan.",
+            "Difficult Case Discussion Records": "N/A",
+            "Handover Records": "N/A",
+            "Transfer Records": "N/A",
+            "Stage Summary": "Initial stage of care, ongoing treatment for respiratory distress.",
+            "Emergency Records": "N/A",
+            "Invasive Procedure Records": "N/A",
+            "Consultation Records": "Pediatric consultation confirming initial diagnosis and treatment.",
+            "Discharge Records": "Pending resolution of respiratory distress.",
+            "Critically Ill Patient Care Records": "Monitor respiratory status, adjust oxygen and supportive care as needed."
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Oxygen therapy, IV antibiotics, continuous monitoring.",
+            "Temporary Orders": "Blood gas analysis every 4 hours, chest physiotherapy as needed."
+        },
+        "Auxiliary Examination Reports": "[Chest X-ray report, Blood gas analysis report]",
+        "Temperature Chart": "[28th, February - 36.2°C, 150 bpm, 70 breaths per minute, 65/40 mmHg]",
+        "Blood Transfusion Consent": "N/A",
+        "Special Examination Consent": "Consent for chest X-ray obtained from mother.",
+        "Critical Condition Notice": "Given to parents."
+    },
+    "DiseaseType": {
+        "Conditions Originating in the Perinatal Period": {
+            "Name": "Neonatal Pneumonia due to Amniotic Fluid Aspiration",
+            "Symptoms": "Difficult breathing and cyanosis occur immediately after resuscitation, with the possibility of fluid or foam flowing out from the mouth, and moist rales auscultated in the lungs",
+            "Differential Diagnosis": "Meconium Aspiration Pneumonia (rapid and shallow breathing (>60 breaths per minute), nasal flaring, three-groove sign, moaning, and cyanosis appear immediately after resuscitation), Milk Aspiration Pneumonia (sudden cessation of breathing, cyanosis, or choking cough after breastfeeding, with milk aspirated from the airway)"
+        }
+    }
+}

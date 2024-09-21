@@ -1,0 +1,126 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Preston, Lancaster, Court, what are the occupations of the defendants X. Alvarez and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "Occupation: Delivery Driver"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Occupation:** Accountant"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the defendant X. Alvarez is a Delivery Driver; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris is an Accountant."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Preston, Lancaster, Court, what crimes did the defendants X. Alvarez and M. Harris commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "The Court charges X. Alvarez with the Crime of Traffic Accident, in violation of Article 133 of the relevant penal code.",
+                        "The defendant, X. Alvarez, is found guilty of the Crime of Traffic Accident as per Article 133."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Crime Name:** Crime of Intentional Homicide",
+                        "Having considered all evidence, testimonies, and the circumstances surrounding the crime, this court finds M. Harris guilty of the Crime of Intentional Homicide as charged under Article 232."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the defendant X. Alvarez committed the Crime of Traffic Accident; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris committed the Crime of Intentional Homicide."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Preston, Lancaster, Court, when were the judgments for the defendants X. Alvarez and M. Harris delivered respectively?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "*This judgment is issued under the authority of the Lakewood, Mayfield, Court on the 1st of June, 2023.*"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 25th of June, 2023."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the judgment for the defendant X. Alvarez was delivered on 1st June 2023; according to the judgment of Preston, Lancaster, Court, the judgment for the defendant M. Harris was delivered on 25th June 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Preston, Lancaster, Court, which law firms represented the defendants X. Alvarez and M. Harris respectively?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "Law Firm: James & Associates Law Firm"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Law Firm:** Smith & Associates Law Firm"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the defendant X. Alvarez was represented by James & Associates Law Firm; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris was represented by Smith & Associates Law Firm."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Preston, Lancaster, Court, whose sentencing time is longer, X. Alvarez or M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "**Sentence**",
+                        "The court sentences X. Alvarez to a fixed-term imprisonment of three (3) years.",
+                        "Additionally, upon release, he will be subject to a probation period of one (1) year, during which he must comply with specific legal and rehabilitative conditions intended to monitor and correct his behavior."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Sentence:** Life imprisonment",
+                        "The severity of premeditated intent, the clear malice aforethought, and the attempted destruction of evidence necessitate this sentence.",
+                        "The court believes that imposing a life sentence is both just and necessary to serve as a deterrent to others."
+                    ]
+                }
+            ],
+            "answer": "X. Alvarez was sentenced to three years of imprisonment with an additional one-year probation period upon release, while M. Harris was sentenced to life imprisonment. Therefore, M. Harris's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Preston, Lancaster, Court, whose judgment time is earlier, X. Alvarez or M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "*This judgment is issued under the authority of the Lakewood, Mayfield, Court on the 1st of June, 2023.*"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 25th of June, 2023."
+                    ]
+                }
+            ],
+            "answer": "X. Alvarez's judgment time is earlier, as it was issued on 1st June 2023, while M. Harris's judgment was issued on 25th June 2023."
+        }
+    ]
+}

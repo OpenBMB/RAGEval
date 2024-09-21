@@ -1,0 +1,248 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "E. Cruz",
+            "Gender": "female",
+            "Age": "70",
+            "Ethnicity": "Hispanic",
+            "Marital Status": "Widowed",
+            "Occupation": "Retired Teacher",
+            "Address": "56, Hamilton street, Parker",
+            "Admission Time": "12th, April",
+            "Record Time": "12th, April",
+            "Historian": "Patient and daughter",
+            "Hospital Name": "Parker City Hospital"
+        },
+        "Chief Complaint": "Facial changes and increasing shoe size for 6 months",
+        "Present Illness": {
+            "Onset": "Facial changes first noticed 6 months ago at home. Progressive facial feature changes over time.",
+            "Main Symptoms": "Enlarged forehead, protruding jaw, large nose and lips, thick fingers. Shoes and hats feel tight.",
+            "Accompanying Symptoms": "Increased appetite, coarse hair and skin, pigmentation, occasional numbness of fingers.",
+            "Diagnosis and Treatment History": "CT scan done outside the hospital showed a pituitary tumor. No prior treatments.",
+            "General Condition Changes": "Mental state stable, difficulty sleeping, increased appetite, regular bowel movements. Lost 3 kg over 3 months."
+        },
+        "Past History": {
+            "General Health Condition": "Good",
+            "Disease History": "Type 2 Diabetes diagnosed 10 years ago",
+            "Infectious Disease History": "None",
+            "Immunization History": "Up-to-date",
+            "Surgery and Trauma History": "Appendectomy at age 25",
+            "Blood Transfusion History": "None",
+            "Allergy History": "Penicillin allergy"
+        },
+        "Personal History": {
+            "Birthplace": "Parker",
+            "Residence": "Parker",
+            "Living Habits": "Non-smoker, occasional social drinker",
+            "Occupation and Working Conditions": "Retired Teacher",
+            "Exposure History": "None",
+            "Travel History": "No recent travel"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Widowed",
+                "Marriage Age": "22",
+                "Spouse's Health Condition": "Deceased 5 years ago (Heart attack)",
+                "Children's Condition": "Two daughters, both in good health"
+            },
+            "Menstrual History": {
+                "Menarche Age": "12",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "20 years ago",
+                "Menstrual Volume": "Moderate",
+                "Dysmenorrhea": "Occasional"
+            },
+            "Family History": "Father deceased (Diabetes), Mother deceased (Hypertension), one brother with hypertension"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "98.6°F",
+                "Pulse": "76 bpm",
+                "Respiration": "18 breaths/min",
+                "Blood Pressure": "140/90 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Coarse, pigmented",
+                "Mucous Membranes": "Normal",
+                "Lymph Nodes": "Non-palpable",
+                "Head and Organs": "Enlarged forehead, protruding jaw, large nose and lips",
+                "Neck": "Normal range of motion, no masses",
+                "Chest": "Thorax normal, clear breath sounds, regular heart rate with no murmurs",
+                "Abdomen": "Non-tender, liver and spleen not palpable",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Atrophic changes consistent with age",
+                "Spine": "No deformities, full range of motion",
+                "Limbs": "Thick fingers, muscle strength 5/5",
+                "Nervous System": "No focal neurological deficits"
+            }
+        },
+        "Specialist Examination": "Endocrinology consult: Clinical signs consistent with GH excess",
+        "Auxiliary Examination": "MRI: Pituitary adenoma measuring 1.5 cm",
+        "Preliminary Diagnosis": "Growth Hormone Adenoma (GH Adenoma)",
+        "Diagnostic Basis": "Progressive facial feature changes, tight-fitting shoes and hats, MRI findings of pituitary adenoma",
+        "Differential Diagnosis": "Paget's disease of bone, ruled out by lack of bony abnormalities; Leontiasis ossea, ruled out by MRI; Ectopic growth hormone-releasing factor syndrome, unlikely given pituitary adenoma evidence",
+        "Admission Records": {
+            "Physician's Signature": "Dr. John Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient presents with clinical signs of GH excess. MRI confirmed presence of a pituitary adenoma. Further hormonal workup planned. Monitor glucose levels due to history of type 2 diabetes.",
+            "Daily Course Records": "Day 1: Stable, labs pending. Day 2: Blood glucose slightly elevated, continue monitoring. Further endocrine evaluation planned.",
+            "Senior Physician Rounds Records": "Discussed patient's case during rounds. Plan to manage with medications to decrease GH levels and consider radiation therapy.",
+            "Difficult Case Discussion Records": "Reviewed by Endocrinology and Neurosurgery teams. Consensus to start medical treatment and monitor response.",
+            "Handover Records": "Transferred care to evening team, patient stable.",
+            "Transfer Records": "None",
+            "Stage Summary": "Marked improvement in symptoms with medication. Blood glucose levels stabilized.",
+            "Emergency Records": "None",
+            "Invasive Procedure Records": "None",
+            "Consultation Records": "Endocrine consult: Medication plan adjusted based on latest hormone levels.",
+            "Discharge Records": "Pending",
+            "Critically Ill Patient Care Records": "N/A"
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Monitor blood glucose levels twice daily, administer octreotide as per endocrinology advice, regular follow-up with endocrine clinic.",
+            "Temporary Orders": "MRI with contrast, full hormonal panel, blood glucose monitoring"
+        },
+        "Auxiliary Examination Reports": "MRI: Pituitary adenoma 1.5 cm; Hormonal panel: Elevated GH and IGF-1.",
+        "Temperature Chart": "98.6°F, 76 bpm, 18 breaths/min, 140/90 mmHg",
+        "Blood Transfusion Consent": "N/A",
+        "Special Examination Consent": "Consent obtained for MRI",
+        "Critical Condition Notice": "N/A"
+    },
+    "DiseaseType": {
+        "Benign, In Situ, and Uncertain Neoplasms": {
+            "Name": "Growth Hormone Adenoma (GH Adenoma)",
+            "Symptoms": "Excessive secretion of growth hormone. Patients who have not reached adulthood may experience rapid growth, even developing into giants. In adults, acromegaly is manifested as changes in facial features, enlarged forehead, protruding jaw, large nose and lips, thick fingers, feeling of tightness in shoes and hats, increased appetite, coarse hair and skin, pigmentation, numbness of fingers, etc. Severe cases may experience general fatigue, headaches, joint pain, decreased sexual function, amenorrhea, infertility, and even diabetes.",
+            "Differential Diagnosis": "Paget's disease of bone, leontiasis ossea, ectopic growth hormone-releasing factor syndrome."
+        }
+    },
+    "Generated Article": "Hospitalization Record\n\nBasic Information:\nName: E. Cruz\nGender: Female\nAge: 70\nEthnicity: Hispanic\nMarital Status: Widowed\nOccupation: Retired Teacher\nAddress: 56 Hamilton Street, Parker\nAdmission Time: 12th, April\nRecord Time: 12th, April\nHistorian: Patient and daughter\nHospital Name: Parker City Hospital\n\nChief Complaint:\nFacial changes and increasing shoe size for 6 months\n\nPresent Illness:\nOnset: Facial changes first noticed 6 months ago at home. Progressive facial feature changes over time.\nMain Symptoms: Enlarged forehead, protruding jaw, large nose and lips, thick fingers. Shoes and hats feel tight.\nAccompanying Symptoms: Increased appetite, coarse hair and skin, pigmentation, occasional numbness of fingers.\nDiagnosis and Treatment History: CT scan done outside the hospital showed a pituitary tumor. No prior treatments.\nGeneral Condition Changes: Mental state stable, difficulty sleeping, increased appetite, regular bowel movements. Lost 3 kg over 3 months.\n\nPast History:\nGeneral Health Condition: Good\nDisease History: Type 2 Diabetes diagnosed 10 years ago\nInfectious Disease History: None\nImmunization History: Up-to-date\nSurgery and Trauma History: Appendectomy at age 25\nBlood Transfusion History: None\nAllergy History: Penicillin allergy\n\nPersonal History:\nBirthplace: Parker\nResidence: Parker\nLiving Habits: Non-smoker, occasional social drinker\nOccupation and Working Conditions: Retired Teacher\nExposure History: None\nTravel History: No recent travel\n\nMarital and Family History:\nMarital History:\nMarital Status: Widowed\nMarriage Age: 22\nSpouse's Health Condition: Deceased 5 years ago (Heart attack)\nChildren's Condition: Two daughters, both in good health\nMenstrual History:\nMenarche Age: 12\nMenstruation Duration: 5 days\nMenstruation Interval: 28 days\nLast Menstruation: 20 years ago\nMenstrual Volume: Moderate\nDysmenorrhea: Occasional\nFamily History: Father deceased (Diabetes), Mother deceased (Hypertension), one brother with hypertension\n\nPhysical Examination:\nGeneral Condition:\nTemperature: 98.6°F\nPulse: 76 bpm\nRespiration: 18 breaths/min\nBlood Pressure: 140/90 mmHg\nSystematic Examination:\nSkin: Coarse, pigmented\nMucous Membranes: Normal\nLymph Nodes: Non-palpable\nHead and Organs: Enlarged forehead, protruding jaw, large nose and lips\nNeck: Normal range of motion, no masses\nChest: Thorax normal, clear breath sounds, regular heart rate with no murmurs\nAbdomen: Non-tender, liver and spleen not palpable\nRectum and Anus: Not examined\nExternal Genitalia: Atrophic changes consistent with age\nSpine: No deformities, full range of motion\nLimbs: Thick fingers, muscle strength 5/5\nNervous System: No focal neurological deficits\n\nSpecialist Examination:\nEndocrinology consult: Clinical signs consistent with GH excess\n\nAuxiliary Examination:\nMRI: Pituitary adenoma measuring 1.5 cm\n\nPreliminary Diagnosis:\nGrowth Hormone Adenoma (GH Adenoma)\n\nDiagnostic Basis:\nProgressive facial feature changes, tight-fitting shoes and hats, MRI findings of pituitary adenoma\n\nDifferential Diagnosis:\nPaget's disease of bone, ruled out by lack of bony abnormalities; Leontiasis ossea, ruled out by MRI; Ectopic growth hormone-releasing factor syndrome, unlikely given pituitary adenoma evidence\n\nAdmission Records:\nPhysician's Signature: Dr. John Smith\n\nPost-Admission Course Records:\nFirst Course Record: Patient presents with clinical signs of GH excess. MRI confirmed presence of a pituitary adenoma. Further hormonal workup planned. Monitor glucose levels due to history of type 2 diabetes.\nDaily Course Records: \nDay 1: Stable, labs pending. \nDay 2: Blood glucose slightly elevated, continue monitoring. Further endocrine evaluation planned.\nSenior Physician Rounds Records: Discussed patient's case during rounds. Plan to manage with medications to decrease GH levels and consider radiation therapy.\nDifficult Case Discussion Records: Reviewed by Endocrinology and Neurosurgery teams. Consensus to start medical treatment and monitor response.\nHandover Records: Transferred care to evening team, patient stable.\nTransfer Records: None\nStage Summary: Marked improvement in symptoms with medication. Blood glucose levels stabilized.\nEmergency Records: None\nInvasive Procedure Records: None\nConsultation Records: Endocrine consult: Medication plan adjusted based on latest hormone levels.\nDischarge Records: Pending\nCritically Ill Patient Care Records: N/A\n\nMedical Orders:\nLong-term Orders: Monitor blood glucose levels twice daily, administer octreotide as per endocrinology advice, regular follow-up with endocrine clinic.\nTemporary Orders: MRI with contrast, full hormonal panel, blood glucose monitoring\n\nAuxiliary Examination Reports:\nMRI: Pituitary adenoma 1.5 cm; Hormonal panel: Elevated GH and IGF-1.\n\nTemperature Chart:\n98.6°F, 76 bpm, 18 breaths/min, 140/90 mmHg\n\nBlood Transfusion Consent:\nN/A\n\nSpecial Examination Consent:\nConsent obtained for MRI\n\nCritical Condition Notice:\nN/A",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Parker City Hospital, what is E. Cruz's initial diagnosis?",
+            "answer": "Growth Hormone Adenoma (GH Adenoma).",
+            "ref": [
+                "Preliminary Diagnosis:",
+                "Growth Hormone Adenoma (GH Adenoma)"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Parker City Hospital, what is E. Cruz's chief complaint?",
+            "answer": "Facial changes and increasing shoe size for 6 months.",
+            "ref": [
+                "Chief Complaint:",
+                "Facial changes and increasing shoe size for 6 months"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Parker City Hospital, what is E. Cruz's age?",
+            "answer": "70.",
+            "ref": [
+                "Age: 70"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Parker City Hospital, what is E. Cruz's gender?",
+            "answer": "Female.",
+            "ref": [
+                "Gender: Female"
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Parker City Hospital, how many diagnostic bases were used to diagnose E. Cruz?",
+            "answer": "According to the records, three diagnostic bases were used to diagnose E. Cruz: progressive facial feature changes, tight-fitting shoes and hats, and MRI findings of pituitary adenoma.",
+            "ref": [
+                "Progressive facial feature changes, tight-fitting shoes and hats, MRI findings of pituitary adenoma"
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Parker City Hospital, how many auxiliary examinations did E. Cruz undergo?",
+            "answer": "According to the records, E. Cruz underwent 2 auxiliary examinations, namely MRI and hormonal panel.",
+            "ref": [
+                "Auxiliary Examination:",
+                "MRI: Pituitary adenoma measuring 1.5 cm",
+                "MRI: Pituitary adenoma 1.5 cm; Hormonal panel: Elevated GH and IGF-1."
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Parker City Hospital, summarize the basic information of E. Cruz.",
+            "answer": "E. Cruz is a 70-year-old Hispanic female, widowed, and a retired teacher. She resides at 56 Hamilton Street, Parker. She was admitted on April 12th, and the record was taken on the same day by the patient and her daughter.",
+            "ref": [
+                "Name: E. Cruz",
+                "Gender: Female",
+                "Age: 70",
+                "Ethnicity: Hispanic",
+                "Marital Status: Widowed",
+                "Occupation: Retired Teacher",
+                "Address: 56 Hamilton Street, Parker",
+                "Admission Time: 12th, April",
+                "Record Time: 12th, April",
+                "Historian: Patient and daughter"
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Parker City Hospital, summarize the present illness of E. Cruz.",
+            "answer": "E. Cruz first noticed facial changes 6 months ago at home, with progressive changes in facial features over time. Main symptoms include an enlarged forehead, protruding jaw, large nose and lips, and thick fingers. Shoes and hats feel tight. Accompanying symptoms include increased appetite, coarse hair and skin, pigmentation, and occasional numbness of fingers. A CT scan done outside the hospital showed a pituitary tumor. She has not received any prior treatments. Her general condition includes a stable mental state, difficulty sleeping, increased appetite, regular bowel movements, and a weight loss of 3 kg over 3 months.",
+            "ref": [
+                "Onset: Facial changes first noticed 6 months ago at home.",
+                "Progressive facial feature changes over time.",
+                "Main Symptoms: Enlarged forehead, protruding jaw, large nose and lips, thick fingers.",
+                "Shoes and hats feel tight.",
+                "Accompanying Symptoms: Increased appetite, coarse hair and skin, pigmentation, occasional numbness of fingers.",
+                "Diagnosis and Treatment History: CT scan done outside the hospital showed a pituitary tumor.",
+                "No prior treatments.",
+                "General Condition Changes: Mental state stable, difficulty sleeping, increased appetite, regular bowel movements.",
+                "Lost 3 kg over 3 months."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Parker City Hospital, summarize the past medical history of E. Cruz.",
+            "answer": "E. Cruz has a good general health condition. She was diagnosed with Type 2 Diabetes 10 years ago. She has no history of infectious diseases and is up-to-date on immunizations. She had an appendectomy at age 25 and has no history of blood transfusions. She is allergic to penicillin.",
+            "ref": [
+                "General Health Condition: Good",
+                "Disease History: Type 2 Diabetes diagnosed 10 years ago",
+                "Infectious Disease History: None",
+                "Immunization History: Up-to-date",
+                "Surgery and Trauma History: Appendectomy at age 25",
+                "Blood Transfusion History: None",
+                "Allergy History: Penicillin allergy"
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Parker City Hospital, summarize the physical examination findings of E. Cruz.",
+            "answer": "E. Cruz's general condition includes a temperature of 98.6°F, pulse of 76 bpm, respiration rate of 18 breaths/min, and blood pressure of 140/90 mmHg. Systematic examination revealed coarse, pigmented skin, normal mucous membranes, non-palpable lymph nodes, an enlarged forehead, protruding jaw, large nose and lips, normal neck range of motion, clear breath sounds, regular heart rate with no murmurs, non-tender abdomen with non-palpable liver and spleen, atrophic external genitalia consistent with age, no spinal deformities, thick fingers with muscle strength 5/5, and no focal neurological deficits.",
+            "ref": [
+                "General Condition:",
+                "Temperature: 98.6°F",
+                "Pulse: 76 bpm",
+                "Respiration: 18 breaths/min",
+                "Blood Pressure: 140/90 mmHg",
+                "Skin: Coarse, pigmented",
+                "Mucous Membranes: Normal",
+                "Lymph Nodes: Non-palpable",
+                "Head and Organs: Enlarged forehead, protruding jaw, large nose and lips",
+                "Neck: Normal range of motion, no masses",
+                "Chest: Thorax normal, clear breath sounds, regular heart rate with no murmurs",
+                "Abdomen: Non-tender, liver and spleen not palpable",
+                "External Genitalia: Atrophic changes consistent with age",
+                "Spine: No deformities, full range of motion",
+                "Limbs: Thick fingers, muscle strength 5/5",
+                "Nervous System: No focal neurological deficits"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the net profits of Energen Solutions Ltd in 2019 and Hudson Consumer Goods Co. in 2017?",
+            "ref": [
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "The company's net profit for the year was $120 million, which was influenced by factors such as operating income, cost control, and non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "The net profit for the year stood at $50 million, which is the company's total income minus total costs and taxes."
+                    ]
+                }
+            ],
+            "answer": "The net profit of Energen Solutions Ltd in 2019 was $120 million, and the net profit of Hudson Consumer Goods Co. in 2017 was $50 million."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the total assets of Energen Solutions Ltd in 2019 and Hudson Consumer Goods Co. in 2017?",
+            "ref": [
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "Energen Solutions Ltd's total assets stood at $2.3 billion, influenced by asset acquisition, disposal, and revaluation."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "Hudson Consumer Goods Co. reported total assets of $1.2 billion at the end of the accounting period."
+                    ]
+                }
+            ],
+            "answer": "The total assets of Energen Solutions Ltd in 2019 were $2.3 billion, and the total assets of Hudson Consumer Goods Co. in 2017 were $1.2 billion."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the amounts and impacts of dividend distributions for Energen Solutions Ltd in 2019 and Hudson Consumer Goods Co. in 2017?",
+            "ref": [
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "Additionally, in the same month, the company decided to distribute $25 million of dividends to its shareholders, enhancing shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "In February 2017, the company decided to distribute $10 million of dividends to shareholders, returning value to shareholders and increasing investor confidence and loyalty."
+                    ]
+                }
+            ],
+            "answer": "Energen Solutions Ltd distributed $25 million in dividends in 2019, enhancing shareholder returns. Hudson Consumer Goods Co. distributed $10 million in dividends in 2017, returning value to shareholders and increasing investor confidence and loyalty."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much was raised through large-scale financing by Energen Solutions Ltd in 2019 and Hudson Consumer Goods Co. in 2017, and what were the impacts?",
+            "ref": [
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "Additionally, in February, Energen Solutions Ltd raised $500 million through a successful bond issuance, strengthening its financial position and supporting future expansion."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "In July 2017, Hudson Consumer Goods Co. conducted a large-scale financing activity, raising $100 million through a bond issuance."
+                    ]
+                }
+            ],
+            "answer": "Energen Solutions Ltd raised $500 million through bond issuance in 2019, strengthening financial strength and supporting expansion. Hudson Consumer Goods Co. raised $100 million through bond issuance in 2017, enhancing financial strength and providing funds for future growth initiatives."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of Energen Solutions Ltd in 2019 and Hudson Consumer Goods Co. in 2017. Which company had higher operating income?",
+            "ref": [
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "In terms of financial indicators, Energen Solutions Ltd reported an operating income of $650 million in 2019."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "Operating income for the year amounted to $500 million, reflecting the total amount of main business income and other business income within the accounting period."
+                    ]
+                }
+            ],
+            "answer": "Energen Solutions Ltd had higher operating income in 2019 with $650 million compared to Hudson Consumer Goods Co.'s $500 million in 2017."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of Energen Solutions Ltd in 2019 and Hudson Consumer Goods Co. in 2017. Which company had higher net profit?",
+            "ref": [
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "The company's net profit for the year was $120 million, which was influenced by factors such as operating income, cost control, and non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "The net profit for the year stood at $50 million, which is the company's total income minus total costs and taxes."
+                    ]
+                }
+            ],
+            "answer": "Energen Solutions Ltd had higher net profit in 2019 with $120 million compared to Hudson Consumer Goods Co.'s $50 million in 2017."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of Energen Solutions Ltd in 2019 and Hudson Consumer Goods Co. in 2017. Which company had more total assets?",
+            "ref": [
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "Energen Solutions Ltd's total assets stood at $2.3 billion, influenced by asset acquisition, disposal, and revaluation."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "Hudson Consumer Goods Co. reported total assets of $1.2 billion at the end of the accounting period."
+                    ]
+                }
+            ],
+            "answer": "Energen Solutions Ltd had more total assets in 2019 with $2.3 billion compared to Hudson Consumer Goods Co.'s $1.2 billion in 2017."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total liabilities of Energen Solutions Ltd in 2019 and Hudson Consumer Goods Co. in 2017. Which company had higher total liabilities?",
+            "ref": [
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "The company's total liabilities were $800 million, influenced by new debt issuance, debt repayment, and debt restructuring."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "On the other hand, the company's total liabilities amounted to $600 million, representing the total amount of debts the company is obligated to repay."
+                    ]
+                }
+            ],
+            "answer": "Energen Solutions Ltd had higher total liabilities in 2019 with $800 million compared to Hudson Consumer Goods Co.'s $600 million in 2017."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "Compare the debt restructuring efforts of Energen Solutions Ltd in 2019 and Hudson Consumer Goods Co. in 2017. Which company reduced more liabilities through debt restructuring?",
+            "ref": [
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "In June 2017, the company underwent debt restructuring, reducing liabilities by $20 million to optimize its capital structure."
+                    ]
+                },
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": []
+                }
+            ],
+            "answer": "Unable to answer"
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the large-scale financing activities of Energen Solutions Ltd in 2019 and Hudson Consumer Goods Co. in 2017. Which company conducted large-scale financing earlier?",
+            "ref": [
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "Additionally, in February, Energen Solutions Ltd raised $500 million through a successful bond issuance, strengthening its financial position and supporting future expansion."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "In July 2017, Hudson Consumer Goods Co. conducted a large-scale financing activity, raising $100 million through a bond issuance."
+                    ]
+                }
+            ],
+            "answer": "Hudson Consumer Goods Co. conducted large-scale financing earlier in July 2017 compared to Energen Solutions Ltd in February 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distribution of Energen Solutions Ltd in 2019 and Hudson Consumer Goods Co. in 2017. Which company distributed more dividends?",
+            "ref": [
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "Additionally, in the same month, the company decided to distribute $25 million of dividends to its shareholders, enhancing shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "In February 2017, the company decided to distribute $10 million of dividends to shareholders, returning value to shareholders and increasing investor confidence and loyalty."
+                    ]
+                }
+            ],
+            "answer": "Energen Solutions Ltd distributed more dividends in 2019 with $25 million compared to Hudson Consumer Goods Co.'s $10 million in 2017."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the major asset acquisitions of Energen Solutions Ltd in 2019 and Hudson Consumer Goods Co. in 2017. Which company made a larger asset acquisition?",
+            "ref": [
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "In October, the company completed the asset acquisition of WindTech Inc, a leading wind turbine manufacturer, for $250 million.",
+                        "This acquisition expanded the company's business scope and enhanced its market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "Hudson Consumer Goods Co.",
+                    "content": [
+                        "In January 2017, the company completed the asset acquisition of Greenfield Cosmetics for a total value of $50 million.",
+                        "This acquisition expanded the company's product portfolio and strengthened its market position in the cosmetics industry."
+                    ]
+                }
+            ],
+            "answer": "Energen Solutions Ltd made a larger asset acquisition in 2019 by acquiring WindTech Inc for $250 million compared to Hudson Consumer Goods Co.'s acquisition of Greenfield Cosmetics for $50 million in 2017."
+        }
+    ]
+}

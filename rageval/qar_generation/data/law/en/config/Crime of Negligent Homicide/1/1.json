@@ -1,0 +1,71 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Hamilton, Harrison, Court",
+        "procuratorate": "Hamilton, Harrison, Procuratorate"
+    },
+    "chiefJudge": "T. Rivera",
+    "judge": "Q. Stewart",
+    "clerk": "U. Richardson",
+    "defendant": {
+        "name": "M. Ward",
+        "gender": "female",
+        "birthdate": "22th, August, 1983",
+        "residence": "86, Tiverton street, Harrison",
+        "ethnicity": "Caucasian",
+        "occupation": "Nurse"
+    },
+    "defenseLawyer": {
+        "name": "I. Richardson",
+        "lawFirm": "Richardson & Partners Law Firm"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "1st March, 2023"
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "5th March, 2023"
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "10th March, 2023"
+        },
+        {
+            "event": "Arrest",
+            "date": "15th March, 2023"
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Negligent Homicide",
+            "details": [
+                {
+                    "timePeriod": "23rd February, 2023, 8:45 PM",
+                    "behavior": "Administered an incorrect dosage of medication to patient S. Harris at Harrison General Hospital. The dosage exceeded the prescribed amount by a significant margin.",
+                    "evidence": "Medical records indicating the prescribed and administered dosages, witness testimony from attending night shift nurse J. Olsen, and the hospital’s surveillance footage."
+                },
+                {
+                    "timePeriod": "24th February, 2023, 10:15 PM",
+                    "behavior": "Failed to monitor patient S. Harris’s vital signs post-administration, despite patient exhibiting signs of distress.",
+                    "evidence": "Patient monitoring logs, witness testimony from respiratory therapist G. Sharpe, and electronic vital sign data records."
+                },
+                {
+                    "timePeriod": "25th February, 2023, 1:25 AM",
+                    "behavior": "Delayed initiating emergency procedures or contacting on-call physician upon deterioration of patient’s condition.",
+                    "evidence": "Emergency response report, witness testimony from night nurse H. Spencer, and hospital phone records showing delay in contacting on-call physician."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "30th April, 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Negligent Homicide",
+                "sentence": "Four years fixed-term imprisonment",
+                "sentencingConsiderations": "The court considered the defendant’s position as a healthcare professional and the critical impact of negligence in this setting. Additionally, the court noted the absence of prior criminal record but emphasized the severe consequences of the actions."
+            }
+        ]
+    }
+}

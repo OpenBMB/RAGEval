@@ -1,0 +1,259 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "L. Brown",
+            "Gender": "male",
+            "Age": "32",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Married",
+            "Occupation": "Software Engineer",
+            "Address": "25, Victoria street, Ashland",
+            "Admission Time": "25th, March",
+            "Record Time": "25th, March",
+            "Historian": "Self",
+            "Hospital Name": "Ashland General Hospital"
+        },
+        "Chief Complaint": "High fever, chills, and headache for 3 days",
+        "Present Illness": {
+            "Onset": "Symptoms began 3 days ago after returning from a trip to Nigeria.",
+            "Main Symptoms": "High fever (up to 39°C), severe chills, intense headache, sweating, limb aches, and fatigue. Symptoms are severe and interfere with daily activities.",
+            "Accompanying Symptoms": "Mild nausea, occasional dizziness. Symptoms appear to cycle every 48 hours.",
+            "Diagnosis and Treatment History": "Visited a local clinic on the second day of symptoms; given antipyretics which temporarily lowered the fever but did not resolve other symptoms.",
+            "General Condition Changes": "Appetite slightly reduced, normal urination and defecation, weight stable. Sleep is disturbed due to fever and chills."
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy, no chronic illnesses",
+            "Disease History": "No history of major illnesses",
+            "Infectious Disease History": "No previous infections",
+            "Immunization History": "Up to date with vaccines, including travel vaccinations",
+            "Surgery and Trauma History": "Appendectomy at age 12",
+            "Blood Transfusion History": "None",
+            "Allergy History": "No known allergies"
+        },
+        "Personal History": {
+            "Birthplace": "Ashland",
+            "Residence": "25, Victoria street, Ashland",
+            "Living Habits": "Non-smoker, occasional alcohol consumption, exercises regularly",
+            "Occupation and Working Conditions": "Software engineer, works in an office with minimal exposure to environmental hazards",
+            "Exposure History": "No exposure to industrial toxins or radioactive substances",
+            "Travel History": "Returned from a two-week trip to Nigeria 4 days ago"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Married",
+                "Marriage Age": "28",
+                "Spouse's Health Condition": "Healthy",
+                "Children's Condition": "Two children, both healthy"
+            },
+            "Family History": "No family history of similar diseases or genetic tendencies. Parents and siblings are in good health."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "39°C",
+                "Pulse": "110 bpm",
+                "Respiration": "22 breaths/min",
+                "Blood Pressure": "130/85 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Pale, diaphoretic",
+                "Mucous Membranes": "Normal",
+                "Lymph Nodes": "No lymphadenopathy",
+                "Head and Organs": "No abnormalities detected",
+                "Neck": "No stiffness or masses, jugular venous pressure is normal",
+                "Chest": "Clear to auscultation bilaterally. No wheezing or crackles. Heart sounds normal, no murmurs.",
+                "Abdomen": "Soft, non-tender. Liver and spleen not palpable.",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Normal",
+                "Spine": "Normal alignment, no tenderness",
+                "Limbs": "No edema, normal range of motion",
+                "Nervous System": "Alert, oriented, cranial nerves intact"
+            }
+        },
+        "Specialist Examination": "Pending infectious disease consult",
+        "Auxiliary Examination": "Blood smear: Plasmodium falciparum detected",
+        "Preliminary Diagnosis": "Malaria",
+        "Diagnostic Basis": "Recent travel to malaria-endemic area (Nigeria), recurring high fevers with chills and headaches, positive blood smear for Plasmodium falciparum.",
+        "Differential Diagnosis": "Sepsis, typhoid fever, leptospirosis, hemorrhagic fever with renal syndrome, schistosomiasis, biliary tract infection, and urinary tract infection. Ruling out these based on travel history, symptom pattern, and blood smear results.",
+        "Admission Records": {
+            "Physician's Signature": "Dr. John Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient with malaria diagnosis based on clinical presentation and positive blood smear. Initiating antimalarial therapy (Artemisinin-based combination therapy). Monitor vitals, CBC, renal function, and blood glucose levels.",
+            "Daily Course Records": "Day 1: Fever reduced to 37.5°C, headache and limb aches persist. Day 2: Fever spikes again to 38.5°C, reoccurring symptoms. Adjusting antibiotic therapy.",
+            "Senior Physician Rounds Records": "Reviewed case with Dr. Patricia Allen. Plan to continue current treatment and monitor daily.",
+            "Difficult Case Discussion Records": "Team meeting: Reviewing case management. Consensus to continue with current treatment and supportive care.",
+            "Handover Records": "Patient remains stable on antimalarial treatment, no new symptoms overnight.",
+            "Transfer Records": "Not applicable",
+            "Stage Summary": "End of Week 1: Patient responding to antimalarial treatment, fevers less frequent and severe. Monitoring for complications.",
+            "Emergency Records": "No emergency events recorded",
+            "Invasive Procedure Records": "None performed",
+            "Consultation Records": "Infectious disease consult pending review",
+            "Discharge Records": "Not yet discharged",
+            "Critically Ill Patient Care Records": "Not applicable"
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Artemisinin-based combination therapy, antipyretics as needed, daily CBC, renal function tests.",
+            "Temporary Orders": "IV fluids for dehydration, blood glucose checks every 6 hours."
+        },
+        "Auxiliary Examination Reports": "Blood smear: Positive for Plasmodium falciparum. CBC: Mild anemia, normal WBC count, platelets slightly low. Renal function: Within normal limits. Blood glucose: Normal.",
+        "Temperature Chart": "Day 1: Temp 39°C, Pulse 110 bpm, Resp 22, BP 130/85 mmHg. Day 2: Temp 38.5°C, Pulse 100 bpm, Resp 20, BP 125/80 mmHg.",
+        "Blood Transfusion Consent": "Not required",
+        "Special Examination Consent": "Consent obtained for infectious disease consult and blood tests",
+        "Critical Condition Notice": "Not applicable"
+    },
+    "DiseaseType": {
+        "Parasitic Diseases": {
+            "Name": "Malaria",
+            "Symptoms": "The main symptoms of malaria are chills, high fever, sweating, headache, limb aches, and fatigue. After a certain incubation period, the symptoms recur. Severe cases can lead to complications such as anemia, hypoglycemia, acute renal failure, or acute pulmonary edema.",
+            "Differential Diagnosis": "Malaria should be differentiated from various febrile diseases such as sepsis, typhoid, leptospirosis, hemorrhagic fever with renal syndrome, schistosomiasis, biliary tract infections, and urinary tract infections. When it develops into cerebral malaria, it should be differentiated from Japanese encephalitis, moderate bacillary dysentery, sporadic viral encephalitis, etc."
+        }
+    },
+    "Generated Article": "Hospitalization Record:\n\nBasic Information:\nName: L. Brown\nGender: male\nAge: 32\nEthnicity: Caucasian\nMarital Status: Married\nOccupation: Software Engineer\nAddress: 25, Victoria street, Ashland\nAdmission Time: 25th, March\nRecord Time: 25th, March\nHistorian: Self\nHospital Name: Ashland General Hospital\n\nChief Complaint:\nHigh fever, chills, and headache for 3 days\n\nPresent Illness:\nOnset: Symptoms began 3 days ago after returning from a trip to Nigeria.\nMain Symptoms: High fever (up to 39°C), severe chills, intense headache, sweating, limb aches, and fatigue. Symptoms are severe and interfere with daily activities.\nAccompanying Symptoms: Mild nausea, occasional dizziness. Symptoms appear to cycle every 48 hours.\nDiagnosis and Treatment History: Visited a local clinic on the second day of symptoms; given antipyretics which temporarily lowered the fever but did not resolve other symptoms.\nGeneral Condition Changes: Appetite slightly reduced, normal urination and defecation, weight stable. Sleep is disturbed due to fever and chills.\n\nPast History:\nGeneral Health Condition: Generally healthy, no chronic illnesses\nDisease History: No history of major illnesses\nInfectious Disease History: No previous infections\nImmunization History: Up to date with vaccines, including travel vaccinations\nSurgery and Trauma History: Appendectomy at age 12\nBlood Transfusion History: None\nAllergy History: No known allergies\n\nPersonal History:\nBirthplace: Ashland\nResidence: 25, Victoria street, Ashland\nLiving Habits: Non-smoker, occasional alcohol consumption, exercises regularly\nOccupation and Working Conditions: Software engineer, works in an office with minimal exposure to environmental hazards\nExposure History: No exposure to industrial toxins or radioactive substances\nTravel History: Returned from a two-week trip to Nigeria 4 days ago\n\nMarital and Family History:\nMarital History:\nMarital Status: Married\nMarriage Age: 28\nSpouse's Health Condition: Healthy\nChildren's Condition: Two children, both healthy\nFamily History: No family history of similar diseases or genetic tendencies. Parents and siblings are in good health.\n\nPhysical Examination:\nGeneral Condition:\nTemperature: 39°C\nPulse: 110 bpm\nRespiration: 22 breaths/min\nBlood Pressure: 130/85 mmHg\nSystematic Examination:\nSkin: Pale, diaphoretic\nMucous Membranes: Normal\nLymph Nodes: No lymphadenopathy\nHead and Organs: No abnormalities detected\nNeck: No stiffness or masses, jugular venous pressure is normal\nChest: Clear to auscultation bilaterally. No wheezing or crackles. Heart sounds normal, no murmurs.\nAbdomen: Soft, non-tender. Liver and spleen not palpable.\nRectum and Anus: Not examined\nExternal Genitalia: Normal\nSpine: Normal alignment, no tenderness\nLimbs: No edema, normal range of motion\nNervous System: Alert, oriented, cranial nerves intact\n\nSpecialist Examination:\nPending infectious disease consult\n\nAuxiliary Examination:\nBlood smear: Plasmodium falciparum detected\n\nPreliminary Diagnosis:\nMalaria\n\nDiagnostic Basis:\nRecent travel to malaria-endemic area (Nigeria), recurring high fevers with chills and headaches, positive blood smear for Plasmodium falciparum.\n\nDifferential Diagnosis:\nSepsis, typhoid fever, leptospirosis, hemorrhagic fever with renal syndrome, schistosomiasis, biliary tract infection, and urinary tract infection. Ruling out these based on travel history, symptom pattern, and blood smear results.\n\nAdmission Records:\nPhysician's Signature: Dr. John Smith\n\nPost-Admission Course Records:\nFirst Course Record: Patient with malaria diagnosis based on clinical presentation and positive blood smear. Initiating antimalarial therapy (Artemisinin-based combination therapy). Monitor vitals, CBC, renal function, and blood glucose levels.\n\nDaily Course Records:\nDay 1: Fever reduced to 37.5°C, headache and limb aches persist.\nDay 2: Fever spikes again to 38.5°C, reoccurring symptoms. Adjusting antibiotic therapy.\n\nSenior Physician Rounds Records:\nReviewed case with Dr. Patricia Allen. Plan to continue current treatment and monitor daily.\n\nDifficult Case Discussion Records:\nTeam meeting: Reviewing case management. Consensus to continue with current treatment and supportive care.\n\nHandover Records:\nPatient remains stable on antimalarial treatment, no new symptoms overnight.\n\nTransfer Records:\nNot applicable\n\nStage Summary:\nEnd of Week 1: Patient responding to antimalarial treatment, fevers less frequent and severe. Monitoring for complications.\n\nEmergency Records:\nNo emergency events recorded\n\nInvasive Procedure Records:\nNone performed\n\nConsultation Records:\nInfectious disease consult pending review\n\nDischarge Records:\nNot yet discharged\n\nCritically Ill Patient Care Records:\nNot applicable\n\nMedical Orders:\nLong-term Orders: Artemisinin-based combination therapy, antipyretics as needed, daily CBC, renal function tests.\nTemporary Orders: IV fluids for dehydration, blood glucose checks every 6 hours.\n\nAuxiliary Examination Reports:\nBlood smear: Positive for Plasmodium falciparum. CBC: Mild anemia, normal WBC count, platelets slightly low. Renal function: Within normal limits. Blood glucose: Normal.\n\nTemperature Chart:\nDay 1: Temp 39°C, Pulse 110 bpm, Resp 22, BP 130/85 mmHg.\nDay 2: Temp 38.5°C, Pulse 100 bpm, Resp 20, BP 125/80 mmHg.\n\nBlood Transfusion Consent:\nNot required\n\nSpecial Examination Consent:\nConsent obtained for infectious disease consult and blood tests\n\nCritical Condition Notice:\nNot applicable\n\nDiseaseType:\nParasitic Diseases:\nName: Malaria\nSymptoms: The main symptoms of malaria are chills, high fever, sweating, headache, limb aches, and fatigue. After a certain incubation period, the symptoms recur. Severe cases can lead to complications such as anemia, hypoglycemia, acute renal failure, or acute pulmonary edema.\nDifferential Diagnosis: Malaria should be differentiated from various febrile diseases such as sepsis, typhoid, leptospirosis, hemorrhagic fever with renal syndrome, schistosomiasis, biliary tract infections, and urinary tract infections. When it develops into cerebral malaria, it should be differentiated from Japanese encephalitis, moderate bacillary dysentery, sporadic viral encephalitis, etc.",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Ashland General Hospital, what is L. Brown's initial diagnosis?",
+            "answer": "Malaria.",
+            "ref": [
+                "Preliminary Diagnosis:",
+                "Malaria",
+                "First Course Record: Patient with malaria diagnosis based on clinical presentation and positive blood smear."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Ashland General Hospital, what is L. Brown's chief complaint?",
+            "answer": "High fever, chills, and headache for 3 days.",
+            "ref": [
+                "Chief Complaint:",
+                "High fever, chills, and headache for 3 days"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Ashland General Hospital, what is L. Brown's age?",
+            "answer": "32.",
+            "ref": [
+                "Age: 32"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Ashland General Hospital, what is L. Brown's occupation?",
+            "answer": "Software Engineer.",
+            "ref": [
+                "Occupation: Software Engineer",
+                "Occupation and Working Conditions: Software engineer, works in an office with minimal exposure to environmental hazards"
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Ashland General Hospital, how many diagnostic bases were used to diagnose L. Brown's condition?",
+            "answer": "Three diagnostic bases were used to diagnose L. Brown's condition: recent travel to Nigeria, recurring high fevers with chills and headaches, and a positive blood smear for Plasmodium falciparum.",
+            "ref": [
+                "Travel History: Returned from a two-week trip to Nigeria 4 days ago",
+                "Diagnostic Basis:",
+                "Recent travel to malaria-endemic area (Nigeria), recurring high fevers with chills and headaches, positive blood smear for Plasmodium falciparum.",
+                "Blood smear: Positive for Plasmodium falciparum."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Ashland General Hospital, how many auxiliary examinations did L. Brown undergo?",
+            "answer": "L. Brown underwent four auxiliary examinations: blood smear, CBC, renal function, and blood glucose.",
+            "ref": [
+                "Auxiliary Examination:",
+                "Blood smear: Plasmodium falciparum detected",
+                "Blood smear: Positive for Plasmodium falciparum.",
+                "CBC: Mild anemia, normal WBC count, platelets slightly low.",
+                "Renal function: Within normal limits.",
+                "Blood glucose: Normal."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Ashland General Hospital, how many differential diagnoses were considered for L. Brown's condition?",
+            "answer": "Seven differential diagnoses were considered for L. Brown's condition: sepsis, typhoid fever, leptospirosis, hemorrhagic fever with renal syndrome, schistosomiasis, biliary tract infection, and urinary tract infection.",
+            "ref": [
+                "Differential Diagnosis:",
+                "Sepsis, typhoid fever, leptospirosis, hemorrhagic fever with renal syndrome, schistosomiasis, biliary tract infection, and urinary tract infection."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Ashland General Hospital, how many daily course records are documented for L. Brown?",
+            "answer": "There are two daily course records documented for L. Brown: Day 1 and Day 2.",
+            "ref": [
+                "Daily Course Records:",
+                "Day 1: Fever reduced to 37.5°C, headache and limb aches persist.",
+                "Day 2: Fever spikes again to 38.5°C, reoccurring symptoms."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Ashland General Hospital, how many long-term medical orders were prescribed for L. Brown?",
+            "answer": "Four long-term medical orders were prescribed for L. Brown: Artemisinin-based combination therapy, antipyretics as needed, daily CBC, and renal function tests.",
+            "ref": [
+                "Medical Orders:",
+                "Long-term Orders: Artemisinin-based combination therapy, antipyretics as needed, daily CBC, renal function tests."
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Ashland General Hospital, summarize the present illness of L. Brown.",
+            "answer": "L. Brown's symptoms began 3 days ago after returning from a trip to Nigeria. He has a high fever (up to 39°C), severe chills, intense headache, sweating, limb aches, and fatigue. Symptoms are severe and interfere with daily activities. Accompanying symptoms include mild nausea and occasional dizziness, with symptoms cycling every 48 hours. He visited a local clinic on the second day of symptoms and was given antipyretics, which temporarily lowered the fever but did not resolve other symptoms. His appetite is slightly reduced, urination and defecation are normal, weight is stable, and sleep is disturbed due to fever and chills.",
+            "ref": [
+                "Onset: Symptoms began 3 days ago after returning from a trip to Nigeria.",
+                "Main Symptoms: High fever (up to 39°C), severe chills, intense headache, sweating, limb aches, and fatigue.",
+                "Symptoms are severe and interfere with daily activities.",
+                "Accompanying Symptoms: Mild nausea, occasional dizziness.",
+                "Symptoms appear to cycle every 48 hours.",
+                "Diagnosis and Treatment History: Visited a local clinic on the second day of symptoms; given antipyretics which temporarily lowered the fever but did not resolve other symptoms.",
+                "General Condition Changes: Appetite slightly reduced, normal urination and defecation, weight stable.",
+                "Sleep is disturbed due to fever and chills."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Ashland General Hospital, summarize the past medical history of L. Brown.",
+            "answer": "L. Brown is generally healthy with no chronic illnesses or major diseases. He has no history of previous infections and is up to date with vaccines, including travel vaccinations. He had an appendectomy at age 12 and has no history of blood transfusions or known allergies.",
+            "ref": [
+                "General Health Condition: Generally healthy, no chronic illnesses",
+                "Disease History: No history of major illnesses",
+                "Infectious Disease History: No previous infections",
+                "Immunization History: Up to date with vaccines, including travel vaccinations",
+                "Surgery and Trauma History: Appendectomy at age 12",
+                "Blood Transfusion History: None",
+                "Allergy History: No known allergies"
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Ashland General Hospital, summarize the physical examination findings of L. Brown.",
+            "answer": "L. Brown's general condition includes a temperature of 39°C, pulse of 110 bpm, respiration rate of 22 breaths/min, and blood pressure of 130/85 mmHg. Systematic examination findings include pale, diaphoretic skin, normal mucous membranes, no lymphadenopathy, no abnormalities in head and organs, normal jugular venous pressure, clear chest auscultation, normal heart sounds, soft and non-tender abdomen, normal external genitalia, normal spine alignment, no limb edema, and intact cranial nerves.",
+            "ref": [
+                "Temperature: 39°C",
+                "Pulse: 110 bpm",
+                "Respiration: 22 breaths/min",
+                "Blood Pressure: 130/85 mmHg",
+                "Skin: Pale, diaphoretic",
+                "Mucous Membranes: Normal",
+                "Lymph Nodes: No lymphadenopathy",
+                "Head and Organs: No abnormalities detected",
+                "Neck: No stiffness or masses, jugular venous pressure is normal",
+                "Chest: Clear to auscultation bilaterally.",
+                "No wheezing or crackles.",
+                "Heart sounds normal, no murmurs.",
+                "Abdomen: Soft, non-tender.",
+                "External Genitalia: Normal",
+                "Spine: Normal alignment, no tenderness",
+                "Limbs: No edema, normal range of motion",
+                "Nervous System: Alert, oriented, cranial nerves intact"
+            ]
+        }
+    ]
+}

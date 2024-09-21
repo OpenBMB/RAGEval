@@ -1,0 +1,123 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Summerville, Windsor, Court, what are the occupations of the defendants M. Harris and F. James?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Occupation:** Accountant"
+                    ]
+                },
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "- **Defendant:** F. James (Female, born on 27th April 1960, residing at 39 Knoxville Street, Windsor; Retail Store Manager, Caucasian)",
+                        "The defendant, F. James, has been a resident of 39 Knoxville Street, Windsor, and is employed as a Retail Store Manager."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Preston, Lancaster, Court, the defendant M. Harris is an accountant; according to the judgment of Summerville, Windsor, Court, the defendant F. James is a retail store manager."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Summerville, Windsor, Court, what crimes did the defendants M. Harris and F. James commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Crime Name:** Crime of Intentional Homicide",
+                        "M. Harris stands charged under Article 232 for the Crime of Intentional Homicide."
+                    ]
+                },
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "The court charges F. James with the crime of Picking Quarrels and Provoking Trouble, in accordance with Article 293 of the criminal law.",
+                        "The specifics of this charge encompass a series of aggressive and unprovoked actions aimed at disturbing public peace."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Preston, Lancaster, Court, the defendant M. Harris committed the crime of intentional homicide; according to the judgment of Summerville, Windsor, Court, the defendant F. James committed the crime of picking quarrels and provoking trouble."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Summerville, Windsor, Court, what are the genders of the defendants M. Harris and F. James?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Gender:** Female"
+                    ]
+                },
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "- **Defendant:** F. James (Female, born on 27th April 1960, residing at 39 Knoxville Street, Windsor; Retail Store Manager, Caucasian)"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Preston, Lancaster, Court, the defendant M. Harris is female; according to the judgment of Summerville, Windsor, Court, the defendant F. James is also female."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Summerville, Windsor, Court, what are the ethnicities of the defendants M. Harris and F. James?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Ethnicity:** Caucasian"
+                    ]
+                },
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "- **Defendant:** F. James (Female, born on 27th April 1960, residing at 39 Knoxville Street, Windsor; Retail Store Manager, Caucasian)"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Preston, Lancaster, Court, the defendant M. Harris is Caucasian; according to the judgment of Summerville, Windsor, Court, the defendant F. James is also Caucasian."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Summerville, Windsor, Court, whose sentencing time is longer, M. Harris or F. James?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Sentence:** Life imprisonment"
+                    ]
+                },
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "The defendant is hereby sentenced to three years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "M. Harris was sentenced to life imprisonment, while F. James was sentenced to three years of fixed-term imprisonment. Therefore, M. Harris's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Summerville, Windsor, Court, whose judgment time is earlier, M. Harris or F. James?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 25th of June, 2023."
+                    ]
+                },
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "So ordered, this 1st day of May, 2023."
+                    ]
+                }
+            ],
+            "answer": "F. James's judgment time is earlier, as the judgment was given on 1st May 2023, while M. Harris's judgment was given on 25th June 2023."
+        }
+    ]
+}

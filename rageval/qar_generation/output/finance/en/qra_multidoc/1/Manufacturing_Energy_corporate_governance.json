@@ -1,0 +1,231 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What risk management measures were implemented by Fabrikon Manufacturing Ltd. in May 2021 and Energen Solutions Ltd. in March 2019?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In May 2021, the company also implemented various risk management measures to mitigate potential threats and uncertainties.",
+                        "These measures included the establishment of a dedicated risk management department, regular risk assessments, and the development of contingency plans.",
+                        "The impact of these measures was evident in the company's ability to proactively identify and address potential risks, minimizing their impact on operations and financial performance."
+                    ]
+                },
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "The enhanced risk management measures implemented by Energen Solutions Ltd in March 2019 also played a crucial role in ensuring the company's resilience and business continuity.",
+                        "By identifying emerging risks, implementing robust contingency plans, and conducting regular risk assessments, the company was able to effectively respond to potential threats and mitigate their impact on its operations."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. implemented risk management measures in May 2021, which included the establishment of a dedicated risk management department, regular risk assessments, and the development of contingency plans. Energen Solutions Ltd. implemented enhanced risk management measures in March 2019, which included the identification of emerging risks, implementation of robust contingency plans, and regular risk assessments."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the changes in the Board of Directors for Fabrikon Manufacturing Ltd. in December 2021 and Energen Solutions Ltd. in May 2019?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "Finally, in December 2021, Fabrikon Manufacturing Ltd. experienced a change in its Board of Directors.",
+                        "This change brought new perspectives and expertise to the company's governance structure, ensuring effective oversight and strategic direction.",
+                        "The impact of this change was reflected in the company's improved corporate governance practices and long-term growth prospects."
+                    ]
+                },
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "In May 2019, Energen Solutions Ltd experienced a change in its board of directors with the appointment of Mr. David Thompson as a new member.",
+                        "This change brought fresh perspectives and strategic guidance to the company, potentially leading to adjustments in its direction and shareholder interests.",
+                        "The appointment of Mr. Thompson further strengthened the governance structure of the company, ensuring effective decision-making processes and long-term development."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. experienced a change in its Board of Directors in December 2021, bringing new perspectives and expertise to the company's governance structure. Energen Solutions Ltd. appointed Mr. David Thompson as a new board member in May 2019, bringing fresh perspectives and strategic guidance to the company."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What sustainability and social responsibility initiatives were undertaken by Fabrikon Manufacturing Ltd. in November 2021 and Energen Solutions Ltd. in July 2019?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In November 2021, the company launched various sustainability and social responsibility initiatives.",
+                        "These initiatives aimed to minimize the company's environmental footprint, promote employee well-being, and contribute to the communities in which it operates.",
+                        "The impact of these initiatives was evident in the company's improved corporate social responsibility reputation and increased stakeholder engagement."
+                    ]
+                },
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "Energen Solutions Ltd's commitment to sustainability and social responsibility was evident in its July 2019 initiatives.",
+                        "The company achieved its sustainability goals by reducing its carbon footprint and implementing a community outreach program.",
+                        "These initiatives not only enhanced the company's public image but also positioned it as a responsible corporate citizen, attracting socially conscious investors and customers."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. undertook sustainability and social responsibility initiatives in November 2021, which aimed to minimize the company's environmental footprint, promote employee well-being, and contribute to the communities in which it operates. Energen Solutions Ltd. achieved sustainability goals in July 2019, which included the reduction of its carbon footprint and the implementation of a community outreach program."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What compliance and regulatory updates were made by Fabrikon Manufacturing Ltd. in June 2021 and Energen Solutions Ltd. in August 2019?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In June 2021, Fabrikon Manufacturing Ltd. complied with new compliance and regulatory updates in the manufacturing industry.",
+                        "These updates aimed to ensure adherence to industry standards and regulations, enhancing the company's reputation and credibility.",
+                        "The impact of these updates was reflected in the company's improved compliance record and strengthened relationships with regulatory authorities."
+                    ]
+                },
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "In August 2019, Energen Solutions Ltd adopted new compliance standards in response to changes in securities law and industry regulations.",
+                        "This proactive approach to compliance ensured that the company operated within legal boundaries, protecting its interests and those of its shareholders."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. made compliance and regulatory updates in June 2021, ensuring adherence to industry standards and regulations, which enhanced the company's reputation and credibility. Energen Solutions Ltd. adopted new compliance standards in August 2019 in response to changes in securities law and industry regulations, ensuring the company operated within legal boundaries."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What senior management changes occurred at Fabrikon Manufacturing Ltd. in September 2021 and Energen Solutions Ltd. in December 2019?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In September 2021, Fabrikon Manufacturing Ltd. underwent senior management changes, including the appointment of new executives in key leadership positions.",
+                        "These changes aimed to bring fresh perspectives and expertise to the company's management team, driving innovation and strategic decision-making.",
+                        "The impact of these changes was reflected in the company's improved operational efficiency and performance."
+                    ]
+                },
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "In December 2019, Energen Solutions Ltd experienced a change in its senior management with the appointment of Ms. Linda Anderson as the new CEO.",
+                        "This change in leadership brought about adjustments in the company's operational focus and strategic priorities.",
+                        "The impact of these senior management changes on the company's short-term performance and long-term development remains to be seen."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. had senior management changes in September 2021, including the appointment of new executives in key leadership positions, which aimed to bring fresh perspectives and expertise to the company's management team. Energen Solutions Ltd. appointed Ms. Linda Anderson as the new CEO in December 2019, bringing about adjustments in the company's operational focus and strategic priorities."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the corporate governance policy revision times of Fabrikon Manufacturing Ltd. and Energen Solutions Ltd. Which company revised their policy earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In July 2021, the company revised its corporate governance policy to align with best practices and enhance transparency.",
+                        "This revision included the establishment of an independent audit committee and the adoption of stricter disclosure requirements."
+                    ]
+                },
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "In January 2019, Energen Solutions Ltd underwent a significant revision of its corporate governance policy, aligning it with best practices in the industry.",
+                        "This revision aimed to enhance transparency, accountability, and stakeholder engagement within the company.",
+                        "By encouraging diversity in board composition and strengthening risk oversight mechanisms, the policy revision aimed to ensure the company's long-term success and sustainability."
+                    ]
+                }
+            ],
+            "answer": "Energen Solutions Ltd. revised their corporate governance policy earlier in January 2019, while Fabrikon Manufacturing Ltd. revised theirs in July 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the implementation times of risk management measures for Fabrikon Manufacturing Ltd. and Energen Solutions Ltd. Which company implemented these measures earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In May 2021, the company also implemented various risk management measures to mitigate potential threats and uncertainties.",
+                        "These measures included the establishment of a dedicated risk management department, regular risk assessments, and the development of contingency plans.",
+                        "The impact of these measures was evident in the company's ability to proactively identify and address potential risks, minimizing their impact on operations and financial performance."
+                    ]
+                },
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "The enhanced risk management measures implemented by Energen Solutions Ltd in March 2019 also played a crucial role in ensuring the company's resilience and business continuity.",
+                        "By identifying emerging risks, implementing robust contingency plans, and conducting regular risk assessments, the company was able to effectively respond to potential threats and mitigate their impact on its operations."
+                    ]
+                }
+            ],
+            "answer": "Energen Solutions Ltd. implemented risk management measures earlier in March 2019, while Fabrikon Manufacturing Ltd. implemented theirs in May 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of board of directors changes for Fabrikon Manufacturing Ltd. and Energen Solutions Ltd. Which company had a change in their board of directors earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "Finally, in December 2021, Fabrikon Manufacturing Ltd. experienced a change in its Board of Directors.",
+                        "This change brought new perspectives and expertise to the company's governance structure, ensuring effective oversight and strategic direction."
+                    ]
+                },
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "In May 2019, Energen Solutions Ltd experienced a change in its board of directors with the appointment of Mr. David Thompson as a new member.",
+                        "This change brought fresh perspectives and strategic guidance to the company, potentially leading to adjustments in its direction and shareholder interests.",
+                        "The appointment of Mr. Thompson further strengthened the governance structure of the company, ensuring effective decision-making processes and long-term development."
+                    ]
+                }
+            ],
+            "answer": "Energen Solutions Ltd. had a change in their board of directors earlier in May 2019, while Fabrikon Manufacturing Ltd. had theirs in December 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of sustainability and social responsibility initiatives for Fabrikon Manufacturing Ltd. and Energen Solutions Ltd. Which company initiated these initiatives earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In November 2021, the company launched various sustainability and social responsibility initiatives.",
+                        "These initiatives aimed to minimize the company's environmental footprint, promote employee well-being, and contribute to the communities in which it operates.",
+                        "The impact of these initiatives was evident in the company's improved corporate social responsibility reputation and increased stakeholder engagement."
+                    ]
+                },
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "Energen Solutions Ltd's commitment to sustainability and social responsibility was evident in its July 2019 initiatives.",
+                        "The company achieved its sustainability goals by reducing its carbon footprint and implementing a community outreach program.",
+                        "These initiatives not only enhanced the company's public image but also positioned it as a responsible corporate citizen, attracting socially conscious investors and customers."
+                    ]
+                }
+            ],
+            "answer": "Energen Solutions Ltd. initiated their sustainability and social responsibility initiatives earlier in July 2019, while Fabrikon Manufacturing Ltd. initiated theirs in November 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of ethics and integrity incidents for Fabrikon Manufacturing Ltd. and Energen Solutions Ltd. Which company experienced these incidents earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "However, April 2021 also saw some ethics and integrity incidents within the company.",
+                        "These incidents raised concerns about the company's commitment to ethical practices and corporate responsibility.",
+                        "The impact of these incidents was detrimental to the company's reputation and stakeholder trust."
+                    ]
+                },
+                {
+                    "company_name": "Energen Solutions Ltd",
+                    "content": [
+                        "In November 2019, the company faced allegations of ethics and integrity incidents, specifically a conflict of interest investigation.",
+                        "These incidents had the potential to damage the company's reputation and brand value, as well as impact its relationships with investors, customers, and partners.",
+                        "It became imperative for the company to address these incidents promptly and transparently to regain trust and maintain stakeholder confidence."
+                    ]
+                }
+            ],
+            "answer": "Energen Solutions Ltd. experienced ethics and integrity incidents earlier in November 2019, while Fabrikon Manufacturing Ltd. experienced theirs in April 2021."
+        }
+    ]
+}

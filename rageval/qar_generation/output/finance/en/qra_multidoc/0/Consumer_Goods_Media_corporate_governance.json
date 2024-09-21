@@ -1,0 +1,197 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What changes occurred in the board of directors for Evergreen Consumer Goods Co. in December 2017 and Vanguard Media Group in February 2019?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Lastly, in December 2017, Evergreen appointed two new independent directors, John Smith and Emily Johnson, to its board of directors."
+                    ]
+                },
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In February 2019, Vanguard Media Group witnessed a change in its board of directors, which had a potential impact on the company's strategic direction."
+                    ]
+                }
+            ],
+            "answer": "In December 2017, Evergreen Consumer Goods Co. appointed two new independent directors, John Smith and Emily Johnson. In February 2019, Vanguard Media Group also experienced changes in its board of directors, which may lead to strategic adjustments affecting long-term development and shareholder interests."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How did Evergreen Consumer Goods Co. and Vanguard Media Group handle ethics and integrity incidents in 2017 and 2019, respectively?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In August 2017, Evergreen promptly addressed a minor ethics and integrity incident related to an employee violation of the internal code of conduct.",
+                        "The company conducted a thorough investigation, terminated the employee, and reinforced ethics training across all departments.",
+                        "This swift and transparent handling of the incident demonstrates Evergreen's commitment to ethics and integrity, minimizing potential damage to the company's reputation and brand value."
+                    ]
+                },
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "Furthermore, in March 2019, the company faced significant ethics and integrity incidents.",
+                        "These incidents had the potential to damage Vanguard Media Group's reputation and affect its relationships with investors, customers, and partners."
+                    ]
+                }
+            ],
+            "answer": "In August 2017, Evergreen Consumer Goods Co. addressed a minor ethics incident by conducting a thorough investigation, terminating the employee involved, and reinforcing ethics training across all departments. In March 2019, Vanguard Media Group dealt with significant ethical or integrity violations, which may have damaged its reputation and affected relationships with investors, customers, and partners."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the corporate governance policy revisions made by Evergreen Consumer Goods Co. in September 2017 and Vanguard Media Group in September 2019?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In September 2017, Evergreen revised its corporate governance policy to enhance transparency, accountability, and stakeholder engagement.",
+                        "The revision included the introduction of a whistleblower mechanism and the establishment of a dedicated ethics hotline.",
+                        "These changes enhance transparency, accountability, and stakeholder confidence, positively influencing the company's operations and reputation."
+                    ]
+                },
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In September 2019, Vanguard Media Group revised its corporate governance policy to enhance transparency, accountability, and stakeholder engagement.",
+                        "This revision aimed to boost stakeholder confidence and ensure that the company adhered to the highest standards of corporate governance."
+                    ]
+                }
+            ],
+            "answer": "In September 2017, Evergreen Consumer Goods Co. revised its corporate governance framework to enhance transparency, accountability, and stakeholder engagement, including the introduction of a whistleblower mechanism and an ethics hotline. In September 2019, Vanguard Media Group also revised its corporate governance framework to enhance transparency, accountability, and stakeholder engagement, boosting stakeholder confidence."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What senior management changes occurred at Evergreen Consumer Goods Co. in October 2017 and Vanguard Media Group in October 2019?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In October 2017, Evergreen appointed Lisa Anderson as the new Chief Financial Officer (CFO).",
+                        "With a proven track record in financial management within the consumer goods industry, Anderson's appointment is expected to strengthen the company's financial performance and growth strategies."
+                    ]
+                },
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In October 2019, the company experienced changes in its senior management, which had an impact on its operational focus and priorities.",
+                        "These changes may lead to adjustments in operational focus and strategic priorities, affecting both short-term performance and long-term development."
+                    ]
+                }
+            ],
+            "answer": "In October 2017, Evergreen Consumer Goods Co. appointed a new Chief Financial Officer (CFO), Lisa Anderson. In October 2019, Vanguard Media Group also experienced changes in senior management, which may lead to adjustments in operational focus and strategic priorities."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What risk management measures were updated by Evergreen Consumer Goods Co. in July 2017 and Vanguard Media Group in November 2019?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In July 2017, Evergreen updated its risk management measures by conducting a comprehensive risk assessment.",
+                        "This assessment identified emerging risks related to supply chain disruptions and increased cybersecurity threats.",
+                        "The company implemented mitigation strategies such as supplier diversification and enhanced cybersecurity protocols to ensure continuous operation and stable development in the face of potential challenges."
+                    ]
+                },
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In November 2019, Vanguard Media Group implemented risk management measures to improve its ability to respond to internal and external risks.",
+                        "These measures aimed to ensure the company's continuous operation and stable development."
+                    ]
+                }
+            ],
+            "answer": "In July 2017, Evergreen Consumer Goods Co. updated its risk management framework, conducted a comprehensive risk assessment, and implemented mitigation strategies, including supplier diversification and enhanced cybersecurity protocols. In November 2019, Vanguard Media Group also updated its risk management framework, identified new risks, and implemented mitigation strategies to improve its ability to respond to internal and external risks."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of the board of directors changes at Evergreen Consumer Goods Co. and Vanguard Media Group. Which company made changes to their board of directors earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Lastly, in December 2017, Evergreen appointed two new independent directors, John Smith and Emily Johnson, to its board of directors.",
+                        "With extensive experience in the consumer goods industry, these new board members are expected to contribute to the company's strategic direction, positively impacting its long-term development direction and shareholder interests."
+                    ]
+                },
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In February 2019, Vanguard Media Group witnessed a change in its board of directors, which had a potential impact on the company's strategic direction.",
+                        "Such changes in the board may lead to adjustments in the company's long-term development and shareholder interests."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. made changes to their board of directors earlier in December 2017, while Vanguard Media Group made changes in February 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when Evergreen Consumer Goods Co. and Vanguard Media Group updated their compliance and regulatory standards. Which company did this earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "To ensure compliance with new regulations, Evergreen implemented the General Data Protection Regulation (GDPR) and stricter sustainability reporting standards in May 2017.",
+                        "This compliance ensures reduced legal risk, protects the company and shareholder interests, and promotes sustainable business practices."
+                    ]
+                },
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "Vanguard Media Group, established on March 1, 2000 in Los Angeles, California, is a publicly traded diversified media company that operates television networks, film studios, and digital media platforms, producing and distributing a wide range of content in the media industry.In January 2019, Vanguard Media Group experienced several compliance and regulatory updates that impacted its corporate governance practices.",
+                        "These updates were crucial in ensuring the company's compliance with the latest laws and regulations, reducing legal risks, and protecting the interests of both the company and its shareholders."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. updated their compliance and regulatory standards earlier in May 2017, while Vanguard Media Group did so in January 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of senior management changes at Evergreen Consumer Goods Co. and Vanguard Media Group. Which company experienced these changes earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In October 2017, Evergreen appointed Lisa Anderson as the new Chief Financial Officer (CFO).",
+                        "With a proven track record in financial management within the consumer goods industry, Anderson's appointment is expected to strengthen the company's financial performance and growth strategies."
+                    ]
+                },
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In October 2019, the company experienced changes in its senior management, which had an impact on its operational focus and priorities.",
+                        "These changes may lead to adjustments in operational focus and strategic priorities, affecting both short-term performance and long-term development."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. experienced senior management changes earlier in October 2017, while Vanguard Media Group had their changes in October 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when Evergreen Consumer Goods Co. and Vanguard Media Group updated their risk management measures. Which company implemented these updates earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In July 2017, Evergreen updated its risk management measures by conducting a comprehensive risk assessment.",
+                        "This assessment identified emerging risks related to supply chain disruptions and increased cybersecurity threats.",
+                        "The company implemented mitigation strategies such as supplier diversification and enhanced cybersecurity protocols to ensure continuous operation and stable development in the face of potential challenges."
+                    ]
+                },
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In November 2019, Vanguard Media Group implemented risk management measures to improve its ability to respond to internal and external risks.",
+                        "These measures aimed to ensure the company's continuous operation and stable development."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. updated their risk management measures earlier in July 2017, while Vanguard Media Group did so in November 2019."
+        }
+    ]
+}

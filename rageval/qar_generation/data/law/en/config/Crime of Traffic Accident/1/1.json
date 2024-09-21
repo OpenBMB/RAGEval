@@ -1,0 +1,75 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Lakewood, Pinehurst, Court",
+        "procuratorate": "Lakewood, Pinehurst, Procuratorate"
+    },
+    "chiefJudge": "F. Lopez",
+    "judge": "A. Alvarez",
+    "clerk": "B. Mitchell",
+    "defendant": {
+        "name": "M. Bennett",
+        "gender": "male",
+        "birthdate": "26th, November, 2000",
+        "residence": "81, Yarmouth street, Pinehurst",
+        "ethnicity": "Caucasian",
+        "occupation": "Delivery Driver"
+    },
+    "defenseLawyer": {
+        "name": "R. Thomas",
+        "lawFirm": "Thomas & Associates Law Firm"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "15th, March, 2023",
+            "description": "The Lakewood, Pinehurst, Procuratorate received the initial report regarding the traffic accident involving M. Bennett. An investigation team was assembled to gather preliminary evidence and witness statements."
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "20th, March, 2023",
+            "description": "Following initial investigation findings, it was determined that there was sufficient evidence to detain M. Bennett for further questioning and to prevent potential evidence tampering."
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "22nd, March, 2023",
+            "description": "M. Bennett was formally placed under criminal detention by the Lakewood Police Department pending further investigation and the filing of formal charges."
+        },
+        {
+            "event": "Arrest",
+            "date": "25th, March, 2023",
+            "description": "Based on additional evidence obtained during the detention period, the Lakewood Procuratorate issued an arrest warrant for M. Bennett, charging him with causing a major traffic accident."
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Traffic Accident",
+            "details": [
+                {
+                    "timePeriod": "14th, March, 2023, 08:30 PM",
+                    "behavior": "M. Bennett was driving a Ford Transit Van under the influence of alcohol. While speeding at 70 mph in a 40 mph zone, he collided with a pedestrian, resulting in the pedestrian's immediate death.",
+                    "evidence": "Witness testimony from three bystanders, traffic surveillance footage showing the collision, blood alcohol test showing BAC of 0.12%, police accident report."
+                },
+                {
+                    "timePeriod": "14th, March, 2023, 08:45 PM",
+                    "behavior": "After the collision, M. Bennett attempted to flee the scene without providing aid to the injured pedestrian. He was apprehended by the police three blocks away from the accident site after a brief chase.",
+                    "evidence": "Camera footage from street cameras showing M. Bennett’s vehicle leaving the scene, police chase report, physical evidence from the site indicating the pedestrian's belongings were found near the point of impact, testimony from arresting officers."
+                },
+                {
+                    "timePeriod": "14th, March, 2023, 09:00 PM",
+                    "behavior": "At the time of his apprehension, M. Bennett was found in possession of an open container of alcohol and showed visible signs of intoxication.",
+                    "evidence": "Physical evidence including an open bottle of whiskey found in the van, field sobriety test results, and testimonies from the arresting officers confirming his intoxicated state."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "30th, June, 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Traffic Accident",
+                "sentence": "5 years fixed-term imprisonment with no probation.",
+                "sentencingConsiderations": "The court considered the severity of the accident, M. Bennett's attempt to flee the scene, and his intoxication level as aggravated factors. No mitigating circumstances were presented."
+            }
+        ]
+    }
+}

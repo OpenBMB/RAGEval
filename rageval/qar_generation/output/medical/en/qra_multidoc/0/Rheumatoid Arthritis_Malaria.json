@@ -1,0 +1,158 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Ashland General Hospital, what are the ages of patients J. Reyes and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "Age: 52"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Age: 32"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient J. Reyes is 52 years old; according to the hospitalization records of Ashland General Hospital, patient L. Brown is 32 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Ashland General Hospital, what are the occupations of patients J. Reyes and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "Occupation: Construction Worker"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Occupation: Software Engineer"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient J. Reyes is a construction worker; according to the hospitalization records of Ashland General Hospital, patient L. Brown is a software engineer."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Ashland General Hospital, what is the marital status of patients J. Reyes and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "Marital Status: Married"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Marital Status: Married"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient J. Reyes is married; according to the hospitalization records of Ashland General Hospital, patient L. Brown is married."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Ashland General Hospital, what are the chief complaints of patients J. Reyes and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "Persistent joint pain and morning stiffness for 6 months"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "High fever, chills, and headache for 3 days"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient J. Reyes's chief complaint is persistent joint pain and morning stiffness for 6 months; according to the hospitalization records of Ashland General Hospital, patient L. Brown's chief complaint is high fever, chills, and headache for 3 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Ashland General Hospital, what are the preliminary diagnoses for patients J. Reyes and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "Rheumatoid Arthritis"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Malaria"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient J. Reyes's preliminary diagnosis is Rheumatoid Arthritis; according to the hospitalization records of Ashland General Hospital, patient L. Brown's preliminary diagnosis is Malaria."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Ashland General Hospital, what past surgeries have patients J. Reyes and L. Brown undergone?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "Surgery and Trauma History: Appendectomy at age 30, no significant traumas reported."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Surgery and Trauma History: Appendectomy at age 12"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient J. Reyes had an appendectomy at age 30; according to the hospitalization records of Ashland General Hospital, patient L. Brown had an appendectomy at age 12."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Ashland General Hospital, what are the family health histories of patients J. Reyes and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "Family History: No known family history of rheumatoid arthritis or other autoimmune diseases."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Family History: No family history of similar diseases or genetic tendencies."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater General Hospital, patient J. Reyes has no known family history of rheumatoid arthritis or other autoimmune diseases; according to the hospitalization records of Ashland General Hospital, patient L. Brown has no family history of similar diseases or genetic tendencies."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Bridgewater General Hospital and Ashland General Hospital, who was admitted earlier, J. Reyes or L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater General Hospital_J. Reyes",
+                    "content": [
+                        "Admission Time: 7th, September"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Admission Time: 25th, March"
+                    ]
+                }
+            ],
+            "answer": "J. Reyes was admitted on September 7, and L. Brown was admitted on March 25. L. Brown was admitted earlier."
+        }
+    ]
+}

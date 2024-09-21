@@ -1,0 +1,121 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "I. Thomas",
+            "Gender": "male",
+            "Age": "10",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Single",
+            "Occupation": "Student",
+            "Address": "46, Manchester street, Bridgewater",
+            "Admission Time": "24th, December",
+            "Record Time": "24th, December",
+            "Historian": "Mother",
+            "Hospital Name": "Bridgewater General Hospital"
+        },
+        "Chief Complaint": "Ear discharge, hearing loss, and severe headache for 2 weeks",
+        "Present Illness": {
+            "Onset": "Onset occurred 2 weeks ago, patient presented with continuous ear discharge from the right ear, accompanied by progressive hearing loss, severe headache, and occasional dizziness. No known triggers.",
+            "Main Symptoms": "Patients reporting persistent ear discharge from the right ear with a foul smell, moderate to severe hearing loss, and debilitating headaches. Symptoms have worsened over the last week.",
+            "Accompanying Symptoms": "Occasional dizziness, tinnitus in the right ear, vomiting, and chills. High fever recorded in the recent days.",
+            "Diagnosis and Treatment History": "Ear discharge culture revealed Pseudomonas aeruginosa. Initial antibiotics showed minimal response. No history of prior surgeries related to the ear.",
+            "General Condition Changes": "Patient is febrile, sleeps poorly due to headache, poor appetite. Decreased mental alertness noted this morning."
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy. No chronic illnesses.",
+            "Disease History": "Recurrent middle ear infections during early childhood.",
+            "Infectious Disease History": "Childhood illnesses including chickenpox, no significant infectious disease except for ear infections.",
+            "Immunization History": "Up-to-date with vaccinations as per age.",
+            "Surgery and Trauma History": "No prior surgical history. No significant trauma.",
+            "Blood Transfusion History": "No history of blood transfusions.",
+            "Allergy History": "No known drug allergies. Allergic to dust mites."
+        },
+        "Personal History": {
+            "Birthplace": "Bridgewater",
+            "Residence": "Bridgewater",
+            "Living Habits": "Watches television and plays video games. Balanced diet. Sleeps by 9 PM.",
+            "Occupation and Working Conditions": "Primary school student, attends full-time.",
+            "Exposure History": "No significant exposure to industrial toxins or radioactive substances.",
+            "Travel History": "No recent travel history."
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Single",
+                "Marriage Age": "N/A",
+                "Spouse's Health Condition": "N/A",
+                "Children's Condition": "N/A"
+            },
+            "Family History": "Father suffers from seasonal allergies; mother is generally healthy. No history of ear-related diseases in the family."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "38.5°C",
+                "Pulse": "100 bpm",
+                "Respiration": "20 breaths/min",
+                "Blood Pressure": "110/70 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "No rashes or lesions noted",
+                "Mucous Membranes": "Moist mucosae",
+                "Lymph Nodes": "No significant lymphadenopathy",
+                "Head and Organs": "No visible deformities. Right ear shows erythema and discharge",
+                "Neck": "Supple, no masses or gland enlargement",
+                "Chest": "Thorax normal in shape and movement. Clear lung fields, normal heart sounds",
+                "Abdomen": "Soft, non-tender. Liver and spleen not palpable",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Not examined",
+                "Spine": "Normal curvature, no tenderness",
+                "Limbs": "No edema or cyanosis",
+                "Nervous System": "Alert, oriented. Cranial nerves intact, motor and sensory function normal"
+            }
+        },
+        "Specialist Examination": "Otoscopy reveals chronic otitis media with perforation of the tympanic membrane and purulent discharge.",
+        "Auxiliary Examination": "CT scan shows soft tissue density within the right middle ear and mastoid air cells. Audiogram reveals moderate conductive hearing loss on the right side.",
+        "Preliminary Diagnosis": "Chronic Otitis Media with mastoiditis",
+        "Diagnostic Basis": "Chronic ear discharge, hearing loss, severe headache, fever. Positive culture for Pseudomonas aeruginosa, CT findings.",
+        "Differential Diagnosis": "Chronic tympanitis - ruled out due to presence of mastoid involvement. Middle ear cancer - ruled out as CT did not show mass lesion. Tuberculous otitis media - lower suspicion due to culture findings.",
+        "Admission Records": {
+            "Physician's Signature": "Dr. S. Watson"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with chronic otitis media, severe headache, and febrile state. Diagnostic imaging and cultures support preliminary diagnosis. IV antibiotics initiated, ENT consult obtained for surgical intervention.",
+            "Daily Course Records": "Day 1: Continued IV antibiotics. Pain and fever monitored. ENT scheduled for surgery. Day 2: Symptoms persist but stable. Prepped for surgery.",
+            "Senior Physician Rounds Records": "Reviewed by Dr. H. Brown. Agreed on necessity of surgical intervention due to non-responsiveness to antibiotics and ongoing symptoms.",
+            "Difficult Case Discussion Records": "Discussed with ENT team. Consensus on surgical drainage and debridement due to chronicity and severe symptoms.",
+            "Handover Records": "Patient stable but symptomatic. Surgery scheduled. Antibiotics and supportive care ongoing.",
+            "Transfer Records": "Not applicable.",
+            "Stage Summary": "Post-admission, patient prepped for surgery with partial response to intravenous antibiotics. Symptoms stable but persistent necessitating surgical intervention.",
+            "Emergency Records": "No emergency incidents recorded.",
+            "Invasive Procedure Records": "Not specified outside of planned surgical intervention.",
+            "Consultation Records": "ENT consult recorded for surgical intervention. Pediatric evaluation for baseline health.",
+            "Surgery Related": {
+                "Preoperative Summary": "Patient prepped. Recent history and imaging consistent with need for surgical drainage.",
+                "Preoperative Discussion Records": "Consultation confirmed need for tympanomastoidectomy. Risks include bleeding, further hearing loss, and facial nerve injury.",
+                "Anesthesia Preoperative Visit Records": "ASA Class I. Low risk for anesthesia-related complications.",
+                "Anesthesia Records": "General anesthesia administered. Patient tolerated procedure well.",
+                "Surgery Records": "Tympanomastoidectomy performed. Purulent material drained, and infected tissue debrided. Tympanic membrane repair initiated.",
+                "Surgery Safety Checklist": "Completed. All steps verified by surgical team.",
+                "Surgery Instrument Count Records": "All instruments accounted for post-surgery.",
+                "Postoperative First Course Record": "Patient stable postoperatively. Monitored in recovery. Initial pain managed, no immediate complications.",
+                "Anesthesia Postoperative Visit Records": "No adverse reactions to anesthesia noted. Patient recovering as expected."
+            },
+            "Discharge Records": "Planned after postoperative recovery and response to IV antibiotics.",
+            "Critically Ill Patient Care Records": "Not applicable."
+        },
+        "Medical Orders": {
+            "Long-term Orders": "IV antibiotics (Ceftriaxone) 1g q12h, Pain management (Paracetamol) 500mg q6h PRN, ENT follow-up",
+            "Temporary Orders": "Blood culture if fever >38°C, Audiogram post-operative Day 5, CT head if symptoms worsen"
+        },
+        "Auxiliary Examination Reports": "CT Head scan, Audiogram report, Culture and Sensitivity report",
+        "Temperature Chart": "Recorded febrile pattern with spikes up to 39°C pre-surgery. Postoperative normalization pending.",
+        "Blood Transfusion Consent": "",
+        "Special Examination Consent": "Signed consent for CT and audiogram."
+    },
+    "DiseaseType": {
+        "Diseases of the Ear and Mastoid Process": {
+            "Name": "Chronic Otitis Media",
+            "Symptoms": "Ear discharge, hearing loss, tinnitus, dizziness, vomiting, facial paralysis, severe headache, chills, high fever, etc.",
+            "Differential Diagnosis": "Chronic tympanitis, middle ear cancer, tuberculous otitis media."
+        }
+    }
+}

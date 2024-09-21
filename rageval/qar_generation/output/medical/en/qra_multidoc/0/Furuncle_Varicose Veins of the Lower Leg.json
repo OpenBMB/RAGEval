@@ -1,0 +1,182 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Kingsport General Hospital, what are the ages of patients J. Rodriguez and A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Age: 7"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Age: 85"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez is 7 years old; according to the hospitalization records of Kingsport General Hospital, patient A. Davis is 85 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Kingsport General Hospital, what are the genders of patients J. Rodriguez and A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Gender: female"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Gender: female"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez is female; according to the hospitalization records of Kingsport General Hospital, patient A. Davis is female."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Kingsport General Hospital, what are the chief complaints of patients J. Rodriguez and A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Chief Complaint: Local redness, swelling, heat, and pain on the right forearm for 3 days."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Chief Complaint:",
+                        "Sour, heavy, swollen, and painful right lower limb for 6 months; worsening over the last week."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's chief complaint is local redness, swelling, heat, and pain on the right forearm for 3 days; according to the hospitalization records of Kingsport General Hospital, patient A. Davis's chief complaint is sour, heavy, swollen, and painful right lower limb for 6 months, worsening over the last week."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Kingsport General Hospital, what are the preliminary diagnoses for patients J. Rodriguez and A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Preliminary Diagnosis: Furuncle of the right forearm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Varicose Veins of the Lower Leg (Right)."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's preliminary diagnosis is furuncle of the right forearm; according to the hospitalization records of Kingsport General Hospital, patient A. Davis's preliminary diagnosis is varicose veins of the lower leg (right)."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Kingsport General Hospital, what are the long-term medical orders for patients J. Rodriguez and A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Long-term Orders: Topical antibiotics (Mupirocin ointment) applied to affected area twice daily; Oral antibiotics (Cephalexin 250 mg) three times daily for 7 days"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Long-term Orders:",
+                        "1. Compression stockings to be worn daily.",
+                        "2. Elevate right leg when sitting or lying.",
+                        "3. Ibuprofen 200 mg orally every 6 hours as needed for pain."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's long-term medical orders include topical antibiotics (Mupirocin ointment) applied to the affected area twice daily and oral antibiotics (Cephalexin 250 mg) three times daily for 7 days; according to the hospitalization records of Kingsport General Hospital, patient A. Davis's long-term medical orders include wearing compression stockings daily, elevating the right leg when sitting or lying, and taking Ibuprofen 200 mg orally every 6 hours as needed for pain."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Kingsport General Hospital, who was admitted earlier, J. Rodriguez or A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Admission Time: 26th, February"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Admission Time: 1st, March"
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez was admitted on February 26, and A. Davis was admitted on March 1. J. Rodriguez was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Kingsport General Hospital, whose body temperature was higher upon admission, J. Rodriguez or A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Temperature: 37°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Temperature: 36.8°C."
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez's body temperature was 37°C upon admission, while A. Davis's body temperature was 36.8°C upon admission. J. Rodriguez's body temperature was higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Kingsport General Hospital, whose pulse rate was higher upon admission, J. Rodriguez or A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Pulse: 90 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Pulse: 78 bpm."
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez's pulse rate was 90 bpm upon admission, while A. Davis's pulse rate was 78 bpm upon admission. J. Rodriguez's pulse rate was higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Kingsport General Hospital, whose blood pressure was higher upon admission, J. Rodriguez or A. Davis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Blood Pressure: 100/60 mmHg"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Kingsport General Hospital_A. Davis",
+                    "content": [
+                        "Blood Pressure: 140/85 mmHg."
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez's blood pressure was 100/60 mmHg upon admission, while A. Davis's blood pressure was 140/85 mmHg upon admission. A. Davis's blood pressure was higher."
+        }
+    ]
+}

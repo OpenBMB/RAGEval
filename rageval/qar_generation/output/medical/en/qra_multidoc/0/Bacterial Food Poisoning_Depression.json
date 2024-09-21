@@ -1,0 +1,164 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Greenfield General Hospital, what are the ages of patients Z. Walker and T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "- Age: 11"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Age: 95"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater City Hospital, patient Z. Walker is 11 years old; according to the hospitalization records of Greenfield General Hospital, patient T. Jackson is 95 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Greenfield General Hospital, what are the chief complaints of patients Z. Walker and T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "Chief Complaint:",
+                        "Severe abdominal pain, vomiting, and watery diarrhea for 2 days."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Chief Complaint:",
+                        "Persistent low mood, loss of interest in daily activities for the past 6 months."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater City Hospital, patient Z. Walker's chief complaint is severe abdominal pain, vomiting, and watery diarrhea for 2 days; according to the hospitalization records of Greenfield General Hospital, patient T. Jackson's chief complaint is persistent low mood and loss of interest in daily activities for the past 6 months."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Greenfield General Hospital, what are the diagnoses of patients Z. Walker and T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Bacterial Food Poisoning"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Major Depressive Disorder."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater City Hospital, patient Z. Walker was diagnosed with bacterial food poisoning; according to the hospitalization records of Greenfield General Hospital, patient T. Jackson was diagnosed with major depressive disorder."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Greenfield General Hospital, what is the ethnicity of patients Z. Walker and T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "- Ethnicity: Caucasian"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Ethnicity: Caucasian"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater City Hospital, patient Z. Walker is Caucasian; according to the hospitalization records of Greenfield General Hospital, patient T. Jackson is also Caucasian."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Greenfield General Hospital, what is the marital status of patients Z. Walker and T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "- Marital Status: Single"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater City Hospital, patient Z. Walker is single; according to the hospitalization records of Greenfield General Hospital, patient T. Jackson is widowed."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Greenfield General Hospital, what are the occupations of patients Z. Walker and T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "- Occupation: Student",
+                        "Occupation and Working Conditions: Student at Bridgewater Elementary School."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Occupation: Retired",
+                        "Occupation and Working Conditions: Retired engineer, previously worked in office settings."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater City Hospital, patient Z. Walker is a student; according to the hospitalization records of Greenfield General Hospital, patient T. Jackson is retired."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Greenfield General Hospital, who was admitted earlier, Z. Walker or T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "- Admission Time: 21st October"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Admission Time: 11th, July"
+                    ]
+                }
+            ],
+            "answer": "Z. Walker was admitted on October 21, and T. Jackson was admitted on July 11. T. Jackson was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Greenfield General Hospital, whose pulse rate was higher upon admission, Z. Walker or T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "- Pulse: 105 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Pulse: 70 bpm"
+                    ]
+                }
+            ],
+            "answer": "Z. Walker's pulse rate was 105 bpm, and T. Jackson's pulse rate was 70 bpm. Z. Walker's pulse rate was higher upon admission."
+        }
+    ]
+}

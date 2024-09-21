@@ -1,0 +1,130 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "E. Chavez",
+            "Gender": "female",
+            "Age": "30",
+            "Ethnicity": "Hispanic",
+            "Marital Status": "Married",
+            "Occupation": "Teacher",
+            "Address": "71, Ashland street, Kingsport",
+            "Admission Time": "1st, October",
+            "Record Time": "2nd, October",
+            "Historian": "Self and spouse",
+            "Hospital Name": "Kingsport Medical Center"
+        },
+        "Chief Complaint": "Palpitations, irritability, and weight loss for the past two months",
+        "Present Illness": {
+            "Onset": "Symptoms started two months ago with palpitations and irritability at home. There were no clear prodromal symptoms or identifiable triggers.",
+            "Main Symptoms": "Frequent palpitations, irritability, significant weight loss (10 pounds over two months), and heat intolerance. Symptoms have gradually worsened without any periods of remission.",
+            "Accompanying Symptoms": "Increased sweating, restlessness, fatigue, increased bowel movements, and scanty menstruation. These symptoms seem to fluctuate with the severity of the main symptoms.",
+            "Diagnosis and Treatment History": "Visited a general practitioner one month ago and was prescribed beta-blockers, which provided minimal relief. Thyroid function tests showed elevated T3 and T4 levels with suppressed TSH.",
+            "General Condition Changes": "Patient reports increased fatigue and difficulty sleeping. Appetite has increased, but weight continues to decline. Normal urination and increased bowel movements."
+        },
+        "Past History": {
+            "General Health Condition": "Generally good health prior to the onset of current illness",
+            "Disease History": "No history of chronic illnesses",
+            "Infectious Disease History": "No history of recent infections",
+            "Immunization History": "Up to date with standard immunizations",
+            "Surgery and Trauma History": "Appendectomy at age 25",
+            "Blood Transfusion History": "No history of blood transfusions",
+            "Allergy History": "No known drug allergies"
+        },
+        "Personal History": {
+            "Birthplace": "Kingsport",
+            "Residence": "Kingsport",
+            "Living Habits": "Non-smoker, occasional alcohol consumption, balanced diet",
+            "Occupation and Working Conditions": "Full-time teacher with moderate stress levels",
+            "Exposure History": "No known exposure to industrial toxins, dust, or radioactive substances",
+            "Travel History": "No significant travel history in the past year"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Married",
+                "Marriage Age": "27",
+                "Spouse's Health Condition": "Good",
+                "Children's Condition": "Two children, both in good health"
+            },
+            "Menstrual History": {
+                "Menarche Age": "12",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "Two weeks ago",
+                "Menstrual Volume": "Scanty",
+                "Dysmenorrhea": "Occasional mild dysmenorrhea"
+            },
+            "Family History": "Father has hypertension, mother has type 2 diabetes, no known family history of thyroid diseases"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "99°F",
+                "Pulse": "100 bpm",
+                "Respiration": "18/min",
+                "Blood Pressure": "130/80 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Warm and moist",
+                "Mucous Membranes": "Pink, no abnormalities",
+                "Lymph Nodes": "Non-palpable",
+                "Head and Organs": "No abnormalities",
+                "Neck": "Thyroid gland diffusely enlarged",
+                "Chest": "Normal thorax, clear lung fields, normal heart sounds with mild tachycardia",
+                "Abdomen": "Soft, non-tender, liver and spleen not palpable",
+                "Rectum and Anus": "Not examined at this time",
+                "External Genitalia": "Normal female external genitalia",
+                "Spine": "No abnormalities",
+                "Limbs": "No tremors, normal strength",
+                "Nervous System": "Alert and oriented, no focal deficits"
+            }
+        },
+        "Specialist Examination": "Endocrine examination reveals diffusely enlarged thyroid gland with no nodules",
+        "Auxiliary Examination": "Blood tests prior to admission: Elevated Free T4 (2.4 ng/dL), elevated Total T3 (2.1 ng/mL), suppressed TSH (<0.01 μIU/mL), thyroid ultrasound shows diffuse enlargement with increased vascularity",
+        "Preliminary Diagnosis": "Hyperthyroidism",
+        "Diagnostic Basis": "History of irritability, weight loss, palpitations, and heat intolerance; enlarged thyroid on physical exam; confirmed by elevated T4 and T3 levels and suppressed TSH on laboratory tests",
+        "Differential Diagnosis": "Destructive thyrotoxicosis ruled out by lack of inflammation signs; exogenous thyroid hormone intake not supported by patient history; simple goiter less likely due to symptom severity; hypothyroidism ruled out by hyperthyroid symptoms; hyperparathyroidism less likely due to lack of hypercalcemia",
+        "Admission Records": {
+            "Physician's Signature": "Dr. A. Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with confirmed hyperthyroidism. Therapeutic plan includes antithyroid medications (methimazole), beta-blockers for symptomatic relief, and surgical evaluation for possible thyroidectomy.",
+            "Daily Course Records": "Patient showing gradual symptomatic improvement with methimazole and beta-blockers. Surgical consultation completed, with thyroidectomy scheduled.",
+            "Senior Physician Rounds Records": "Senior review confirms treatment plan. Continued monitoring required.",
+            "Difficult Case Discussion Records": "",
+            "Handover Records": "",
+            "Transfer Records": "",
+            "Stage Summary": "Patient stable and prepared for surgery. Preoperative assessments completed.",
+            "Emergency Records": "",
+            "Invasive Procedure Records": "",
+            "Consultation Records": "Endocrinology and surgical consultations completed. Both recommend thyroidectomy.",
+            "Surgery Related": {
+                "Preoperative Summary": "Patient diagnosed with hyperthyroidism, planned for thyroidectomy. Informed consent obtained.",
+                "Preoperative Discussion Records": "Discussed surgical methods (total vs subtotal thyroidectomy) and potential complications (damage to recurrent laryngeal nerve, hypocalcemia). Patient prefers total thyroidectomy.",
+                "Anesthesia Preoperative Visit Records": "Assessed for anesthesia risk; no contraindications noted.",
+                "Anesthesia Records": "General anesthesia induction and maintenance as per protocol.",
+                "Surgery Records": "Total thyroidectomy performed without complications. Removed tissue sent for pathological analysis.",
+                "Surgery Safety Checklist": "All pre-surgical checks confirmed. Items and instruments count accurate.",
+                "Surgery Instrument Count Records": "Pre- and post-surgery counts confirmed as accurate.",
+                "Postoperative First Course Record": "Patient stable post-surgery. Monitored for vital signs, pain management started, and calcium levels checked.",
+                "Anesthesia Postoperative Visit Records": "Patient recovering well from anesthesia, stable vitals. No immediate complications."
+            },
+            "Discharge Records": "Pending",
+            "Critically Ill Patient Care Records": ""
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Methimazole 10mg daily, propranolol 20mg BID, calcium supplementation post-op",
+            "Temporary Orders": "Post-op pain management, monitor thyroid hormone levels, weekly follow-up"
+        },
+        "Auxiliary Examination Reports": "Postoperative pathology report pending",
+        "Temperature Chart": "Daily records show stable temperature, pulse, respiratory rate, and blood pressure post-op",
+        "Blood Transfusion Consent": "",
+        "Special Examination Consent": "Thyroidectomy consent signed",
+        "Critical Condition Notice": ""
+    },
+    "DiseaseType": {
+        "Endocrine, Nutritional, and Metabolic Diseases and Immune Disorders": {
+            "Name": "Hyperthyroidism",
+            "Symptoms": "Irritability, restlessness, tachycardia, fatigue, heat intolerance, sweating, weight loss, increased appetite, increased bowel movements or diarrhea, scanty menstruation",
+            "Differential Diagnosis": "Destructive thyrotoxicosis, exogenous thyroid hormone intake, simple goiter, hypothyroidism, hyperparathyroidism."
+        }
+    }
+}

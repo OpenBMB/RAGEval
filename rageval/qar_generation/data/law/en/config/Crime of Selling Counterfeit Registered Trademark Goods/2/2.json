@@ -1,0 +1,80 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Trenton, Vandalia, Court",
+        "procuratorate": "Trenton, Vandalia, Procuratorate"
+    },
+    "chiefJudge": "Q. Martin",
+    "judge": "V. Smith",
+    "clerk": "R. Rodriguez",
+    "defendant": {
+        "name": "G. Torres",
+        "gender": "female",
+        "birthdate": "10th, August, 1983",
+        "residence": "32, Danbury street, Vandalia",
+        "ethnicity": "Hispanic",
+        "occupation": "Owner of a retail store"
+    },
+    "defenseLawyer": {
+        "name": "W. Ortiz",
+        "lawFirm": "Ortiz & Associates"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "15th January 2023",
+            "description": "The case was initiated based on a complaint filed by BrandSafe Inc. alleging the sale of counterfeit goods at G. Torres' retail store."
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "20th January 2023",
+            "description": "Authorities conducted a raid on the retail store owned by G. Torres and took initial detention measures considering the large quantity of counterfeit goods found."
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "21st January 2023",
+            "description": "G. Torres was taken into criminal detention at the Vandalia Detention Center following preliminary questioning."
+        },
+        {
+            "event": "Arrest",
+            "date": "25th January 2023",
+            "description": "The procuratorate approved the formal arrest of G. Torres after gathering sufficient evidence establishing probable guilt in the selling of counterfeit goods."
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Selling Counterfeit Registered Trademark Goods",
+            "details": [
+                {
+                    "timePeriod": "November 2022 to January 2023",
+                    "behavior": "G. Torres sold counterfeit handbags resembling popular high-end brands such as Gucci, Louis Vuitton, and Chanel from her retail store.",
+                    "evidence": "Confiscated counterfeit goods, detailed inventory lists, transaction receipts, and testimony from undercover customers."
+                },
+                {
+                    "timePeriod": "1st December 2022",
+                    "behavior": "Promoted a 'Best Deal Sale' event, explicitly advertising the counterfeit goods as genuine products at a significant discount.",
+                    "evidence": "Advertising flyers, social media posts on the store's official page, and CCTV footage of the sale event."
+                },
+                {
+                    "timePeriod": "15th January 2023",
+                    "behavior": "Sold multiple counterfeit items to an undercover officer posing as a customer.",
+                    "evidence": "Undercover purchase records, witness statement of the undercover officer, and video recording of the transaction."
+                },
+                {
+                    "timePeriod": "Various dates from November 2022 to January 2023",
+                    "behavior": "Continued replenishment of counterfeit inventory from unverified suppliers, knowingly distributing these products as originals.",
+                    "evidence": "Supplier communications, shipping records from the suppliers, and expert analysis confirming the counterfeit nature of the goods."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "20th March 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Selling Counterfeit Registered Trademark Goods",
+                "sentence": "Three years of fixed-term imprisonment, with a suspension for five years, and a fine of $30,000.",
+                "sentencingConsiderations": "The sentence took into account the defendant's cooperation during the investigation, her first-time offense, and her agreement to close the store permanently."
+            }
+        ]
+    }
+}

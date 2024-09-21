@@ -1,0 +1,231 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How did the shareholders' meeting resolutions in GreenTech Solutions Inc. and National Development Corporation impact their respective governance structures and shareholder rights?",
+            "ref": [
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "In March 2021, the company made significant progress in enhancing shareholder rights and protections by amending its charter to enable shareholder voting on major corporate actions.",
+                        "This resolution empowered shareholders to have a direct influence on the company's governance structure, operational strategies, and their own rights as stakeholders."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "Firstly, in February 2019, the Shareholders' Meeting Resolution approved the amendment to the company's charter, allowing for strategic collaboration with private partners for major infrastructure projects.",
+                        "This decision was influenced by various sub-events, including a government policy shift announced in January 2019, which incentivized government entities to collaborate with private partners for infrastructure projects.",
+                        "The management proposal in January 2019 initiated the process of updating the company's charter, while internal discussions among key stakeholders and legal consultation ensured a thorough analysis and compliance with existing regulations.",
+                        "Shareholder communication and the subsequent evaluation and approval by the Board of Directors in February 2019 further solidified the progress towards strategic partnerships.",
+                        "This amendment enables the National Development Corporation to undertake larger-scale projects, diversify revenue streams, and enhance shareholder rights."
+                    ]
+                }
+            ],
+            "answer": "The shareholders' meeting resolution in GreenTech Solutions Inc. in March 2021 amended the company's charter to enable shareholder voting on major corporate actions, enhancing their rights and protections. In National Development Corporation, the shareholders' meeting resolution in February 2019 approved an amendment to the company's charter to allow for strategic collaboration with private partners for major infrastructure projects, diversifying revenue streams and enhancing shareholder rights."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the corporate governance policy revisions in GreenTech Solutions Inc. and National Development Corporation?",
+            "ref": [
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "In July 2021, the company revised its corporate governance policies to enhance transparency and accountability.",
+                        "The revised framework has improved the company's reporting practices, ensuring accurate and comprehensive information disclosure to all stakeholders.",
+                        "This increased transparency has fostered stakeholder confidence and strengthened the company's reputation."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "Another significant event took place in April 2019 when the corporation revised its corporate governance policy to align with best practices and strengthen transparency and stakeholder engagement.",
+                        "This revision enhances corporate governance transparency and accountability, fostering stakeholder confidence."
+                    ]
+                }
+            ],
+            "answer": "The corporate governance policy revision in GreenTech Solutions Inc. in July 2021 enhanced transparency and accountability, positively impacting stakeholder confidence. In National Development Corporation, the corporate governance policy revision in April 2019 aligned the framework with best practices, strengthening transparency and stakeholder engagement."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the expected impacts of the board of directors changes in GreenTech Solutions Inc. and National Development Corporation?",
+            "ref": [
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "In August 2021, Dr. Emily Anderson was appointed as a new board member, bringing extensive expertise in environmental trends.",
+                        "Her appointment is expected to lead to strategic adjustments aligning the company's direction with the latest environmental trends, further enhancing shareholder interests.",
+                        "This addition to the board of directors reflects the company's commitment to attracting top talent and leveraging their expertise to drive strategic decision-making."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "August 2019 saw a change in the Board of Directors with the appointment of Mr. John Smith, who brings extensive experience in infrastructure development.",
+                        "This addition to the board brings a fresh perspective and expertise, contributing to the company's long-term development and shareholder interests."
+                    ]
+                }
+            ],
+            "answer": "In GreenTech Solutions Inc., the appointment of Dr. Emily Anderson as a new board member in August 2021 was expected to lead to strategic adjustments aligning the company's direction with the latest environmental trends and improving shareholder interests. In National Development Corporation, the appointment of Mr. John Smith as a new board member in August 2019 brought extensive experience in infrastructure development, contributing to the company's long-term development and shareholder interests."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How did the risk management measures implemented by GreenTech Solutions Inc. and National Development Corporation address their respective risks?",
+            "ref": [
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "Recognizing the importance of risk management, GreenTech Solutions Inc. updated its risk management framework in April 2021 to address evolving risks.",
+                        "By implementing robust risk management measures, the company has been able to navigate internal and external risks effectively, ensuring uninterrupted operations.",
+                        "This proactive approach has not only protected the company's interests but also enhanced stakeholder confidence in its ability to manage risks."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "To address emerging cybersecurity risks, the corporation implemented enhanced IT security measures in September 2019.",
+                        "These measures aim to protect sensitive financial and operational data, strengthening the company's ability to safeguard internal and external risks.",
+                        "This event demonstrates the corporation's commitment to risk management and ensuring uninterrupted operations and stable development."
+                    ]
+                }
+            ],
+            "answer": "GreenTech Solutions Inc. updated its risk management framework in April 2021 to navigate internal and external risks, ensuring uninterrupted operations. National Development Corporation identified emerging cybersecurity risks and implemented enhanced IT security measures in September 2019 to protect sensitive financial and operational data, ensuring stable development."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What actions did GreenTech Solutions Inc. and National Development Corporation take in response to their respective ethics and integrity incidents, and what were the impacts?",
+            "ref": [
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "In September 2021, GreenTech Solutions Inc. faced an ethics and integrity incident involving financial impropriety by one of its managers.",
+                        "However, the company took prompt actions by launching an internal investigation, terminating the manager's employment, and implementing stricter financial controls.",
+                        "These actions demonstrated the company's dedication to upholding ethical standards and protecting the interests of its stakeholders.",
+                        "While the incident had a temporary impact on the company's reputation, the swift response showcased its commitment to maintaining high ethical standards."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "In October 2019, the National Development Corporation addressed an ethics and integrity incident by conducting a thorough investigation, terminating involved individuals, and implementing stricter integrity policies.",
+                        "This incident highlights the corporation's commitment to ethical practices, preserving its reputation, and maintaining positive stakeholder relationships."
+                    ]
+                }
+            ],
+            "answer": "GreenTech Solutions Inc. addressed a financial impropriety incident in September 2021 by launching an internal investigation, terminating the manager's employment, and implementing stricter financial controls, which impacted the company's reputation and demonstrated its dedication to ethical standards. National Development Corporation addressed an ethics and integrity incident in October 2019 by conducting a thorough investigation, terminating involved individuals, and implementing stricter integrity policies, preserving the company's reputation and maintaining positive stakeholder relationships."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when GreenTech Solutions Inc. and National Development Corporation implemented their compliance and regulatory updates. Which company updated its compliance and regulatory measures earlier?",
+            "ref": [
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "Recognizing the importance of risk management, GreenTech Solutions Inc. updated its risk management framework in April 2021 to address evolving risks.",
+                        "By implementing robust risk management measures, the company has been able to navigate internal and external risks effectively, ensuring uninterrupted operations.",
+                        "This proactive approach has not only protected the company's interests but also enhanced stakeholder confidence in its ability to manage risks."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "In July 2019, the National Development Corporation implemented the latest securities law and corporate law updates, ensuring compliance with industry-specific regulations.",
+                        "This compliance and regulatory update is crucial in maintaining legal compliance, reducing legal risk, and protecting the interests of the company and its shareholders."
+                    ]
+                }
+            ],
+            "answer": "National Development Corporation updated its compliance and regulatory measures earlier in July 2019, while GreenTech Solutions Inc. did so in April 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when GreenTech Solutions Inc. and National Development Corporation had changes in their Board of Directors. Which company had a change in its Board of Directors earlier?",
+            "ref": [
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "In August 2021, Dr. Emily Anderson was appointed as a new board member, bringing extensive expertise in environmental trends.",
+                        "Her appointment is expected to lead to strategic adjustments aligning the company's direction with the latest environmental trends, further enhancing shareholder interests.",
+                        "This addition to the board of directors reflects the company's commitment to attracting top talent and leveraging their expertise to drive strategic decision-making."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "August 2019 saw a change in the Board of Directors with the appointment of Mr. John Smith, who brings extensive experience in infrastructure development.",
+                        "This addition to the board brings a fresh perspective and expertise, contributing to the company's long-term development and shareholder interests."
+                    ]
+                }
+            ],
+            "answer": "National Development Corporation had a change in its Board of Directors earlier in August 2019, while GreenTech Solutions Inc. had a change in August 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when GreenTech Solutions Inc. and National Development Corporation had senior management changes. Which company had senior management changes earlier?",
+            "ref": [
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "In December 2021, Mr. Michael Roberts assumed the role of CEO, bringing new leadership and strategic priorities to the company.",
+                        "His appointment is expected to drive operational focus and align the company's direction with emerging market opportunities.",
+                        "This change in senior management is anticipated to have both short-term and long-term impacts on the company's performance and development."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "In March 2019, the corporation experienced a senior management change with the appointment of Ms. Jane Davis as the new Chief Financial Officer.",
+                        "Ms. Davis brings extensive experience in financial management, which is expected to drive improvements in financial decision-making, positively impacting short-term performance and long-term development."
+                    ]
+                }
+            ],
+            "answer": "National Development Corporation had senior management changes earlier in March 2019, while GreenTech Solutions Inc. had senior management changes in December 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when GreenTech Solutions Inc. and National Development Corporation addressed ethics and integrity incidents. Which company addressed these incidents earlier?",
+            "ref": [
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "In September 2021, GreenTech Solutions Inc. faced an ethics and integrity incident involving financial impropriety by one of its managers.",
+                        "However, the company took prompt actions by launching an internal investigation, terminating the manager's employment, and implementing stricter financial controls.",
+                        "These actions demonstrated the company's dedication to upholding ethical standards and protecting the interests of its stakeholders.",
+                        "While the incident had a temporary impact on the company's reputation, the swift response showcased its commitment to maintaining high ethical standards."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "In October 2019, the National Development Corporation addressed an ethics and integrity incident by conducting a thorough investigation, terminating involved individuals, and implementing stricter integrity policies.",
+                        "This incident highlights the corporation's commitment to ethical practices, preserving its reputation, and maintaining positive stakeholder relationships."
+                    ]
+                }
+            ],
+            "answer": "National Development Corporation addressed ethics and integrity incidents earlier in October 2019, while GreenTech Solutions Inc. addressed them in September 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when GreenTech Solutions Inc. and National Development Corporation launched their sustainability and social responsibility initiatives. Which company launched these initiatives earlier?",
+            "ref": [
+                {
+                    "company_name": "GreenTech Solutions Inc.",
+                    "content": [
+                        "In May 2021, GreenTech Solutions Inc. achieved significant milestones in its sustainability and social responsibility efforts.",
+                        "The company's initiatives, such as reducing carbon emissions, promoting recycling, and supporting local communities, have not only improved its public image but also strengthened its market competitiveness.",
+                        "By integrating sustainability and social responsibility into its core business strategy, the company has positioned itself for long-term sustainable growth."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "Lastly, in November 2019, the corporation launched a community engagement program focused on environmental education and urban sustainability initiatives.",
+                        "This initiative enhances the company's reputation, promotes social responsibility, and fosters long-term sustainable development."
+                    ]
+                }
+            ],
+            "answer": "National Development Corporation launched its sustainability and social responsibility initiatives earlier in November 2019, while GreenTech Solutions Inc. launched them in May 2021."
+        }
+    ]
+}

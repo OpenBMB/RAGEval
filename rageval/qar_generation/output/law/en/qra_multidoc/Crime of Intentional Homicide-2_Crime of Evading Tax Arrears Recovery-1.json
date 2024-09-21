@@ -1,0 +1,142 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Farmington, Vandalia, Court, what are the occupations of the defendants M. Harris and T. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Occupation:** Accountant"
+                    ]
+                },
+                {
+                    "court_name": "Farmington, Vandalia, Court",
+                    "content": [
+                        "Occupation: Self-Employed Consultant"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Preston, Lancaster, Court, the defendant M. Harris is an Accountant; according to the judgment of Farmington, Vandalia, Court, the defendant T. Bennett is a Self-Employed Consultant."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Farmington, Vandalia, Court, who were the chief judges presiding over the cases of M. Harris and T. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Chief Judge:** Q. Gray"
+                    ]
+                },
+                {
+                    "court_name": "Farmington, Vandalia, Court",
+                    "content": [
+                        "Chief Judge: J. Martin"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Preston, Lancaster, Court, the chief judge was Q. Gray; according to the judgment of Farmington, Vandalia, Court, the chief judge was J. Martin."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Farmington, Vandalia, Court, what is the gender of the defendants M. Harris and T. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Gender:** Female"
+                    ]
+                },
+                {
+                    "court_name": "Farmington, Vandalia, Court",
+                    "content": [
+                        "Gender: Female"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Preston, Lancaster, Court, the defendant M. Harris is female; according to the judgment of Farmington, Vandalia, Court, the defendant T. Bennett is female."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Farmington, Vandalia, Court, which law firms represented the defendants M. Harris and T. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Law Firm:** Smith & Associates Law Firm"
+                    ]
+                },
+                {
+                    "court_name": "Farmington, Vandalia, Court",
+                    "content": [
+                        "Law Firm: Sanders & Associates Law Firm"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Preston, Lancaster, Court, the defense lawyer for M. Harris was from Smith & Associates Law Firm; according to the judgment of Farmington, Vandalia, Court, the defense lawyer for T. Bennett was from Sanders & Associates Law Firm."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Farmington, Vandalia, Court, what crimes were M. Harris and T. Bennett convicted of?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Crime Name:** Crime of Intentional Homicide",
+                        "M. Harris stands charged under Article 232 for the Crime of Intentional Homicide."
+                    ]
+                },
+                {
+                    "court_name": "Farmington, Vandalia, Court",
+                    "content": [
+                        "**CHARGE**",
+                        "The defendant, T. Bennett, was formally charged with the Crime of Evading Tax Arrears Recovery, a charge codified under No. 203 of our jurisdiction's penal code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Preston, Lancaster, Court, M. Harris was convicted of the Crime of Intentional Homicide; according to the judgment of Farmington, Vandalia, Court, T. Bennett was convicted of the Crime of Evading Tax Arrears Recovery."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Farmington, Vandalia, Court, whose sentencing time is longer, M. Harris or T. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Sentence:** Life imprisonment",
+                        "The severity of premeditated intent, the clear malice aforethought, and the attempted destruction of evidence necessitate this sentence."
+                    ]
+                },
+                {
+                    "court_name": "Farmington, Vandalia, Court",
+                    "content": [
+                        "- Five years of imprisonment."
+                    ]
+                }
+            ],
+            "answer": "M. Harris was sentenced to life imprisonment, while T. Bennett was sentenced to five years of imprisonment. Therefore, M. Harris's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Preston, Lancaster, Court and Farmington, Vandalia, Court, whose judgment time is earlier, M. Harris or T. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 25th of June, 2023."
+                    ]
+                },
+                {
+                    "court_name": "Farmington, Vandalia, Court",
+                    "content": [
+                        "Date: 15th June 2023"
+                    ]
+                }
+            ],
+            "answer": "T. Bennett's judgment time is earlier, as it was on 15th June 2023, while M. Harris's judgment time was on 25th June 2023."
+        }
+    ]
+}

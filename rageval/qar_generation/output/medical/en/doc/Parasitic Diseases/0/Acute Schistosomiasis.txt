@@ -1,0 +1,130 @@
+Hospitalization Record
+
+Basic Information:
+Name: A. Smith
+Gender: female
+Age: 12
+Ethnicity: Caucasian
+Marital Status: single
+Occupation: student
+Address: 45, Rockford street, Farmington
+Admission Time: 9th, October
+Record Time: 9th, October
+Historian: parent
+Hospital Name: Farmington City Hospital
+
+Chief Complaint:
+Fever, abdominal pain, and bloody stools for 1 week
+
+Present Illness:
+Onset: 1 week ago after returning from a lake trip, sudden onset of fever
+Main Symptoms: Fever reaching 39°C, constant abdominal pain, bloody mucous stools, severe fatigue
+Accompanying Symptoms: Cough, chest pain occasionally, blood-stained sputum
+Diagnosis and Treatment History: Visited local clinic, prescribed antipyretics and antibiotics with no significant improvement
+General Condition Changes: Disturbed sleep due to pain, poor appetite, normal urination, loose and frequent stools, weight loss of 2 kg
+
+Past History:
+General Health Condition: Generally healthy prior to this illness
+Disease History: No significant medical history
+Infectious Disease History: None noted
+Immunization History: Up to date with routine vaccinations
+Surgery and Trauma History: Appendectomy at age 8
+Blood Transfusion History: None
+Allergy History: No known allergies
+
+Personal History:
+Birthplace: Farmington
+Residence: Farmington
+Living Habits: Regular diet and exercise, no smoking or alcohol consumption
+Occupation and Working Conditions: Student, attends local school
+Exposure History: No exposure to industrial toxins or radioactive substances
+Travel History: Recent lake trip where swimming occurred
+
+Marital and Family History:
+Marital History:
+Marital Status: single
+Marriage Age: 
+Spouse's Health Condition: 
+Children's Condition: 
+
+Menstrual History:
+Menarche Age: 11
+Menstruation Duration: 5 days
+Menstruation Interval: 28 days
+Last Menstruation: 3 weeks ago
+Menstrual Volume: Moderate
+Dysmenorrhea: Mild
+
+Family History: Parents and siblings healthy, no similar diseases or hereditary conditions reported
+
+Physical Examination:
+General Condition:
+Temperature: 39°C
+Pulse: 110 bpm
+Respiration: 22 bpm
+Blood Pressure: 110/70 mmHg
+
+Systematic Examination:
+Skin: No rash, normal hydration
+Mucous Membranes: Pale, moist
+Lymph Nodes: No significant enlargement
+Head and Organs: No abnormalities
+Neck: No thyroid enlargement, normal jugular venous pressure
+Chest: Clear bilateral lung sounds, regular heart rate and rhythm
+Abdomen: Mild tenderness in the right upper quadrant, enlarged spleen, no guarding
+Rectum and Anus: Normal external appearance, presence of bloody stools
+External Genitalia: Normal appearance, no abnormalities
+Spine: No deformities or tenderness
+Limbs: Normal muscle tone and strength, no edema
+Nervous System: Grossly intact, no focal deficits
+
+Specialist Examination:
+Detailed abdominal ultrasound and schistosomiasis serology
+
+Auxiliary Examination:
+Ultrasound shows hepatosplenomegaly; blood tests indicate eosinophilia and positive schistosomiasis serology
+
+Preliminary Diagnosis:
+Acute Schistosomiasis
+
+Diagnostic Basis:
+History of recent lake exposure, fever, abdominal symptoms, hepatosplenomegaly on ultrasound, positive serology
+
+Differential Diagnosis:
+Ruled out sepsis, malaria (negative blood film), typhoid and paratyphoid fever (negative cultures), acute miliary tuberculosis (negative chest X-ray), viral infections (negative viral panels), other intestinal diseases by clinical presentation and test results
+
+Admission Records:
+Physician's Signature: Dr. J. Doe
+
+Post-Admission Course Records:
+First Course Record: Patient admitted with high fever, abdominal pain, bloody stools, and hepatosplenomegaly. Diagnostic tests confirm acute schistosomiasis. Initiated antischistosomal therapy and supportive care.
+Daily Course Records: Patient shows gradual improvement with decreased fever and abdominal pain. Stools returning to normal.
+Senior Physician Rounds Records: Senior review confirmed treatment plan and noted continued improvement, advised ongoing monitoring.
+Difficult Case Discussion Records: No difficult case discussion required at this stage.
+Handover Records: Patient in stable condition, handed over to next shift with instructions for continued observation.
+Transfer Records: N/A
+Stage Summary: After 3 days of antischistosomal therapy, patient significantly improved. Vital signs stabilized, pain reduced, normal bowel movements.
+Emergency Records: None
+Invasive Procedure Records: None
+Consultation Records: Infectious disease specialist consulted, confirmed diagnosis and treatment plan.
+Discharge Records: Patient discharged after 5 days in improved condition. Advised follow-up in outpatient clinic.
+Critically Ill Patient Care Records: N/A
+
+Medical Orders:
+Long-term Orders: Antischistosomal medications, antipyretics, pain management, daily monitoring of vital signs and stool characteristics.
+Temporary Orders: Initial blood tests, ultrasound, schistosomiasis serology, intravenous fluids as needed.
+
+Auxiliary Examination Reports:
+Ultrasound of abdomen, complete blood count, schistosomiasis serology report
+
+Temperature Chart:
+Recorded daily:
+Day 1: 39°C,
+Day 2: 38.5°C,
+Day 3: 37.8°C,
+Day 4: 37.2°C,
+Day 5: 36.8°C
+
+Blood Transfusion Consent: N/A
+Special Examination Consent: Consent obtained for ultrasound and schistosomiasis serology
+Critical Condition Notice: N/A

@@ -1,0 +1,251 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "H. Kim",
+            "Gender": "male",
+            "Age": "48",
+            "Ethnicity": "Asian",
+            "Marital Status": "Married",
+            "Occupation": "Software Engineer",
+            "Address": "76, Quarryville street, Princeton",
+            "Admission Time": "13th, November",
+            "Record Time": "13th, November",
+            "Historian": "Patient",
+            "Hospital Name": "Princeton General Hospital"
+        },
+        "Chief Complaint": "Upper abdominal pain for 2 weeks",
+        "Present Illness": {
+            "Onset": "2 weeks prior at home, gradual onset, no prodromal symptoms. Possible cause: stress at work.",
+            "Main Symptoms": "Burning upper abdominal pain, intermittently severe, lasting for several hours, worsened by eating spicy food, ameliorated by antacid use. Progression with increasing frequency of pain episodes.",
+            "Accompanying Symptoms": "Frequent acid reflux and heartburn, especially at night. Symptom onset is closely related to meals.",
+            "Diagnosis and Treatment History": "Patient used over-the-counter antacids with temporary relief. No prior endoscopic examination.",
+            "General Condition Changes": "Patient reports feeling anxious, has had trouble sleeping due to pain and discomfort, normal appetite initially but now decreased due to fear of pain, bowel movements regular, no significant weight change."
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy, no chronic illnesses",
+            "Disease History": "History of hypertension, well-controlled with medication.",
+            "Infectious Disease History": "No history of infectious diseases.",
+            "Immunization History": "Up-to-date with immunizations according to age.",
+            "Surgery and Trauma History": "Appendectomy 10 years ago, no complications.",
+            "Blood Transfusion History": "No history of blood transfusion.",
+            "Allergy History": "No known drug allergies."
+        },
+        "Personal History": {
+            "Birthplace": "Seoul, South Korea",
+            "Residence": "Princeton, NJ",
+            "Living Habits": "Non-smoker, drinks alcohol socially, Moderate exercise routine.",
+            "Occupation and Working Conditions": "Works as a software engineer, sedentary lifestyle with occasional long hours.",
+            "Exposure History": "No exposure to industrial toxins, dust, or radioactive substances.",
+            "Travel History": "No recent travel history."
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Married",
+                "Marriage Age": "25",
+                "Spouse's Health Condition": "Healthy",
+                "Children's Condition": "Two children, both healthy"
+            },
+            "Family History": "Father had peptic ulcer disease, mother with hypertension. No family history of gastric cancer or other serious illnesses."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "98.6°F",
+                "Pulse": "72 bpm",
+                "Respiration": "18 breaths/minute",
+                "Blood Pressure": "130/80 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Normal",
+                "Mucous Membranes": "Moist",
+                "Lymph Nodes": "Non-palpable",
+                "Head and Organs": "Normocephalic, no abnormalities",
+                "Neck": "Supple, no lymphadenopathy",
+                "Chest": "Clear to auscultation, heart sounds normal",
+                "Abdomen": "Epigastric tenderness without rebound or guarding, liver and spleen not enlarged",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Normal",
+                "Spine": "Normal curvature, no tenderness",
+                "Limbs": "Full range of motion, no edema",
+                "Nervous System": "Intact, no focal deficits"
+            }
+        },
+        "Specialist Examination": "Gastroenterology consulted; recommended endoscopy.",
+        "Auxiliary Examination": "Pre-admission blood tests normal. Endoscopy ordered.",
+        "Preliminary Diagnosis": "Peptic Ulcer Disease",
+        "Diagnostic Basis": "Based on patient's history of epigastric pain relieved by antacids, physical exam showing epigastric tenderness, no systemic symptoms suggesting malignancy.",
+        "Differential Diagnosis": "Gastric cancer (no weight loss, no palpable masses), Chronic gastritis (less likely given severity of symptoms), Gastric neurosis (symptoms more likely organic), Cholecystitis/cholelithiasis (RUQ pain absent), Gastrinoma (unlikely, stable gastrin levels).",
+        "Admission Records": {
+            "Physician's Signature": "Dr. Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with severe epigastric pain, history suggests peptic ulcer. Plan: Initiate PPI therapy, lifestyle modifications, endoscopy scheduled.",
+            "Daily Course Records": [
+                {
+                    "Date": "14th November",
+                    "Record": "Patient reports mild improvement with PPI, awaiting endoscopy."
+                },
+                {
+                    "Date": "15th November",
+                    "Record": "Endoscopy performed, revealed a single peptic ulcer, biopsy taken. Awaiting pathology results."
+                }
+            ],
+            "Senior Physician Rounds Records": "Reviewed case on 14th November, agreed with current management, emphasized need for biopsy results for ruling out malignancy.",
+            "Difficult Case Discussion Records": "",
+            "Handover Records": "Shift handover on 13th November, patient stable, ongoing PPI therapy.",
+            "Transfer Records": "",
+            "Stage Summary": "Patient diagnosed with peptic ulcer following endoscopy. Initial treatment with PPI and dietary advice. Awaiting biopsy results.",
+            "Emergency Records": "",
+            "Invasive Procedure Records": "Endoscopy performed on 15th November, uneventful.",
+            "Consultation Records": "Gastroenterology consult on 13th November, recommended endoscopy.",
+            "Discharge Records": "",
+            "Critically Ill Patient Care Records": ""
+        },
+        "Medical Orders": {
+            "Long-term Orders": [
+                "PPI (e.g., Omeprazole) 20mg once daily",
+                "Diet modifications: Avoid spicy food, alcohol, coffee"
+            ],
+            "Temporary Orders": [
+                "Endoscopy with biopsy",
+                "CBC, CMP"
+            ]
+        },
+        "Auxiliary Examination Reports": "Endoscopy report: Single peptic ulcer located in the antrum, approximately 1cm, clean base. Biopsy taken.",
+        "Temperature Chart": {
+            "13th November": {
+                "Temperature": "98.6°F",
+                "Pulse": "72 bpm",
+                "Respiration": "18 breaths/minute",
+                "Blood Pressure": "130/80 mmHg"
+            },
+            "14th November": {
+                "Temperature": "98.5°F",
+                "Pulse": "70 bpm",
+                "Respiration": "18 breaths/minute",
+                "Blood Pressure": "128/78 mmHg"
+            },
+            "15th November": {
+                "Temperature": "98.7°F",
+                "Pulse": "74 bpm",
+                "Respiration": "19 breaths/minute",
+                "Blood Pressure": "132/82 mmHg"
+            }
+        },
+        "Blood Transfusion Consent": "",
+        "Special Examination Consent": "",
+        "Critical Condition Notice": ""
+    },
+    "DiseaseType": {
+        "Digestive System Diseases": {
+            "Name": "Peptic Ulcer",
+            "Symptoms": "Upper abdominal pain, acid reflux, heartburn, etc.",
+            "Differential Diagnosis": "Gastric cancer, chronic gastritis, gastric neurosis, cholecystitis, cholelithiasis, gastrinoma."
+        }
+    },
+    "Generated Article": "Hospitalization Record:\n\nBasic Information:\nName: H. Kim\nGender: Male\nAge: 48\nEthnicity: Asian\nMarital Status: Married\nOccupation: Software Engineer\nAddress: 76, Quarryville street, Princeton\nAdmission Time: 13th, November\nRecord Time: 13th, November\nHistorian: Patient\nHospital Name: Princeton General Hospital\n\nChief Complaint:\nUpper abdominal pain for 2 weeks\n\nPresent Illness:\nOnset: 2 weeks prior at home, gradual onset, no prodromal symptoms. Possible cause: stress at work.\nMain Symptoms: Burning upper abdominal pain, intermittently severe, lasting for several hours, worsened by eating spicy food, ameliorated by antacid use. Progression with increasing frequency of pain episodes.\nAccompanying Symptoms: Frequent acid reflux and heartburn, especially at night. Symptom onset is closely related to meals.\nDiagnosis and Treatment History: Patient used over-the-counter antacids with temporary relief. No prior endoscopic examination.\nGeneral Condition Changes: Patient reports feeling anxious, has had trouble sleeping due to pain and discomfort, normal appetite initially but now decreased due to fear of pain, bowel movements regular, no significant weight change.\n\nPast History:\nGeneral Health Condition: Generally healthy, no chronic illnesses\nDisease History: History of hypertension, well-controlled with medication.\nInfectious Disease History: No history of infectious diseases.\nImmunization History: Up-to-date with immunizations according to age.\nSurgery and Trauma History: Appendectomy 10 years ago, no complications.\nBlood Transfusion History: No history of blood transfusion.\nAllergy History: No known drug allergies.\n\nPersonal History:\nBirthplace: Seoul, South Korea\nResidence: Princeton, NJ\nLiving Habits: Non-smoker, drinks alcohol socially, moderate exercise routine.\nOccupation and Working Conditions: Works as a software engineer, sedentary lifestyle with occasional long hours.\nExposure History: No exposure to industrial toxins, dust, or radioactive substances.\nTravel History: No recent travel history.\n\nMarital and Family History:\nMarital History:\nMarital Status: Married\nMarriage Age: 25\nSpouse's Health Condition: Healthy\nChildren's Condition: Two children, both healthy\nFamily History: Father had peptic ulcer disease, mother with hypertension. No family history of gastric cancer or other serious illnesses.\n\nPhysical Examination:\nGeneral Condition:\nTemperature: 98.6°F\nPulse: 72 bpm\nRespiration: 18 breaths/minute\nBlood Pressure: 130/80 mmHg\nSystematic Examination:\nSkin: Normal\nMucous Membranes: Moist\nLymph Nodes: Non-palpable\nHead and Organs: Normocephalic, no abnormalities\nNeck: Supple, no lymphadenopathy\nChest: Clear to auscultation, heart sounds normal\nAbdomen: Epigastric tenderness without rebound or guarding, liver and spleen not enlarged\nRectum and Anus: Not examined\nExternal Genitalia: Normal\nSpine: Normal curvature, no tenderness\nLimbs: Full range of motion, no edema\nNervous System: Intact, no focal deficits\n\nSpecialist Examination:\nGastroenterology consulted; recommended endoscopy.\n\nAuxiliary Examination:\nPre-admission blood tests normal. Endoscopy ordered.\n\nPreliminary Diagnosis:\nPeptic Ulcer Disease\n\nDiagnostic Basis:\nBased on patient's history of epigastric pain relieved by antacids, physical exam showing epigastric tenderness, no systemic symptoms suggesting malignancy.\n\nDifferential Diagnosis:\nGastric cancer (no weight loss, no palpable masses)\nChronic gastritis (less likely given severity of symptoms)\nGastric neurosis (symptoms more likely organic)\nCholecystitis/cholelithiasis (RUQ pain absent)\nGastrinoma (unlikely, stable gastrin levels).\n\nAdmission Records:\nPhysician's Signature: Dr. Smith\n\nPost-Admission Course Records:\nFirst Course Record:\nPatient admitted with severe epigastric pain, history suggests peptic ulcer. Plan: Initiate PPI therapy, lifestyle modifications, endoscopy scheduled.\nDaily Course Records:\nDate: 14th November\nRecord: Patient reports mild improvement with PPI, awaiting endoscopy.\nDate: 15th November\nRecord: Endoscopy performed, revealed a single peptic ulcer, biopsy taken. Awaiting pathology results.\nSenior Physician Rounds Records:\nReviewed case on 14th November, agreed with current management, emphasized need for biopsy results for ruling out malignancy.\nDifficult Case Discussion Records:\n[None recorded]\nHandover Records:\nShift handover on 13th November, patient stable, ongoing PPI therapy.\nTransfer Records:\n[None recorded]\nStage Summary:\nPatient diagnosed with peptic ulcer following endoscopy. Initial treatment with PPI and dietary advice. Awaiting biopsy results.\nEmergency Records:\n[None recorded]\nInvasive Procedure Records:\nEndoscopy performed on 15th November, uneventful.\nConsultation Records:\nGastroenterology consult on 13th November, recommended endoscopy.\nDischarge Records:\n[None recorded]\nCritically Ill Patient Care Records:\n[None recorded]\n\nMedical Orders:\nLong-term Orders:\nPPI (e.g., Omeprazole) 20mg once daily\nDiet modifications: Avoid spicy food, alcohol, coffee\nTemporary Orders:\nEndoscopy with biopsy\nCBC, CMP\n\nAuxiliary Examination Reports:\nEndoscopy report: Single peptic ulcer located in the antrum, approximately 1cm, clean base. Biopsy taken.\n\nTemperature Chart:\n13th November:\nTemperature: 98.6°F\nPulse: 72 bpm\nRespiration: 18 breaths/minute\nBlood Pressure: 130/80 mmHg\n14th November:\nTemperature: 98.5°F\nPulse: 70 bpm\nRespiration: 18 breaths/minute\nBlood Pressure: 128/78 mmHg\n15th November:\nTemperature: 98.7°F\nPulse: 74 bpm\nRespiration: 19 breaths/minute\nBlood Pressure: 132/82 mmHg\n\nBlood Transfusion Consent:\n[None recorded]\nSpecial Examination Consent:\n[None recorded]\nCritical Condition Notice:\n[None recorded]\n\nDiseaseType:\nDigestive System Diseases:\nName: Peptic Ulcer\nSymptoms: Upper abdominal pain, acid reflux, heartburn, etc.\nDifferential Diagnosis: Gastric cancer, chronic gastritis, gastric neurosis, cholecystitis, cholelithiasis, gastrinoma.",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Princeton General Hospital, what is H. Kim's chief complaint?",
+            "answer": "Upper abdominal pain for 2 weeks",
+            "ref": [
+                "Chief Complaint:",
+                "Upper abdominal pain for 2 weeks"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Princeton General Hospital, what is the patient's preliminary diagnosis?",
+            "answer": "Peptic Ulcer Disease",
+            "ref": [
+                "Preliminary Diagnosis:",
+                "Peptic Ulcer Disease"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Princeton General Hospital, what is the patient's marital status?",
+            "answer": "Married",
+            "ref": [
+                "Marital Status: Married"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Princeton General Hospital, what is the patient's address?",
+            "answer": "76, Quarryville street, Princeton",
+            "ref": [
+                "Address: 76, Quarryville street, Princeton"
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Princeton General Hospital, how many auxiliary examinations did H. Kim undergo?",
+            "answer": "According to the records, H. Kim underwent 2 auxiliary examinations, namely pre-admission blood tests and endoscopy.",
+            "ref": [
+                "Pre-admission blood tests normal.",
+                "Endoscopy ordered."
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Princeton General Hospital, summarize the basic information of H. Kim.",
+            "answer": "H. Kim is a 48-year-old Asian male, married, and works as a software engineer. He resides at 76, Quarryville street, Princeton. He was admitted on 13th November and the record was made on the same day. The historian is the patient himself.",
+            "ref": [
+                "Name: H. Kim",
+                "Gender: Male",
+                "Age: 48",
+                "Ethnicity: Asian",
+                "Marital Status: Married",
+                "Occupation: Software Engineer",
+                "Address: 76, Quarryville street, Princeton",
+                "Admission Time: 13th, November",
+                "Record Time: 13th, November",
+                "Historian: Patient"
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Princeton General Hospital, summarize the present illness of H. Kim.",
+            "answer": "H. Kim's illness began 2 weeks prior at home with a gradual onset and no prodromal symptoms, possibly due to work stress. He experiences burning upper abdominal pain, intermittently severe, lasting for several hours, worsened by eating spicy food, and ameliorated by antacid use. The pain episodes have increased in frequency. Accompanying symptoms include frequent acid reflux and heartburn, especially at night, closely related to meals. He used over-the-counter antacids with temporary relief and has no prior endoscopic examination. He feels anxious, has trouble sleeping due to pain, initially had a normal appetite but now decreased due to fear of pain, regular bowel movements, and no significant weight change.",
+            "ref": [
+                "Onset: 2 weeks prior at home, gradual onset, no prodromal symptoms.",
+                "Possible cause: stress at work.",
+                "Main Symptoms: Burning upper abdominal pain, intermittently severe, lasting for several hours, worsened by eating spicy food, ameliorated by antacid use.",
+                "Progression with increasing frequency of pain episodes.",
+                "Accompanying Symptoms: Frequent acid reflux and heartburn, especially at night.",
+                "Symptom onset is closely related to meals.",
+                "Diagnosis and Treatment History: Patient used over-the-counter antacids with temporary relief.",
+                "No prior endoscopic examination.",
+                "General Condition Changes: Patient reports feeling anxious, has had trouble sleeping due to pain and discomfort, normal appetite initially but now decreased due to fear of pain, bowel movements regular, no significant weight change."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Princeton General Hospital, summarize the physical examination findings of H. Kim.",
+            "answer": "H. Kim's general condition includes a temperature of 98.6°F, pulse of 72 bpm, respiration of 18 breaths/minute, and blood pressure of 130/80 mmHg. Systematic examination findings are normal skin, moist mucous membranes, non-palpable lymph nodes, normocephalic head with no abnormalities, supple neck with no lymphadenopathy, clear chest to auscultation with normal heart sounds, epigastric tenderness without rebound or guarding in the abdomen, non-enlarged liver and spleen, normal external genitalia, normal spine curvature with no tenderness, full range of motion in limbs with no edema, and an intact nervous system with no focal deficits.",
+            "ref": [
+                "General Condition:",
+                "Temperature: 98.6°F",
+                "Pulse: 72 bpm",
+                "Respiration: 18 breaths/minute",
+                "Blood Pressure: 130/80 mmHg",
+                "Skin: Normal",
+                "Mucous Membranes: Moist",
+                "Lymph Nodes: Non-palpable",
+                "Head and Organs: Normocephalic, no abnormalities",
+                "Neck: Supple, no lymphadenopathy",
+                "Chest: Clear to auscultation, heart sounds normal",
+                "Abdomen: Epigastric tenderness without rebound or guarding, liver and spleen not enlarged",
+                "External Genitalia: Normal",
+                "Spine: Normal curvature, no tenderness",
+                "Limbs: Full range of motion, no edema",
+                "Nervous System: Intact, no focal deficits"
+            ]
+        }
+    ]
+}

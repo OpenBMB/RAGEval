@@ -1,0 +1,198 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Charleston, Linden, Court and Preston, Lancaster, Court, what are the genders of the defendants J. Gonzalez and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "Gender: Female"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Gender:** Female"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Charleston, Linden, Court, the defendant J. Gonzalez is female; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris is female."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Charleston, Linden, Court and Preston, Lancaster, Court, what are the occupations of the defendants J. Gonzalez and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "Occupation: Unemployed"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Occupation:** Accountant"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Charleston, Linden, Court, the defendant J. Gonzalez is unemployed; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris is an accountant."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Charleston, Linden, Court and Preston, Lancaster, Court, what are the birthdates of the defendants J. Gonzalez and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "Date of Birth: 11th August, 1964"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Birthdate:** 27th August 1980"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Charleston, Linden, Court, the defendant J. Gonzalez was born on 11th August 1964; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris was born on 27th August 1980."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Charleston, Linden, Court and Preston, Lancaster, Court, what were the dates when detention measures were taken for the defendants J. Gonzalez and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "On the 5th of January, 2023, preliminary detention measures were taken by the police to ensure the safety of the public and to prevent any potential interference with the ongoing investigation."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Date:** 5th January 2023"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Charleston, Linden, Court, detention measures were taken for the defendant J. Gonzalez on 5th January 2023; according to the judgment of Preston, Lancaster, Court, detention measures were taken for the defendant M. Harris on 5th January 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Charleston, Linden, Court and Preston, Lancaster, Court, what crimes did the defendants J. Gonzalez and M. Harris commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "The defendant, J. Gonzalez, stands charged with the Crime of Picking Quarrels and Provoking Trouble pursuant to Article 293.",
+                        "The charge arises from the exhibited behavior involving initiating quarrels, provoking unnecessary confrontations, and causing public disturbances on multiple occasions."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Crime Name:** Crime of Intentional Homicide",
+                        "M. Harris stands charged under Article 232 for the Crime of Intentional Homicide."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Charleston, Linden, Court, the defendant J. Gonzalez committed the crime of picking quarrels and provoking trouble; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris committed the crime of intentional homicide."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Charleston, Linden, Court and Preston, Lancaster, Court, what were the judgment dates for the cases involving the defendants J. Gonzalez and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "Date: 1st March 2023"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 25th of June, 2023."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Charleston, Linden, Court, the judgment date for the case involving the defendant J. Gonzalez was 1st March 2023; according to the judgment of Preston, Lancaster, Court, the judgment date for the case involving the defendant M. Harris was 25th June 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Charleston, Linden, Court and Preston, Lancaster, Court, what were the sentences given to the defendants J. Gonzalez and M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "In accordance with the laws governing this court, particularly in reference to Article 293, this court sentences the defendant, J. Gonzalez, to a fixed-term imprisonment of three (3) years for the Crime of Picking Quarrels and Provoking Trouble."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Sentence:** Life imprisonment"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Charleston, Linden, Court, the defendant J. Gonzalez was sentenced to a fixed-term imprisonment of 3 years; according to the judgment of Preston, Lancaster, Court, the defendant M. Harris was sentenced to life imprisonment."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Charleston, Linden, Court and Preston, Lancaster, Court, whose sentencing time is longer, J. Gonzalez or M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "In accordance with the laws governing this court, particularly in reference to Article 293, this court sentences the defendant, J. Gonzalez, to a fixed-term imprisonment of three (3) years for the Crime of Picking Quarrels and Provoking Trouble."
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Sentence:** Life imprisonment"
+                    ]
+                }
+            ],
+            "answer": "J. Gonzalez was sentenced to a fixed-term imprisonment of 3 years, while M. Harris was sentenced to life imprisonment. Therefore, M. Harris's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Charleston, Linden, Court and Preston, Lancaster, Court, whose judgment time is earlier, J. Gonzalez or M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "Date: 1st March 2023"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 25th of June, 2023."
+                    ]
+                }
+            ],
+            "answer": "J. Gonzalez's judgment time is earlier, as the judgment date was 1st March 2023, while M. Harris's judgment date was 25th June 2023."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Charleston, Linden, Court and Preston, Lancaster, Court, who is older, J. Gonzalez or M. Harris?",
+            "ref": [
+                {
+                    "court_name": "Charleston, Linden, Court",
+                    "content": [
+                        "Date of Birth: 11th August, 1964"
+                    ]
+                },
+                {
+                    "court_name": "Preston, Lancaster, Court",
+                    "content": [
+                        "**Birthdate:** 27th August 1980"
+                    ]
+                }
+            ],
+            "answer": "J. Gonzalez, born on 11th August 1964, is older than M. Harris, who was born on 27th August 1980."
+        }
+    ]
+}

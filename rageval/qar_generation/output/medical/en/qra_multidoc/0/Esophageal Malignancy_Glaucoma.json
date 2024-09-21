@@ -1,0 +1,144 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Lexington General Hospital and Ashland City Hospital, what are the occupations of patients Q. Reyes and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Lexington General Hospital_Q. Reyes",
+                    "content": [
+                        "Occupation: Retired Teacher",
+                        "Occupation and Working Conditions: Retired teacher, previously under no significant occupational hazards."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Occupation: Graphic Designer",
+                        "- Occupation and Working Conditions: Graphic designer, frequent screen use"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization record of Lexington General Hospital, patient Q. Reyes was a retired teacher; according to the hospitalization record of Ashland City Hospital, patient Q. Gomez is a graphic designer."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Lexington General Hospital and Ashland City Hospital, what are the marital statuses of patients Q. Reyes and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Lexington General Hospital_Q. Reyes",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Marital Status: Single"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization record of Lexington General Hospital, patient Q. Reyes was widowed; according to the hospitalization record of Ashland City Hospital, patient Q. Gomez is single."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Lexington General Hospital and Ashland City Hospital, what were the chief complaints of patients Q. Reyes and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Lexington General Hospital_Q. Reyes",
+                    "content": [
+                        "Chief Complaint:",
+                        "Dysphagia and chest pain for the past 4 months"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "Chief Complaint:",
+                        "- Blurred vision and severe headache for 3 days"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization record of Lexington General Hospital, the chief complaint of patient Q. Reyes was dysphagia and chest pain for the past 4 months; according to the hospitalization record of Ashland City Hospital, the chief complaint of patient Q. Gomez was blurred vision and severe headache for 3 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Lexington General Hospital and Ashland City Hospital, what are the surgeries recorded in the history of patients Q. Reyes and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Lexington General Hospital_Q. Reyes",
+                    "content": [
+                        "Surgery and Trauma History: Appendectomy at age 25."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Surgery and Trauma History: Appendectomy at age 22"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization record of Lexington General Hospital, patient Q. Reyes had an appendectomy at age 25; according to the hospitalization record of Ashland City Hospital, patient Q. Gomez had an appendectomy at age 22."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Lexington General Hospital and Ashland City Hospital, what diagnoses were made for patients Q. Reyes and Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Lexington General Hospital_Q. Reyes",
+                    "content": [
+                        "Biopsy confirmed esophageal malignancy.",
+                        "Esophageal Malignancy"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Acute angle-closure glaucoma"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization record of Lexington General Hospital, patient Q. Reyes was diagnosed with esophageal malignancy; according to the hospitalization record of Ashland City Hospital, patient Q. Gomez was diagnosed with acute angle-closure glaucoma."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Lexington General Hospital and Ashland City Hospital, who was admitted earlier, Q. Reyes or Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Lexington General Hospital_Q. Reyes",
+                    "content": [
+                        "Admission Time: 5th, August"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Admission Time: 9th April"
+                    ]
+                }
+            ],
+            "answer": "Q. Reyes was admitted on August 5th, and Q. Gomez was admitted on April 9th. Q. Gomez was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Lexington General Hospital and Ashland City Hospital, who is older, Q. Reyes or Q. Gomez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Lexington General Hospital_Q. Reyes",
+                    "content": [
+                        "Age: 87"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland City Hospital_Q. Gomez",
+                    "content": [
+                        "- Age: 28"
+                    ]
+                }
+            ],
+            "answer": "Q. Reyes is 87 years old, and Q. Gomez is 28 years old. Q. Reyes is older."
+        }
+    ]
+}

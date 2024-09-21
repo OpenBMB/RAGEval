@@ -1,0 +1,212 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the amounts raised during the large-scale financing activities of Buildcorp Holdings in March 2018 and Stellar Entertainment Holdings Ltd. in January 2017?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In March 2018, Buildcorp Holdings successfully conducted a large-scale financing activity, raising £100 million from a consortium of investors.",
+                        "This financing strengthened the company's financial strength and provided support for its expansion and development."
+                    ]
+                },
+                {
+                    "company_name": "Stellar Entertainment Holdings Ltd.",
+                    "content": [
+                        "Firstly, the company successfully raised $200 million in large-scale financing, which greatly strengthened its financial strength and supported its expansion and development efforts.",
+                        "This financing allowed Stellar Entertainment to embark on a series of strategic initiatives that enhanced its market competitiveness and revenue potential."
+                    ]
+                }
+            ],
+            "answer": "Buildcorp Holdings raised £100 million in March 2018, and Stellar Entertainment Holdings Ltd. raised $200 million in January 2017."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the equity acquisition percentages and the companies acquired by Buildcorp Holdings in April 2018 and Stellar Entertainment Holdings Ltd. in February 2017?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In April 2018, the company completed the acquisition of 35% equity of A&B Construction, a prominent player in the industry.",
+                        "This acquisition further expanded Buildcorp Holdings' market share and enhanced its control."
+                    ]
+                },
+                {
+                    "company_name": "Stellar Entertainment Holdings Ltd.",
+                    "content": [
+                        "Another significant event in 2017 was the acquisition of 60% equity of Alpha Productions Inc.",
+                        "This acquisition not only expanded Stellar Entertainment's market share but also enhanced its control over the acquired company."
+                    ]
+                }
+            ],
+            "answer": "Buildcorp Holdings acquired 35% equity of A&B Construction in April 2018, and Stellar Entertainment Holdings Ltd. acquired 60% equity of Alpha Productions Inc. in February 2017."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the amounts distributed as dividends by Buildcorp Holdings in August 2018 and Stellar Entertainment Holdings Ltd. in March 2017?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In August 2018, Buildcorp Holdings made the decision to distribute £10 million of dividends to shareholders, enhancing shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "Stellar Entertainment Holdings Ltd.",
+                    "content": [
+                        "Furthermore, the company distributed $50 million in dividends to its shareholders in March 2017, which enhanced shareholder returns and demonstrated its commitment to delivering value to its investors."
+                    ]
+                }
+            ],
+            "answer": "Buildcorp Holdings distributed £10 million in dividends in August 2018, and Stellar Entertainment Holdings Ltd. distributed $50 million in dividends in March 2017."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the amounts by which liabilities were reduced during the debt restructuring activities of Buildcorp Holdings in July 2018 and Stellar Entertainment Holdings Ltd. in May 2017?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In July 2018, the company carried out debt restructuring activities, resulting in a reduction of liabilities by £50 million.",
+                        "This restructuring improved the company's financial condition and reduced its financial costs."
+                    ]
+                },
+                {
+                    "company_name": "Stellar Entertainment Holdings Ltd.",
+                    "content": [
+                        "Stellar Entertainment also underwent debt restructuring in May 2017, reducing its liabilities by $100 million.",
+                        "This restructuring improved the company's financial condition and reduced its financial costs."
+                    ]
+                }
+            ],
+            "answer": "Buildcorp Holdings reduced its liabilities by £50 million in July 2018, and Stellar Entertainment Holdings Ltd. reduced its liabilities by $100 million in May 2017."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the values of the major asset acquisitions by Buildcorp Holdings in October 2018 and Stellar Entertainment Holdings Ltd. in June 2017?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In October 2018, Buildcorp Holdings acquired X Constructions, a renowned construction firm with expertise in large infrastructure projects, with a total value of £150 million.",
+                        "This acquisition expanded the company's business scope and enhanced its market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "Stellar Entertainment Holdings Ltd.",
+                    "content": [
+                        "In June 2017, the company completed the asset acquisition of XYZ Films with a total value of $150 million.",
+                        "This acquisition expanded Stellar Entertainment's business scope and further enhanced its market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "Buildcorp Holdings acquired assets worth £150 million in October 2018, and Stellar Entertainment Holdings Ltd. acquired assets worth $150 million in June 2017."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the large-scale financing activities of Buildcorp Holdings in March 2018 and Stellar Entertainment Holdings Ltd. in January 2017. Which company raised more funds?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In March 2018, Buildcorp Holdings successfully conducted a large-scale financing activity, raising £100 million from a consortium of investors.",
+                        "This financing strengthened the company's financial strength and provided support for its expansion and development."
+                    ]
+                },
+                {
+                    "company_name": "Stellar Entertainment Holdings Ltd.",
+                    "content": [
+                        "Firstly, the company successfully raised $200 million in large-scale financing, which greatly strengthened its financial strength and supported its expansion and development efforts.",
+                        "This financing allowed Stellar Entertainment to embark on a series of strategic initiatives that enhanced its market competitiveness and revenue potential."
+                    ]
+                }
+            ],
+            "answer": "Stellar Entertainment Holdings Ltd. raised more funds with $200 million in January 2017 compared to Buildcorp Holdings' £100 million in March 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the significant equity acquisitions by Buildcorp Holdings in April 2018 and Stellar Entertainment Holdings Ltd. in February 2017. Which company acquired a larger percentage of equity?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In April 2018, the company completed the acquisition of 35% equity of A&B Construction, a prominent player in the industry.",
+                        "This acquisition further expanded Buildcorp Holdings' market share and enhanced its control."
+                    ]
+                },
+                {
+                    "company_name": "Stellar Entertainment Holdings Ltd.",
+                    "content": [
+                        "Another significant event in 2017 was the acquisition of 60% equity of Alpha Productions Inc.",
+                        "This acquisition not only expanded Stellar Entertainment's market share but also enhanced its control over the acquired company."
+                    ]
+                }
+            ],
+            "answer": "Stellar Entertainment Holdings Ltd. acquired a larger percentage of equity with 60% of Alpha Productions Inc. in February 2017 compared to Buildcorp Holdings' 35% equity of A&B Construction in April 2018."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the debt restructuring activities of Buildcorp Holdings in July 2018 and Stellar Entertainment Holdings Ltd. in May 2017. Which company restructured its debt earlier?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In July 2018, the company carried out debt restructuring activities, resulting in a reduction of liabilities by £50 million.",
+                        "This restructuring improved the company's financial condition and reduced its financial costs."
+                    ]
+                },
+                {
+                    "company_name": "Stellar Entertainment Holdings Ltd.",
+                    "content": [
+                        "Stellar Entertainment also underwent debt restructuring in May 2017, reducing its liabilities by $100 million.",
+                        "This restructuring improved the company's financial condition and reduced its financial costs."
+                    ]
+                }
+            ],
+            "answer": "Stellar Entertainment Holdings Ltd. restructured its debt earlier in May 2017 compared to Buildcorp Holdings in July 2018."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the major asset acquisitions by Buildcorp Holdings in October 2018 and Stellar Entertainment Holdings Ltd. in June 2017. Which company had a higher value of asset acquisition?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In October 2018, Buildcorp Holdings acquired X Constructions, a renowned construction firm with expertise in large infrastructure projects, with a total value of £150 million.",
+                        "This acquisition expanded the company's business scope and enhanced its market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "Stellar Entertainment Holdings Ltd.",
+                    "content": [
+                        "In June 2017, the company completed the asset acquisition of XYZ Films with a total value of $150 million.",
+                        "This acquisition expanded Stellar Entertainment's business scope and further enhanced its market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "Both Buildcorp Holdings and Stellar Entertainment Holdings Ltd. had major asset acquisitions valued at $150 million each."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distributions by Buildcorp Holdings in August 2018 and Stellar Entertainment Holdings Ltd. in March 2017. Which company distributed more dividends to shareholders?",
+            "ref": [
+                {
+                    "company_name": "Buildcorp Holdings",
+                    "content": [
+                        "In August 2018, Buildcorp Holdings made the decision to distribute £10 million of dividends to shareholders, enhancing shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "Stellar Entertainment Holdings Ltd.",
+                    "content": [
+                        "Furthermore, the company distributed $50 million in dividends to its shareholders in March 2017, which enhanced shareholder returns and demonstrated its commitment to delivering value to its investors."
+                    ]
+                }
+            ],
+            "answer": "Stellar Entertainment Holdings Ltd. distributed more dividends to shareholders with $50 million in March 2017 compared to Buildcorp Holdings' £10 million in August 2018."
+        }
+    ]
+}

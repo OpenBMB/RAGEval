@@ -1,0 +1,342 @@
+{
+    "Report Type": "Corporate Financial Report",
+    "Report Time": "2018",
+    "Company Information": {
+        "Name": "MediaCorp",
+        "Establishment Date": "January 1, 2000",
+        "Main Business": "Media production and distribution",
+        "Registration Location": "New York, United States",
+        "Listing Status": "Publicly listed on NYSE",
+        "Industry": "Media"
+    },
+    "Report Content": [
+        {
+            "Type": "Financial Information",
+            "Significant Events": [
+                {
+                    "Event": "Major Asset Acquisition",
+                    "Time": "April, 2018",
+                    "Description": "MediaCorp completed the asset acquisition of Big Pictures, a renowned film production company, with a total value of $100 million.",
+                    "Impact": "Expanded MediaCorp's business scope, enhanced market competitiveness.",
+                    "Sub Events": [
+                        {
+                            "Event": "Appointment of New CEO",
+                            "Time": "January, 2018",
+                            "Description": "MediaCorp appointed a new CEO to lead the company in its strategic expansion plans and enhance its overall performance.",
+                            "Impact": "New CEO's leadership and expertise prepared the company for major acquisitions and growth."
+                        },
+                        {
+                            "Event": "Strategic Market Analysis",
+                            "Time": "February, 2018",
+                            "Description": "MediaCorp conducted an in-depth market analysis to identify potential investment opportunities and assess market trends.",
+                            "Impact": "Identified Big Pictures as a strategic acquisition target with significant growth prospects."
+                        },
+                        {
+                            "Event": "Due Diligence Process Initiated",
+                            "Time": "March, 2018",
+                            "Description": "MediaCorp commenced the due diligence process to evaluate the financial, legal, and operational aspects of the potential acquisition of Big Pictures.",
+                            "Impact": "Ensured a thorough assessment of the target company's value and mitigated risks associated with the acquisition."
+                        }
+                    ]
+                },
+                {
+                    "Event": "Major Investment",
+                    "Time": "May, 2018",
+                    "Description": "MediaCorp invested $50 million in Project Vision, a cutting-edge virtual reality technology startup.",
+                    "Impact": "Further broadened MediaCorp's business areas, enhanced profitability."
+                },
+                {
+                    "Event": "Significant Equity Acquisition",
+                    "Time": "June, 2018",
+                    "Description": "MediaCorp completed the acquisition of 30% equity of Digital Media Solutions.",
+                    "Impact": "Further expanded MediaCorp's market share, enhanced the company's control."
+                },
+                {
+                    "Event": "Debt Restructuring",
+                    "Time": "July, 2018",
+                    "Description": "To optimize the capital structure, MediaCorp underwent debt restructuring, reducing liabilities by $20 million.",
+                    "Impact": "Improved MediaCorp's financial condition, reduced financial costs."
+                },
+                {
+                    "Event": "Dividend Distribution",
+                    "Time": "September, 2018",
+                    "Description": "MediaCorp decided to distribute $10 million of dividends to shareholders.",
+                    "Impact": "Returned to the investors, enhanced shareholder returns."
+                },
+                {
+                    "Event": "Large-scale Financing",
+                    "Time": "October, 2018",
+                    "Description": "MediaCorp conducted a large-scale financing activity, raising $150 million of funds.",
+                    "Impact": "Strengthened MediaCorp's financial strength, supported expansion and development."
+                },
+                {
+                    "Event": "Asset Restructuring",
+                    "Time": "December, 2018",
+                    "Description": "MediaCorp underwent an asset restructuring, consolidating and optimizing its media production and distribution businesses.",
+                    "Impact": "Improved operational efficiency, increased company value."
+                }
+            ],
+            "Involved Indicators": [
+                {
+                    "Indicator": "Operating Income",
+                    "Description": "The total amount of main business income and other business income within a certain accounting period.",
+                    "Influencing Factors": [
+                        "Market Demand",
+                        "Changes in Product Prices"
+                    ],
+                    "Value": "$800 million"
+                },
+                {
+                    "Indicator": "Net Profit",
+                    "Description": "The net income of the company within a certain accounting period, i.e., total income minus total costs and taxes.",
+                    "Influencing Factors": [
+                        "Operating Income",
+                        "Cost Control",
+                        "Non-recurring Gains and Losses"
+                    ],
+                    "Value": "$150 million"
+                },
+                {
+                    "Indicator": "Total Assets",
+                    "Description": "The total amount of assets owned by the company at the end of the accounting period.",
+                    "Influencing Factors": [
+                        "Asset Acquisition",
+                        "Asset Disposal",
+                        "Asset Revaluation"
+                    ],
+                    "Value": "$2 billion"
+                },
+                {
+                    "Indicator": "Total Liabilities",
+                    "Description": "The total amount of debts the company is obligated to repay at the end of the accounting period.",
+                    "Influencing Factors": [
+                        "New Debt Issuance",
+                        "Debt Repayment",
+                        "Debt Restructuring"
+                    ],
+                    "Value": "$500 million"
+                },
+                {
+                    "Indicator": "Shareholder Equity",
+                    "Description": "The total amount of equity belonging to shareholders at the end of the accounting period.",
+                    "Influencing Factors": [
+                        "Net Profit",
+                        "Dividend Distribution",
+                        "Capital Reserves"
+                    ],
+                    "Value": "$1.5 billion"
+                },
+                {
+                    "Indicator": "Cash Flow",
+                    "Description": "The total cash inflows and outflows of the company within a certain accounting period.",
+                    "Influencing Factors": [
+                        "Operating Activities",
+                        "Investment Activities",
+                        "Financing Activities"
+                    ],
+                    "Value": "$300 million"
+                },
+                {
+                    "Indicator": "Debt Ratio",
+                    "Description": "The ratio of total liabilities to total assets, reflecting the company's debt level.",
+                    "Influencing Factors": [
+                        "Changes in Total Liabilities",
+                        "Changes in Total Assets"
+                    ],
+                    "Value": "25%"
+                },
+                {
+                    "Indicator": "Debt to Assets Ratio",
+                    "Description": "The percentage of total liabilities to total assets, a measure of the company's financial leverage.",
+                    "Influencing Factors": [
+                        "Increases or decreases in assets and liabilities"
+                    ],
+                    "Value": "0.25"
+                },
+                {
+                    "Indicator": "Return on Equity",
+                    "Description": "Reflects the operational efficiency of shareholder equity, namely the ratio of net profit to average shareholder equity.",
+                    "Influencing Factors": [
+                        "Change in Net Profit",
+                        "Change in Shareholder Equity"
+                    ],
+                    "Value": "10%"
+                }
+            ]
+        }
+    ],
+    "Additional Information": [
+        {
+            "Name": "Future Outlook",
+            "Content": [
+                {
+                    "Name": "Financial Strategy",
+                    "Description": "MediaCorp plans to implement a cost control strategy to optimize operational efficiency and maintain profitability. Additionally, the company aims to explore new capital operations to support future growth."
+                },
+                {
+                    "Name": "Investment Plans",
+                    "Description": "MediaCorp intends to invest heavily in content production and distribution platforms to strengthen its position in the media industry. The company also plans to allocate resources for research and development initiatives."
+                },
+                {
+                    "Name": "Risk Management",
+                    "Description": "MediaCorp has identified potential financial risks such as changes in market demand and increasing competition. The company plans to implement risk diversification strategies, invest in talent acquisition, and enhance marketing efforts to mitigate these risks."
+                }
+            ]
+        }
+    ],
+    "Generated Outline": "I. Introduction\nA. Report Type: Corporate Financial Report\nB. Report Time: 2018\nC. Company Information\n   1. Name: MediaCorp\n   2. Establishment Date: January 1, 2000\n   3. Main Business: Media production and distribution\n   4. Registration Location: New York, United States\n   5. Listing Status: Publicly listed on NYSE\n   6. Industry: Media\n\nII. Financial Information\nA. Major Asset Acquisition (April, 2018)\n   1. Description: MediaCorp completed the asset acquisition of Big Pictures, a renowned film production company, with a total value of $100 million.\n   2. Impact: Expanded MediaCorp's business scope, enhanced market competitiveness.\n   3. Sub Events\n      a. Appointment of New CEO (January, 2018)\n         - Description: MediaCorp appointed a new CEO to lead the company in its strategic expansion plans and enhance its overall performance.\n         - Impact: New CEO's leadership and expertise prepared the company for major acquisitions and growth.\n      b. Strategic Market Analysis (February, 2018)\n         - Description: MediaCorp conducted an in-depth market analysis to identify potential investment opportunities and assess market trends.\n         - Impact: Identified Big Pictures as a strategic acquisition target with significant growth prospects.\n      c. Due Diligence Process Initiated (March, 2018)\n         - Description: MediaCorp commenced the due diligence process to evaluate the financial, legal, and operational aspects of the potential acquisition of Big Pictures.\n         - Impact: Ensured a thorough assessment of the target company's value and mitigated risks associated with the acquisition.\nB. Major Investment (May, 2018)\n   1. Description: MediaCorp invested $50 million in Project Vision, a cutting-edge virtual reality technology startup.\n   2. Impact: Further broadened MediaCorp's business areas, enhanced profitability.\nC. Significant Equity Acquisition (June, 2018)\n   1. Description: MediaCorp completed the acquisition of 30% equity of Digital Media Solutions.\n   2. Impact: Further expanded MediaCorp's market share, enhanced the company's control.\nD. Debt Restructuring (July, 2018)\n   1. Description: To optimize the capital structure, MediaCorp underwent debt restructuring, reducing liabilities by $20 million.\n   2. Impact: Improved MediaCorp's financial condition, reduced financial costs.\nE. Dividend Distribution (September, 2018)\n   1. Description: MediaCorp decided to distribute $10 million of dividends to shareholders.\n   2. Impact: Returned to the investors, enhanced shareholder returns.\nF. Large-scale Financing (October, 2018)\n   1. Description: MediaCorp conducted a large-scale financing activity, raising $150 million of funds.\n   2. Impact: Strengthened MediaCorp's financial strength, supported expansion and development.\nG. Asset Restructuring (December, 2018)\n   1. Description: MediaCorp underwent an asset restructuring, consolidating and optimizing its media production and distribution businesses.\n   2. Impact: Improved operational efficiency, increased company value.\n\nIII. Involved Indicators\nA. Operating Income ($800 million)\n   1. Description: The total amount of main business income and other business income within a certain accounting period.\n   2. Influencing Factors: Market Demand, Changes in Product Prices\nB. Net Profit ($150 million)\n   1. Description: The net income of the company within a certain accounting period, i.e., total income minus total costs and taxes.\n   2. Influencing Factors: Operating Income, Cost Control, Non-recurring Gains and Losses\nC. Total Assets ($2 billion)\n   1. Description: The total amount of assets owned by the company at the end of the accounting period.\n   2. Influencing Factors: Asset Acquisition, Asset Disposal, Asset Revaluation\nD. Total Liabilities ($500 million)\n   1. Description: The total amount of debts the company is obligated to repay at the end of the accounting period.\n   2. Influencing Factors: New Debt Issuance, Debt Repayment, Debt Restructuring\nE. Shareholder Equity ($1.5 billion)\n   1. Description: The total amount of equity belonging to shareholders at the end of the accounting period.\n   2. Influencing Factors: Net Profit, Dividend Distribution, Capital Reserves\nF. Cash Flow ($300 million)\n   1. Description: The total cash inflows and outflows of the company within a certain accounting period.\n   2. Influencing Factors: Operating Activities, Investment Activities, Financing Activities\nG. Debt Ratio (25%)\n   1. Description: The ratio of total liabilities to total assets, reflecting the company's debt level.\n   2. Influencing Factors: Changes in Total Liabilities, Changes in Total Assets\nH. Debt to Assets Ratio (0.25)\n   1. Description: The percentage of total liabilities to total assets, a measure of the company's financial leverage.\n   2. Influencing Factors: Increases or decreases in assets and liabilities\nI. Return on Equity (10%)\n   1. Description: Reflects the operational efficiency of shareholder equity, namely the ratio of net profit to average shareholder equity.\n   2. Influencing Factors: Change in Net Profit, Change in Shareholder Equity\n\nIV. Additional Information\nA. Future Outlook\n   1. Financial Strategy\n      - Description: MediaCorp plans to implement a cost control strategy to optimize operational efficiency and maintain profitability. Additionally, the company aims to explore new capital operations to support future growth.\n   2. Investment Plans\n      - Description: MediaCorp intends to invest heavily in content production and distribution platforms to strengthen its position in the media industry. The company also plans to allocate resources for research and development initiatives.\n   3. Risk Management\n      - Description: MediaCorp has identified potential financial risks such as changes in market demand and increasing competition. The company plans to implement risk diversification strategies, invest in talent acquisition, and enhance marketing efforts to mitigate these risks.",
+    "Generated Summary": "MediaCorp, established on January 1, 2000, is a publicly listed media company on the NYSE, headquartered in New York, United States, specializing in media production and distribution.",
+    "Generated Article": "In 2018, MediaCorp made significant strides in expanding its business and enhancing its market competitiveness. One of the major highlights was the acquisition of Big Pictures, a renowned film production company, in April. This asset acquisition, valued at $100 million, allowed MediaCorp to broaden its business scope and tap into the lucrative film industry. The decision to acquire Big Pictures was preceded by a series of strategic events, including the appointment of a new CEO in January. The new CEO brought in fresh leadership and expertise, setting the stage for major acquisitions and growth. In February, MediaCorp conducted a strategic market analysis, which identified Big Pictures as a strategic acquisition target with significant growth prospects. This analysis paved the way for the due diligence process initiated in March, ensuring a thorough assessment of the target company's value and mitigating risks associated with the acquisition. \n\nThe impact of the Big Pictures acquisition was reflected in MediaCorp's financial indicators. The operating income for the year reached $800 million, indicating the success of the company's main business and other income streams. This increase in operating income can be attributed to the expansion of MediaCorp's business scope through the acquisition. Additionally, the net profit for the year stood at $150 million, showcasing the company's ability to effectively control costs and generate substantial returns. The acquisition of Big Pictures also had a positive impact on MediaCorp's total assets, which reached $2 billion by the end of the year. This increase in assets can be attributed to the inclusion of Big Pictures' assets in MediaCorp's portfolio. \n\nIn May, MediaCorp made a major investment of $50 million in Project Vision, a cutting-edge virtual reality technology startup. This investment further diversified MediaCorp's business areas and contributed to enhanced profitability. Additionally, in June, MediaCorp completed the acquisition of 30% equity of Digital Media Solutions, further expanding its market share and enhancing the company's control. \n\nTo optimize its capital structure, MediaCorp underwent debt restructuring in July, reducing its liabilities by $20 million. This move improved MediaCorp's financial condition and reduced financial costs. Furthermore, in September, MediaCorp decided to distribute $10 million of dividends to shareholders, enhancing shareholder returns and demonstrating the company's commitment to rewarding its investors. \n\nIn October, MediaCorp conducted a large-scale financing activity, raising $150 million of funds. This strengthened the company's financial strength and provided support for its expansion and development plans. Finally, in December, MediaCorp underwent an asset restructuring, consolidating and optimizing its media production and distribution businesses. This restructuring improved operational efficiency and increased the company's overall value. \n\nThroughout the year, MediaCorp's financial indicators demonstrated the company's solid performance. The debt ratio stood at 25%, indicating a healthy level of debt compared to total assets. The debt to assets ratio was 0.25, highlighting the company's prudent financial leverage. The return on equity was 10%, reflecting the operational efficiency of shareholder equity. \n\nLooking ahead, MediaCorp has outlined its future outlook and strategic plans. The company intends to implement a cost control strategy to optimize operational efficiency and maintain profitability. Additionally, MediaCorp plans to invest heavily in content production and distribution platforms to strengthen its position in the media industry. The company also aims to allocate resources for research and development initiatives. To mitigate potential financial risks, such as changes in market demand and increasing competition, MediaCorp plans to implement risk diversification strategies, invest in talent acquisition, and enhance marketing efforts. \n\nIn conclusion, MediaCorp's corporate financial report for 2018 highlights the company's successful asset acquisition, major investments, equity acquisition, debt restructuring, dividend distribution, large-scale financing, and asset restructuring. These events, along with the company's solid financial performance, position MediaCorp for continued growth and success in the media industry.",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "Which company did MediaCorp acquire in April 2018?",
+            "answer": "Big Pictures",
+            "ref": [
+                "One of the major highlights was the acquisition of Big Pictures, a renowned film production company, in April."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "What was the total value of the asset acquisition of Big Pictures?",
+            "answer": "$100 million",
+            "ref": [
+                "This asset acquisition, valued at $100 million, allowed MediaCorp to broaden its business scope and tap into the lucrative film industry."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "How much in dividends did MediaCorp distribute to shareholders in September 2018?",
+            "answer": "$10 million",
+            "ref": [
+                "Furthermore, in September, MediaCorp decided to distribute $10 million of dividends to shareholders, enhancing shareholder returns and demonstrating the company's commitment to rewarding its investors."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "What was MediaCorp's debt to assets ratio at the end of 2018?",
+            "answer": "0.25",
+            "ref": [
+                "The debt to assets ratio was 0.25, highlighting the company's prudent financial leverage."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "What was MediaCorp's return on equity in 2018?",
+            "answer": "10%",
+            "ref": [
+                "The return on equity was 10%, reflecting the operational efficiency of shareholder equity."
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How did MediaCorp's major asset acquisition in April 2018, supported by the appointment of a new CEO, strategic market analysis, and a thorough due diligence process, contribute to the improvement in MediaCorp's market competitiveness?",
+            "answer": "MediaCorp's major asset acquisition in April 2018 was facilitated by the appointment of a new CEO in January 2018, who provided strategic leadership and expertise. In February 2018, MediaCorp conducted a strategic market analysis, identifying Big Pictures as a valuable acquisition target. The due diligence process initiated in March 2018 ensured a thorough assessment of Big Pictures' financial, legal, and operational aspects, mitigating risks. This acquisition expanded MediaCorp's business scope and enhanced its market competitiveness by integrating Big Pictures' renowned film production capabilities.",
+            "ref": [
+                "One of the major highlights was the acquisition of Big Pictures, a renowned film production company, in April.",
+                "This asset acquisition, valued at $100 million, allowed MediaCorp to broaden its business scope and tap into the lucrative film industry.",
+                "The decision to acquire Big Pictures was preceded by a series of strategic events, including the appointment of a new CEO in January.",
+                "The new CEO brought in fresh leadership and expertise, setting the stage for major acquisitions and growth.",
+                "In February, MediaCorp conducted a strategic market analysis, which identified Big Pictures as a strategic acquisition target with significant growth prospects.",
+                "This analysis paved the way for the due diligence process initiated in March, ensuring a thorough assessment of the target company's value and mitigating risks associated with the acquisition.",
+                "This increase in operating income can be attributed to the expansion of MediaCorp's business scope through the acquisition."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How did MediaCorp's debt restructuring in July 2018, which involved the reduction of liabilities and optimization of the capital structure, lead to an improved financial condition?",
+            "answer": "MediaCorp's debt restructuring in July 2018 reduced its liabilities by $20 million, which lowered the company's financial burden. By optimizing the capital structure, MediaCorp improved its financial stability and reduced financial costs. These measures collectively enhanced MediaCorp's financial condition, making it more resilient and better positioned for future growth.",
+            "ref": [
+                "To optimize its capital structure, MediaCorp underwent debt restructuring in July, reducing its liabilities by $20 million.",
+                "This move improved MediaCorp's financial condition and reduced financial costs."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How did MediaCorp's large-scale financing activity in October 2018, which raised $150 million of funds, strengthen its financial strength and support its expansion and development?",
+            "answer": "MediaCorp's large-scale financing activity in October 2018 raised $150 million, significantly strengthening the company's financial position. This influx of funds provided the necessary capital to support MediaCorp's expansion and development initiatives, enabling the company to invest in new projects, enhance its operational capabilities, and pursue strategic growth opportunities.",
+            "ref": [
+                "In October, MediaCorp conducted a large-scale financing activity, raising $150 million of funds.",
+                "This strengthened the company's financial strength and provided support for its expansion and development plans."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How did MediaCorp's investment in Project Vision, a cutting-edge virtual reality technology startup, in May 2018, broaden its business areas and enhance its profitability?",
+            "answer": "MediaCorp's $50 million investment in Project Vision in May 2018 allowed the company to enter the emerging field of virtual reality technology. By broadening its business areas to include cutting-edge virtual reality solutions, MediaCorp diversified its revenue streams and tapped into a growing market. This strategic investment enhanced MediaCorp's profitability by opening up new opportunities for innovation and growth in the media industry.",
+            "ref": [
+                "In May, MediaCorp made a major investment of $50 million in Project Vision, a cutting-edge virtual reality technology startup.",
+                "This investment further diversified MediaCorp's business areas and contributed to enhanced profitability."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "How did MediaCorp's asset restructuring in December 2018, which involved consolidating and optimizing its media production and distribution businesses, lead to increased company value?",
+            "answer": "MediaCorp's asset restructuring in December 2018 focused on consolidating and optimizing its media production and distribution businesses. This restructuring improved operational efficiency by streamlining processes and reducing redundancies. As a result, MediaCorp was able to enhance its productivity and reduce costs, leading to increased company value and a stronger competitive position in the media industry.",
+            "ref": [
+                "Finally, in December, MediaCorp underwent an asset restructuring, consolidating and optimizing its media production and distribution businesses.",
+                "This restructuring improved operational efficiency and increased the company's overall value."
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "Based on MediaCorp's 2018 financial report, summarize the financial events that occurred in 2018.",
+            "answer": "According to MediaCorp's 2018 financial report, several significant financial events occurred in 2018. Firstly, MediaCorp completed the asset acquisition of Big Pictures in April for $100 million, expanding its business scope and enhancing market competitiveness. In May, the company invested $50 million in Project Vision, a virtual reality technology startup, further broadening its business areas. In June, MediaCorp acquired 30% equity of Digital Media Solutions, expanding its market share. In July, the company underwent debt restructuring, reducing liabilities by $20 million and improving its financial condition. In September, MediaCorp distributed $10 million in dividends to shareholders, enhancing shareholder returns. In October, the company raised $150 million through large-scale financing, strengthening its financial strength. Finally, in December, MediaCorp underwent asset restructuring to consolidate and optimize its media production and distribution businesses, improving operational efficiency and increasing company value.",
+            "ref": [
+                "One of the major highlights was the acquisition of Big Pictures, a renowned film production company, in April.",
+                "This asset acquisition, valued at $100 million, allowed MediaCorp to broaden its business scope and tap into the lucrative film industry.",
+                "In May, MediaCorp made a major investment of $50 million in Project Vision, a cutting-edge virtual reality technology startup.",
+                "Additionally, in June, MediaCorp completed the acquisition of 30% equity of Digital Media Solutions, further expanding its market share and enhancing the company's control.",
+                "To optimize its capital structure, MediaCorp underwent debt restructuring in July, reducing its liabilities by $20 million.",
+                "Furthermore, in September, MediaCorp decided to distribute $10 million of dividends to shareholders, enhancing shareholder returns and demonstrating the company's commitment to rewarding its investors.",
+                "In October, MediaCorp conducted a large-scale financing activity, raising $150 million of funds.",
+                "Finally, in December, MediaCorp underwent an asset restructuring, consolidating and optimizing its media production and distribution businesses."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "Based on MediaCorp's 2018 financial report, summarize the key financial indicators and their influencing factors.",
+            "answer": "MediaCorp's 2018 financial report highlights several key financial indicators. The operating income was $800 million, influenced by the success of the company's main business and other income streams. The net profit was $150 million, showcasing the company's ability to effectively control costs and generate substantial returns. The total assets amounted to $2 billion, influenced by the acquisition of Big Pictures. Total liabilities were reduced by $20 million due to debt restructuring. The debt ratio was 25%, and the debt to assets ratio was 0.25, both reflecting the company's prudent financial leverage. Lastly, the return on equity was 10%, reflecting the operational efficiency of shareholder equity.",
+            "ref": [
+                "The operating income for the year reached $800 million, indicating the success of the company's main business and other income streams.",
+                "This increase in operating income can be attributed to the expansion of MediaCorp's business scope through the acquisition.",
+                "Additionally, the net profit for the year stood at $150 million, showcasing the company's ability to effectively control costs and generate substantial returns.",
+                "The acquisition of Big Pictures also had a positive impact on MediaCorp's total assets, which reached $2 billion by the end of the year.",
+                "This increase in assets can be attributed to the inclusion of Big Pictures' assets in MediaCorp's portfolio.",
+                "To optimize its capital structure, MediaCorp underwent debt restructuring in July, reducing its liabilities by $20 million.",
+                "The debt ratio stood at 25%, indicating a healthy level of debt compared to total assets.",
+                "The debt to assets ratio was 0.25, highlighting the company's prudent financial leverage.",
+                "The return on equity was 10%, reflecting the operational efficiency of shareholder equity."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "Based on MediaCorp's 2018 financial report, summarize the company's strategic planning for the future.",
+            "answer": "According to MediaCorp's 2018 financial report, the company has outlined several strategic plans for the future. Financially, MediaCorp plans to implement a cost control strategy to optimize operational efficiency and maintain profitability. The company also aims to explore new capital operations to support future growth. In terms of investment, MediaCorp intends to invest heavily in content production and distribution platforms to strengthen its position in the media industry. Additionally, the company plans to allocate resources for research and development initiatives. For risk management, MediaCorp has identified potential financial risks such as changes in market demand and increasing competition. To mitigate these risks, the company plans to implement risk diversification strategies, invest in talent acquisition, and enhance marketing efforts.",
+            "ref": [
+                "Looking ahead, MediaCorp has outlined its future outlook and strategic plans.",
+                "The company intends to implement a cost control strategy to optimize operational efficiency and maintain profitability.",
+                "Additionally, MediaCorp plans to invest heavily in content production and distribution platforms to strengthen its position in the media industry.",
+                "The company also aims to allocate resources for research and development initiatives.",
+                "To mitigate potential financial risks, such as changes in market demand and increasing competition, MediaCorp plans to implement risk diversification strategies, invest in talent acquisition, and enhance marketing efforts."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "Based on MediaCorp's 2018 financial report, summarize the impact of the major asset acquisition of Big Pictures.",
+            "answer": "The 2018 financial report of MediaCorp details the major asset acquisition of Big Pictures, a renowned film production company, completed in April for $100 million. This acquisition significantly expanded MediaCorp's business scope and enhanced its market competitiveness. The process involved several sub-events: the appointment of a new CEO in January, who provided leadership and expertise for strategic expansion; a strategic market analysis in February, which identified Big Pictures as a valuable acquisition target; and the initiation of a due diligence process in March to thoroughly assess the financial, legal, and operational aspects of Big Pictures. These steps ensured a well-informed and strategic acquisition, ultimately strengthening MediaCorp's position in the media industry.",
+            "ref": [
+                "One of the major highlights was the acquisition of Big Pictures, a renowned film production company, in April.",
+                "This asset acquisition, valued at $100 million, allowed MediaCorp to broaden its business scope and tap into the lucrative film industry.",
+                "The decision to acquire Big Pictures was preceded by a series of strategic events, including the appointment of a new CEO in January.",
+                "The new CEO brought in fresh leadership and expertise, setting the stage for major acquisitions and growth.",
+                "In February, MediaCorp conducted a strategic market analysis, which identified Big Pictures as a strategic acquisition target with significant growth prospects.",
+                "This analysis paved the way for the due diligence process initiated in March, ensuring a thorough assessment of the target company's value and mitigating risks associated with the acquisition."
+            ]
+        }
+    ]
+}

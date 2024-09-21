@@ -1,0 +1,119 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "C. Cruz",
+            "Gender": "female",
+            "Age": "65",
+            "Ethnicity": "Hispanic",
+            "MaritalStatus": "Widowed",
+            "Occupation": "Retired",
+            "Address": "7, Ashland street, Indianola",
+            "AdmissionTime": "17th, February",
+            "RecordTime": "17th, February, 14:30",
+            "Historian": "C. Cruz",
+            "Hospital Name": "Indianola General Hospital"
+        },
+        "ChiefComplaint": "Fever, chills, back pain for 2 days",
+        "PresentIllness": {
+            "Onset": "Symptoms started abruptly 2 days ago with high fever and chills while at home.",
+            "MainSymptoms": "Unilateral back pain on the right side, severe and constant, not relieved by rest, accompanied by nausea and vomiting.",
+            "AccompanyingSymptoms": "Fever (38.8°C), urgency, frequent urination with burning sensation.",
+            "DiagnosisAndTreatmentHistory": "Took acetaminophen with minimal relief. No previous treatments or hospital visits for this episode.",
+            "GeneralConditionChanges": "Decreased appetite, normal bowel movements, increased urinary frequency, disturbed sleep due to pain."
+        },
+        "PastHistory": {
+            "GeneralHealthCondition": "Generally healthy, with well-managed hypertension.",
+            "DiseaseHistory": "Hypertension for 10 years",
+            "InfectiousDiseaseHistory": "Chickenpox during childhood",
+            "ImmunizationHistory": "Up to date with routine vaccinations",
+            "SurgeryAndTraumaHistory": "Appendectomy at age 30",
+            "BloodTransfusionHistory": "No history of blood transfusion",
+            "AllergyHistory": "No known allergies"
+        },
+        "PersonalHistory": {
+            "Birthplace": "Indianola, Iowa",
+            "Residence": "Indianola, Iowa",
+            "LivingHabits": "Non-smoker, occasional alcohol consumer",
+            "OccupationAndWorkingConditions": "Former teacher, retired for 5 years",
+            "ExposureHistory": "No known exposure to industrial toxins, dust, or radioactive substances.",
+            "TravelHistory": "No recent travel history."
+        },
+        "MaritalAndFamilyHistory": {
+            "MaritalHistory": {
+                "MaritalStatus": "Widowed",
+                "MarriageAge": "25",
+                "Spouse'sHealthCondition": "Deceased",
+                "Children'sCondition": "Two children, both in good health."
+            },
+            "MenstrualHistory": {
+                "MenarcheAge": "13",
+                "MenstruationDuration": "5 days",
+                "MenstruationInterval": "28 days",
+                "LastMenstruation": "Menopause at age 50",
+                "MenstrualVolume": "Normal",
+                "Dysmenorrhea": "Mild"
+            },
+            "FamilyHistory": "Father had hypertension and heart disease, mother had diabetes. No family history of similar diseases or genetic tendencies."
+        },
+        "PhysicalExamination": {
+            "GeneralCondition": {
+                "Temperature": "38.8°C",
+                "Pulse": "90 bpm",
+                "Respiration": "18 breaths/min",
+                "BloodPressure": "140/85 mmHg"
+            },
+            "SystematicExamination": {
+                "Skin": "No rashes or lesions",
+                "MucousMembranes": "Moist, no pallor, cyanosis, or jaundice",
+                "LymphNodes": "No enlargement detected",
+                "HeadAndOrgans": "No abnormalities",
+                "Neck": "Supple, no jugular vein distention",
+                "Chest": "Clear breath sounds, normal heart sounds",
+                "Abdomen": "Soft, non-tender, no organomegaly",
+                "RectumAndAnus": "Not examined",
+                "ExternalGenitalia": "No abnormalities",
+                "Spine": "Tenderness over the right lumbar area",
+                "Limbs": "No edema, normal range of motion",
+                "NervousSystem": "No focal neurological deficits"
+            }
+        },
+        "SpecialistExamination": "Costovertebral angle tenderness on the right side.",
+        "AuxiliaryExamination": "Urinalysis shows pyuria and bacteriuria, urine culture pending. CBC shows elevated WBC count.",
+        "PreliminaryDiagnosis": "Acute Pyelonephritis",
+        "DiagnosticBasis": "History of fever, chills, unilateral back pain, frequent urination, and burning sensation; physical examination consistent with right-sided costovertebral angle tenderness; supportive lab findings (WBC, urinalysis).",
+        "DifferentialDiagnosis": "Ruled out acute cystitis due to the presence of systemic symptoms (fever and chills) and costovertebral angle tenderness, cholecystitis, and pancreatitis based on lack of upper abdominal pain and relevant laboratory findings; pelvic inflammatory disease ruled out due to lack of pelvic pain and discharge; ruled out febrile diseases based on urine findings and localized back pain.",
+        "AdmissionRecords": {
+            "Physician'sSignature": "Dr. Emily Watson"
+        },
+        "Post-AdmissionCourseRecords": {
+            "FirstCourseRecord": "Patient admitted with acute pyelonephritis. Initiated intravenous antibiotics (Ceftriaxone). Symptomatic treatment with antipyretics and analgesics. Monitor vitals, fluid intake, and output closely.",
+            "DailyCourseRecords": "Day 1: Patient's fever reduced, still experiencing back pain, urine culture positive for E. coli, continue antibiotics. Day 2: Marked improvement, pain significantly reduced, continue current treatment.",
+            "SeniorPhysicianRoundsRecords": "Reviewed case, agrees with treatment plan, continue current management.",
+            "DifficultCaseDiscussionRecords": "No difficult case discussions conducted.",
+            "HandoverRecords": "Handover to night shift, patient's vitals stable, continue monitoring.",
+            "TransferRecords": "No transfers.",
+            "StageSummary": "Patient showing significant improvement after 2 days of treatment, continue antibiotics, reevaluate after 3 more days.",
+            "EmergencyRecords": "No emergency events.",
+            "InvasiveProcedureRecords": "Not applicable.",
+            "ConsultationRecords": "Not applicable.",
+            "DischargeRecords": "To be completed upon discharge.",
+            "CriticallyIllPatientCareRecords": "Not applicable."
+        },
+        "MedicalOrders": {
+            "Long-termOrders": "Ceftriaxone 1g IV q24h, Antipyretics PRN, Maintain strict I/O charting, Monitor vitals q4h.",
+            "TemporaryOrders": "IV fluids (Normal Saline) at 75ml/hr, Acetaminophen 500mg q6h PRN for fever."
+        },
+        "AuxiliaryExaminationReports": "CBC: WBC 15,000/uL, Urinalysis: Positive for WBCs, Positive for bacteria. Urine culture: E. coli.",
+        "TemperatureChart": "Day 1: Temp 38.8°C, Pulse 90 bpm, Resp 18/min, BP 140/85 mmHg. Day 2: Temp 37.5°C, Pulse 84 bpm, Resp 18/min, BP 135/80 mmHg.",
+        "BloodTransfusionConsent": "Not applicable.",
+        "SpecialExaminationConsent": "Not applicable.",
+        "CriticalConditionNotice": "Not applicable."
+    },
+    "DiseaseType": {
+        "Diseases of the Genitourinary System": {
+            "Name": "Acute Pyelonephritis",
+            "Symptoms": "Fever and chills, nausea and vomiting, unilateral or bilateral back pain, frequent urination, urgency, and pain",
+            "Differential Diagnosis": "Acute cystitis, cholecystitis, pancreatitis, pelvic inflammatory disease; in cases with high fever but no obvious urinary symptoms, differentiation should be made from various febrile diseases"
+        }
+    }
+}

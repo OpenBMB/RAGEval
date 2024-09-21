@@ -1,0 +1,126 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Hartford, Ashland, Court, what was the judgment date for the cases involving Z. Ruiz and M. Cooper?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "This document reflects the proceedings and determinations of this court as of 15th August, 2022, and is issued under the authority vested in this judicature by the laws governing the jurisdiction of Oakwood, Arlington Court.",
+                        "**Date:** 15th August, 2022"
+                    ]
+                },
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Date of Judgment:** 15th August 2022",
+                        "**Given under our hand and the Seal of the Hartford, Ashland Court, this 15th day of August 2022.**"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington, Court, the judgment date for the case involving Z. Ruiz was 15th, August, 2022; according to the judgment of Hartford, Ashland, Court, the judgment date for the case involving M. Cooper was also 15th, August, 2022."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Hartford, Ashland, Court, what are the occupations of the defendants Z. Ruiz and M. Cooper?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Occupation:** Business Owner"
+                    ]
+                },
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Occupation:** Construction Site Manager"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington, Court, the defendant Z. Ruiz is a Business Owner; according to the judgment of Hartford, Ashland, Court, the defendant M. Cooper is a Construction Site Manager."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Hartford, Ashland, Court, what crimes did the defendants Z. Ruiz and M. Cooper commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "Mr. Z. Ruiz stands charged under Article No. 203 with the Crime of Evading Tax Arrears Recovery."
+                    ]
+                },
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "Consequently, the defendant, M. Cooper, was indicted and charged with the Crime of Negligent Homicide, as stipulated under Article No. 133, acknowledging the defendant's supervisory role and negligence as directly contributory to the fatal incident."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington, Court, the defendant Z. Ruiz committed the Crime of Evading Tax Arrears Recovery; according to the judgment of Hartford, Ashland, Court, the defendant M. Cooper committed the Crime of Negligent Homicide."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Hartford, Ashland, Court, who were the defense lawyers for the defendants Z. Ruiz and M. Cooper?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Name:** R. Perez"
+                    ]
+                },
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Name:** B. Ramirez"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Oakwood, Arlington, Court, the defense lawyer for Z. Ruiz was R. Perez; according to the judgment of Hartford, Ashland, Court, the defense lawyer for M. Cooper was B. Ramirez."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Hartford, Ashland, Court, whose judgment date is earlier, Z. Ruiz or M. Cooper?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "This document reflects the proceedings and determinations of this court as of 15th August, 2022, and is issued under the authority vested in this judicature by the laws governing the jurisdiction of Oakwood, Arlington Court.",
+                        "**Date:** 15th August, 2022"
+                    ]
+                },
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Date of Judgment:** 15th August 2022",
+                        "**Given under our hand and the Seal of the Hartford, Ashland Court, this 15th day of August 2022.**"
+                    ]
+                }
+            ],
+            "answer": "Both Z. Ruiz and M. Cooper had their judgment dates on 15th August, 2022. Therefore, their judgment dates are the same."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Oakwood, Arlington, Court and Hartford, Ashland, Court, whose sentencing time is longer, Z. Ruiz or M. Cooper?",
+            "ref": [
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Sentence:**",
+                        "- 5 years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "For the charge of **Negligent Homicide** as per Article No. 133, the defendant is sentenced to:",
+                        "**Four years of fixed-term imprisonment**"
+                    ]
+                }
+            ],
+            "answer": "Z. Ruiz was sentenced to five years of fixed-term imprisonment, while M. Cooper was sentenced to four years of fixed-term imprisonment. Therefore, Z. Ruiz's sentencing time is longer."
+        }
+    ]
+}

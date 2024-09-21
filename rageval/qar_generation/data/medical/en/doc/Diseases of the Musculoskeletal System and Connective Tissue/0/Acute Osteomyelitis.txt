@@ -1,0 +1,119 @@
+Hospitalization Record
+
+Basic Information:
+Name: K. Ramos
+Gender: Female
+Age: 82
+Ethnicity: Caucasian
+Marital Status: Widowed
+Occupation: Retired
+Address: 21, Greenfield Street, Windsor
+Admission Time: 26th October
+Record Time: 26th October, 10:00 AM
+Historian: S. Martinez, MD
+Hospital Name: Windsor General Hospital
+
+Chief Complaint:
+Severe bone pain and difficulty in walking for 3 days.
+
+Present Illness:
+The symptoms started suddenly 3 days ago while at home, without any clear prodromal symptoms or identifiable triggers. K. Ramos reports severe, throbbing pain localized in the left femur. The pain has been continuous, rated as an 8 out of 10 in severity, and is aggravated by walking or any weight-bearing activities. Local redness and swelling are also noted. Fever of 38.5°C (101.3°F) and general fatigue were observed, coinciding with the onset of bone pain. Patients visited her primary care physician two days ago, who ordered an X-ray and referred her to this hospital. Initial X-ray suggested bone inflammation but was inconclusive. No treatments were administered prior to admission. The patient reports difficulty in sleeping due to pain, reduced appetite, and feeling generally weak. No significant changes in urination or defecation were noted. Weight is stable.
+
+Past History:
+General Health Condition: Generally healthy with no major health issues previously.
+Disease History: History of hypertension, managed with medication. No known history of diabetes or cancer.
+Infectious Disease History: No significant infectious disease history.
+Immunization History: Up to date on all recommended immunizations.
+Surgery and Trauma History: Right knee replacement surgery 5 years ago. No history of significant trauma.
+Blood Transfusion History: No history of blood transfusion.
+Allergy History: No known drug allergies. Allergic to shellfish.
+
+Personal History:
+Birthplace: Windsor, Ontario
+Residence: Windsor, Ontario
+Living Habits: Lives alone, independent with ADLs. Non-smoker, drinks socially.
+Occupation and Working Conditions: Worked as a school teacher before retirement.
+Exposure History: No known exposure to industrial toxins, dust, or radioactive substances.
+Travel History: No recent travel history.
+
+Marital and Family History:
+Marital History:
+Marital Status: Widowed
+Marriage Age: 23
+Spouse's Health Condition: Deceased due to myocardial infarction.
+Children's Condition: One daughter, healthy, living in Toronto.
+Menstrual History:
+Menarche Age: 13
+Menstruation Duration: 5 days
+Menstruation Interval: 28 days
+Last Menstruation: At age 52
+Menstrual Volume: Moderate
+Dysmenorrhea: Mild
+Family History: Mother died of stroke at age 78. Father died of lung cancer at age 72. No siblings. No known family history of osteomyelitis.
+
+Physical Examination:
+General Condition:
+Temperature: 38.5°C
+Pulse: 88 bpm
+Respiration: 20 breaths/min
+Blood Pressure: 130/80 mmHg
+
+Systematic Examination:
+Skin: Warm, red, and swollen over the left femur.
+Mucous Membranes: Normal and moist.
+Lymph Nodes: No significant lymphadenopathy.
+Head and Organs: Normocephalic, atraumatic. No abnormalities noted.
+Neck: No lymphadenopathy. Thyroid not enlarged.
+Chest: Thorax normal, lungs clear to auscultation, heart sounds normal, no murmurs.
+Abdomen: Soft, non-tender, no organomegaly.
+Rectum and Anus: Not examined.
+External Genitalia: Not examined.
+Spine: No spinal tenderness.
+Limbs: Swelling and tenderness over the left femur. Limited range of motion due to pain.
+Nervous System: Alert and oriented, cranial nerves II-XII intact, muscle strength 5/5 except in the left leg where strength is 3/5 due to pain. Reflexes normal.
+
+Specialist Examination:
+Orthopedic consult advised for suspected osteomyelitis.
+
+Auxiliary Examination:
+X-ray on 25th October showed periosteal reaction. MRI recommended for further evaluation.
+
+Preliminary Diagnosis:
+Acute Osteomyelitis
+
+Diagnostic Basis:
+Diagnosis based on patient's history of sudden severe bone pain, physical examination findings of localized redness and swelling over the femur, elevated temperature, and X-ray indicating periosteal reaction.
+
+Differential Diagnosis:
+Osteosarcoma ruled out due to limited periosteal reaction scope. Ewing's Sarcoma less likely due to irregular periosteal reaction. Osteitis Fibrosa Cystica ruled out due to absence of endocrine abnormalities. Osteoid Osteoma considered, but MRI pending confirmation.
+
+Admission Records:
+Physician's Signature: S. Martinez, MD
+
+Post-Admission Course Records:
+First Course Record: Admitted for further evaluation and management of suspected acute osteomyelitis. Plan includes blood cultures, MRI, intravenous antibiotics, and pain management. Differential diagnosis includes osteosarcoma, Ewing's Sarcoma, osteitis fibrosa cystica, and osteoid osteoma.
+Daily Course Records: Patient stable. Pain managed with IV analgesics. Fever persists, blood cultures pending.
+Senior Physician Rounds Records: Dr. L. Green examined patient. Confirmed initial management plan. Advised continuation of IV antibiotics until culture results.
+Difficult Case Discussion Records: 
+Handover Records: Discussed case with on-call physician. Patient stable, continue current treatment plan.
+Transfer Records: 
+Stage Summary: 
+Emergency Records: 
+Invasive Procedure Records: 
+Consultation Records: Orthopedic consult: MRI ordered, to rule out differential diagnoses and confirm osteomyelitis.
+Discharge Records: 
+Critically Ill Patient Care Records: 
+
+Medical Orders:
+Long-term Orders: IV antibiotics (Vancomycin 1g every 12 hours), Pain management (Morphine IV PRN), Regular vital signs monitoring, Blood cultures, MRI scan, Complete bed rest
+Temporary Orders: CBC, ESR, CRP levels, IV fluids as required
+
+Auxiliary Examination Reports:
+X-ray report: Periosteal reaction noted in the left femur, suggestive of infection.
+
+Temperature Chart:
+26th October: 38.5°C, Pulse 88bpm, Respiration 20 breaths/min, BP 130/80 mmHg
+
+Blood Transfusion Consent: 
+Special Examination Consent: MRI consent obtained from patient.
+Critical Condition Notice:

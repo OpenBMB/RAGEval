@@ -1,0 +1,331 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "When were Capital Finance Group and EcoGuard Solutions established?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "Capital Finance Group, established on March 15, 1995, is a publicly traded finance company based in New York, United States that primarily focuses on providing financial services such as investment banking, asset management, and wealth management.In 2018, Capital Finance Group experienced several significant events that had a profound impact on the company's performance and financial indicators."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "EcoGuard Solutions, established on April 15, 2010, is a listed NASDAQ company based in San Francisco, California, United States, specializing in providing innovative environmental protection services and solutions to various industries.In 2019, EcoGuard Solutions made significant progress in expanding its business scope and strengthening its position in the environmental protection industry."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group was established on March 15, 1995, and EcoGuard Solutions was established on April 15, 2010."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the main businesses of Capital Finance Group and EcoGuard Solutions?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "Capital Finance Group, established on March 15, 1995, is a publicly traded finance company based in New York, United States that primarily focuses on providing financial services such as investment banking, asset management, and wealth management.In 2018, Capital Finance Group experienced several significant events that had a profound impact on the company's performance and financial indicators."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "EcoGuard Solutions, established on April 15, 2010, is a listed NASDAQ company based in San Francisco, California, United States, specializing in providing innovative environmental protection services and solutions to various industries.In 2019, EcoGuard Solutions made significant progress in expanding its business scope and strengthening its position in the environmental protection industry."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group's main business is providing financial services including investment banking, asset management, and wealth management, while EcoGuard Solutions specializes in providing innovative environmental protection services and solutions."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "On which stock exchanges are Capital Finance Group and EcoGuard Solutions listed?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "Capital Finance Group, established on March 15, 1995, is a publicly traded finance company based in New York, United States that primarily focuses on providing financial services such as investment banking, asset management, and wealth management.In 2018, Capital Finance Group experienced several significant events that had a profound impact on the company's performance and financial indicators."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "EcoGuard Solutions, established on April 15, 2010, is a listed NASDAQ company based in San Francisco, California, United States, specializing in providing innovative environmental protection services and solutions to various industries.In 2019, EcoGuard Solutions made significant progress in expanding its business scope and strengthening its position in the environmental protection industry."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group is publicly traded on the New York Stock Exchange, and EcoGuard Solutions is listed on NASDAQ."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "Which companies did Capital Finance Group and EcoGuard Solutions acquire in their major asset acquisitions?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "In September 2018, the company completed the asset acquisition of XYZ Wealth Management, with a total value of $200 million."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "In June 2019, EcoGuard Solutions made a major asset acquisition by acquiring EnergyEco Inc., an established provider of renewable energy solutions, with a total value of $30 million."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group acquired XYZ Wealth Management, and EcoGuard Solutions acquired EnergyEco Inc."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the outcomes of the debt restructuring activities for Capital Finance Group and EcoGuard Solutions?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "To optimize its capital structure, in November 2018, Capital Finance Group underwent debt restructuring, reducing its liabilities by $100 million.",
+                        "This move improved the company's financial condition and reduced its financial costs."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "To improve its financial condition, EcoGuard Solutions underwent successful debt restructuring in September 2019, reducing its liabilities by $15 million.",
+                        "This debt restructuring improved the company's financial stability and freed up resources for future investments and growth initiatives."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group reduced its liabilities by $100 million, improving its financial condition and reducing financial costs. EcoGuard Solutions reduced its liabilities by $15 million, improving its financial condition and freeing up resources for future investments and growth initiatives."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much dividend did Capital Finance Group and EcoGuard Solutions distribute to their shareholders?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "In February 2018, the company decided to distribute $10 million of dividends to its shareholders, which significantly improved shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "In recognition of its commitment to developing eco-friendly water purification solutions, EcoGuard Solutions received a government grant of $5 million in June 2019."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group distributed $10 million of dividends to shareholders, while EcoGuard Solutions distributed $5 million of dividends to shareholders."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the net profits of Capital Finance Group in 2018 and EcoGuard Solutions in 2019?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "The net profit amounted to $300 million, influenced by the operating income, cost control measures, and non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "The net profit for the year amounted to $30 million, showcasing the company's effective cost control measures and ability to generate sustainable profits."
+                    ]
+                }
+            ],
+            "answer": "The net profit of Capital Finance Group in 2018 was $300 million, and the net profit of EcoGuard Solutions in 2019 was $30 million."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the total assets of Capital Finance Group in 2018 and EcoGuard Solutions in 2019?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "Capital Finance Group's total assets stood at $5 billion, driven by asset acquisitions, disposals, and revaluations."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "With total assets of $500 million and total liabilities of $200 million, EcoGuard Solutions maintained a healthy financial position, with a debt ratio of 0.4 and a debt to assets ratio of 40%."
+                    ]
+                }
+            ],
+            "answer": "The total assets of Capital Finance Group in 2018 were $5 billion, and the total assets of EcoGuard Solutions in 2019 were $500 million."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What was the return on equity for Capital Finance Group in 2018 and EcoGuard Solutions in 2019?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "Finally, the return on equity was 10%, reflecting the operational efficiency of shareholder equity."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "The company's return on equity stood at 10%, indicating its operational efficiency in utilizing shareholder equity."
+                    ]
+                }
+            ],
+            "answer": "The return on equity for Capital Finance Group in 2018 was 10%, and the return on equity for EcoGuard Solutions in 2019 was also 10%."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of Capital Finance Group in 2018 and EcoGuard Solutions in 2019. Which company had higher operating income?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "The company's operating income reached $1.5 billion, influenced by market demand and changes in product prices."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "The company reported an operating income of $250 million, reflecting the strong market demand for its environmental protection services."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group had higher operating income in 2018 with $1.5 billion compared to EcoGuard Solutions' $250 million in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of Capital Finance Group in 2018 and EcoGuard Solutions in 2019. Which company had higher net profit?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "The net profit amounted to $300 million, influenced by the operating income, cost control measures, and non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "The net profit for the year amounted to $30 million, showcasing the company's effective cost control measures and ability to generate sustainable profits."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group had higher net profit in 2018 with $300 million compared to EcoGuard Solutions' $30 million in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of Capital Finance Group in 2018 and EcoGuard Solutions in 2019. Which company had more total assets?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "Capital Finance Group's total assets stood at $5 billion, driven by asset acquisitions, disposals, and revaluations."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "With total assets of $500 million and total liabilities of $200 million, EcoGuard Solutions maintained a healthy financial position, with a debt ratio of 0.4 and a debt to assets ratio of 40%."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group had more total assets in 2018 with $5 billion compared to EcoGuard Solutions' $500 million in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total liabilities of Capital Finance Group in 2018 and EcoGuard Solutions in 2019. Which company had higher total liabilities?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "The company's total liabilities amounted to $2 billion, influenced by new debt issuances, debt repayments, and debt restructuring."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "With total assets of $500 million and total liabilities of $200 million, EcoGuard Solutions maintained a healthy financial position, with a debt ratio of 0.4 and a debt to assets ratio of 40%."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group had higher total liabilities in 2018 with $2 billion compared to EcoGuard Solutions' $200 million in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the shareholder equity of Capital Finance Group in 2018 and EcoGuard Solutions in 2019. Which company had higher shareholder equity?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "Shareholder equity reached $3 billion, influenced by the net profit, dividend distribution, and capital reserves."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "With total assets of $500 million and total liabilities of $200 million, EcoGuard Solutions maintained a healthy financial position, with a debt ratio of 0.4 and a debt to assets ratio of 40%."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group had higher shareholder equity in 2018 with $3 billion compared to EcoGuard Solutions' $300 million in 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the debt restructuring events of Capital Finance Group in 2018 and EcoGuard Solutions in 2019. Which company underwent debt restructuring earlier?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "To optimize its capital structure, in November 2018, Capital Finance Group underwent debt restructuring, reducing its liabilities by $100 million."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "To improve its financial condition, EcoGuard Solutions underwent successful debt restructuring in September 2019, reducing its liabilities by $15 million."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group underwent debt restructuring earlier in November 2018 compared to EcoGuard Solutions in September 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the major asset acquisitions by Capital Finance Group in 2018 and EcoGuard Solutions in 2019. Which company had a larger asset acquisition value?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "In September 2018, the company completed the asset acquisition of XYZ Wealth Management, with a total value of $200 million."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "In June 2019, EcoGuard Solutions made a major asset acquisition by acquiring EnergyEco Inc., an established provider of renewable energy solutions, with a total value of $30 million."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group had a larger asset acquisition value in 2018 with $200 million compared to EcoGuard Solutions' $30 million in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distributions of Capital Finance Group in 2018 and EcoGuard Solutions in 2019. Which company distributed more dividends?",
+            "ref": [
+                {
+                    "company_name": "Capital Finance Group",
+                    "content": [
+                        "In February 2018, the company decided to distribute $10 million of dividends to its shareholders, which significantly improved shareholder returns."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "In recognition of its commitment to developing eco-friendly water purification solutions, EcoGuard Solutions received a government grant of $5 million in June 2019."
+                    ]
+                }
+            ],
+            "answer": "Capital Finance Group distributed more dividends in 2018 with $10 million compared to EcoGuard Solutions' $5 million in 2019."
+        }
+    ]
+}

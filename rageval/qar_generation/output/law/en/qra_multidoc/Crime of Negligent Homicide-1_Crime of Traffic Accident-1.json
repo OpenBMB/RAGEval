@@ -1,0 +1,139 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Lakewood, Pinehurst, Court, what are the occupations of the defendants M. Ward and M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "Occupation: Nurse"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Occupation: Delivery Driver"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, the defendant M. Ward is a nurse; according to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett is a delivery driver."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Lakewood, Pinehurst, Court, what crimes did the defendants M. Ward and M. Bennett commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "The charge put forward by the prosecution was one of a Crime of Negligent Homicide, as delineated under Article 133."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Crime of Traffic Accident under Article No. 133 of our legal code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, the defendant M. Ward committed the crime of negligent homicide; according to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett committed the crime of traffic accident."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Lakewood, Pinehurst, Court, what were the judgment dates for the cases involving M. Ward and M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "**Dated this 30th day of April, 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "This judgment is pronounced on June 30, 2023, and shall be executed in accordance with our legal provisions."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, the judgment date for the case involving M. Ward was 30th April, 2023; according to the judgment of Lakewood, Pinehurst, Court, the judgment date for the case involving M. Bennett was 30th June, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Lakewood, Pinehurst, Court, what were the sentences given to the defendants M. Ward and M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "- M. Ward is sentenced to four (4) years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "M. Bennett is hereby sentenced to a fixed-term imprisonment of five years without the possibility of probation."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, the defendant M. Ward was sentenced to four years fixed-term imprisonment; according to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett was sentenced to five years fixed-term imprisonment with no probation."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Lakewood, Pinehurst, Court, when were the detention measures taken for the defendants M. Ward and M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "On the 5th of March, 2023, appropriate measures of detection were put in place concerning the accused individual."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Based on initial findings, on March 20, 2023, the investigation team determined that there was sufficient evidence to detain M. Bennett."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, detention measures were taken for M. Ward on 5th March, 2023; according to the judgment of Lakewood, Pinehurst, Court, detention measures were taken for M. Bennett on 20th March, 2023."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Lakewood, Pinehurst, Court, whose sentencing time is longer, M. Ward or M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "- M. Ward is sentenced to four (4) years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "M. Bennett is hereby sentenced to a fixed-term imprisonment of five years without the possibility of probation."
+                    ]
+                }
+            ],
+            "answer": "M. Ward was sentenced to four years of imprisonment, while M. Bennett was sentenced to five years of imprisonment. M. Bennett's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Lakewood, Pinehurst, Court, whose judgment date is earlier, M. Ward or M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "**Dated this 30th day of April, 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "This judgment is pronounced on June 30, 2023, and shall be executed in accordance with our legal provisions."
+                    ]
+                }
+            ],
+            "answer": "M. Ward's judgment date is 30th April, 2023, while M. Bennett's judgment date is 30th June, 2023. M. Ward's judgment date is earlier."
+        }
+    ]
+}

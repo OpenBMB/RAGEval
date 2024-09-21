@@ -1,0 +1,218 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the amounts of dividends distributed by AccuTech Solutions Inc. in 2019 and Evergreen Consumer Goods Co. in 2017?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In August 2019, AccuTech Solutions Inc. demonstrated its commitment to generating shareholder value by distributing $5 million of dividends to its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Evergreen Consumer Goods Co. is a publicly-traded company on NYSE that was established on June 1, 2000, and is primarily engaged in the manufacturing and distribution of personal care and household goods.In January 2017, Evergreen Consumer Goods Co. made the strategic decision to distribute $50 million of dividends to its shareholders."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. distributed $5 million of dividends in 2019, and Evergreen Consumer Goods Co. distributed $50 million of dividends in 2017."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the outcomes of the debt restructuring efforts by AccuTech Solutions Inc. in 2019 and Evergreen Consumer Goods Co. in 2017?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In June 2019, AccuTech Solutions Inc. successfully underwent a debt restructuring, reducing its liabilities by $20 million.",
+                        "This optimization of the company's capital structure improved its financial stability, resulting in lower interest expenses and a stronger balance sheet.",
+                        "The debt restructuring provided a solid foundation for future growth and investment."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In April 2017, Evergreen Consumer Goods Co. underwent debt restructuring, reducing its liabilities by $100 million.",
+                        "This debt restructuring initiative improved the company's financial condition and reduced its financial costs.",
+                        "By effectively managing its debt, the company was able to enhance its financial performance and strengthen its overall financial position."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc.'s debt restructuring in 2019 reduced its liabilities by $20 million, improving its financial condition and reducing financial costs. Evergreen Consumer Goods Co.'s debt restructuring in 2017 reduced its liabilities by $100 million, also improving its financial condition and reducing financial costs."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How much capital was raised by AccuTech Solutions Inc. in 2019 and Evergreen Consumer Goods Co. in 2017 through large-scale financing activities?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "To further strengthen its financial position and support its expansion and development plans, AccuTech Solutions Inc. successfully completed a large-scale financing activity in October 2019, raising $100 million in funds.",
+                        "This capital infusion significantly enhanced the company's financial strength and provided ample resources to invest in new technologies, research and development, and strategic acquisitions.",
+                        "The large-scale financing activity positioned AccuTech for long-term sustainable growth and value creation."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In March 2017, Evergreen Consumer Goods Co. raised $500 million in a large-scale financing activity.",
+                        "This significant financing activity strengthened the company's financial strength and provided support for its expansion and development plans.",
+                        "The financing activity had a positive impact on the company's financial position and allowed it to pursue its growth strategies."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. raised $100 million in 2019, while Evergreen Consumer Goods Co. raised $500 million in 2017 through large-scale financing activities."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "Which companies did AccuTech Solutions Inc. and Evergreen Consumer Goods Co. acquire assets from in 2019 and 2017, respectively?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "AccuTech Solutions Inc. is a publicly listed social industry company that was established on April 15, 2005 in San Francisco, California, offering innovative software solutions for social media management and analytics.In January 2019, AccuTech Solutions Inc. completed a major asset acquisition of TrendAnalytica, a renowned data analytics company in the social media industry."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In terms of major asset acquisition, Evergreen Consumer Goods Co. completed the acquisition of Green Health Products in February 2017, worth $200 million.",
+                        "This acquisition expanded the company's business scope and enhanced its market competitiveness.",
+                        "The acquisition had a positive impact on the company's financials, contributing to its overall growth and success."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. acquired assets from TrendAnalytica in 2019, and Evergreen Consumer Goods Co. acquired assets from Green Health Products in 2017."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the equity acquisition percentages and the companies involved for AccuTech Solutions Inc. in 2019 and Evergreen Consumer Goods Co. in 2017?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In February 2019, AccuTech Solutions Inc. solidified its position in the influencer marketing industry by acquiring a 30% equity stake in Influencer Connect, a leading influencer marketing platform.",
+                        "This strategic investment enhanced AccuTech's control over the platform's operations and growth, further expanding its market share and opening doors to new partnerships and revenue streams."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In September 2017, Evergreen Consumer Goods Co. completed the acquisition of 10% equity of GreenWaves Inc.",
+                        "This significant equity acquisition further expanded the company's market share and enhanced its control.",
+                        "The acquisition had a positive impact on the company's financial performance, contributing to its overall growth and success."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. acquired a 30% equity stake in Influencer Connect in 2019, while Evergreen Consumer Goods Co. acquired a 10% equity stake in GreenWaves Inc. in 2017."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distributions of AccuTech Solutions Inc. in 2019 and Evergreen Consumer Goods Co. in 2017. Which company distributed a higher amount of dividends?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In August 2019, AccuTech Solutions Inc. demonstrated its commitment to generating shareholder value by distributing $5 million of dividends to its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Evergreen Consumer Goods Co. is a publicly-traded company on NYSE that was established on June 1, 2000, and is primarily engaged in the manufacturing and distribution of personal care and household goods.In January 2017, Evergreen Consumer Goods Co. made the strategic decision to distribute $50 million of dividends to its shareholders."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. distributed a higher amount of dividends in 2017, with $50 million compared to AccuTech Solutions Inc.'s $5 million in 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the major asset acquisitions by AccuTech Solutions Inc. in January 2019 and Evergreen Consumer Goods Co. in February 2017. Which company had a larger asset acquisition?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "AccuTech Solutions Inc. is a publicly listed social industry company that was established on April 15, 2005 in San Francisco, California, offering innovative software solutions for social media management and analytics.In January 2019, AccuTech Solutions Inc. completed a major asset acquisition of TrendAnalytica, a renowned data analytics company in the social media industry.",
+                        "This acquisition, valued at $50 million, expanded AccuTech's business scope and increased its market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In terms of major asset acquisition, Evergreen Consumer Goods Co. completed the acquisition of Green Health Products in February 2017, worth $200 million.",
+                        "This acquisition expanded the company's business scope and enhanced its market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. had a larger asset acquisition in February 2017, worth $200 million, compared to AccuTech Solutions Inc.'s $50 million acquisition in January 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the debt restructuring events of AccuTech Solutions Inc. in June 2019 and Evergreen Consumer Goods Co. in April 2017. Which company restructured its debt earlier?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In June 2019, AccuTech Solutions Inc. successfully underwent a debt restructuring, reducing its liabilities by $20 million.",
+                        "This optimization of the company's capital structure improved its financial stability, resulting in lower interest expenses and a stronger balance sheet.",
+                        "The debt restructuring provided a solid foundation for future growth and investment."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In April 2017, Evergreen Consumer Goods Co. underwent debt restructuring, reducing its liabilities by $100 million.",
+                        "This debt restructuring initiative improved the company's financial condition and reduced its financial costs.",
+                        "By effectively managing its debt, the company was able to enhance its financial performance and strengthen its overall financial position."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. restructured its debt earlier in April 2017, compared to AccuTech Solutions Inc. in June 2019."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the large-scale financing activities of AccuTech Solutions Inc. in October 2019 and Evergreen Consumer Goods Co. in March 2017. Which company raised more funds?",
+            "ref": [
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "To further strengthen its financial position and support its expansion and development plans, AccuTech Solutions Inc. successfully completed a large-scale financing activity in October 2019, raising $100 million in funds.",
+                        "This capital infusion significantly enhanced the company's financial strength and provided ample resources to invest in new technologies, research and development, and strategic acquisitions.",
+                        "The large-scale financing activity positioned AccuTech for long-term sustainable growth and value creation."
+                    ]
+                },
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In March 2017, Evergreen Consumer Goods Co. raised $500 million in a large-scale financing activity.",
+                        "This significant financing activity strengthened the company's financial strength and provided support for its expansion and development plans.",
+                        "The financing activity had a positive impact on the company's financial position and allowed it to pursue its growth strategies."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. raised more funds in its large-scale financing activity in March 2017, with $500 million compared to AccuTech Solutions Inc.'s $100 million in October 2019."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "Compare the net profits of AccuTech Solutions Inc. in 2019 and Evergreen Consumer Goods Co. in 2017. Which company had a higher net profit?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Evergreen Consumer Goods Co. also reported a net profit of $400 million, influenced by its operating income, cost control measures, and non-recurring gains and losses.",
+                        "The company's ability to effectively control costs and optimize its operations contributed to its profitability."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": []
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. had a higher net profit in 2017, with $400 million. The net profit for AccuTech Solutions Inc. in 2019 is not provided in the outline."
+        }
+    ]
+}

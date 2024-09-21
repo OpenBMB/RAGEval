@@ -1,0 +1,146 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How did the sustainability and social responsibility initiatives impact Green Fields Agriculture Ltd. and JetWing Aviation in 2021?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "May 2021 marked significant progress for Green Fields Agriculture Ltd. in sustainability, environmental protection, social responsibility, and corporate citizenship.",
+                        "These initiatives had a positive impact on the company's public image and market competitiveness, as they showcased the company's commitment to promoting sustainable development and responsible business practices."
+                    ]
+                },
+                {
+                    "company_name": "JetWing Aviation",
+                    "content": [
+                        "In April 2021, JetWing Aviation made notable progress in its sustainability and social responsibility initiatives.",
+                        "The company focused on improving its corporate citizenship and sustainability practices, aiming to enhance its public image and market competitiveness.",
+                        "By integrating sustainability principles into its strategy and operations, JetWing Aviation demonstrated its commitment to environmental stewardship and social responsibility.",
+                        "This not only resonated with environmentally conscious customers but also positioned the company as a responsible and ethical player in the industry."
+                    ]
+                }
+            ],
+            "answer": "The sustainability and social responsibility initiatives in Green Fields Agriculture Ltd. in May 2021 enhanced the company's public image, market competitiveness, and promoted sustainable development. Similarly, JetWing Aviation's initiatives in April 2021 improved its public image and market competitiveness."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the shareholders' meeting resolutions on Green Fields Agriculture Ltd. and JetWing Aviation in 2021?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "August 2021 witnessed key decisions made at the annual or extraordinary shareholders' meeting, which had a direct impact on the company's governance structure, operational strategies, and shareholder rights.",
+                        "These decisions were crucial in shaping the future direction of Green Fields Agriculture Ltd. and ensuring alignment with the interests of its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "JetWing Aviation",
+                    "content": [
+                        "In May 2021, JetWing Aviation's shareholders' meeting resulted in key decisions that had a significant impact on the company's governance structure and shareholder rights.",
+                        "These decisions were made during the annual or extraordinary meetings and were aimed at aligning the company's governance practices with the interests of its shareholders.",
+                        "The resolutions passed during these meetings shaped the direction of the company and ensured that shareholder interests were adequately represented and protected."
+                    ]
+                }
+            ],
+            "answer": "The shareholders' meeting resolution in Green Fields Agriculture Ltd. in August 2021 affected the company's governance structure, operational strategies, and shareholder rights. For JetWing Aviation, the resolution in May 2021 also impacted the governance structure and shareholder rights."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the senior management changes of Green Fields Agriculture Ltd. and JetWing Aviation. Which company made changes to their senior management earlier?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "Green Fields Agriculture Ltd., established on April 1, 2005, is a listed NASDAQ company based in Sunnydale, California, specializing in the cultivation and distribution of high-quality organic fruits and vegetables.In March 2021, Green Fields Agriculture Ltd. underwent significant changes in its senior management, which had a profound impact on the company's operational focus and strategic priorities."
+                    ]
+                },
+                {
+                    "company_name": "JetWing Aviation",
+                    "content": [
+                        "JetWing Aviation, established on April 15, 2002, is a Miami-based company specializing in private jet charter services, aircraft management, and aviation consulting in the aviation industry.In January 2021, JetWing Aviation faced a significant challenge when it was hit with reports and allegations of ethics and integrity violations."
+                    ]
+                }
+            ],
+            "answer": "JetWing Aviation made changes to their senior management earlier in January 2021, while Green Fields Agriculture Ltd. made changes in March 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the timing of ethics and integrity incidents between Green Fields Agriculture Ltd. and JetWing Aviation. Which company experienced these incidents earlier?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "In October 2021, the company faced significant ethical or integrity incidents, which had the potential to damage its reputation and brand value."
+                    ]
+                },
+                {
+                    "company_name": "JetWing Aviation",
+                    "content": [
+                        "JetWing Aviation, established on April 15, 2002, is a Miami-based company specializing in private jet charter services, aircraft management, and aviation consulting in the aviation industry.In January 2021, JetWing Aviation faced a significant challenge when it was hit with reports and allegations of ethics and integrity violations."
+                    ]
+                }
+            ],
+            "answer": "JetWing Aviation experienced ethics and integrity incidents earlier in January 2021, while Green Fields Agriculture Ltd. experienced them in October 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the progress in sustainability and social responsibility initiatives of Green Fields Agriculture Ltd. and JetWing Aviation. Which company made progress earlier?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "May 2021 marked significant progress for Green Fields Agriculture Ltd. in sustainability, environmental protection, social responsibility, and corporate citizenship."
+                    ]
+                },
+                {
+                    "company_name": "JetWing Aviation",
+                    "content": [
+                        "In April 2021, JetWing Aviation made notable progress in its sustainability and social responsibility initiatives."
+                    ]
+                }
+            ],
+            "answer": "JetWing Aviation made progress in sustainability and social responsibility initiatives earlier in April 2021, while Green Fields Agriculture Ltd. made progress in May 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the compliance and regulatory updates of Green Fields Agriculture Ltd. and JetWing Aviation. Which company updated their compliance and regulatory practices earlier?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "In April 2021, Green Fields Agriculture Ltd. faced updates to regulations affecting corporate governance practices."
+                    ]
+                },
+                {
+                    "company_name": "JetWing Aviation",
+                    "content": [
+                        "In December 2021, JetWing Aviation responded to compliance and regulatory updates by implementing necessary changes to ensure compliance assurance and protection of its interests."
+                    ]
+                }
+            ],
+            "answer": "Green Fields Agriculture Ltd. updated their compliance and regulatory practices earlier in April 2021, while JetWing Aviation did so in December 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the changes in the board of directors of Green Fields Agriculture Ltd. and JetWing Aviation. Which company made changes to their board of directors earlier?",
+            "ref": [
+                {
+                    "company_name": "Green Fields Agriculture Ltd.",
+                    "content": [
+                        "Finally, in December 2021, there was a change in the board of directors with the appointment or resignation of board members."
+                    ]
+                },
+                {
+                    "company_name": "JetWing Aviation",
+                    "content": [
+                        "In September 2021, JetWing Aviation experienced a change in its board of directors."
+                    ]
+                }
+            ],
+            "answer": "JetWing Aviation made changes to their board of directors earlier in September 2021, while Green Fields Agriculture Ltd. made changes in December 2021."
+        }
+    ]
+}

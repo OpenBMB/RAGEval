@@ -1,0 +1,103 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Brighton, Sterling, Court and Glenwood, Quailwood, Court, what are the occupations of the defendants N. Adams and Y. Nelson?",
+            "ref": [
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "- **Occupation:** Accountant at Sterling Public Works Department"
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "*Occupation:* Barista"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Brighton, Sterling Court, the defendant N. Adams is an Accountant at Sterling Public Works Department; according to the judgment of Glenwood, Quailwood Court, the defendant Y. Nelson is a Barista."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Brighton, Sterling, Court and Glenwood, Quailwood, Court, what crimes did the defendants N. Adams and Y. Nelson commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "The Brighton, Sterling Procuratorate charged Mr. N. Adams with the crime of embezzlement under Article 384 of the Penal Code.",
+                        "The charge brought against Mr. N. Adams is recognized as the Crime of Embezzlement under Article 384 of the Penal Code."
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "The defendant, Y. Nelson, is charged with the Crime of Picking Quarrels and Provoking Trouble as specified under Article No. 293 of the Criminal Code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Brighton, Sterling Court, the defendant N. Adams committed the Crime of Embezzlement; according to the judgment of Glenwood, Quailwood Court, the defendant Y. Nelson committed the Crime of Picking Quarrels and Provoking Trouble."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Brighton, Sterling, Court and Glenwood, Quailwood, Court, what sentences were given to the defendants N. Adams and Y. Nelson for their crimes?",
+            "ref": [
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "- **12 years of fixed-term imprisonment.",
+                        "- **A fine of $100,000.**\\"
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "Accordingly, Y. Nelson is sentenced to three years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Brighton, Sterling Court, the defendant N. Adams was sentenced to 12 years of fixed-term imprisonment and a fine of $100,000 for the Crime of Embezzlement; according to the judgment of Glenwood, Quailwood Court, the defendant Y. Nelson was sentenced to three years of fixed-term imprisonment for the Crime of Picking Quarrels and Provoking Trouble."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Brighton, Sterling, Court and Glenwood, Quailwood, Court, whose sentencing time is longer, N. Adams or Y. Nelson?",
+            "ref": [
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "- **12 years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "Accordingly, Y. Nelson is sentenced to three years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "N. Adams was sentenced to 12 years of fixed-term imprisonment, while Y. Nelson was sentenced to three years of fixed-term imprisonment. N. Adams's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Brighton, Sterling, Court and Glenwood, Quailwood, Court, whose judgment time is earlier, N. Adams or Y. Nelson?",
+            "ref": [
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "**Date:** 3rd March 2023\\"
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "June 10, 2023"
+                    ]
+                }
+            ],
+            "answer": "N. Adams's judgment time is earlier, as it was on 3rd March, 2023, while Y. Nelson's judgment time was on 10th June, 2023."
+        }
+    ]
+}

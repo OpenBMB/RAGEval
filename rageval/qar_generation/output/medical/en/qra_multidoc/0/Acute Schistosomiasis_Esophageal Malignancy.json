@@ -1,0 +1,65 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Lexington General Hospital, what are the ages of patients A. Smith and Q. Reyes?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Age: 12"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Lexington General Hospital_Q. Reyes",
+                    "content": [
+                        "Age: 87"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Farmington City Hospital, patient A. Smith is 12 years old; according to the hospitalization records of Lexington General Hospital, patient Q. Reyes is 87 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Lexington General Hospital, what are the diagnosis results of A. Smith and Q. Reyes?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Acute Schistosomiasis",
+                        "Diagnostic tests confirm acute schistosomiasis."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Lexington General Hospital_Q. Reyes",
+                    "content": [
+                        "Esophageal Malignancy",
+                        "Biopsy confirmed malignancy."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Farmington City Hospital, A. Smith was diagnosed with Acute Schistosomiasis; according to the hospitalization records of Lexington General Hospital, Q. Reyes was diagnosed with Esophageal Malignancy."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Lexington General Hospital, who was admitted earlier, A. Smith or Q. Reyes?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Admission Time: 9th, October"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Lexington General Hospital_Q. Reyes",
+                    "content": [
+                        "Admission Time: 5th, August"
+                    ]
+                }
+            ],
+            "answer": "A. Smith was admitted on October 9th, and Q. Reyes was admitted on August 5th. Q. Reyes was admitted earlier."
+        }
+    ]
+}

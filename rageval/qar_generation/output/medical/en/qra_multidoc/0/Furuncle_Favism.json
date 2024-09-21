@@ -1,0 +1,235 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Tremont City Hospital, what are the ages of patients J. Rodriguez and X. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Age: 7"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont City Hospital_X. Price",
+                    "content": [
+                        "Age: 7"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez is 7 years old; according to the hospitalization records of Tremont City Hospital, patient X. Price is 7 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Tremont City Hospital, what is the gender of patients J. Rodriguez and X. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Gender: female"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont City Hospital_X. Price",
+                    "content": [
+                        "Gender: female"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez is female; according to the hospitalization records of Tremont City Hospital, patient X. Price is female."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Tremont City Hospital, what is the occupation of patients J. Rodriguez and X. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Occupation: Student"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont City Hospital_X. Price",
+                    "content": [
+                        "Occupation: student"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez is a student; according to the hospitalization records of Tremont City Hospital, patient X. Price is a student."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Tremont City Hospital, what are the chief complaints of patients J. Rodriguez and X. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Chief Complaint: Local redness, swelling, heat, and pain on the right forearm for 3 days."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont City Hospital_X. Price",
+                    "content": [
+                        "Hemolysis, fatigue, and abdominal pain after consuming fresh fava beans 1 day ago."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's chief complaint is local redness, swelling, heat, and pain on the right forearm for 3 days; according to the hospitalization records of Tremont City Hospital, patient X. Price's chief complaint is hemolysis, fatigue, and abdominal pain after consuming fresh fava beans 1 day ago."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Tremont City Hospital, what is the general health condition of patients J. Rodriguez and X. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "General Health Condition: Good"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont City Hospital_X. Price",
+                    "content": [
+                        "General Health Condition: Generally healthy prior to current illness."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's general health condition is good; according to the hospitalization records of Tremont City Hospital, patient X. Price's general health condition is generally healthy prior to the current illness."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Tremont City Hospital, what is the immunization history of patients J. Rodriguez and X. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Immunization History: Up-to-date with vaccination schedule"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont City Hospital_X. Price",
+                    "content": [
+                        "Immunization History: Up-to-date with vaccinations for age."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez is up-to-date with the vaccination schedule; according to the hospitalization records of Tremont City Hospital, patient X. Price is up-to-date with vaccinations for age."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Tremont City Hospital, what is the family history of patients J. Rodriguez and X. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Family History: Father (healthy), Mother (healthy), no siblings, no known family history of skin infections or genetic disorders"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont City Hospital_X. Price",
+                    "content": [
+                        "Family History: No known family history of similar conditions or genetic diseases.",
+                        "Parents and siblings are in good health."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's family history includes a healthy father and mother, with no siblings and no known family history of skin infections or genetic disorders; according to the hospitalization records of Tremont City Hospital, patient X. Price has no known family history of similar conditions or genetic diseases, and her parents and siblings are in good health."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Tremont City Hospital, what were the temperatures of patients J. Rodriguez and X. Price upon admission?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Temperature: 37°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont City Hospital_X. Price",
+                    "content": [
+                        "Temperature: 38°C"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's temperature was 37°C upon admission; according to the hospitalization records of Tremont City Hospital, patient X. Price's temperature was 38°C upon admission."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Tremont City Hospital, what are the preliminary diagnoses of patients J. Rodriguez and X. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Preliminary Diagnosis: Furuncle of the right forearm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont City Hospital_X. Price",
+                    "content": [
+                        "Favism leading to acute hemolytic anemia."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's preliminary diagnosis is a furuncle of the right forearm; according to the hospitalization records of Tremont City Hospital, patient X. Price's preliminary diagnosis is Favism leading to acute hemolytic anemia."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Tremont City Hospital, who was admitted earlier, J. Rodriguez or X. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Admission Time: 26th, February"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont City Hospital_X. Price",
+                    "content": [
+                        "Admission Time: 27th, January"
+                    ]
+                }
+            ],
+            "answer": "X. Price was admitted on January 27, and J. Rodriguez was admitted on February 26. X. Price was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Tremont City Hospital, whose temperature was higher upon admission, J. Rodriguez or X. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Temperature: 37°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont City Hospital_X. Price",
+                    "content": [
+                        "Temperature: 38°C"
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez's temperature was 37°C, and X. Price's temperature was 38°C. X. Price's temperature was higher upon admission."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Tremont City Hospital, whose pulse rate was higher upon admission, J. Rodriguez or X. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Pulse: 90 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Tremont City Hospital_X. Price",
+                    "content": [
+                        "Pulse: 105 bpm"
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez's pulse rate was 90 bpm, and X. Price's pulse rate was 105 bpm. X. Price's pulse rate was higher upon admission."
+        }
+    ]
+}

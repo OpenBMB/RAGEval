@@ -1,0 +1,181 @@
+Hospitalization Record:
+
+Basic Information:
+Name: I. Chavez
+Gender: Female
+Age: 82
+Ethnicity: Hispanic
+Marital Status: Widowed
+Occupation: Retired
+Address: 71, Knoxville street, Yorkshire
+Admission Time: 12th, February
+Record Time: 12th, February
+Historian: Patient herself
+Hospital Name: Yorkshire General Hospital
+
+Chief Complaint:
+Intermittent upper abdominal pain, acid reflux, and heartburn for 2 months.
+
+Present Illness:
+Onset:
+The onset occurred two months ago at home, gradual in nature with no identifiable triggers.
+Main Symptoms:
+The patient reports experiencing intermittent upper abdominal pain described as a burning sensation, together with frequent acid reflux and heartburn. Pain severity: 6/10, tends to worsen at night and after meals, partially relieved by antacids.
+Accompanying Symptoms:
+Occasional nausea, early satiety, no vomiting, no fever, no chills, notable weight loss of approximately 5 kg over the last two months.
+Diagnosis and Treatment History:
+Patient used over-the-counter antacids and proton pump inhibitors (PPIs), which provided temporary relief. No prior similar episodes or hospitalizations.
+General Condition Changes:
+Appetite decreased significantly, sleep often disrupted by pain, no changes in bowel habits, urination normal.
+
+Past History:
+General Health Condition:
+Previously healthy, with controlled hypertension and hyperlipidemia.
+Disease History:
+Hypertension for the past 10 years, managed with medication; hyperlipidemia for 5 years, controlled with statins.
+Infectious Disease History:
+No significant history of infectious diseases.
+Immunization History:
+Up to date with vaccinations.
+Surgery and Trauma History:
+Appendectomy at age 30.
+Blood Transfusion History:
+No history of blood transfusion.
+Allergy History:
+No known allergies.
+
+Personal History:
+Birthplace: Yorkshire
+Residence: 71, Knoxville street, Yorkshire
+Living Habits:
+Non-smoker, occasional wine consumption, diet often includes spicy and acidic foods.
+Occupation and Working Conditions:
+Retired teacher, no known work-related health issues.
+Exposure History:
+No known exposure to industrial toxins, dust, or radioactive substances.
+Travel History:
+No recent travel history.
+
+Marital and Family History:
+Marital History:
+Marital Status: Widowed
+Marriage Age: Married at age 25
+Spouse's Health Condition: Deceased due to heart disease
+Children's Condition: Two children, both healthy.
+
+Menstrual History:
+Menarche Age: Age 12
+Menstruation Duration: 5 days
+Menstruation Interval: 28 days
+Last Menstruation: Menopause at age 50
+Menstrual Volume: Normal
+Dysmenorrhea: Mild
+
+Family History:
+Mother had similar digestive issues in old age; father deceased due to stroke; one sibling diagnosed with type 2 diabetes.
+
+Physical Examination:
+General Condition:
+Temperature: 37.0°C
+Pulse: 80 bpm
+Respiration: 18 breaths/min
+Blood Pressure: 135/80 mmHg
+
+Systematic Examination:
+Skin: No rashes or lesions
+Mucous Membranes: Normal hydration
+Lymph Nodes: No lymphadenopathy
+Head and Organs: Normocephalic, atraumatic
+Neck: Supple, no jugular venous distension
+Chest: Clear bilateral breath sounds, no wheezes or crackles, heart sounds normal, no murmurs
+Abdomen: Soft, mild epigastric tenderness, no rebound tenderness, liver and spleen not palpable
+Rectum and Anus: No abnormalities
+External Genitalia: Normal for age
+Spine: Normal curvature
+Limbs: No edema, normal range of motion
+Nervous System: Alert, oriented, no focal deficits
+
+Specialist Examination:
+Gastroenterology consultation recommended for possible peptic ulcer disease.
+
+Auxiliary Examination:
+Upper GI endoscopy revealed a small peptic ulcer in the duodenal bulb with mild inflammation.
+
+Preliminary Diagnosis:
+Peptic Ulcer
+
+Diagnostic Basis:
+Based on history of upper abdominal pain with a burning sensation, acid reflux, heartburn, and supportive findings from the upper GI endoscopy.
+
+Differential Diagnosis:
+Gastric cancer ruled out due to the absence of malignant features on endoscopy; chronic gastritis less likely given the presence of a defined peptic ulcer; gastric neurosis less likely due to the presence of organic findings; cholecystitis, cholelithiasis, and gastrinoma ruled out based on clinical presentation and endoscopy results.
+
+Admission Records:
+Physician's Signature: Dr. A. Martinez
+
+Post-Admission Course Records:
+First Course Record:
+Patient admitted with suspected peptic ulcer disease based on symptoms and initial endoscopic findings. Initial management includes proton pump inhibitors, antacids, and dietary modifications. Pending further evaluation and dietary consultation.
+
+Daily Course Records:
+Day 2: Symptoms persist but slightly improved with medication. Continued PPI and antacids. Started dietary modifications with small, frequent meals.
+Day 3: Patient reports less frequent episodes of pain and heartburn. Continued medication and dietary regimen.
+
+Senior Physician Rounds Records:
+Reviewed by senior physician Dr. L. Wang; agreed with ongoing management plan, no immediate need for surgical intervention.
+
+Difficult Case Discussion Records:
+Not applicable.
+
+Handover Records:
+Handover to on-call team completed with detailed overview of the case, current management plan, and pending evaluations.
+
+Transfer Records:
+Not applicable.
+
+Stage Summary:
+Patient showing signs of improvement on medical management. Continued dietary and medication regimen recommended.
+
+Emergency Records:
+Not applicable.
+
+Invasive Procedure Records:
+Upper GI endoscopy performed for diagnosis.
+
+Consultation Records:
+Gastroenterology consultation confirmed peptic ulcer disease, recommended continuing current management.
+
+Discharge Records:
+To be filled upon discharge.
+
+Critically Ill Patient Care Records:
+Not applicable.
+
+Medical Orders:
+Long-term Orders:
+PPIs, antacids, dietary modifications, bed rest
+Temporary Orders:
+Upper GI endoscopy, Complete Blood Count, Basic Metabolic Panel
+
+Auxiliary Examination Reports:
+Complete Blood Count showed mild anemia; Basic Metabolic Panel within normal limits.
+
+Temperature Chart:
+Feb 12: Temp 37.0°C, Pulse 80 bpm, Resp 18 bpm, BP 135/80 mmHg.
+Feb 13: Temp 36.8°C, Pulse 78 bpm, Resp 18 bpm, BP 130/78 mmHg.
+Feb 14: Temp 36.7°C, Pulse 76 bpm, Resp 18 bpm, BP 128/76 mmHg.
+
+Blood Transfusion Consent:
+Not applicable.
+
+Special Examination Consent:
+Consent obtained for upper GI endoscopy.
+
+Critical Condition Notice:
+Not applicable.
+
+DiseaseType:
+Digestive System Diseases:
+Name: Peptic Ulcer
+Symptoms: Upper abdominal pain, acid reflux, heartburn, etc.
+Differential Diagnosis: Gastric cancer, chronic gastritis, gastric neurosis, cholecystitis, cholelithiasis, gastrinoma.

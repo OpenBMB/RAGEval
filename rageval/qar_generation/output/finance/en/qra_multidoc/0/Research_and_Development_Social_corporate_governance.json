@@ -1,0 +1,162 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the backgrounds and expected impacts of the new CEOs appointed by InnovaTech Solutions in 2017 and AccuTech Solutions Inc. in 2019?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In April 2017, InnovaTech Solutions hired a new CEO, bringing in fresh leadership and expertise to drive growth and execute strategic plans.",
+                        "The background and experience of the new CEO were carefully considered, as they were expected to have a significant impact on the company's growth trajectory."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "These decisions included the appointment of a new CEO in January 2019, who was expected to drive the company's growth strategy."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions appointed a new CEO in April 2017, whose background and experience were expected to impact the company's growth and execution of strategic plans. AccuTech Solutions Inc. appointed a new CEO in January 2019, who was expected to drive the company's growth strategy."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What progress did InnovaTech Solutions and AccuTech Solutions Inc. make in their sustainability and social responsibility initiatives in 2017 and 2019, respectively?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "Furthermore, InnovaTech Solutions demonstrated its commitment to sustainability and social responsibility in April 2017.",
+                        "The company made progress in areas such as sustainability, environmental protection, and corporate citizenship.",
+                        "These initiatives had the potential to enhance the company's public image and improve its market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "The company also made significant progress in sustainability and social responsibility initiatives in June 2019, demonstrating its commitment to environmental protection, social responsibility, and corporate citizenship."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions made progress in sustainability, environmental protection, and corporate citizenship in April 2017, impacting its public image and market competitiveness. AccuTech Solutions Inc. also made significant progress in these areas in June 2019, highlighting their commitment to sustainability and social responsibility."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How did the corporate governance policy revisions in 2017 for InnovaTech Solutions and in 2019 for AccuTech Solutions Inc. impact transparency, accountability, and stakeholder confidence?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "Lastly, in December 2017, InnovaTech Solutions revised its corporate governance policies.",
+                        "This revision had the potential to enhance transparency, accountability, and stakeholder confidence."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In September 2019, AccuTech Solutions Inc. revised its corporate governance policies, resulting in enhanced transparency, accountability, and stakeholder engagement."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions revised its corporate governance policies in December 2017, aiming to enhance transparency, accountability, and stakeholder confidence. Similarly, AccuTech Solutions Inc. revised its corporate governance framework in September 2019, resulting in improved transparency, accountability, and stakeholder engagement."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the CEO appointment times of InnovaTech Solutions and AccuTech Solutions Inc. Which company appointed a new CEO earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In April 2017, InnovaTech Solutions hired a new CEO, bringing in fresh leadership and expertise to drive growth and execute strategic plans."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "These decisions included the appointment of a new CEO in January 2019, who was expected to drive the company's growth strategy."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions appointed a new CEO earlier in April 2017, while AccuTech Solutions Inc. appointed a new CEO in January 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the strategic partnership announcement times of InnovaTech Solutions and AccuTech Solutions Inc. Which company announced a strategic partnership earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "Additionally, in May 2017, InnovaTech Solutions announced a strategic partnership with a major technology company."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "The strategic partnership announcement in March 2019 further strengthened AccuTech Solutions' market position, while the launch of a new suite of social media analytics tools in April 2019 attracted new customers and increased revenue."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions announced a strategic partnership earlier in May 2017, while AccuTech Solutions Inc. announced a strategic partnership in March 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the product launch times of InnovaTech Solutions and AccuTech Solutions Inc. Which company launched a new product earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "Another important event in June 2017 was the launch of a highly anticipated software product in the telecommunications industry."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "The strategic partnership announcement in March 2019 further strengthened AccuTech Solutions' market position, while the launch of a new suite of social media analytics tools in April 2019 attracted new customers and increased revenue."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions launched a new product earlier in June 2017, while AccuTech Solutions Inc. launched a new product in April 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the senior management change times of InnovaTech Solutions and AccuTech Solutions Inc. Which company had senior management changes earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In September 2017, there were changes in senior management positions at InnovaTech Solutions."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "Furthermore, AccuTech Solutions Inc. made senior management changes in May 2019, which had a direct impact on the company's operational focus and priorities."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions had senior management changes earlier in September 2017, while AccuTech Solutions Inc. had senior management changes in May 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the compliance and regulatory update times of InnovaTech Solutions and AccuTech Solutions Inc. Which company updated their compliance and regulatory practices earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In May 2017, InnovaTech Solutions also ensured compliance with updated regulations affecting corporate governance practices."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "AccuTech Solutions Inc. remained committed to compliance and regulatory standards, as demonstrated by its proactive approach to updating its practices in November 2019."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions updated their compliance and regulatory practices earlier in May 2017, while AccuTech Solutions Inc. did so in November 2019."
+        }
+    ]
+}

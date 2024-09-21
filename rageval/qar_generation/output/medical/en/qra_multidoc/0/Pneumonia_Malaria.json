@@ -1,0 +1,160 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Ashland General Hospital, what were the chief complaints of patients V. Lewis and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Chief Complaint: Fever, cough, and difficulty breathing for 5 days."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Chief Complaint:",
+                        "High fever, chills, and headache for 3 days"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Newport General Hospital, patient V. Lewis's chief complaint was fever, cough, and difficulty breathing for 5 days. According to the hospitalization records of Ashland General Hospital, patient L. Brown's chief complaint was high fever, chills, and headache for 3 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Ashland General Hospital, what were the preliminary diagnoses for patients V. Lewis and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Preliminary Diagnosis: Community-acquired pneumonia"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Malaria"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Newport General Hospital, patient V. Lewis was preliminarily diagnosed with community-acquired pneumonia. According to the hospitalization records of Ashland General Hospital, patient L. Brown was preliminarily diagnosed with malaria."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Ashland General Hospital, what are the ages of patients V. Lewis and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Age: 64"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Age: 32"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Newport General Hospital, patient V. Lewis is 64 years old. According to the hospitalization records of Ashland General Hospital, patient L. Brown is 32 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Ashland General Hospital, what are the occupations of patients V. Lewis and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Occupation: Retired Teacher"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Occupation: Software Engineer"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Newport General Hospital, patient V. Lewis is a retired teacher. According to the hospitalization records of Ashland General Hospital, patient L. Brown is a software engineer."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Ashland General Hospital, what is the ethnicity of patients V. Lewis and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Ethnicity: Caucasian"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Ethnicity: Caucasian"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Newport General Hospital, patient V. Lewis is Caucasian. According to the hospitalization records of Ashland General Hospital, patient L. Brown is also Caucasian."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Ashland General Hospital, who was admitted earlier, V. Lewis or L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Admission Time: 23rd, July"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Admission Time: 25th, March"
+                    ]
+                }
+            ],
+            "answer": "V. Lewis was admitted on July 23, and L. Brown was admitted on March 25. L. Brown was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Ashland General Hospital, whose initial temperature was higher, V. Lewis or L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Temperature: 38.5°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Temperature: 39°C"
+                    ]
+                }
+            ],
+            "answer": "V. Lewis had an initial temperature of 38.5°C, while L. Brown had an initial temperature of 39°C. L. Brown's initial temperature was higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Newport General Hospital and Ashland General Hospital, whose pulse rate was higher upon admission, V. Lewis or L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Pulse: 92 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Pulse: 110 bpm"
+                    ]
+                }
+            ],
+            "answer": "V. Lewis had a pulse rate of 92 bpm, while L. Brown had a pulse rate of 110 bpm. L. Brown's pulse rate was higher upon admission."
+        }
+    ]
+}

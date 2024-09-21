@@ -1,0 +1,124 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Hamilton, Harrison, Court, what are the occupations of the defendants Z. Torres and M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "- Occupation: Owner of retail electronics store"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "Occupation: Nurse"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Sterling, Quarryville, Court, the defendant Z. Torres is the owner of a retail electronics store; according to the judgment of Hamilton, Harrison, Court, the defendant M. Ward is a nurse."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Hamilton, Harrison, Court, what crimes did the defendants Z. Torres and M. Ward commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "Z. Torres was subsequently charged with the crime of selling counterfeit registered trademark goods, pursuant to Article No. 214.",
+                        "**CHARGE**",
+                        "Crime: Selling Counterfeit Registered Trademark Goods"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "The charge put forward by the prosecution was one of a Crime of Negligent Homicide, as delineated under Article 133.",
+                        "Thus, in light of the above considerations and the detailed examination of evidence, this court hereby finds M. Ward guilty of the Crime of Negligent Homicide pursuant to Article 133."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Sterling, Quarryville, Court, the defendant Z. Torres committed the crime of selling counterfeit registered trademark goods; according to the judgment of Hamilton, Harrison, Court, the defendant M. Ward committed the crime of negligent homicide."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Hamilton, Harrison, Court, what sentences were given to the defendants Z. Torres and M. Ward for their crimes?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "- Five years of fixed-term imprisonment",
+                        "- A fine of $100,000"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "- M. Ward is sentenced to four (4) years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Sterling, Quarryville, Court, the defendant Z. Torres was sentenced to five years of fixed-term imprisonment with a fine of $100,000; according to the judgment of Hamilton, Harrison, Court, the defendant M. Ward was sentenced to four years of fixed-term imprisonment."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Hamilton, Harrison, Court, when were the defendants Z. Torres and M. Ward born?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "- Birthdate: 8th March 1983"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "Birthdate: 22th August, 1983"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Sterling, Quarryville, Court, the defendant Z. Torres was born on 8th, March, 1983; according to the judgment of Hamilton, Harrison, Court, the defendant M. Ward was born on 22th, August, 1983."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Hamilton, Harrison, Court, whose sentencing time is longer, Z. Torres or M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "- Five years of fixed-term imprisonment"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "- M. Ward is sentenced to four (4) years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "Z. Torres was sentenced to five years of fixed-term imprisonment, while M. Ward was sentenced to four years of fixed-term imprisonment. Z. Torres's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Hamilton, Harrison, Court, whose judgment date is earlier, Z. Torres or M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "**Dated: 15th March, 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "**Dated this 30th day of April, 2023**"
+                    ]
+                }
+            ],
+            "answer": "Z. Torres's judgment date is 15th March, 2023, while M. Ward's judgment date is 30th April, 2023. Z. Torres's judgment date is earlier."
+        }
+    ]
+}

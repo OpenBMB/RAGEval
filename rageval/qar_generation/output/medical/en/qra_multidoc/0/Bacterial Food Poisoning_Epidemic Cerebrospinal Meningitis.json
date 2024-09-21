@@ -1,0 +1,130 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Wilton General Hospital, what were the chief complaints of patients Z. Walker and H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "Chief Complaint:",
+                        "Severe abdominal pain, vomiting, and watery diarrhea for 2 days."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "Chief Complaint:",
+                        "Severe headache, high fever, and neck stiffness for 2 days."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater City Hospital, patient Z. Walker's chief complaint was severe abdominal pain, vomiting, and watery diarrhea for 2 days. According to the hospitalization records of Wilton General Hospital, patient H. Flores's chief complaint was severe headache, high fever, and neck stiffness for 2 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Wilton General Hospital, what were the preliminary diagnoses for patients Z. Walker and H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Bacterial Food Poisoning"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Epidemic Cerebrospinal Meningitis"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater City Hospital, patient Z. Walker's preliminary diagnosis was Bacterial Food Poisoning. According to the hospitalization records of Wilton General Hospital, patient H. Flores's preliminary diagnosis was Epidemic Cerebrospinal Meningitis."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Wilton General Hospital, what were the long-term medical orders for patients Z. Walker and H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "Medical Orders:",
+                        "Long-term Orders: IV fluids (Normal Saline), Ceftriaxone 1g IV Q24h, Antiemetics PRN, Monitor vital signs Q4H"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "Medical Orders:",
+                        "Long-term Orders:",
+                        "- IV antibiotics (Ceftriaxone 2g IV BID)",
+                        "- IV fluids (Normal Saline 1000ml/day)",
+                        "- Analgesics (Paracetamol 500mg PO Q6H PRN)",
+                        "- Monitoring vital signs Q4H"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater City Hospital, patient Z. Walker's long-term medical orders included IV fluids (Normal Saline), Ceftriaxone 1g IV Q24h, antiemetics PRN, and monitoring vital signs Q4H. According to the hospitalization records of Wilton General Hospital, patient H. Flores's long-term medical orders included IV antibiotics (Ceftriaxone 2g IV BID), IV fluids (Normal Saline 1000ml/day), analgesics (Paracetamol 500mg PO Q6H PRN), and monitoring vital signs Q4H."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Wilton General Hospital, who was admitted earlier, Z. Walker or H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "- Admission Time: 21st October"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Admission Time: 22nd March"
+                    ]
+                }
+            ],
+            "answer": "Z. Walker was admitted on October 21, and H. Flores was admitted on March 22. H. Flores was admitted earlier in the year."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Wilton General Hospital, whose initial temperature was higher, Z. Walker or H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "- Temperature: 38.2°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Temperature: 39.5°C"
+                    ]
+                }
+            ],
+            "answer": "Z. Walker's initial temperature was 38.2°C, while H. Flores's initial temperature was 39.5°C. H. Flores's initial temperature was higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Wilton General Hospital, whose pulse rate was higher upon admission, Z. Walker or H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "- Pulse: 105 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Pulse: 110 bpm"
+                    ]
+                }
+            ],
+            "answer": "Z. Walker's pulse rate was 105 bpm, while H. Flores's pulse rate was 110 bpm. H. Flores's pulse rate was higher upon admission."
+        }
+    ]
+}

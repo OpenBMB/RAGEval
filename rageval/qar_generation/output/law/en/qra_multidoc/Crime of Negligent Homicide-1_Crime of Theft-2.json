@@ -1,0 +1,139 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Cedarwood, Brighton, Court, what were the occupations of the defendants M. Ward and I. Hill before committing their respective crimes?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "Occupation: Nurse"
+                    ]
+                },
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "Occupation: Retail Assistant"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, the defendant M. Ward was a Nurse before committing the Crime of Negligent Homicide. According to the judgment of Cedarwood, Brighton, Court, the defendant I. Hill was a Retail assistant before committing the Crime of Theft."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Cedarwood, Brighton, Court, on what dates were the detention measures taken against the defendants M. Ward and I. Hill?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "On the 5th of March, 2023, appropriate measures of detection were put in place concerning the accused individual."
+                    ]
+                },
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "To prevent the defendant, I. Hill, from fleeing the jurisdiction or tampering with the evidence, preventive detention measures were taken."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, detention measures were taken against the defendant M. Ward on 5th March, 2023. According to the judgment of Cedarwood, Brighton, Court, detention measures were taken against the defendant I. Hill on 10th February, 2022."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Cedarwood, Brighton, Court, when were the defendants M. Ward and I. Hill officially arrested?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "The formal arrest occurred on the 15th of March, 2023."
+                    ]
+                },
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "Subsequent to formal detention, on the 15th of February 2022, an arrest warrant was issued by this court."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, the defendant M. Ward was officially arrested on 15th March, 2023. According to the judgment of Cedarwood, Brighton, Court, the defendant I. Hill was officially arrested on 15th February, 2022."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Cedarwood, Brighton, Court, what were the judgment dates for the cases involving M. Ward and I. Hill?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "**Dated this 30th day of April, 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "**Judgment Dated: 14th March 2022**"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hamilton, Harrison, Court, the judgment date for M. Ward’s case was 30th April, 2023. According to the judgment of Cedarwood, Brighton, Court, the judgment date for I. Hill’s case was 14th March, 2022."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Cedarwood, Brighton, Court, whose sentencing time is longer, M. Ward or I. Hill?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "- M. Ward is sentenced to four (4) years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "The defendant, Ms. I. Hill, is sentenced to a fixed-term imprisonment of three years and ordered to pay a fine of £5,000."
+                    ]
+                }
+            ],
+            "answer": "M. Ward was sentenced to four years of fixed-term imprisonment, while I. Hill was sentenced to three years of fixed-term imprisonment. M. Ward's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Cedarwood, Brighton, Court, whose judgment time is earlier, M. Ward or I. Hill?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "**Dated this 30th day of April, 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "**Judgment Dated: 14th March 2022**"
+                    ]
+                }
+            ],
+            "answer": "I. Hill's judgment time is earlier, as it was on 14th March 2022, while M. Ward's judgment time was on 30th April 2023."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Hamilton, Harrison, Court and Cedarwood, Brighton, Court, whose case filing and investigation started earlier, M. Ward or I. Hill?",
+            "ref": [
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "The case was officially filed and investigation commenced on the 1st of March, 2023."
+                    ]
+                },
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "On the 1st of February 2022, the Cedarwood, Brighton, Procuratorate received a formal complaint from a local business owner regarding a series of thefts that had taken place over the past month."
+                    ]
+                }
+            ],
+            "answer": "I. Hill's case filing and investigation started earlier, on 1st February 2022, while M. Ward's case filing and investigation started on 1st March 2023."
+        }
+    ]
+}

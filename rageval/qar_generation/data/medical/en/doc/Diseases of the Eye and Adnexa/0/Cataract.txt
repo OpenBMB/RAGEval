@@ -1,0 +1,127 @@
+Hospitalization Record
+
+Basic Information:
+Name: L. Rogers
+Gender: Female
+Age: 56
+Ethnicity: Caucasian
+Marital Status: Married
+Occupation: Teacher
+Address: 89, Greenfield street, Knoxville
+Admission Time: 6th, January
+Record Time: 6th, January
+Historian: Dr. James Nelson
+Hospital Name: Knoxville General Hospital
+
+Chief Complaint:
+Blurry, foggy vision and decreased visual acuity for the past 3 months
+
+Present Illness:
+Onset: 3 months ago, at home, gradual onset, no specific prodromal symptoms identified. Possible aging-related onset.
+Main Symptoms: Blurry, foggy vision affecting both eyes, progressively worsening over time. Decreased visual acuity, significant especially in low-light conditions. No known relieving factors; glare worsens the symptoms.
+Accompanying Symptoms: Increased glare and halos around lights, occasional monocular double or multiple vision, difficulty seeing in bright light.
+Diagnosis and Treatment History: Visited optometrist 2 months ago, diagnosed with early-stage cataract. Prescribed new glasses with minimal relief; no other treatments received prior to hospital admission.
+General Condition Changes: Mental state remains stable, with some frustration due to vision impairment. No significant changes in sleep or appetite, regular urination and defecation, stable weight.
+
+Past History:
+General Health Condition: Generally healthy, no chronic illnesses
+Disease History: No history of systemic diseases or major illnesses
+Infectious Disease History: No history of significant infectious diseases
+Immunization History: Up-to-date with all standard vaccinations
+Surgery and Trauma History: No previous surgeries or significant traumas reported
+Blood Transfusion History: No history of blood transfusions
+Allergy History: No known allergies
+
+Personal History:
+Birthplace: Knoxville
+Residence: Knoxville
+Living Habits: Non-smoker, occasional social drinker, balanced diet
+Occupation and Working Conditions: Teacher at a local high school, generally well-lit and comfortable working conditions
+Exposure History: No significant exposure to industrial toxins, dust, or radioactive substances
+Travel History: No recent travel history reported
+
+Marital and Family History:
+Marital History:
+Marital Status: Married
+Marriage Age: 28
+Spouse's Health Condition: Healthy
+Children's Condition: Two children, both in good health
+Menstrual History:
+Menarche Age: 13
+Menstruation Duration: 5 days
+Menstruation Interval: 28 days
+Last Menstruation: Menopausal at age 50
+Menstrual Volume: Normal
+Dysmenorrhea: None
+Family History: Parents deceased, father had hypertension, mother had diabetes; siblings in good health with no similar vision issues reported.
+
+Physical Examination:
+General Condition:
+Temperature: 36.6°C
+Pulse: 72 bpm
+Respiration: 16 breaths/min
+Blood Pressure: 120/80 mmHg
+
+Systematic Examination:
+Skin: Normal, no lesions or abnormalities
+Mucous Membranes: Normal
+Lymph Nodes: No significant enlargement
+Head and Organs: Normal, no abnormalities noted
+Neck: Normal range of motion, no masses or tenderness
+Chest: Normal thorax shape, clear lung sounds, normal heart sounds, no murmurs
+Abdomen: Normal, no hepatosplenomegaly
+Rectum and Anus: Not examined
+External Genitalia: Normal for age
+Spine: Normal curvature and mobility
+Limbs: Normal, no deformities or abnormalities
+Nervous System: Normal, no deficits or abnormalities
+
+Specialist Examination:
+Ophthalmic examination reveals opacification of the lens in both eyes, more severe in the right eye. Visual acuity: Right eye 20/80, Left eye 20/60. Decreased contrast sensitivity and presence of glare.
+
+Auxiliary Examination:
+Slit-lamp examination confirms cataract diagnosis with visible lens opacities. No evidence of retinal detachment or other ocular pathology.
+
+Preliminary Diagnosis:
+Bilateral Cataract, more pronounced in the right eye
+
+Diagnostic Basis:
+Gradual onset of blurry vision, decreased visual acuity, and ophthalmic examination confirming lens opacities consistent with cataracts.
+
+Differential Diagnosis:
+Glaucoma ruled out due to normal intraocular pressure and absence of optic nerve damage. Age-related macular degeneration ruled out due to normal retinal appearance. Physiological lens aging considered but ruled out due to severity of visual impairment.
+
+Admission Records:
+Physician's Signature: Dr. James Nelson
+
+Post-Admission Course Records:
+First Course Record: Patient was admitted with a primary diagnosis of bilateral cataract. Initial examination confirms the presence of significant lens opacities. Plan includes regular ophthalmologic assessments, potential consideration for cataract surgery if visual impairment significantly impacts daily activities.
+Daily Course Records: 
+Day 1: Vision remains stable, patient experiencing slight improvement with adjusted lighting conditions. 
+Day 2: No significant changes, continues to manage glare with polarized glasses.
+Senior Physician Rounds Records: Dr. Smith reviewed patient on Day 3, agrees with conservative management and consideration for future surgery.
+Difficult Case Discussion Records: N/A
+Handover Records: On Day 4, patient condition remains stable, handed over to Dr. Lee for weekend coverage.
+Transfer Records: N/A
+Stage Summary: End of first week: Patient remains stable, vision unchanged. Continues conservative management, no immediate need for surgical intervention.
+Emergency Records: N/A
+Invasive Procedure Records: N/A
+Consultation Records: Ophthalmology consultation on Day 3, supportive of conservative management.
+Discharge Records: Planned for discharge on Day 7 with follow-up at the ophthalmology clinic in 2 weeks.
+Critically Ill Patient Care Records: N/A
+
+Medical Orders:
+Long-term Orders: 
+1. Regular ophthalmologic assessments.
+2. Polarized glasses for glare management.
+Temporary Orders: N/A
+
+Auxiliary Examination Reports:
+Slit-lamp and visual acuity tests confirming cataract presence and severity.
+
+Temperature Chart:
+Temperature, pulse, respiration, and blood pressure within normal limits throughout hospitalization.
+
+Blood Transfusion Consent: N/A
+Special Examination Consent: N/A
+Critical Condition Notice: N/A

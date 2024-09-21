@@ -1,0 +1,132 @@
+Hospitalization Record
+
+Basic Information:
+Name: G. Gonzalez
+Gender: female
+Age: 42
+Ethnicity: Hispanic
+Marital Status: married
+Occupation: teacher
+Address: 5, Belmont street, Oxford
+Admission Time: 24th, July
+Record Time: 24th, July
+Historian: self
+Hospital Name: Oxford General Hospital
+
+Chief Complaint:
+Severe left-sided back pain and hematuria for 2 days
+
+Present Illness:
+Onset: Started 2 days ago at home; sudden onset; no identifiable triggers; progressive worsening of pain
+Main Symptoms: Severe sharp pain in left lower back; radiating to the groin; persistent and unrelenting; worsened by movement; partially alleviated by lying still
+Accompanying Symptoms: Frequent urination, urgency, and visible blood in urine; low-grade fever; occasional chills
+Diagnosis and Treatment History: Visited primary care physician; urinalysis showed hematuria; initial analgesics provided with minimal effect
+General Condition Changes: Reduced appetite and insomnia due to pain; regular bowel movements; slight increase in frequency of urination
+
+Past History:
+General Health Condition: Generally healthy
+Disease History: History of urinary tract infections; no history of chronic diseases
+Infectious Disease History: No significant infectious diseases
+Immunization History: Up-to-date
+Surgery and Trauma History: Appendectomy at age 25
+Blood Transfusion History: None
+Allergy History: No known allergies
+
+Personal History:
+Birthplace: Madrid, Spain
+Residence: Oxford, UK
+Living Habits: Non-smoker, occasional alcohol consumption, balanced diet, regular exercise
+Occupation and Working Conditions: High school teacher; moderate stress environment
+Exposure History: No known exposure to industrial toxins, dust, or radioactive substances
+Travel History: Visited Spain last month; no recent travel to areas with high risk of infections
+
+Marital and Family History:
+Marital History:
+Marital Status: Married
+Marriage Age: 30
+Spouse's Health Condition: Good health
+Children's Condition: Two children, both in good health
+Menstrual History:
+Menarche Age: 13
+Menstruation Duration: 5 days
+Menstruation Interval: 28 days
+Last Menstruation: 15th, July
+Menstrual Volume: Normal
+Dysmenorrhea: Occasional mild
+Family History: Father has hypertension; mother has diabetes; no family history of urinary tract stones
+
+Physical Examination:
+General Condition:
+Temperature: 37.6°C
+Pulse: 90 bpm
+Respiration: 18 breaths/min
+Blood Pressure: 130/85 mmHg
+Systematic Examination:
+Skin: Normal, no rashes
+Mucous Membranes: Moist, no pallor or jaundice
+Lymph Nodes: No enlargement detected
+Head and Organs: Normal, no abnormalities
+Neck: Supple, no masses
+Chest: Normal heart sounds, no murmurs; clear lungs on auscultation
+Abdomen: Tenderness in left flank; no hepatosplenomegaly
+Rectum and Anus: Not examined
+External Genitalia: Normal
+Spine: Normal alignment, no tenderness
+Limbs: No edema, full range of motion
+Nervous System: Alert and oriented, normal reflexes
+
+Specialist Examination:
+Costovertebral angle tenderness noted on left side
+
+Auxiliary Examination:
+CT scan of abdomen shows left renal calculi; urinalysis shows hematuria and pyuria
+
+Preliminary Diagnosis:
+1. Urinary Tract Stones (Left Renal Calculi)
+2. Hematuria
+
+Diagnostic Basis:
+History of severe back pain radiating to groin, hematuria, fever, and objective findings from urinalysis and CT scan
+
+Differential Diagnosis:
+Peritonitis - ruled out by lack of rebound tenderness and guarding;
+Cholecystitis - no right upper quadrant pain or gallstones;
+Intestinal obstruction - no distention or typical bowel sounds;
+Pancreatitis - no epigastric pain or elevated serum lipase/amylase
+
+Admission Records:
+Physician's Signature: Dr. J. Smith
+
+Post-Admission Course Records:
+First Course Record: Patient admitted for severe left back pain and hematuria. CT scan confirmed left renal calculi. Initial treatment includes hydration, analgesics, and monitoring. Differential diagnosis considers urinary tract stones as primary, further tests to rule out other conditions.
+Daily Course Records: Patient's pain managed with analgesics, adequate hydration maintained. Monitoring urine output and hematuria. No new symptoms. Plan is to continue conservative management and reassess.
+Senior Physician Rounds Records: Senior physician concurs with management. Plan includes continued hydration, pain management, and possible urology consult if no improvement.
+Difficult Case Discussion Records:
+Handover Records: Patient stable, pain managed, hematuria present, continue monitoring and conservative treatment.
+Transfer Records:
+Stage Summary: Patient’s condition stable, pain under control with medication, no signs of infection. Hematuria persists but improving.
+Emergency Records:
+Invasive Procedure Records:
+Consultation Records: Urology consult recommended if pain and hematuria persist beyond 72 hours.
+Discharge Records:
+Critically Ill Patient Care Records:
+
+Medical Orders:
+Long-term Orders:
+1. Hydration therapy
+2. Analgesics as needed
+3. Monitor urine output and hematuria
+4. CT scan if no improvement
+Temporary Orders:
+1. Urinalysis daily
+2. Blood work to monitor renal function
+
+Auxiliary Examination Reports:
+Urinalysis shows persistent hematuria. CT scan confirmed left renal calculi measuring 5mm.
+
+Temperature Chart:
+Temperature consistently between 37.5°C and 37.8°C; pulse and respiration within normal ranges; blood pressure stable.
+
+Blood Transfusion Consent:
+Special Examination Consent:
+Critical Condition Notice:

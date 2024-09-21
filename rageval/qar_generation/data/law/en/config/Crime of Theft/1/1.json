@@ -1,0 +1,76 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Summerville, Franklin, Court",
+        "procuratorate": "Summerville, Franklin, Procuratorate"
+    },
+    "chiefJudge": "Z. Ruiz",
+    "judge": "L. Ramirez",
+    "clerk": "L. Cox",
+    "defendant": {
+        "name": "Q. White",
+        "gender": "female",
+        "birthdate": "8th, February, 1966",
+        "residence": "17, Clearwater street, Franklin",
+        "ethnicity": "Caucasian",
+        "occupation": "Unemployed"
+    },
+    "defenseLawyer": {
+        "name": "Q. Bennett",
+        "lawFirm": "Bennett & Associates Law Firm"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "12th, March, 2023",
+            "description": "The Summerville Police Department received reports of multiple theft incidents attributed to the defendant, Q. White, leading to the formal case filing and initiation of investigation procedures."
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "15th, March, 2023",
+            "description": "Law enforcement officers conducted a search at Q. White’s residence, resulting in the discovery of stolen goods and immediate detention measures being applied."
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "16th, March, 2023",
+            "description": "Q. White was formally placed under criminal detention following initial interrogation and collection of preliminary evidence."
+        },
+        {
+            "event": "Arrest",
+            "date": "18th, March, 2023",
+            "description": "An official arrest warrant was issued by Summerville, Franklin, Court, and Q. White was taken into lawful custody."
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Theft",
+            "details": [
+                {
+                    "timePeriod": "10th, January, 2023 to 14th, January, 2023",
+                    "behavior": "Q. White entered SuperShop Mart multiple times, concealing various high-value electronics under her clothing.",
+                    "evidence": "Surveillance footage from SuperShop Mart capturing Q. White’s actions; written statements from store employees; inventory discrepancies corresponding to the stolen items."
+                },
+                {
+                    "timePeriod": "2nd, February, 2023",
+                    "behavior": "Using a fake ID, Q. White purchased jewelry worth $5,000 from Jewel Haven and paid with a stolen credit card.",
+                    "evidence": "Transaction records from Jewel Haven; stolen credit card reported by the cardholder; ID verification discrepancy noted in store logs."
+                },
+                {
+                    "timePeriod": "8th, March, 2023",
+                    "behavior": "Q. White broke into a residence at 45, Bluejay Avenue, stealing valuable artwork and cash totaling $10,000.",
+                    "evidence": "Witness testimony from neighbors; fingerprints lifted from the crime scene; photographs of the stolen artwork found in Q. White’s residence."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "20th, April, 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Theft",
+                "sentence": "4 years of fixed-term imprisonment and a fine of $20,000.",
+                "sentencingConsiderations": "The court considered the series of thefts, the total amount stolen exceeding significant thresholds, and the defendant’s repeated offenses."
+            }
+        ],
+        "probation": "No probation applicable as the crimes involve particularly serious circumstances, including high-value theft and repeated offenses."
+    }
+}

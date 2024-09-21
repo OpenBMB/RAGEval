@@ -1,0 +1,239 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the ethics and integrity incidents at InnovaTech Solutions in 2017 and Entertainment Enterprises Inc. in 2019?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In August 2017, InnovaTech Solutions faced ethics and integrity incidents.",
+                        "The company took significant measures in response to these violations, aiming to mitigate any potential impact on its reputation and relationships with stakeholders."
+                    ]
+                },
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In July 2019, Entertainment Enterprises Inc. identified an internal fraud incident and took prompt action to address it.",
+                        "This swift response to the integrity violation prevented damage to the company's reputation and brand value, preserving positive relationships with investors, customers, and partners.",
+                        "By prioritizing ethics and integrity, Entertainment Enterprises Inc. demonstrated its commitment to maintaining high standards of corporate conduct."
+                    ]
+                }
+            ],
+            "answer": "The ethics and integrity incidents at InnovaTech Solutions in 2017 had a potential impact on the company's reputation and relationships with stakeholders. At Entertainment Enterprises Inc., addressing the internal fraud incident in 2019 promptly prevented damage to the company's reputation and preserved positive relationships with investors, customers, and partners."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How did the compliance and regulatory updates affect InnovaTech Solutions in 2017 and Entertainment Enterprises Inc. in 2019?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In May 2017, InnovaTech Solutions also ensured compliance with updated regulations affecting corporate governance practices.",
+                        "By staying compliant and reducing legal risks, the company protected its interests and maintained its reputation."
+                    ]
+                },
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In August 2019, Entertainment Enterprises Inc. proactively updated its compliance practices to adhere to the latest regulatory changes in the entertainment industry.",
+                        "This commitment to compliance ensured that the company operated within the bounds of the law, reducing legal risks and safeguarding its reputation.",
+                        "By staying abreast of evolving regulations, Entertainment Enterprises Inc. demonstrated its dedication to responsible and ethical business practices."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions' compliance and regulatory updates in 2017 ensured compliance, reduced legal risk, and protected interests. Entertainment Enterprises Inc.'s proactive updates to compliance practices in 2019 reduced legal risks, safeguarded the company's reputation, and secured relationships with investors, customers, and partners."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the corporate governance policy revisions at InnovaTech Solutions in 2017 and Entertainment Enterprises Inc. in 2019?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "Lastly, in December 2017, InnovaTech Solutions revised its corporate governance policies.",
+                        "This revision had the potential to enhance transparency, accountability, and stakeholder confidence."
+                    ]
+                },
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In September 2019, Entertainment Enterprises Inc. revised its corporate governance policy to ensure the highest level of transparency, accountability, and stakeholder engagement.",
+                        "This revision significantly improved the company's transparency and accountability, reinforcing stakeholder confidence and fostering a responsible corporate culture.",
+                        "By prioritizing good governance, Entertainment Enterprises Inc. positioned itself as a trustworthy and reliable organization."
+                    ]
+                }
+            ],
+            "answer": "The corporate governance policy revision at InnovaTech Solutions in 2017 had a potential impact on transparency, accountability, and stakeholder confidence. At Entertainment Enterprises Inc., the updates in 2019 significantly improved transparency and accountability, reinforcing stakeholder confidence and fostering a responsible corporate culture."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the risk management measures implemented by InnovaTech Solutions in 2017 and Entertainment Enterprises Inc. in 2019?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In November 2017, the company implemented updates to its risk management framework.",
+                        "These measures aimed to address internal and external risks and ensure continuous operation."
+                    ]
+                },
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In October 2019, Entertainment Enterprises Inc. strengthened its risk management measures in response to emerging risks.",
+                        "This proactive approach to risk management enhanced the company's resilience against internal and external risks, ensuring continuous operations and stable development.",
+                        "By effectively managing risks, Entertainment Enterprises Inc. safeguarded its business and protected the interests of its stakeholders."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions' updates to the risk management framework in 2017 had a potential impact on internal and external risks, ensuring continuous operation. Entertainment Enterprises Inc.'s strengthened risk management measures in 2019 improved resilience against internal and external risks, ensuring continuous operations and stable development."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of the board of directors changes for InnovaTech Solutions and Entertainment Enterprises Inc. Which company had changes in their board of directors earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "One of the key governance changes occurred in January 2017 with the appointment and resignation of board members."
+                    ]
+                },
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In February 2019, Entertainment Enterprises Inc. appointed two new independent directors, Jennifer Adams and Michael Collins, to its board of directors."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions had changes in their board of directors earlier in January 2017."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when InnovaTech Solutions and Entertainment Enterprises Inc. launched their sustainability and social responsibility initiatives. Which company launched these initiatives earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "Furthermore, InnovaTech Solutions demonstrated its commitment to sustainability and social responsibility in April 2017.",
+                        "The company made progress in areas such as sustainability, environmental protection, and corporate citizenship."
+                    ]
+                },
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In January 2019, Entertainment Enterprises Inc. launched a comprehensive sustainability program aimed at reducing its carbon footprint and implementing environmentally friendly practices.",
+                        "This initiative had a significant impact on the company, resulting in reduced operating costs, improved resource efficiency, and a positive public perception of its environmental responsibility.",
+                        "The sustainability program also enhanced the company's brand reputation and demonstrated its commitment to addressing environmental challenges."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions launched their sustainability and social responsibility initiatives earlier in April 2017."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of the shareholders' meeting resolutions for InnovaTech Solutions and Entertainment Enterprises Inc. Which company held their shareholders' meeting earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "The shareholders' meeting resolution in June 2017 resulted in key decisions that impacted the company's governance structure, operational strategies, and shareholder rights."
+                    ]
+                },
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In March 2019, several key decisions were made at the annual shareholders' meeting, including the approval of an increase in authorized share capital, the election of new board members, and the approval of dividend payments.",
+                        "These decisions directly impacted the company's governance structure, future operational strategies, and the rights of shareholders."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions held their shareholders' meeting earlier in June 2017."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of the ethics and integrity incidents for InnovaTech Solutions and Entertainment Enterprises Inc. Which company experienced these incidents earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In August 2017, InnovaTech Solutions faced ethics and integrity incidents.",
+                        "The company took significant measures in response to these violations, aiming to mitigate any potential impact on its reputation and relationships with stakeholders."
+                    ]
+                },
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In July 2019, Entertainment Enterprises Inc. identified an internal fraud incident and took prompt action to address it.",
+                        "This swift response to the integrity violation prevented damage to the company's reputation and brand value, preserving positive relationships with investors, customers, and partners."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions experienced ethics and integrity incidents earlier in August 2017."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of senior management changes for InnovaTech Solutions and Entertainment Enterprises Inc. Which company had senior management changes earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In September 2017, there were changes in senior management positions at InnovaTech Solutions.",
+                        "These changes had the potential to influence the company's operational focus and priorities."
+                    ]
+                },
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "Finally, in December 2019, Entertainment Enterprises Inc. appointed Sarah Johnson as its new Chief Executive Officer.",
+                        "This appointment may lead to adjustments in operational focus and strategic priorities, impacting the company's short-term performance and long-term development."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions had senior management changes earlier in September 2017."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when InnovaTech Solutions and Entertainment Enterprises Inc. updated their risk management measures. Which company updated their risk management measures earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "In November 2017, the company implemented updates to its risk management framework.",
+                        "These measures aimed to address internal and external risks and ensure continuous operation."
+                    ]
+                },
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In October 2019, Entertainment Enterprises Inc. strengthened its risk management measures in response to emerging risks.",
+                        "This proactive approach to risk management enhanced the company's resilience against internal and external risks, ensuring continuous operations and stable development."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions updated their risk management measures earlier in November 2017."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of corporate governance policy revisions for InnovaTech Solutions and Entertainment Enterprises Inc. Which company revised their corporate governance policy earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovaTech Solutions",
+                    "content": [
+                        "Lastly, in December 2017, InnovaTech Solutions revised its corporate governance policies.",
+                        "This revision had the potential to enhance transparency, accountability, and stakeholder confidence."
+                    ]
+                },
+                {
+                    "company_name": "Entertainment Enterprises Inc.",
+                    "content": [
+                        "In September 2019, Entertainment Enterprises Inc. revised its corporate governance policy to ensure the highest level of transparency, accountability, and stakeholder engagement.",
+                        "This revision significantly improved the company's transparency and accountability, reinforcing stakeholder confidence and fostering a responsible corporate culture."
+                    ]
+                }
+            ],
+            "answer": "InnovaTech Solutions revised their corporate governance policy earlier in December 2017."
+        }
+    ]
+}

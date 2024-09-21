@@ -1,0 +1,219 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "K. Moore",
+            "Gender": "male",
+            "Age": "85",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Widowed",
+            "Occupation": "Retired",
+            "Address": "27, Milton street, Upton",
+            "Admission Time": "10th, February",
+            "Record Time": "10th, February",
+            "Historian": "Self",
+            "Hospital Name": "Upton General Hospital"
+        },
+        "Chief Complaint": "Itchy skin rashes for 2 weeks",
+        "Present Illness": {
+            "Onset": "Started suddenly 2 weeks ago at home, no obvious prodrome, possible trigger unknown",
+            "Main Symptoms": "Red, itchy skin rashes on wrists, forearms, and neck; papules and occasional blisters; symptoms worsen with scratching and slightly improve with topical creams",
+            "Accompanying Symptoms": "Mild swelling and lichenification in areas of persistent scratching, no fever or systemic symptoms",
+            "Diagnosis and Treatment History": "Applied over-the-counter hydrocortisone cream with partial relief, no prior consultation before admission",
+            "General Condition Changes": "Normal mental state, slightly disturbed sleep due to itching, normal appetite, no change in urination and defecation, stable weight"
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy for age, chronic hypertension managed with medication",
+            "Disease History": "Hypertension for 15 years, no history of diabetes or significant chronic illnesses",
+            "Infectious Disease History": "No history of significant infectious diseases",
+            "Immunization History": "Up-to-date with vaccinations, including influenza and pneumonia",
+            "Surgery and Trauma History": "Appendectomy at age 25, no significant trauma history",
+            "Blood Transfusion History": "No history of blood transfusions",
+            "Allergy History": "Allergic to penicillin"
+        },
+        "Personal History": {
+            "Birthplace": "Upton",
+            "Residence": "Upton",
+            "Living Habits": "Non-smoker, drinks alcohol occasionally, balanced diet",
+            "Occupation and Working Conditions": "Retired, previously worked as a teacher",
+            "Exposure History": "No known exposure to industrial toxins, dust, or radioactive substances",
+            "Travel History": "No recent travel history"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Widowed",
+                "Marriage Age": "24",
+                "Spouse's Health Condition": "Passed away due to natural causes",
+                "Children's Condition": "One son, healthy, aged 60"
+            },
+            "Family History": "Father had hypertension, mother was generally healthy, no siblings"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "36.6°C",
+                "Pulse": "72 bpm",
+                "Respiration": "16 breaths/min",
+                "Blood Pressure": "130/80 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Erythematous rashes on wrists, forearms, and neck with papules, occasional blisters, and lichenification",
+                "Mucous Membranes": "Normal, no lesions",
+                "Lymph Nodes": "No significant lymphadenopathy",
+                "Head and Organs": "Normocephalic, atraumatic, normal vision and hearing",
+                "Neck": "Supple, no thyroid enlargement",
+                "Chest": "Clear breath sounds, no wheezing or crackles; normal heart sounds, no murmurs",
+                "Abdomen": "Soft, non-tender, no hepatosplenomegaly",
+                "Rectum and Anus": "Normal, no masses or hemorrhoids",
+                "External Genitalia": "Normal for age",
+                "Spine": "No deformities or tenderness",
+                "Limbs": "No clubbing or cyanosis, normal range of motion",
+                "Nervous System": "Alert and oriented, normal reflexes and motor strength"
+            }
+        },
+        "Specialist Examination": "Dermatology consult: consistent with dermatitis, further evaluation needed to rule out differential diagnoses",
+        "Auxiliary Examination": "CBC: WBC 7.2 x 10^3/µL, Eosinophils 5%; Skin biopsy: pending results",
+        "Preliminary Diagnosis": "Dermatitis",
+        "Diagnostic Basis": "Clinical presentation of itchy erythematous rashes, history of partial relief with topical treatment, physical examination findings",
+        "Differential Diagnosis": "Atopic dermatitis: less likely due to onset in elderly; Contact dermatitis: possible but no clear exposure; Seborrheic dermatitis: unlikely due to distribution; Others: ruled out based on history and examination",
+        "Admission Records": {
+            "Physician's Signature": "Dr. A. Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Admitted for evaluation and management of dermatitis. Differential includes contact dermatitis, atopic dermatitis, and other eczematous conditions. Plan: Continue hydrocortisone, initiate oral antihistamines, consult dermatology for further evaluation",
+            "Daily Course Records": "10th February: Slight improvement in itching, no new lesions; 11th February: Dermatology saw the patient, recommended patch testing for allergens",
+            "Senior Physician Rounds Records": "Reviewed case, agrees with current plan, monitor for response to treatment",
+            "Difficult Case Discussion Records": "",
+            "Handover Records": "Patient stable, to continue current management, pending patch test results",
+            "Transfer Records": "",
+            "Stage Summary": "",
+            "Emergency Records": "",
+            "Invasive Procedure Records": "",
+            "Consultation Records": "Dermatology consult on 11th February, recommendations: patch testing, continue topical and oral treatments",
+            "Discharge Records": "",
+            "Critically Ill Patient Care Records": ""
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Topical hydrocortisone cream, apply twice daily; Oral antihistamine once daily at bedtime",
+            "Temporary Orders": "Skin biopsy, pending results; Patch testing for allergens"
+        },
+        "Auxiliary Examination Reports": "Skin biopsy result: spongiotic dermatitis, consistent with eczematous conditions; Patch test: pending",
+        "Temperature Chart": "Temperature stable, 36.6°C; Pulse stable, 72 bpm; Respiration stable, 16 breaths/min; Blood pressure stable, 130/80 mmHg",
+        "Blood Transfusion Consent": "",
+        "Special Examination Consent": "",
+        "Critical Condition Notice": ""
+    },
+    "DiseaseType": {
+        "Diseases of the Skin and Subcutaneous Tissue": {
+            "Name": "Dermatitis",
+            "Symptoms": "Skin rashes, papules, blisters, lichenification, etc.",
+            "Differential Diagnosis": "Atopic dermatitis, contact dermatitis, seborrheic dermatitis, stasis dermatitis, neurodermatitis, superficial fungal infections, scabies, polymorphic light eruption, eosinophilia syndrome, pellagra, etc."
+        }
+    },
+    "Generated Article": "Hospitalization Record:\n\nBasic Information:\nName: K. Moore\nGender: Male\nAge: 85\nEthnicity: Caucasian\nMarital Status: Widowed\nOccupation: Retired\nAddress: 27, Milton Street, Upton\nAdmission Time: 10th February\nRecord Time: 10th February\nHistorian: Self\nHospital Name: Upton General Hospital\n\nChief Complaint:\nItchy skin rashes for 2 weeks\n\nPresent Illness:\nOnset:\nStarted suddenly 2 weeks ago at home, no obvious prodrome, possible trigger unknown\n\nMain Symptoms:\nRed, itchy skin rashes on wrists, forearms, and neck; papules and occasional blisters; symptoms worsen with scratching and slightly improve with topical creams\n\nAccompanying Symptoms:\nMild swelling and lichenification in areas of persistent scratching, no fever or systemic symptoms\n\nDiagnosis and Treatment History:\nApplied over-the-counter hydrocortisone cream with partial relief, no prior consultation before admission\n\nGeneral Condition Changes:\nNormal mental state, slightly disturbed sleep due to itching, normal appetite, no change in urination and defecation, stable weight\n\nPast History:\nGeneral Health Condition:\nGenerally healthy for age, chronic hypertension managed with medication\n\nDisease History:\nHypertension for 15 years, no history of diabetes or significant chronic illnesses\n\nInfectious Disease History:\nNo history of significant infectious diseases\n\nImmunization History:\nUp-to-date with vaccinations, including influenza and pneumonia\n\nSurgery and Trauma History:\nAppendectomy at age 25, no significant trauma history\n\nBlood Transfusion History:\nNo history of blood transfusions\n\nAllergy History:\nAllergic to penicillin\n\nPersonal History:\nBirthplace: Upton\nResidence: Upton\nLiving Habits: Non-smoker, drinks alcohol occasionally, balanced diet\nOccupation and Working Conditions: Retired, previously worked as a teacher\nExposure History: No known exposure to industrial toxins, dust, or radioactive substances\nTravel History: No recent travel history\n\nMarital and Family History:\nMarital History:\nMarital Status: Widowed\nMarriage Age: 24\nSpouse's Health Condition: Passed away due to natural causes\nChildren's Condition: One son, healthy, aged 60\n\nFamily History:\nFather had hypertension, mother was generally healthy, no siblings\n\nPhysical Examination:\nGeneral Condition:\nTemperature: 36.6°C\nPulse: 72 bpm\nRespiration: 16 breaths/min\nBlood Pressure: 130/80 mmHg\n\nSystematic Examination:\nSkin: Erythematous rashes on wrists, forearms, and neck with papules, occasional blisters, and lichenification\nMucous Membranes: Normal, no lesions\nLymph Nodes: No significant lymphadenopathy\nHead and Organs: Normocephalic, atraumatic, normal vision and hearing\nNeck: Supple, no thyroid enlargement\nChest: Clear breath sounds, no wheezing or crackles; normal heart sounds, no murmurs\nAbdomen: Soft, non-tender, no hepatosplenomegaly\nRectum and Anus: Normal, no masses or hemorrhoids\nExternal Genitalia: Normal for age\nSpine: No deformities or tenderness\nLimbs: No clubbing or cyanosis, normal range of motion\nNervous System: Alert and oriented, normal reflexes and motor strength\n\nSpecialist Examination:\nDermatology consult: consistent with dermatitis, further evaluation needed to rule out differential diagnoses\n\nAuxiliary Examination:\nCBC: WBC 7.2 x 10^3/µL, Eosinophils 5%; Skin biopsy: pending results\n\nPreliminary Diagnosis:\nDermatitis\n\nDiagnostic Basis:\nClinical presentation of itchy erythematous rashes, history of partial relief with topical treatment, physical examination findings\n\nDifferential Diagnosis:\nAtopic dermatitis: less likely due to onset in elderly; Contact dermatitis: possible but no clear exposure; Seborrheic dermatitis: unlikely due to distribution; Others: ruled out based on history and examination\n\nAdmission Records:\nPhysician's Signature: Dr. A. Smith\n\nPost-Admission Course Records:\nFirst Course Record:\nAdmitted for evaluation and management of dermatitis. Differential includes contact dermatitis, atopic dermatitis, and other eczematous conditions. Plan: Continue hydrocortisone, initiate oral antihistamines, consult dermatology for further evaluation\n\nDaily Course Records:\n10th February: Slight improvement in itching, no new lesions\n11th February: Dermatology saw the patient, recommended patch testing for allergens\n\nSenior Physician Rounds Records:\nReviewed case, agrees with current plan, monitor for response to treatment\n\nDifficult Case Discussion Records: \n(Hypothetical insertion if further discussion needed)\n\nHandover Records:\nPatient stable, to continue current management, pending patch test results\n\nTransfer Records:\n(Hypothetical if patient needs transfer)\n\nStage Summary:\n(Hypothetical if needed mid-way evaluation)\n\nEmergency Records:\n(Hypothetical if any emergency intervention required)\n\nInvasive Procedure Records:\n(Hypothetical if any invasive procedures performed)\n\nConsultation Records:\nDermatology consult on 11th February, recommendations: patch testing, continue topical and oral treatments\n\nDischarge Records:\n(Hypothetical when discharging patient)\n\nCritically Ill Patient Care Records:\n(Hypothetical if patient becomes critically ill)\n\nMedical Orders:\nLong-term Orders:\nTopical hydrocortisone cream, apply twice daily; Oral antihistamine once daily at bedtime\n\nTemporary Orders:\nSkin biopsy, pending results; Patch testing for allergens\n\nAuxiliary Examination Reports:\nSkin biopsy result: spongiotic dermatitis, consistent with eczematous conditions; Patch test: pending\n\nTemperature Chart:\nTemperature stable, 36.6°C; Pulse stable, 72 bpm; Respiration stable, 16 breaths/min; Blood pressure stable, 130/80 mmHg\n\nBlood Transfusion Consent: \n(Hypothetical if needed)\n\nSpecial Examination Consent: \n(Hypothetical if any special exams need consent)\n\nCritical Condition Notice:\n(Hypothetical if patient becomes critically ill)\n\nDiseaseType:\nDiseases of the Skin and Subcutaneous Tissue:\nName: Dermatitis\nSymptoms: Skin rashes, papules, blisters, lichenification, etc.\nDifferential Diagnosis: Atopic dermatitis, contact dermatitis, seborrheic dermatitis, stasis dermatitis, neurodermatitis, superficial fungal infections, scabies, polymorphic light eruption, eosinophilia syndrome, pellagra, etc.",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Upton General Hospital, what is K. Moore's initial diagnosis?",
+            "answer": "Dermatitis.",
+            "ref": [
+                "Preliminary Diagnosis:",
+                "Dermatitis"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Upton General Hospital, what is K. Moore's chief complaint?",
+            "answer": "Itchy skin rashes for 2 weeks.",
+            "ref": [
+                "Chief Complaint:",
+                "Itchy skin rashes for 2 weeks"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Upton General Hospital, what is K. Moore's age?",
+            "answer": "85.",
+            "ref": [
+                "Age: 85"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Upton General Hospital, what is K. Moore's gender?",
+            "answer": "Male.",
+            "ref": [
+                "Gender: Male"
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Upton General Hospital, how many auxiliary examinations did K. Moore undergo?",
+            "answer": "According to the records, K. Moore underwent 2 auxiliary examinations, namely CBC and skin biopsy.",
+            "ref": [
+                "Auxiliary Examination:",
+                "CBC: WBC 7.2 x 10^3/µL, Eosinophils 5%; Skin biopsy: pending results"
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Upton General Hospital, summarize the present illness of K. Moore.",
+            "answer": "K. Moore's present illness started suddenly 2 weeks ago at home with no obvious prodrome and an unknown possible trigger. The main symptoms include red, itchy skin rashes on wrists, forearms, and neck, with papules and occasional blisters. Symptoms worsen with scratching and slightly improve with topical creams. Accompanying symptoms include mild swelling and lichenification in areas of persistent scratching, with no fever or systemic symptoms. He applied over-the-counter hydrocortisone cream with partial relief and had no prior consultation before admission. His general condition includes a normal mental state, slightly disturbed sleep due to itching, normal appetite, no change in urination and defecation, and stable weight.",
+            "ref": [
+                "Onset:",
+                "Started suddenly 2 weeks ago at home, no obvious prodrome, possible trigger unknown",
+                "Main Symptoms:",
+                "Red, itchy skin rashes on wrists, forearms, and neck; papules and occasional blisters; symptoms worsen with scratching and slightly improve with topical creams",
+                "Accompanying Symptoms:",
+                "Mild swelling and lichenification in areas of persistent scratching, no fever or systemic symptoms",
+                "Diagnosis and Treatment History:",
+                "Applied over-the-counter hydrocortisone cream with partial relief, no prior consultation before admission",
+                "General Condition Changes:"
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Upton General Hospital, summarize the past medical history of K. Moore.",
+            "answer": "K. Moore is generally healthy for his age with chronic hypertension managed with medication. He has had hypertension for 15 years, no history of diabetes or significant chronic illnesses, no history of significant infectious diseases, and is up-to-date with vaccinations including influenza and pneumonia. He had an appendectomy at age 25 and no significant trauma history. He has no history of blood transfusions and is allergic to penicillin.",
+            "ref": [
+                "General Health Condition:",
+                "Generally healthy for age, chronic hypertension managed with medication",
+                "Disease History:",
+                "Hypertension for 15 years, no history of diabetes or significant chronic illnesses",
+                "Infectious Disease History:",
+                "No history of significant infectious diseases",
+                "Immunization History:",
+                "Surgery and Trauma History:",
+                "Appendectomy at age 25, no significant trauma history",
+                "Blood Transfusion History:",
+                "Allergy History:"
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Upton General Hospital, summarize the physical examination findings of K. Moore.",
+            "answer": "K. Moore's general condition includes a temperature of 36.6°C, pulse of 72 bpm, respiration of 16 breaths/min, and blood pressure of 130/80 mmHg. Systematic examination findings include erythematous rashes on wrists, forearms, and neck with papules, occasional blisters, and lichenification. Mucous membranes are normal with no lesions, and there is no significant lymphadenopathy. Head and organs are normocephalic and atraumatic with normal vision and hearing. The neck is supple with no thyroid enlargement. The chest has clear breath sounds with no wheezing or crackles, and normal heart sounds with no murmurs. The abdomen is soft and non-tender with no hepatosplenomegaly. The rectum and anus are normal with no masses or hemorrhoids. External genitalia are normal for age. The spine has no deformities or tenderness. Limbs show no clubbing or cyanosis with a normal range of motion. The nervous system is alert and oriented with normal reflexes and motor strength.",
+            "ref": [
+                "General Condition:",
+                "Temperature: 36.6°C",
+                "Pulse: 72 bpm",
+                "Respiration: 16 breaths/min",
+                "Blood Pressure: 130/80 mmHg",
+                "Skin: Erythematous rashes on wrists, forearms, and neck with papules, occasional blisters, and lichenification",
+                "Mucous Membranes: Normal, no lesions",
+                "Lymph Nodes: No significant lymphadenopathy",
+                "Head and Organs: Normocephalic, atraumatic, normal vision and hearing",
+                "Neck: Supple, no thyroid enlargement",
+                "Chest: Clear breath sounds, no wheezing or crackles; normal heart sounds, no murmurs",
+                "Abdomen: Soft, non-tender, no hepatosplenomegaly",
+                "Rectum and Anus: Normal, no masses or hemorrhoids",
+                "External Genitalia: Normal for age",
+                "Spine: No deformities or tenderness",
+                "Limbs: No clubbing or cyanosis, normal range of motion",
+                "Nervous System: Alert and oriented, normal reflexes and motor strength"
+            ]
+        }
+    ]
+}

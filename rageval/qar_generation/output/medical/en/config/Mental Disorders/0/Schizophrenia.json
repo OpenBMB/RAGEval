@@ -1,0 +1,213 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "L. Bailey",
+            "Gender": "male",
+            "Age": "27",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Single",
+            "Occupation": "Software Developer",
+            "Address": "86, Northwood street, Tremont",
+            "Admission Time": "24th, September",
+            "Record Time": "24th, September",
+            "Historian": "Patient and mother",
+            "Hospital Name": "Tremont General Hospital"
+        },
+        "Chief Complaint": "Experiencing auditory hallucinations and delusional thoughts for the past 1 month",
+        "Present Illness": {
+            "Onset": "Symptoms began suddenly 1 month ago at home, with no clear prodromal symptoms or identifiable triggers.",
+            "Main Symptoms": "The patient reports hearing voices that are not there (auditory hallucinations), having strong beliefs that are not based in reality (delusions), and displaying disorganized thinking, such as difficulty in organizing thoughts and a lack of logical connections.",
+            "Accompanying Symptoms": "Social withdrawal, experiencing abnormal emotional responses such as inappropriate laughter or crying, and noticeable slow responses during conversations.",
+            "Diagnosis and Treatment History": "No significant history of mental illness prior to this. The patient was evaluated by a primary care physician and referred for psychiatric evaluation.",
+            "General Condition Changes": "Patient reports disturbed sleep patterns, poor appetite, and slight weight loss. No changes in urination or defecation reported."
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy with no chronic medical conditions.",
+            "Disease History": "No history of major illnesses.",
+            "Infectious Disease History": "No significant infectious disease history.",
+            "Immunization History": "Up to date on all recommended vaccinations.",
+            "Surgery and Trauma History": "No history of surgeries or significant traumas.",
+            "Blood Transfusion History": "No history of blood transfusions.",
+            "Allergy History": "No known allergies."
+        },
+        "Personal History": {
+            "Birthplace": "Tremont",
+            "Residence": "Tremont",
+            "Living Habits": "Nonsmoker, drinks alcohol occasionally, no history of drug abuse.",
+            "Occupation and Working Conditions": "Works as a software developer in an indoor office setting.",
+            "Exposure History": "No known exposure to industrial toxins, dust, or radioactive substances.",
+            "Travel History": "No recent travel history."
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Single",
+                "Marriage Age": "N/A",
+                "Spouse's Health Condition": "N/A",
+                "Children's Condition": "N/A"
+            },
+            "Family History": "Family reports no history of schizophrenia or other major mental health disorders. Parents are healthy; has one younger sibling who is also healthy."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "36.7°C",
+                "Pulse": "72 bpm",
+                "Respiration": "16 breaths/min",
+                "Blood Pressure": "120/80 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "No abnormalities detected, normal color and texture.",
+                "Mucous Membranes": "Moist and pink.",
+                "Lymph Nodes": "No palpable lymphadenopathy.",
+                "Head and Organs": "Normocephalic, atraumatic, no abnormalities detected.",
+                "Neck": "Supple, no masses or tenderness.",
+                "Chest": "No deformities, lungs clear to auscultation, heart sounds normal.",
+                "Abdomen": "Soft, non-tender, no organomegaly detected.",
+                "Rectum and Anus": "Not examined.",
+                "External Genitalia": "No abnormalities detected.",
+                "Spine": "No deformities or tenderness.",
+                "Limbs": "Normal range of motion, no deformities or edema.",
+                "Nervous System": "Alert and oriented, cranial nerves intact, motor strength 5/5 in all extremities, normal reflexes."
+            }
+        },
+        "Specialist Examination": "Mental status examination shows disorganized speech, auditory hallucinations, and delusional thoughts.",
+        "Auxiliary Examination": "Complete blood count and metabolic panel within normal limits prior to admission. Brain MRI shows no structural abnormalities.",
+        "Preliminary Diagnosis": "Schizophrenia",
+        "Diagnostic Basis": "Diagnosis based on history of hallucinations, delusions, disorganized thinking, and associated social withdrawal and emotional responses. Confirmed with mental status examination.",
+        "Differential Diagnosis": "Schizotypal personality disorder (ruled out due to lack of pervasive pattern of social and interpersonal deficits typical of the disorder), depression (ruled out as primary diagnosis due to prevalence of psychotic symptoms), metabolic diseases (ruled out by normal metabolic panel).",
+        "Admission Records": {
+            "Physician's Signature": "Dr. J. Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with symptoms of auditory hallucinations, delusions, social withdrawal, and emotional dysregulation. Initial treatment plan includes starting antipsychotic medication (Risperidone) and cognitive behavioral therapy (CBT).",
+            "Daily Course Records": "Day 1: Patient started on 2mg Risperidone. Reports some drowsiness but no other adverse effects.",
+            "Senior Physician Rounds Records": "Outlined management plan including ongoing Risperidone treatment and initiation of CBT. No contraindications to planned treatment.",
+            "Difficult Case Discussion Records": "",
+            "Handover Records": "Patient remains stable; continue antipsychotic medication and monitor for side effects. Engage in regular CBT sessions.",
+            "Transfer Records": "",
+            "Stage Summary": "After one week, patient shows mild improvement in symptoms. Voices are less frequent, delusional thoughts are less intrusive, and patient shows increased engagement in therapy. Continue current treatment regimen.",
+            "Emergency Records": "",
+            "Invasive Procedure Records": "",
+            "Consultation Records": "Consult performed with psychiatry confirmed diagnosis and agreed on treatment plan.",
+            "Discharge Records": "",
+            "Critically Ill Patient Care Records": ""
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Risperidone 2mg daily, Cognitive Behavioral Therapy twice weekly.",
+            "Temporary Orders": "CBC and metabolic panel weekly, monitor for side effects of Risperidone."
+        },
+        "Auxiliary Examination Reports": "Complete blood count, metabolic panel, and brain MRI are normal.",
+        "Temperature Chart": "Temperature: 36.7°C, Pulse: 72 bpm, Respiration: 16 breaths/min, Blood Pressure: 120/80 mmHg.",
+        "Blood Transfusion Consent": "",
+        "Special Examination Consent": "",
+        "Critical Condition Notice": ""
+    },
+    "DiseaseType": {
+        "Mental Disorders": {
+            "Name": "Schizophrenia",
+            "Symptoms": "Hallucinations, delusions, disorganized thinking, abnormal emotional responses, social withdrawal, slow responses",
+            "Differential Diagnosis": "Schizotypal personality disorder, depression, metabolic diseases."
+        }
+    },
+    "Generated Article": "Hospitalization Record:\n\nBasic Information:\nName: L. Bailey\nGender: Male\nAge: 27\nEthnicity: Caucasian\nMarital Status: Single\nOccupation: Software Developer\nAddress: 86, Northwood Street, Tremont\nAdmission Time: 24th, September\nRecord Time: 24th, September\nHistorian: Patient and mother\nHospital Name: Tremont General Hospital\n\nChief Complaint:\nExperiencing auditory hallucinations and delusional thoughts for the past 1 month.\n\nPresent Illness:\nOnset: Symptoms began suddenly 1 month ago at home, with no clear prodromal symptoms or identifiable triggers.\nMain Symptoms: The patient reports hearing voices that are not there (auditory hallucinations), having strong beliefs that are not based in reality (delusions), and displaying disorganized thinking, such as difficulty in organizing thoughts and a lack of logical connections.\nAccompanying Symptoms: Social withdrawal, experiencing abnormal emotional responses such as inappropriate laughter or crying, and noticeable slow responses during conversations.\nDiagnosis and Treatment History: No significant history of mental illness prior to this. The patient was evaluated by a primary care physician and referred for psychiatric evaluation.\nGeneral Condition Changes: Patient reports disturbed sleep patterns, poor appetite, and slight weight loss. No changes in urination or defecation reported.\n\nPast History:\nGeneral Health Condition: Generally healthy with no chronic medical conditions.\nDisease History: No history of major illnesses.\nInfectious Disease History: No significant infectious disease history.\nImmunization History: Up to date on all recommended vaccinations.\nSurgery and Trauma History: No history of surgeries or significant traumas.\nBlood Transfusion History: No history of blood transfusions.\nAllergy History: No known allergies.\n\nPersonal History:\nBirthplace: Tremont\nResidence: Tremont\nLiving Habits: Nonsmoker, drinks alcohol occasionally, no history of drug abuse.\nOccupation and Working Conditions: Works as a software developer in an indoor office setting.\nExposure History: No known exposure to industrial toxins, dust, or radioactive substances.\nTravel History: No recent travel history.\n\nMarital and Family History:\nMarital History:\nMarital Status: Single\nMarriage Age: N/A\nSpouse's Health Condition: N/A\nChildren's Condition: N/A\nFamily History: Family reports no history of schizophrenia or other major mental health disorders. Parents are healthy; has one younger sibling who is also healthy.\n\nPhysical Examination:\nGeneral Condition:\nTemperature: 36.7°C\nPulse: 72 bpm\nRespiration: 16 breaths/min\nBlood Pressure: 120/80 mmHg\n\nSystematic Examination:\nSkin: No abnormalities detected, normal color and texture.\nMucous Membranes: Moist and pink.\nLymph Nodes: No palpable lymphadenopathy.\nHead and Organs: Normocephalic, atraumatic, no abnormalities detected.\nNeck: Supple, no masses or tenderness.\nChest: No deformities, lungs clear to auscultation, heart sounds normal.\nAbdomen: Soft, non-tender, no organomegaly detected.\nRectum and Anus: Not examined.\nExternal Genitalia: No abnormalities detected.\nSpine: No deformities or tenderness.\nLimbs: Normal range of motion, no deformities or edema.\nNervous System: Alert and oriented, cranial nerves intact, motor strength 5/5 in all extremities, normal reflexes.\n\nSpecialist Examination:\nMental status examination shows disorganized speech, auditory hallucinations, and delusional thoughts.\n\nAuxiliary Examination:\nComplete blood count and metabolic panel within normal limits prior to admission. Brain MRI shows no structural abnormalities.\n\nPreliminary Diagnosis:\nSchizophrenia\n\nDiagnostic Basis:\nDiagnosis based on history of hallucinations, delusions, disorganized thinking, and associated social withdrawal and emotional responses. Confirmed with mental status examination.\n\nDifferential Diagnosis:\nSchizotypal personality disorder (ruled out due to lack of pervasive pattern of social and interpersonal deficits typical of the disorder), depression (ruled out as primary diagnosis due to prevalence of psychotic symptoms), metabolic diseases (ruled out by normal metabolic panel).\n\nAdmission Records:\nPhysician's Signature: Dr. J. Smith\n\nPost-Admission Course Records:\nFirst Course Record: Patient admitted with symptoms of auditory hallucinations, delusions, social withdrawal, and emotional dysregulation. Initial treatment plan includes starting antipsychotic medication (Risperidone) and cognitive behavioral therapy (CBT).\nDaily Course Records: Day 1: Patient started on 2mg Risperidone. Reports some drowsiness but no other adverse effects.\nSenior Physician Rounds Records: Outlined management plan including ongoing Risperidone treatment and initiation of CBT. No contraindications to planned treatment.\nDifficult Case Discussion Records: \nHandover Records: Patient remains stable; continue antipsychotic medication and monitor for side effects. Engage in regular CBT sessions.\nTransfer Records: \nStage Summary: After one week, patient shows mild improvement in symptoms. Voices are less frequent, delusional thoughts are less intrusive, and patient shows increased engagement in therapy. Continue current treatment regimen.\nEmergency Records: \nInvasive Procedure Records: \nConsultation Records: Consult performed with psychiatry confirmed diagnosis and agreed on treatment plan.\nDischarge Records: \nCritically Ill Patient Care Records: \n\nMedical Orders:\nLong-term Orders: Risperidone 2mg daily, Cognitive Behavioral Therapy twice weekly.\nTemporary Orders: CBC and metabolic panel weekly, monitor for side effects of Risperidone.\n\nAuxiliary Examination Reports:\nComplete blood count, metabolic panel, and brain MRI are normal.\n\nTemperature Chart:\nTemperature: 36.7°C, Pulse: 72 bpm, Respiration: 16 breaths/min, Blood Pressure: 120/80 mmHg.\n\nBlood Transfusion Consent:\nSpecial Examination Consent:\nCritical Condition Notice:\n\nDiseaseType:\nMental Disorders:\nName: Schizophrenia\nSymptoms: Hallucinations, delusions, disorganized thinking, abnormal emotional responses, social withdrawal, slow responses\nDifferential Diagnosis: Schizotypal personality disorder, depression, metabolic diseases.",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Tremont General Hospital, when was the patient admitted?",
+            "answer": "24th, September.",
+            "ref": [
+                "Admission Time: 24th, September"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Tremont General Hospital, who is the historian for the patient's record?",
+            "answer": "Patient and mother.",
+            "ref": [
+                "Historian: Patient and mother"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Tremont General Hospital, what is the patient's chief complaint?",
+            "answer": "Experiencing auditory hallucinations and delusional thoughts for the past 1 month.",
+            "ref": [
+                "Chief Complaint:",
+                "Experiencing auditory hallucinations and delusional thoughts for the past 1 month."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Tremont General Hospital, what diagnosis was given to the patient?",
+            "answer": "Schizophrenia.",
+            "ref": [
+                "Preliminary Diagnosis:",
+                "Schizophrenia"
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Tremont General Hospital, how many auxiliary examinations did L. Bailey undergo?",
+            "answer": "According to the records, L. Bailey underwent 3 auxiliary examinations, namely complete blood count, metabolic panel, and brain MRI.",
+            "ref": [
+                "Auxiliary Examination:",
+                "Complete blood count and metabolic panel within normal limits prior to admission.",
+                "Brain MRI shows no structural abnormalities.",
+                "Complete blood count, metabolic panel, and brain MRI are normal."
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Tremont General Hospital, summarize the present illness of L. Bailey.",
+            "answer": "L. Bailey's symptoms began suddenly a month ago with no prodromal symptoms or identifiable triggers. He reports auditory hallucinations, delusional thoughts, and disorganized thinking. Accompanying symptoms include social withdrawal, abnormal emotional responses such as inappropriate laughter or crying, and slow responses during conversations. He has disturbed sleep patterns, poor appetite, and slight weight loss but no changes in urination or defecation. He was evaluated by a primary care physician and referred for psychiatric evaluation.",
+            "ref": [
+                "Onset: Symptoms began suddenly 1 month ago at home, with no clear prodromal symptoms or identifiable triggers.",
+                "Main Symptoms: The patient reports hearing voices that are not there (auditory hallucinations), having strong beliefs that are not based in reality (delusions), and displaying disorganized thinking, such as difficulty in organizing thoughts and a lack of logical connections.",
+                "Accompanying Symptoms: Social withdrawal, experiencing abnormal emotional responses such as inappropriate laughter or crying, and noticeable slow responses during conversations.",
+                "General Condition Changes: Patient reports disturbed sleep patterns, poor appetite, and slight weight loss.",
+                "No changes in urination or defecation reported.",
+                "The patient was evaluated by a primary care physician and referred for psychiatric evaluation."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Tremont General Hospital, summarize the past history of L. Bailey.",
+            "answer": "L. Bailey is generally healthy with no chronic medical conditions and no history of major illnesses or significant infectious diseases. His immunizations are up to date, and he has no history of surgeries, significant traumas, blood transfusions, or known allergies.",
+            "ref": [
+                "General Health Condition: Generally healthy with no chronic medical conditions.",
+                "Disease History: No history of major illnesses.",
+                "Infectious Disease History: No significant infectious disease history.",
+                "Immunization History: Up to date on all recommended vaccinations.",
+                "Surgery and Trauma History: No history of surgeries or significant traumas.",
+                "Blood Transfusion History: No history of blood transfusions.",
+                "Allergy History: No known allergies."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Tremont General Hospital, summarize the physical examination findings of L. Bailey.",
+            "answer": "L. Bailey's physical examination shows no abnormalities. His temperature is 36.7°C, pulse 72 bpm, respiration 16 breaths/min, and blood pressure 120/80 mmHg. His skin, mucous membranes, lymph nodes, head, neck, chest, abdomen, external genitalia, spine, and limbs are normal. He is alert and oriented, with intact cranial nerves, normal motor strength, and reflexes.",
+            "ref": [
+                "General Condition:",
+                "Temperature: 36.7°C",
+                "Pulse: 72 bpm",
+                "Respiration: 16 breaths/min",
+                "Blood Pressure: 120/80 mmHg",
+                "Skin: No abnormalities detected, normal color and texture.",
+                "Mucous Membranes: Moist and pink.",
+                "Lymph Nodes: No palpable lymphadenopathy.",
+                "Head and Organs: Normocephalic, atraumatic, no abnormalities detected.",
+                "Neck: Supple, no masses or tenderness.",
+                "Chest: No deformities, lungs clear to auscultation, heart sounds normal.",
+                "Abdomen: Soft, non-tender, no organomegaly detected.",
+                "External Genitalia: No abnormalities detected.",
+                "Spine: No deformities or tenderness.",
+                "Limbs: Normal range of motion, no deformities or edema.",
+                "Nervous System: Alert and oriented, cranial nerves intact, motor strength 5/5 in all extremities, normal reflexes."
+            ]
+        }
+    ]
+}

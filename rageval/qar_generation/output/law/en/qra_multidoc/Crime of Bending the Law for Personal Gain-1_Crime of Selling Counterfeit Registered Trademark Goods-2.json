@@ -1,0 +1,143 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Trenton, Vandalia, Court, what are the occupations of the defendants F. Williams and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Occupation:** City Official"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "Occupation: Owner of a Retail Store"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Upton, Georgetown, Court, the defendant F. Williams is a City Official; according to the judgment of Trenton, Vandalia, Court, the defendant G. Torres is the Owner of a retail store."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Trenton, Vandalia, Court, what crimes were committed by the defendants F. Williams and G. Torres respectively?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "Franklin Williams is charged and stood trial for the Crime of Bending the Law for Personal Gain under Article 397."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "G. Torres was charged under Article No. 214 for the Crime of Selling Counterfeit Registered Trademark Goods."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Upton, Georgetown, Court, the defendant F. Williams committed the Crime of Bending the Law for Personal Gain; according to the judgment of Trenton, Vandalia, Court, the defendant G. Torres committed the Crime of Selling Counterfeit Registered Trademark Goods."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Trenton, Vandalia, Court, when were the defendants F. Williams and G. Torres placed under criminal detention?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "3. **Criminal Detention (20th March, 2023):**",
+                        "On 20th March 2023, the preliminary evidence collected was deemed sufficient to escalate F. Williams’ status from mere detention to criminal detention."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "### Criminal Detention",
+                        "Subsequent to initial questioning and assessing the severity of the offense, G. Torres was placed into criminal detention on the 21st of January 2023 at the Vandalia Detention Center."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Upton, Georgetown, Court, the defendant F. Williams was placed under criminal detention on 20th, March, 2023; according to the judgment of Trenton, Vandalia, Court, the defendant G. Torres was placed under criminal detention on 21st, January, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Trenton, Vandalia, Court, what were the judgment dates for the defendants F. Williams and G. Torres respectively?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Date of Judgment:** 30th, September, 2023",
+                        "Date: 30th September, 2023"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Judgment Issued on 20th March 2023**"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Upton, Georgetown, Court, the judgment date for defendant F. Williams was 30th, September, 2023; according to the judgment of Trenton, Vandalia, Court, the judgment date for defendant G. Torres was 20th, March, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Trenton, Vandalia, Court, what were the sentences given to the defendants F. Williams and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Five (5) years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Upton, Georgetown, Court, the defendant F. Williams was sentenced to five years of fixed-term imprisonment; according to the judgment of Trenton, Vandalia, Court, the defendant G. Torres was sentenced to three years of fixed-term imprisonment, with a suspension for five years, and a fine of $30,000."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Trenton, Vandalia, Court, whose sentencing time is longer, F. Williams or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Five (5) years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000."
+                    ]
+                }
+            ],
+            "answer": "F. Williams was sentenced to five years of fixed-term imprisonment, while G. Torres was sentenced to three years of fixed-term imprisonment with a suspension for five years. F. Williams' sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Trenton, Vandalia, Court, whose judgment date is earlier, F. Williams or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Date of Judgment:** 30th, September, 2023",
+                        "Date: 30th September, 2023"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Judgment Issued on 20th March 2023**"
+                    ]
+                }
+            ],
+            "answer": "G. Torres' judgment date is earlier, as it was on 20th March 2023, while F. Williams' judgment date was on 30th September 2023."
+        }
+    ]
+}

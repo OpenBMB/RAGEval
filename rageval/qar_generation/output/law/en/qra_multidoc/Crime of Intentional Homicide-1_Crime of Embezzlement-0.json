@@ -1,0 +1,121 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Urbana, Belmont, Court and Brighton, Sterling, Court, what are the occupations of the defendants J. Hall and N. Adams?",
+            "ref": [
+                {
+                    "court_name": "Urbana, Belmont, Court",
+                    "content": [
+                        "Occupation: Freelance Graphic Designer"
+                    ]
+                },
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "- **Occupation:** Accountant at Sterling Public Works Department"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Urbana, Belmont, Court, the defendant J. Hall is a Freelance Graphic Designer; according to the judgment of Brighton, Sterling, Court, the defendant N. Adams is an Accountant at Sterling Public Works Department."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Urbana, Belmont, Court and Brighton, Sterling, Court, what crimes did the defendants J. Hall and N. Adams commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Urbana, Belmont, Court",
+                    "content": [
+                        "The defendant, J. Hall, was charged with the Crime of Intentional Homicide as per Article No. 232."
+                    ]
+                },
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "The Brighton, Sterling Procuratorate charged Mr. N. Adams with the crime of embezzlement under Article 384 of the Penal Code.",
+                        "The charge brought against Mr. N. Adams is recognized as the Crime of Embezzlement under Article 384 of the Penal Code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Urbana, Belmont, Court, the defendant J. Hall committed the Crime of Intentional Homicide; according to the judgment of Brighton, Sterling, Court, the defendant N. Adams committed the Crime of Embezzlement."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Urbana, Belmont, Court and Brighton, Sterling, Court, what are the ethnicities of the defendants J. Hall and N. Adams?",
+            "ref": [
+                {
+                    "court_name": "Urbana, Belmont, Court",
+                    "content": [
+                        "Ethnicity: Caucasian"
+                    ]
+                },
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "- **Ethnicity:** Caucasian"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Urbana, Belmont, Court, the defendant J. Hall is Caucasian; according to the judgment of Brighton, Sterling, Court, the defendant N. Adams is also Caucasian."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Urbana, Belmont, Court and Brighton, Sterling, Court, when were the judgments for the cases of defendants J. Hall and N. Adams made?",
+            "ref": [
+                {
+                    "court_name": "Urbana, Belmont, Court",
+                    "content": [
+                        "**Dated:** 15th December, 2022."
+                    ]
+                },
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "**Date:** 3rd March 2023\\"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Urbana, Belmont, Court, the judgment for the case of defendant J. Hall was made on 15th, December, 2022; according to the judgment of Brighton, Sterling, Court, the judgment for the case of defendant N. Adams was made on 3rd, March, 2023."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Urbana, Belmont, Court and Brighton, Sterling, Court, whose sentencing time is longer, J. Hall or N. Adams?",
+            "ref": [
+                {
+                    "court_name": "Urbana, Belmont, Court",
+                    "content": [
+                        "**Life Imprisonment**"
+                    ]
+                },
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "- **12 years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "J. Hall was sentenced to life imprisonment, while N. Adams was sentenced to 12 years of fixed-term imprisonment. J. Hall's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Urbana, Belmont, Court and Brighton, Sterling, Court, whose judgment time is earlier, J. Hall or N. Adams?",
+            "ref": [
+                {
+                    "court_name": "Urbana, Belmont, Court",
+                    "content": [
+                        "**Dated:** 15th December, 2022."
+                    ]
+                },
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "**Date:** 3rd March 2023\\"
+                    ]
+                }
+            ],
+            "answer": "J. Hall's judgment time is earlier, as the judgment date was 15th, December, 2022, while N. Adams' judgment date was 3rd, March, 2023."
+        }
+    ]
+}

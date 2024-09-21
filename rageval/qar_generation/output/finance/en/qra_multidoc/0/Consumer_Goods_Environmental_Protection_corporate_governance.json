@@ -1,0 +1,183 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the compliance and regulatory updates implemented by Evergreen Consumer Goods Co. in 2017 and EcoGuard Solutions in 2019?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "To ensure compliance with new regulations, Evergreen implemented the General Data Protection Regulation (GDPR) and stricter sustainability reporting standards in May 2017."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "The company's proactive approach to compliance and regulatory updates ensured its adaptation to the evolving regulatory landscape, while also reducing legal risks and reinforcing its commitment to environmental protection and shareholder interests."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. implemented compliance and regulatory updates in May 2017, including the implementation of the General Data Protection Regulation (GDPR) and stricter sustainability reporting standards. EcoGuard Solutions adapted to the evolving regulatory landscape in 2019, complying with new regulations and industry-specific certifications."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How did the corporate governance policy revisions in 2017 for Evergreen Consumer Goods Co. and in 2019 for EcoGuard Solutions impact their transparency and accountability?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In September 2017, Evergreen revised its corporate governance policy to enhance transparency, accountability, and stakeholder engagement.",
+                        "The revision included the introduction of a whistleblower mechanism and the establishment of a dedicated ethics hotline.",
+                        "These changes enhance transparency, accountability, and stakeholder confidence, positively influencing the company's operations and reputation."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "To ensure effective governance, EcoGuard Solutions revised its corporate governance policies in April 2019, with a focus on reporting mechanisms, compliance, and accountability.",
+                        "This revision aimed to enhance transparency, accountability, and stakeholder confidence, ultimately protecting shareholder interests."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. revised its corporate governance policy in September 2017 to enhance transparency, accountability, and stakeholder engagement, introducing a whistleblower mechanism and establishing a dedicated ethics hotline, which positively influenced the company's operations and reputation. EcoGuard Solutions revised its corporate governance policies in April 2019, focusing on reporting mechanisms, compliance, and accountability, which enhanced transparency, accountability, and stakeholder confidence, protecting shareholder interests."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What risk management measures were taken by Evergreen Consumer Goods Co. in 2017 and EcoGuard Solutions in 2019?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In July 2017, Evergreen updated its risk management measures by conducting a comprehensive risk assessment.",
+                        "This assessment identified emerging risks related to supply chain disruptions and increased cybersecurity threats.",
+                        "The company implemented mitigation strategies such as supplier diversification and enhanced cybersecurity protocols to ensure continuous operation and stable development in the face of potential challenges."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "Additionally, the company implemented risk management measures in May 2019, establishing a dedicated department to enhance its risk management framework.",
+                        "This included conducting risk assessments and implementing streamlined reporting mechanisms, ensuring the company's resilience, continuous operation, and stabilizing development in the face of risks."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. updated its risk management framework in July 2017, conducting a comprehensive risk assessment to identify emerging risks related to supply chain disruptions and increased cybersecurity threats, and implemented mitigation strategies including supplier diversification and enhanced cybersecurity protocols. EcoGuard Solutions enhanced its risk management framework in May 2019 by establishing a dedicated department, conducting risk assessments, and implementing streamlined reporting mechanisms."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the senior management changes in Evergreen Consumer Goods Co. in 2017 and EcoGuard Solutions in 2019?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In October 2017, Evergreen appointed Lisa Anderson as the new Chief Financial Officer (CFO).",
+                        "With a proven track record in financial management within the consumer goods industry, Anderson's appointment is expected to strengthen the company's financial performance and growth strategies."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "In November 2019, the company underwent senior management changes, with Mr. Michael Thompson assuming the role of Chief Executive Officer.",
+                        "This change optimized the company's focus on R&D and client relationships, aligning its strategic priorities with market trends and ensuring sustainable growth."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. appointed a new Chief Financial Officer (CFO), Lisa Anderson, in October 2017, who had a proven track record in financial management within the consumer goods industry. EcoGuard Solutions appointed Mr. Michael Thompson as Chief Executive Officer in November 2019, optimizing focus on R&D and client relationships for sustainable growth."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the initiation times of sustainability and social responsibility initiatives of Evergreen Consumer Goods Co. and EcoGuard Solutions. Which company started their initiatives earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In March 2017, the company launched a comprehensive sustainability program aimed at reducing its environmental impact."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "In line with its commitment to sustainability and social responsibility, EcoGuard Solutions achieved significant milestones in its initiatives in October 2019."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. started their sustainability and social responsibility initiatives earlier in March 2017."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of corporate governance policy revisions for Evergreen Consumer Goods Co. and EcoGuard Solutions. Which company revised their policies earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In September 2017, Evergreen revised its corporate governance policy to enhance transparency, accountability, and stakeholder engagement."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "To ensure effective governance, EcoGuard Solutions revised its corporate governance policies in April 2019, with a focus on reporting mechanisms, compliance, and accountability."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. revised their corporate governance policies earlier in September 2017."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "Compare the times of shareholders' meeting resolutions for Evergreen Consumer Goods Co. and EcoGuard Solutions. Which company held their shareholders' meeting resolution earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In April 2017, Evergreen's shareholders' meeting approved a dividend increase of 15% to reward shareholders' continued support."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": []
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. held their shareholders' meeting resolution in April 2017. EcoGuard Solutions' shareholders' meeting resolution information is not provided, making it impossible to compare the times of their resolutions."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the implementation times of risk management measures for Evergreen Consumer Goods Co. and EcoGuard Solutions. Which company implemented their measures earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In July 2017, Evergreen updated its risk management measures by conducting a comprehensive risk assessment."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "Additionally, the company implemented risk management measures in May 2019, establishing a dedicated department to enhance its risk management framework."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. implemented their risk management measures earlier in July 2017."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of senior management changes for Evergreen Consumer Goods Co. and EcoGuard Solutions. Which company made changes to their senior management earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In October 2017, Evergreen appointed Lisa Anderson as the new Chief Financial Officer (CFO)."
+                    ]
+                },
+                {
+                    "company_name": "EcoGuard Solutions",
+                    "content": [
+                        "In November 2019, the company underwent senior management changes, with Mr. Michael Thompson assuming the role of Chief Executive Officer."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. made changes to their senior management earlier in October 2017."
+        }
+    ]
+}

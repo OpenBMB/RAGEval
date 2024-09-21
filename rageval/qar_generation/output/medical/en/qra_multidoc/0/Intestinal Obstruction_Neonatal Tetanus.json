@@ -1,0 +1,151 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Victoria General Hospital, what were the chief complaints of patients I. Chavez and Y. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Chief Complaint:",
+                        "Intermittent upper abdominal pain, acid reflux, and heartburn for 2 months."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Chief Complaint:",
+                        "Crying, limited mouth opening, difficulty sucking for 8 hours."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Yorkshire General Hospital, patient I. Chavez's chief complaint was intermittent upper abdominal pain, acid reflux, and heartburn for 2 months. According to the hospitalization records of Victoria General Hospital, patient Y. Mendoza's chief complaint was crying, limited mouth opening, and difficulty sucking for 8 hours."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Victoria General Hospital, what were the preliminary diagnoses for patients I. Chavez and Y. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Peptic Ulcer"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Neonatal Tetanus"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Yorkshire General Hospital, the preliminary diagnosis for patient I. Chavez was peptic ulcer. According to the hospitalization records of Victoria General Hospital, the preliminary diagnosis for patient Y. Mendoza was neonatal tetanus."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Victoria General Hospital, what were the auxiliary examination results for patients I. Chavez and Y. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Auxiliary Examination:",
+                        "Upper GI endoscopy revealed a small peptic ulcer in the duodenal bulb with mild inflammation."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Auxiliary Examination:",
+                        "CBC normal, CRP slightly elevated.",
+                        "Blood cultures pending.",
+                        "CSF examination pending."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Yorkshire General Hospital, patient I. Chavez's auxiliary examination showed an upper GI endoscopy revealing a small peptic ulcer in the duodenal bulb with mild inflammation. According to the hospitalization records of Victoria General Hospital, patient Y. Mendoza's auxiliary examination showed a normal CBC, slightly elevated CRP, and pending blood cultures and CSF examination."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Victoria General Hospital, what were the long-term medical orders for patients I. Chavez and Y. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Long-term Orders:",
+                        "PPIs, antacids, dietary modifications, bed rest"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Medical Orders:",
+                        "Long-term Orders: Monitor vital signs every 2 hours.",
+                        "Continue empirical antibiotic therapy.",
+                        "Provide IV fluids and nutrition support."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Yorkshire General Hospital, the long-term medical orders for patient I. Chavez included PPIs, antacids, dietary modifications, and bed rest. According to the hospitalization records of Victoria General Hospital, the long-term medical orders for patient Y. Mendoza included monitoring vital signs every 2 hours, continuing empirical antibiotic therapy, and providing IV fluids and nutrition support."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Victoria General Hospital, who was admitted earlier, I. Chavez or Y. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Admission Time: 12th, February"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Admission Time: 10th, March"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Yorkshire General Hospital, patient I. Chavez was admitted on February 12; according to the hospitalization records of Victoria General Hospital, patient Y. Mendoza was admitted on March 10. Therefore, I. Chavez was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Victoria General Hospital, whose pulse rate is higher, I. Chavez or Y. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Pulse: 80 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Pulse: 140 bpm"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records, I. Chavez's pulse rate is 80 beats per minute, and Y. Mendoza's pulse rate is 140 beats per minute. Therefore, Y. Mendoza's pulse rate is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Victoria General Hospital, whose temperature is higher, I. Chavez or Y. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Temperature: 37.0°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Temperature: 36.8°C"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records, I. Chavez's temperature is 37.0°C, and Y. Mendoza's temperature is 36.8°C. Therefore, I. Chavez's temperature is higher."
+        }
+    ]
+}

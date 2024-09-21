@@ -1,0 +1,224 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "A. Smith",
+            "Gender": "female",
+            "Age": "12",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "single",
+            "Occupation": "student",
+            "Address": "45, Rockford street, Farmington",
+            "Admission Time": "9th, October",
+            "Record Time": "9th, October",
+            "Historian": "parent",
+            "Hospital Name": "Farmington City Hospital"
+        },
+        "Chief Complaint": "Fever, abdominal pain, and bloody stools for 1 week",
+        "Present Illness": {
+            "Onset": "1 week ago after returning from a lake trip, sudden onset of fever",
+            "Main Symptoms": "Fever reaching 39°C, constant abdominal pain, bloody mucous stools, severe fatigue",
+            "Accompanying Symptoms": "Cough, chest pain occasionally, blood-stained sputum",
+            "Diagnosis and Treatment History": "Visited local clinic, prescribed antipyretics and antibiotics with no significant improvement",
+            "General Condition Changes": "Disturbed sleep due to pain, poor appetite, normal urination, loose and frequent stools, weight loss of 2 kg"
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy prior to this illness",
+            "Disease History": "No significant medical history",
+            "Infectious Disease History": "None noted",
+            "Immunization History": "Up to date with routine vaccinations",
+            "Surgery and Trauma History": "Appendectomy at age 8",
+            "Blood Transfusion History": "None",
+            "Allergy History": "No known allergies"
+        },
+        "Personal History": {
+            "Birthplace": "Farmington",
+            "Residence": "Farmington",
+            "Living Habits": "Regular diet and exercise, no smoking or alcohol consumption",
+            "Occupation and Working Conditions": "Student, attends local school",
+            "Exposure History": "No exposure to industrial toxins or radioactive substances",
+            "Travel History": "Recent lake trip where swimming occurred"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "single",
+                "Marriage Age": "",
+                "Spouse's Health Condition": "",
+                "Children's Condition": ""
+            },
+            "Menstrual History": {
+                "Menarche Age": "11",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "3 weeks ago",
+                "Menstrual Volume": "Moderate",
+                "Dysmenorrhea": "Mild"
+            },
+            "Family History": "Parents and siblings healthy, no similar diseases or hereditary conditions reported"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "39°C",
+                "Pulse": "110 bpm",
+                "Respiration": "22 bpm",
+                "Blood Pressure": "110/70 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "No rash, normal hydration",
+                "Mucous Membranes": "Pale, moist",
+                "Lymph Nodes": "No significant enlargement",
+                "Head and Organs": "No abnormalities",
+                "Neck": "No thyroid enlargement, normal jugular venous pressure",
+                "Chest": "Clear bilateral lung sounds, regular heart rate and rhythm",
+                "Abdomen": "Mild tenderness in the right upper quadrant, enlarged spleen, no guarding",
+                "Rectum and Anus": "Normal external appearance, presence of bloody stools",
+                "External Genitalia": "Normal appearance, no abnormalities",
+                "Spine": "No deformities or tenderness",
+                "Limbs": "Normal muscle tone and strength, no edema",
+                "Nervous System": "Grossly intact, no focal deficits"
+            }
+        },
+        "Specialist Examination": "Detailed abdominal ultrasound and schistosomiasis serology",
+        "Auxiliary Examination": "Ultrasound shows hepatosplenomegaly; blood tests indicate eosinophilia and positive schistosomiasis serology",
+        "Preliminary Diagnosis": "Acute Schistosomiasis",
+        "Diagnostic Basis": "History of recent lake exposure, fever, abdominal symptoms, hepatosplenomegaly on ultrasound, positive serology",
+        "Differential Diagnosis": "Ruled out sepsis, malaria (negative blood film), typhoid and paratyphoid fever (negative cultures), acute miliary tuberculosis (negative chest X-ray), viral infections (negative viral panels), other intestinal diseases by clinical presentation and test results",
+        "Admission Records": {
+            "Physician's Signature": "Dr. J. Doe"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with high fever, abdominal pain, bloody stools, and hepatosplenomegaly. Diagnostic tests confirm acute schistosomiasis. Initiated antischistosomal therapy and supportive care.",
+            "Daily Course Records": "Patient shows gradual improvement with decreased fever and abdominal pain. Stools returning to normal.",
+            "Senior Physician Rounds Records": "Senior review confirmed treatment plan and noted continued improvement, advised ongoing monitoring.",
+            "Difficult Case Discussion Records": "No difficult case discussion required at this stage.",
+            "Handover Records": "Patient in stable condition, handed over to next shift with instructions for continued observation.",
+            "Transfer Records": "N/A",
+            "Stage Summary": "After 3 days of antischistosomal therapy, patient significantly improved. Vital signs stabilized, pain reduced, normal bowel movements.",
+            "Emergency Records": "None",
+            "Invasive Procedure Records": "None",
+            "Consultation Records": "Infectious disease specialist consulted, confirmed diagnosis and treatment plan.",
+            "Discharge Records": "Patient discharged after 5 days in improved condition. Advised follow-up in outpatient clinic.",
+            "Critically Ill Patient Care Records": "N/A"
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Antischistosomal medications, antipyretics, pain management, daily monitoring of vital signs and stool characteristics.",
+            "Temporary Orders": "Initial blood tests, ultrasound, schistosomiasis serology, intravenous fluids as needed."
+        },
+        "Auxiliary Examination Reports": "Ultrasound of abdomen, complete blood count, schistosomiasis serology report",
+        "Temperature Chart": "Recorded daily: Day 1: 39°C, Day 2: 38.5°C, Day 3: 37.8°C, Day 4: 37.2°C, Day 5: 36.8°C",
+        "Blood Transfusion Consent": "N/A",
+        "Special Examination Consent": "Consent obtained for ultrasound and schistosomiasis serology",
+        "Critical Condition Notice": "N/A"
+    },
+    "DiseaseType": {
+        "Parasitic Diseases": {
+            "Name": "Acute Schistosomiasis",
+            "Symptoms": "The main symptoms of schistosomiasis are fever, gastrointestinal symptoms (often dysenteric stools, which may be bloody and mucous), hepatosplenomegaly, and pulmonary symptoms (cough is quite common, there may be chest pain, blood-stained sputum, etc.).",
+            "Differential Diagnosis": "Sepsis, malaria, typhoid and paratyphoid fever, acute miliary tuberculosis, viral infections, other intestinal diseases"
+        }
+    },
+    "Generated Article": "Hospitalization Record\n\nBasic Information:\nName: A. Smith\nGender: female\nAge: 12\nEthnicity: Caucasian\nMarital Status: single\nOccupation: student\nAddress: 45, Rockford street, Farmington\nAdmission Time: 9th, October\nRecord Time: 9th, October\nHistorian: parent\nHospital Name: Farmington City Hospital\n\nChief Complaint:\nFever, abdominal pain, and bloody stools for 1 week\n\nPresent Illness:\nOnset: 1 week ago after returning from a lake trip, sudden onset of fever\nMain Symptoms: Fever reaching 39°C, constant abdominal pain, bloody mucous stools, severe fatigue\nAccompanying Symptoms: Cough, chest pain occasionally, blood-stained sputum\nDiagnosis and Treatment History: Visited local clinic, prescribed antipyretics and antibiotics with no significant improvement\nGeneral Condition Changes: Disturbed sleep due to pain, poor appetite, normal urination, loose and frequent stools, weight loss of 2 kg\n\nPast History:\nGeneral Health Condition: Generally healthy prior to this illness\nDisease History: No significant medical history\nInfectious Disease History: None noted\nImmunization History: Up to date with routine vaccinations\nSurgery and Trauma History: Appendectomy at age 8\nBlood Transfusion History: None\nAllergy History: No known allergies\n\nPersonal History:\nBirthplace: Farmington\nResidence: Farmington\nLiving Habits: Regular diet and exercise, no smoking or alcohol consumption\nOccupation and Working Conditions: Student, attends local school\nExposure History: No exposure to industrial toxins or radioactive substances\nTravel History: Recent lake trip where swimming occurred\n\nMarital and Family History:\nMarital History:\nMarital Status: single\nMarriage Age: \nSpouse's Health Condition: \nChildren's Condition: \n\nMenstrual History:\nMenarche Age: 11\nMenstruation Duration: 5 days\nMenstruation Interval: 28 days\nLast Menstruation: 3 weeks ago\nMenstrual Volume: Moderate\nDysmenorrhea: Mild\n\nFamily History: Parents and siblings healthy, no similar diseases or hereditary conditions reported\n\nPhysical Examination:\nGeneral Condition:\nTemperature: 39°C\nPulse: 110 bpm\nRespiration: 22 bpm\nBlood Pressure: 110/70 mmHg\n\nSystematic Examination:\nSkin: No rash, normal hydration\nMucous Membranes: Pale, moist\nLymph Nodes: No significant enlargement\nHead and Organs: No abnormalities\nNeck: No thyroid enlargement, normal jugular venous pressure\nChest: Clear bilateral lung sounds, regular heart rate and rhythm\nAbdomen: Mild tenderness in the right upper quadrant, enlarged spleen, no guarding\nRectum and Anus: Normal external appearance, presence of bloody stools\nExternal Genitalia: Normal appearance, no abnormalities\nSpine: No deformities or tenderness\nLimbs: Normal muscle tone and strength, no edema\nNervous System: Grossly intact, no focal deficits\n\nSpecialist Examination:\nDetailed abdominal ultrasound and schistosomiasis serology\n\nAuxiliary Examination:\nUltrasound shows hepatosplenomegaly; blood tests indicate eosinophilia and positive schistosomiasis serology\n\nPreliminary Diagnosis:\nAcute Schistosomiasis\n\nDiagnostic Basis:\nHistory of recent lake exposure, fever, abdominal symptoms, hepatosplenomegaly on ultrasound, positive serology\n\nDifferential Diagnosis:\nRuled out sepsis, malaria (negative blood film), typhoid and paratyphoid fever (negative cultures), acute miliary tuberculosis (negative chest X-ray), viral infections (negative viral panels), other intestinal diseases by clinical presentation and test results\n\nAdmission Records:\nPhysician's Signature: Dr. J. Doe\n\nPost-Admission Course Records:\nFirst Course Record: Patient admitted with high fever, abdominal pain, bloody stools, and hepatosplenomegaly. Diagnostic tests confirm acute schistosomiasis. Initiated antischistosomal therapy and supportive care.\nDaily Course Records: Patient shows gradual improvement with decreased fever and abdominal pain. Stools returning to normal.\nSenior Physician Rounds Records: Senior review confirmed treatment plan and noted continued improvement, advised ongoing monitoring.\nDifficult Case Discussion Records: No difficult case discussion required at this stage.\nHandover Records: Patient in stable condition, handed over to next shift with instructions for continued observation.\nTransfer Records: N/A\nStage Summary: After 3 days of antischistosomal therapy, patient significantly improved. Vital signs stabilized, pain reduced, normal bowel movements.\nEmergency Records: None\nInvasive Procedure Records: None\nConsultation Records: Infectious disease specialist consulted, confirmed diagnosis and treatment plan.\nDischarge Records: Patient discharged after 5 days in improved condition. Advised follow-up in outpatient clinic.\nCritically Ill Patient Care Records: N/A\n\nMedical Orders:\nLong-term Orders: Antischistosomal medications, antipyretics, pain management, daily monitoring of vital signs and stool characteristics.\nTemporary Orders: Initial blood tests, ultrasound, schistosomiasis serology, intravenous fluids as needed.\n\nAuxiliary Examination Reports:\nUltrasound of abdomen, complete blood count, schistosomiasis serology report\n\nTemperature Chart:\nRecorded daily:\nDay 1: 39°C,\nDay 2: 38.5°C,\nDay 3: 37.8°C,\nDay 4: 37.2°C,\nDay 5: 36.8°C\n\nBlood Transfusion Consent: N/A\nSpecial Examination Consent: Consent obtained for ultrasound and schistosomiasis serology\nCritical Condition Notice: N/A",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Farmington City Hospital, when was the patient admitted?",
+            "answer": "9th, October",
+            "ref": [
+                "Admission Time: 9th, October"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Farmington City Hospital, who provided the patient's history?",
+            "answer": "parent",
+            "ref": [
+                "Historian: parent"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Farmington City Hospital, what is the chief complaint of A. Smith?",
+            "answer": "Fever, abdominal pain, and bloody stools for 1 week",
+            "ref": [
+                "Chief Complaint:",
+                "Fever, abdominal pain, and bloody stools for 1 week"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Farmington City Hospital, what was the patient's temperature during the physical examination?",
+            "answer": "39°C",
+            "ref": [
+                "Temperature: 39°C"
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Farmington City Hospital, how many auxiliary examinations did A. Smith undergo?",
+            "answer": "According to the records, A. Smith underwent 3 auxiliary examinations, namely an ultrasound, blood tests (including eosinophilia), and schistosomiasis serology.",
+            "ref": [
+                "Detailed abdominal ultrasound and schistosomiasis serology",
+                "Ultrasound shows hepatosplenomegaly; blood tests indicate eosinophilia and positive schistosomiasis serology",
+                "Temporary Orders: Initial blood tests, ultrasound, schistosomiasis serology, intravenous fluids as needed.",
+                "Ultrasound of abdomen, complete blood count, schistosomiasis serology report"
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Farmington City Hospital, summarize the present illness of A. Smith.",
+            "answer": "A. Smith's illness began 1 week ago after a lake trip, with a sudden onset of fever reaching 39°C, constant abdominal pain, bloody mucous stools, and severe fatigue. She also experienced occasional cough, chest pain, and blood-stained sputum. She visited a local clinic and was prescribed antipyretics and antibiotics with no significant improvement. Her sleep was disturbed due to pain, she had a poor appetite, normal urination, loose and frequent stools, and a weight loss of 2 kg.",
+            "ref": [
+                "Present Illness:",
+                "Onset: 1 week ago after returning from a lake trip, sudden onset of fever",
+                "Main Symptoms: Fever reaching 39°C, constant abdominal pain, bloody mucous stools, severe fatigue",
+                "Accompanying Symptoms: Cough, chest pain occasionally, blood-stained sputum",
+                "Diagnosis and Treatment History: Visited local clinic, prescribed antipyretics and antibiotics with no significant improvement",
+                "General Condition Changes: Disturbed sleep due to pain, poor appetite, normal urination, loose and frequent stools, weight loss of 2 kg"
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Farmington City Hospital, summarize the past medical history of A. Smith.",
+            "answer": "A. Smith was generally healthy prior to this illness with no significant medical history. She has no history of infectious diseases, is up to date with routine vaccinations, had an appendectomy at age 8, and has no known allergies or history of blood transfusions.",
+            "ref": [
+                "Past History:",
+                "General Health Condition: Generally healthy prior to this illness",
+                "Disease History: No significant medical history",
+                "Infectious Disease History: None noted",
+                "Immunization History: Up to date with routine vaccinations",
+                "Surgery and Trauma History: Appendectomy at age 8",
+                "Blood Transfusion History: None",
+                "Allergy History: No known allergies"
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Farmington City Hospital, summarize the physical examination findings of A. Smith.",
+            "answer": "A. Smith's physical examination revealed a temperature of 39°C, pulse of 110 bpm, respiration of 22 bpm, and blood pressure of 110/70 mmHg. Systematic examination showed no rash, normal hydration, pale and moist mucous membranes, no significant lymph node enlargement, and no abnormalities in the head, neck, chest, or external genitalia. Mild tenderness was noted in the right upper quadrant of the abdomen with an enlarged spleen, and bloody stools were present. The spine and limbs were normal, and the nervous system was grossly intact with no focal deficits.",
+            "ref": [
+                "Physical Examination:",
+                "General Condition:",
+                "Temperature: 39°C",
+                "Pulse: 110 bpm",
+                "Respiration: 22 bpm",
+                "Blood Pressure: 110/70 mmHg",
+                "Systematic Examination:",
+                "Skin: No rash, normal hydration",
+                "Mucous Membranes: Pale, moist",
+                "Lymph Nodes: No significant enlargement",
+                "Head and Organs: No abnormalities",
+                "Neck: No thyroid enlargement, normal jugular venous pressure",
+                "Chest: Clear bilateral lung sounds, regular heart rate and rhythm",
+                "Abdomen: Mild tenderness in the right upper quadrant, enlarged spleen, no guarding",
+                "Rectum and Anus: Normal external appearance, presence of bloody stools",
+                "External Genitalia: Normal appearance, no abnormalities",
+                "Spine: No deformities or tenderness",
+                "Limbs: Normal muscle tone and strength, no edema",
+                "Nervous System: Grossly intact, no focal deficits"
+            ]
+        }
+    ]
+}

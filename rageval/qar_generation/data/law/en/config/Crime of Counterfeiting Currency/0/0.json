@@ -1,0 +1,71 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Northwood, Richmond, Court",
+        "procuratorate": "Northwood, Richmond, Procuratorate"
+    },
+    "chiefJudge": "B. Miller",
+    "judge": "R. Jackson",
+    "clerk": "O. Edwards",
+    "defendant": {
+        "name": "S. Taylor",
+        "gender": "male",
+        "birthdate": "27th, October, 1985",
+        "residence": "32, Eagleton street, Richmond",
+        "ethnicity": "Caucasian",
+        "occupation": "Graphic Designer"
+    },
+    "defenseLawyer": {
+        "name": "U. Cooper",
+        "lawFirm": "Richmond Defenders LLP"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "10th January, 2023"
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "15th January, 2023"
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "18th January, 2023"
+        },
+        {
+            "event": "Arrest",
+            "date": "25th January, 2023"
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Counterfeiting Currency",
+            "details": [
+                {
+                    "timePeriod": "November 2022",
+                    "behavior": "S. Taylor acquired high-quality paper and inks resembling those used in genuine banknotes and began producing counterfeit $100 bills in his home studio.",
+                    "evidence": "Confiscated counterfeiting equipment including a high-resolution printer, specialized inks, and paper similar to currency stock. Testimonies from two expert witnesses confirming the materials match those used in genuine currency production."
+                },
+                {
+                    "timePeriod": "December 2022",
+                    "behavior": "S. Taylor distributed counterfeit $100 bills at local businesses, targeting small grocery stores and gas stations where cash transactions were frequent.",
+                    "evidence": "Surveillance footage recovered from affected businesses showing S. Taylor transacting with counterfeit $100 bills. Analysis reports confirming approximately $5,000 in counterfeit notes were passed during this period."
+                },
+                {
+                    "timePeriod": "Early January 2023",
+                    "behavior": "S. Taylor recruited an accomplice, M. Johnson, to help distribute the counterfeit currency across different locations in the city to avoid detection.",
+                    "evidence": "Text message exchanges between S. Taylor and M. Johnson detailing the distribution plan. Seized counterfeit currency worth $3,000 found in M. Johnson's possession during arrest."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "25th March, 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Counterfeiting Currency",
+                "sentence": "7 years of fixed-term imprisonment, fine of $50,000",
+                "sentencingConsiderations": "Considering the defendant’s role in organizing the counterfeit operation, the significant amount of counterfeit currency produced, and the extensive distribution effort."
+            }
+        ]
+    }
+}

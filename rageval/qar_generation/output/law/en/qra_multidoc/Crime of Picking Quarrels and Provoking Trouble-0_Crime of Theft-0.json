@@ -1,0 +1,162 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Summerville, Windsor, Court and Trenton, Springfield, Court, who were the chief judges presiding over the cases of F. James and Q. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "- **Chief Judge:** H. Lopez"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Chief Judge:** O. Hill",
+                        "**Chief Judge:** O. Hill"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Summerville, Windsor, Court, the chief judge was H. Lopez; according to the judgment of Trenton, Springfield, Court, the chief judge was O. Hill."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Summerville, Windsor, Court and Trenton, Springfield, Court, where were the residences of the defendants F. James and Q. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "- **Defendant:** F. James (Female, born on 27th April 1960, residing at 39 Knoxville Street, Windsor; Retail Store Manager, Caucasian)"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Residence:** 14, Seaside Street, Springfield"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Summerville, Windsor, Court, the residence of the defendant F. James was 39, Knoxville street, Windsor; according to the judgment of Trenton, Springfield, Court, the residence of the defendant Q. Ruiz was 14, Seaside street, Springfield."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Summerville, Windsor, Court and Trenton, Springfield, Court, what are the genders of the defendants F. James and Q. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "- **Defendant:** F. James (Female, born on 27th April 1960, residing at 39 Knoxville Street, Windsor; Retail Store Manager, Caucasian)"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Gender:** Male"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Summerville, Windsor, Court, the defendant F. James is female; according to the judgment of Trenton, Springfield, Court, the defendant Q. Ruiz is male."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Summerville, Windsor, Court and Trenton, Springfield, Court, what are the occupations of the defendants F. James and Q. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "- **Defendant:** F. James (Female, born on 27th April 1960, residing at 39 Knoxville Street, Windsor; Retail Store Manager, Caucasian)",
+                        "The defendant, F. James, has been a resident of 39 Knoxville Street, Windsor, and is employed as a Retail Store Manager."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Occupation:** Unemployed"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Summerville, Windsor, Court, the defendant F. James is a retail store manager; according to the judgment of Trenton, Springfield, Court, the defendant Q. Ruiz is unemployed."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Summerville, Windsor, Court and Trenton, Springfield, Court, which law firms represented the defendants F. James and Q. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "- **Defense Lawyer:** Q. Collins (Collins & Associates Law Firm)"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Law Firm:** Springfield Defenders LLP"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Summerville, Windsor, Court, the defense lawyer for F. James was from Collins & Associates Law Firm; according to the judgment of Trenton, Springfield, Court, the defense lawyer for Q. Ruiz was from Springfield Defenders LLP."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Summerville, Windsor, Court and Trenton, Springfield, Court, what were the judgment dates for the cases of F. James and Q. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "So ordered, this 1st day of May, 2023."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "**This judgment is decreed and executed by this court on the 20th of March, 2023.**"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Summerville, Windsor, Court, the judgment date for F. James was 1st May, 2023; according to the judgment of Trenton, Springfield, Court, the judgment date for Q. Ruiz was 20th March, 2023."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Summerville, Windsor, Court and Trenton, Springfield, Court, whose sentencing time is longer, F. James or Q. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "Upon careful consideration of the evidence and the repeated nature of the offenses committed by F. James, this court finds the defendant guilty of the Crime of Picking Quarrels and Provoking Trouble according to Article 293 of the criminal law.",
+                        "The defendant is hereby sentenced to three years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "The final judgment passed by this court is as follows:",
+                        "- **Imprisonment:** Q. Ruiz is hereby sentenced to 5 years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "F. James was sentenced to three years of fixed-term imprisonment, while Q. Ruiz was sentenced to five years of fixed-term imprisonment. Therefore, Q. Ruiz's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Summerville, Windsor, Court and Trenton, Springfield, Court, whose judgment time is earlier, F. James or Q. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Summerville, Windsor, Court",
+                    "content": [
+                        "So ordered, this 1st day of May, 2023."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "**This judgment is decreed and executed by this court on the 20th of March, 2023.**"
+                    ]
+                }
+            ],
+            "answer": "The judgment for Q. Ruiz was decreed and executed on the 20th of March, 2023, while the judgment for F. James was ordered on the 1st day of May, 2023. Therefore, Q. Ruiz's judgment time is earlier."
+        }
+    ]
+}

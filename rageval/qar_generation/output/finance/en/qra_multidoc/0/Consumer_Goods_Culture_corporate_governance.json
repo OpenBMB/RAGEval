@@ -1,0 +1,141 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the compliance and regulatory updates implemented by Evergreen Consumer Goods Co. in 2017 and Artistic Creations Inc. in 2019?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "To ensure compliance with new regulations, Evergreen implemented the General Data Protection Regulation (GDPR) and stricter sustainability reporting standards in May 2017."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "In January 2019, Artistic Creations Inc. implemented updates to new regulations and compliance standards, reducing legal risk and protecting the interests of the company and its shareholders."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. implemented compliance and regulatory updates in May 2017, including the implementation of the General Data Protection Regulation (GDPR) and stricter sustainability reporting standards. Artistic Creations Inc. implemented compliance and regulatory updates in January 2019, reducing legal risk and protecting the interests of the company and its shareholders."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the senior management changes at Evergreen Consumer Goods Co. in 2017 and Artistic Creations Inc. in 2019?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In October 2017, Evergreen appointed Lisa Anderson as the new Chief Financial Officer (CFO).",
+                        "With a proven track record in financial management within the consumer goods industry, Anderson's appointment is expected to strengthen the company's financial performance and growth strategies."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "In October 2019, there was a change in the board of directors, which had an impact on the company's strategic direction.",
+                        "This event had a significant impact on the indicator of related transactions, as it may lead to strategic adjustments affecting the company's long-term development direction and shareholder interests."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. appointed a new Chief Financial Officer (CFO), Lisa Anderson, in October 2017, which was expected to strengthen the company's financial performance and growth strategies. Artistic Creations Inc. had senior management changes in October 2019, which included changes in the board of directors, potentially leading to adjustments in operational focus and strategic priorities, affecting both short-term performance and long-term development."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when Evergreen Consumer Goods Co. and Artistic Creations Inc. implemented their compliance and regulatory updates. Which company did it earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "To ensure compliance with new regulations, Evergreen implemented the General Data Protection Regulation (GDPR) and stricter sustainability reporting standards in May 2017."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "In January 2019, Artistic Creations Inc. implemented updates to new regulations and compliance standards, reducing legal risk and protecting the interests of the company and its shareholders."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. implemented its compliance and regulatory updates earlier in May 2017, while Artistic Creations Inc. did so in January 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of senior management changes at Evergreen Consumer Goods Co. and Artistic Creations Inc. Which company experienced these changes earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In October 2017, Evergreen appointed Lisa Anderson as the new Chief Financial Officer (CFO)."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "In October 2019, there was a change in the board of directors, which had an impact on the company's strategic direction."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. experienced senior management changes earlier in October 2017, while Artistic Creations Inc. had its changes in March 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when Evergreen Consumer Goods Co. and Artistic Creations Inc. revised their corporate governance policies. Which company did it earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In September 2017, Evergreen revised its corporate governance policy to enhance transparency, accountability, and stakeholder engagement."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "To further strengthen its corporate governance practices, Artistic Creations Inc. undertook a comprehensive review of its corporate governance bylaws in April 2019."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. revised its corporate governance policy earlier in September 2017, while Artistic Creations Inc. did so in April 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when Evergreen Consumer Goods Co. and Artistic Creations Inc. addressed ethics and integrity incidents. Which company addressed these incidents earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "In August 2017, Evergreen promptly addressed a minor ethics and integrity incident related to an employee violation of the internal code of conduct."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "In August 2019, Artistic Creations Inc. established a whistleblower hotline, providing a confidential and secure channel for employees and stakeholders to report any suspected fraudulent activities or misconduct."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. addressed ethics and integrity incidents earlier in August 2017, while Artistic Creations Inc. did so in August 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of board of directors changes at Evergreen Consumer Goods Co. and Artistic Creations Inc. Which company had these changes earlier?",
+            "ref": [
+                {
+                    "company_name": "Evergreen Consumer Goods Co.",
+                    "content": [
+                        "Lastly, in December 2017, Evergreen appointed two new independent directors, John Smith and Emily Johnson, to its board of directors."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "In October 2019, there was a change in the board of directors, which had an impact on the company's strategic direction."
+                    ]
+                }
+            ],
+            "answer": "Evergreen Consumer Goods Co. had board of directors changes earlier in December 2017, while Artistic Creations Inc. had its changes in October 2019."
+        }
+    ]
+}

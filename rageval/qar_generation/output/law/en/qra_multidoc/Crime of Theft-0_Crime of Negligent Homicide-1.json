@@ -1,0 +1,180 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Hamilton, Harrison, Court, what were the respective courts involved in the cases of Q. Ruiz and M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "# **Trenton, Springfield, Court**",
+                        "- **Court:** Trenton, Springfield, Court"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "### In the Matter of People v. M. Ward",
+                        "Hamilton, Harrison, Court"
+                    ]
+                }
+            ],
+            "answer": "The court involved in the case of Q. Ruiz was Trenton, Springfield, Court, and the court involved in the case of M. Ward was Hamilton, Harrison, Court."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Hamilton, Harrison, Court, who were the chief judges presiding over the cases of Q. Ruiz and M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Chief Judge:** O. Hill"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "**Chief Judge**:"
+                    ]
+                }
+            ],
+            "answer": "The chief judge presiding over the case of Q. Ruiz was O. Hill, and the chief judge presiding over the case of M. Ward was T. Rivera."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Hamilton, Harrison, Court, what were the residences of the defendants Q. Ruiz and M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Residence:** 14, Seaside Street, Springfield"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "Residence: 86, Tiverton Street, Harrison"
+                    ]
+                }
+            ],
+            "answer": "The residence of the defendant Q. Ruiz was 14, Seaside Street, Springfield, and the residence of the defendant M. Ward was 86, Tiverton Street, Harrison."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Hamilton, Harrison, Court, what were the occupations of the defendants Q. Ruiz and M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Occupation:** Unemployed"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "Occupation: Nurse"
+                    ]
+                }
+            ],
+            "answer": "The defendant Q. Ruiz was unemployed, and the defendant M. Ward was a nurse."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Hamilton, Harrison, Court, what crimes were committed by the defendants Q. Ruiz and M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "The defendant, Q. Ruiz, stands formally charged with the crime of theft under Article No. 264."
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "The charge put forward by the prosecution was one of a Crime of Negligent Homicide, as delineated under Article 133."
+                    ]
+                }
+            ],
+            "answer": "The defendant Q. Ruiz committed the crime of theft, and the defendant M. Ward committed the crime of negligent homicide."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Hamilton, Harrison, Court, what were the judgment dates for the cases of Q. Ruiz and M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "**This judgment is decreed and executed by this court on the 20th of March, 2023.**"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "**Dated this 30th day of April, 2023**"
+                    ]
+                }
+            ],
+            "answer": "The judgment date for the case of Q. Ruiz was 20th March, 2023, and the judgment date for the case of M. Ward was 30th April, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Hamilton, Harrison, Court, what were the sentences given to the defendants Q. Ruiz and M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Imprisonment:** Q. Ruiz is hereby sentenced to 5 years of fixed-term imprisonment.",
+                        "- **Monetary Fine:** Q. Ruiz is ordered to pay a fine of $5,000, which must be settled within 90 days of the issuance of this judgment."
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "- M. Ward is sentenced to four (4) years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "The defendant Q. Ruiz was sentenced to 5 years of fixed-term imprisonment and fined $5,000, and the defendant M. Ward was sentenced to four years of fixed-term imprisonment."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Hamilton, Harrison, Court, whose sentencing time is longer, Q. Ruiz or M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "- **Imprisonment:** Q. Ruiz is hereby sentenced to 5 years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "- M. Ward is sentenced to four (4) years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "Q. Ruiz was sentenced to 5 years of fixed-term imprisonment, while M. Ward was sentenced to 4 years of fixed-term imprisonment. Therefore, Q. Ruiz's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Trenton, Springfield, Court and Hamilton, Harrison, Court, whose judgment time is earlier, Q. Ruiz or M. Ward?",
+            "ref": [
+                {
+                    "court_name": "Trenton, Springfield, Court",
+                    "content": [
+                        "**This judgment is decreed and executed by this court on the 20th of March, 2023.**"
+                    ]
+                },
+                {
+                    "court_name": "Hamilton, Harrison, Court",
+                    "content": [
+                        "**Dated this 30th day of April, 2023**"
+                    ]
+                }
+            ],
+            "answer": "Q. Ruiz's judgment time is 20th March, 2023, while M. Ward's judgment time is 30th April, 2023. Therefore, Q. Ruiz's judgment time is earlier."
+        }
+    ]
+}

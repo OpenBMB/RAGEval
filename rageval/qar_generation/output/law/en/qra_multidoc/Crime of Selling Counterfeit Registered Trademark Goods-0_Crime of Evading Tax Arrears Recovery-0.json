@@ -1,0 +1,181 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Oakwood, Arlington, Court, what is the ethnicity of the defendants Z. Torres and Z. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "- Ethnicity: Hispanic"
+                    ]
+                },
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Ethnicity:** Hispanic"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Sterling, Quarryville, Court, the defendant Z. Torres is Hispanic; according to the judgment of Oakwood, Arlington, Court, the defendant Z. Ruiz is Hispanic."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Oakwood, Arlington, Court, what are the occupations of the defendants Z. Torres and Z. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "- Occupation: Owner of retail electronics store"
+                    ]
+                },
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Occupation:** Business Owner"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Sterling, Quarryville, Court, the defendant Z. Torres is the owner of a retail electronics store; according to the judgment of Oakwood, Arlington, Court, the defendant Z. Ruiz is a business owner."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Oakwood, Arlington, Court, who were the chief judges presiding over the cases of Z. Torres and Z. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "**Chief Judge: H. Nguyen**"
+                    ]
+                },
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- **Chief Judge:** I. Torres"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Sterling, Quarryville, Court, the chief judge was H. Nguyen; according to the judgment of Oakwood, Arlington, Court, the chief judge was I. Torres."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Oakwood, Arlington, Court, what crimes were Z. Torres and Z. Ruiz charged with?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "Z. Torres was subsequently charged with the crime of selling counterfeit registered trademark goods, pursuant to Article No. 214.",
+                        "The defendant, Z. Torres, is hereby charged with the crime of selling counterfeit registered trademark goods, a severe violation that has economic, ethical, and legal implications."
+                    ]
+                },
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "Mr. Z. Ruiz stands charged under Article No. 203 with the Crime of Evading Tax Arrears Recovery."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Sterling, Quarryville, Court, Z. Torres was charged with the crime of selling counterfeit registered trademark goods; according to the judgment of Oakwood, Arlington, Court, Z. Ruiz was charged with the crime of evading tax arrears recovery."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Oakwood, Arlington, Court, on what dates were the judgments for Z. Torres and Z. Ruiz delivered?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "**Dated: 15th March, 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "This document reflects the proceedings and determinations of this court as of 15th August, 2022, and is issued under the authority vested in this judicature by the laws governing the jurisdiction of Oakwood, Arlington Court.",
+                        "**Date:** 15th August, 2022"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Sterling, Quarryville, Court, the judgment for Z. Torres was delivered on 15th, March, 2023; according to the judgment of Oakwood, Arlington, Court, the judgment for Z. Ruiz was delivered on 15th, August, 2022."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Oakwood, Arlington, Court, what sentences were given to Z. Torres and Z. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "- Five years of fixed-term imprisonment",
+                        "- A fine of $100,000"
+                    ]
+                },
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- 5 years of fixed-term imprisonment.",
+                        "- A fine of $100,000, reflecting four times the amount of taxes evaded."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Sterling, Quarryville, Court, Z. Torres was sentenced to five years of fixed-term imprisonment with a fine of $100,000; according to the judgment of Oakwood, Arlington, Court, Z. Ruiz was sentenced to five years of fixed-term imprisonment and fined $100,000."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Oakwood, Arlington, Court, whose sentencing time is longer, Z. Torres or Z. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "- Five years of fixed-term imprisonment"
+                    ]
+                },
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- 5 years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "Both Z. Torres and Z. Ruiz were sentenced to five years of fixed-term imprisonment. Therefore, their sentencing times are the same."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Oakwood, Arlington, Court, whose total fine amount is greater, Z. Torres or Z. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "- A fine of $100,000"
+                    ]
+                },
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "- A fine of $100,000, reflecting four times the amount of taxes evaded."
+                    ]
+                }
+            ],
+            "answer": "Both Z. Torres and Z. Ruiz were fined $100,000. Therefore, their total fine amounts are the same."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Sterling, Quarryville, Court and Oakwood, Arlington, Court, whose judgment time is earlier, Z. Torres or Z. Ruiz?",
+            "ref": [
+                {
+                    "court_name": "Sterling, Quarryville, Court",
+                    "content": [
+                        "**Dated: 15th March, 2023**"
+                    ]
+                },
+                {
+                    "court_name": "Oakwood, Arlington, Court",
+                    "content": [
+                        "This document reflects the proceedings and determinations of this court as of 15th August, 2022, and is issued under the authority vested in this judicature by the laws governing the jurisdiction of Oakwood, Arlington Court."
+                    ]
+                }
+            ],
+            "answer": "Z. Ruiz's judgment time is earlier, as the judgment date was 15th, August, 2022, while Z. Torres's judgment date was 15th, March, 2023."
+        }
+    ]
+}

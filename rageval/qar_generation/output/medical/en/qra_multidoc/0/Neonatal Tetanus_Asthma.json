@@ -1,0 +1,125 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Victoria General Hospital and Knoxville City Hospital, what were the chief complaints of patients Y. Mendoza and S. Moore?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Chief Complaint:",
+                        "Crying, limited mouth opening, difficulty sucking for 8 hours."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Knoxville City Hospital_S. Moore",
+                    "content": [
+                        "Chief Complaint:",
+                        "Intermittent wheezing, coughing, and shortness of breath for 2 weeks"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Victoria General Hospital, patient Y. Mendoza's chief complaint was crying, limited mouth opening, and difficulty sucking for 8 hours. According to the hospitalization records of Knoxville City Hospital, patient S. Moore's chief complaint was intermittent wheezing, coughing, and shortness of breath for 2 weeks."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Victoria General Hospital and Knoxville City Hospital, what were the preliminary diagnoses for patients Y. Mendoza and S. Moore?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Neonatal Tetanus"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Knoxville City Hospital_S. Moore",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "1. Asthma exacerbation",
+                        "2. Rule out COPD"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Victoria General Hospital, the preliminary diagnosis for patient Y. Mendoza was neonatal tetanus. According to the hospitalization records of Knoxville City Hospital, the preliminary diagnosis for patient S. Moore was asthma exacerbation and rule out COPD."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Victoria General Hospital and Knoxville City Hospital, who was admitted earlier, Y. Mendoza or S. Moore?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Admission Time: 10th, March"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Knoxville City Hospital_S. Moore",
+                    "content": [
+                        "Admission Time: 11th January"
+                    ]
+                }
+            ],
+            "answer": "Y. Mendoza was admitted on 10th March, and S. Moore was admitted on 11th January. S. Moore was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Victoria General Hospital and Knoxville City Hospital, whose pulse rate is higher, Y. Mendoza or S. Moore?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Pulse: 140 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Knoxville City Hospital_S. Moore",
+                    "content": [
+                        "Pulse: 88 bpm"
+                    ]
+                }
+            ],
+            "answer": "Y. Mendoza's pulse rate is 140 bpm, and S. Moore's pulse rate is 88 bpm. Y. Mendoza's pulse rate is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Victoria General Hospital and Knoxville City Hospital, who has a higher respiration rate, Y. Mendoza or S. Moore?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Respiration: 45 breaths/min"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Knoxville City Hospital_S. Moore",
+                    "content": [
+                        "Respiration: 24 breaths/min"
+                    ]
+                }
+            ],
+            "answer": "Y. Mendoza's respiration rate is 45 breaths/min, and S. Moore's respiration rate is 24 breaths/min. Y. Mendoza's respiration rate is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Victoria General Hospital and Knoxville City Hospital, who has a higher body temperature, Y. Mendoza or S. Moore?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Temperature: 36.8°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Knoxville City Hospital_S. Moore",
+                    "content": [
+                        "Temperature: 37.5°C"
+                    ]
+                }
+            ],
+            "answer": "Y. Mendoza's body temperature is 36.8°C, and S. Moore's body temperature is 37.5°C. S. Moore's body temperature is higher."
+        }
+    ]
+}

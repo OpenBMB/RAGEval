@@ -1,0 +1,217 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the compliance and regulatory updates on Acme Government Solutions in March 2021 and Artistic Creations Inc. in January 2019?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Compliance and regulatory updates in March 2021 also played a crucial role in Acme Government Solutions' corporate governance.",
+                        "These updates ensured the company's adherence to laws and regulations, reinforcing its commitment to ethical practices and transparency."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "The company proactively addressed compliance and regulatory updates, ensuring adherence to the latest laws and regulations in the industry.",
+                        "In January 2019, Artistic Creations Inc. implemented updates to new regulations and compliance standards, reducing legal risk and protecting the interests of the company and its shareholders."
+                    ]
+                }
+            ],
+            "answer": "The compliance and regulatory updates in March 2021 for Acme Government Solutions ensured the company's adherence to laws and regulations, reinforcing its commitment to ethical practices and transparency. For Artistic Creations Inc., the updates in January 2019 ensured compliance with the latest laws and regulations, reducing legal risk and protecting the company and shareholder interests."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How did the senior management changes impact Acme Government Solutions in May 2021 and Artistic Creations Inc. in March 2019?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "May 2021 witnessed senior management changes within Acme Government Solutions, which had a direct impact on the company's operational focus and strategic priorities.",
+                        "These changes aimed to align the management team with the company's vision and goals, enhancing overall performance."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "In March 2019, the company appointed a reputable external auditor to conduct an independent audit and financial review of its operations and financial statements."
+                    ]
+                }
+            ],
+            "answer": "The senior management changes in May 2021 at Acme Government Solutions impacted the company's operational focus and strategic priorities. Similarly, the senior management changes in March 2019 at Artistic Creations Inc. led to adjustments in operational focus and strategic priorities, affecting both short-term performance and long-term development."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the sustainability and social responsibility initiatives on Acme Government Solutions in June 2021 and Artistic Creations Inc. in June 2019?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions also made significant progress in sustainability and social responsibility initiatives in June 2021.",
+                        "The company's commitment to environmental protection, social responsibility, and corporate citizenship positively impacted its public image and market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "Throughout the year, Artistic Creations Inc. demonstrated its commitment to sustainability and social responsibility.",
+                        "In June 2019, the company made significant progress in sustainability, environmental protection, social responsibility, and corporate citizenship.",
+                        "This event had a positive impact on the indicator of internal control, as it enhanced the company's public image and market competitiveness, promoting long-term sustainable development."
+                    ]
+                }
+            ],
+            "answer": "The sustainability and social responsibility initiatives in June 2021 for Acme Government Solutions enhanced the company's public image and market competitiveness. For Artistic Creations Inc., the initiatives in June 2019 also enhanced the company's public image and market competitiveness, promoting long-term sustainable development."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the board of directors changes on Acme Government Solutions in April 2021 and Artistic Creations Inc. in October 2019?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "In April 2021, a change in the Board of Directors further shaped the company's strategic direction and long-term development.",
+                        "The new board members brought diverse expertise and perspectives, contributing to effective decision-making and governance."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "In October 2019, there was a change in the board of directors, which had an impact on the company's strategic direction.",
+                        "This event had a significant impact on the indicator of related transactions, as it may lead to strategic adjustments affecting the company's long-term development direction and shareholder interests."
+                    ]
+                }
+            ],
+            "answer": "The board of directors change in April 2021 at Acme Government Solutions impacted the company's strategic direction and long-term development. For Artistic Creations Inc., the board of directors change in October 2019 led to strategic adjustments, affecting the company's long-term development direction and shareholder interests."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How do Acme Government Solutions and Artistic Creations Inc. ensure transparency and accountability through their information disclosure practices?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "The company's commitment to information disclosure, related transactions, and internal control has been instrumental in ensuring transparency, fairness, and accountability.",
+                        "Acme Government Solutions has prioritized regular and timely information disclosure, providing stakeholders with the necessary information to make informed decisions.",
+                        "This commitment to transparency and accountability has strengthened the company's relationships with shareholders and other stakeholders."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "This event had a positive impact on the indicator of information disclosure, as the company's robust information disclosure system ensured timely and accurate dissemination of financial information and major announcements.",
+                        "This event had a positive impact on the indicator of information disclosure, as it attracted more art enthusiasts and raised the company's prestige in the industry.",
+                        "This event had a positive impact on the indicator of information disclosure, as it opened up new markets for the company, potentially increasing revenue and attracting a broader customer base from different countries."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions ensures transparency and accountability through regular and timely information disclosure. Artistic Creations Inc. has a robust information disclosure system compliant with SEC regulations, ensuring timely and accurate dissemination of financial information, major announcements, and pertinent details."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the compliance and regulatory update times of Acme Government Solutions and Artistic Creations Inc. Which company implemented these updates earlier?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Compliance and regulatory updates in March 2021 also played a crucial role in Acme Government Solutions' corporate governance.",
+                        "These updates ensured the company's adherence to laws and regulations, reinforcing its commitment to ethical practices and transparency."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "The company proactively addressed compliance and regulatory updates, ensuring adherence to the latest laws and regulations in the industry.",
+                        "In January 2019, Artistic Creations Inc. implemented updates to new regulations and compliance standards, reducing legal risk and protecting the interests of the company and its shareholders."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. implemented compliance and regulatory updates earlier in January 2019, compared to Acme Government Solutions in March 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the senior management change times of Acme Government Solutions and Artistic Creations Inc. Which company experienced these changes earlier?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "May 2021 witnessed senior management changes within Acme Government Solutions, which had a direct impact on the company's operational focus and strategic priorities.",
+                        "These changes aimed to align the management team with the company's vision and goals, enhancing overall performance."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "In March 2019, the company appointed a reputable external auditor to conduct an independent audit and financial review of its operations and financial statements."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. experienced senior management changes earlier in March 2019, compared to Acme Government Solutions in May 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the board of directors change times of Acme Government Solutions and Artistic Creations Inc. Which company had these changes earlier?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "In April 2021, a change in the Board of Directors further shaped the company's strategic direction and long-term development.",
+                        "The new board members brought diverse expertise and perspectives, contributing to effective decision-making and governance."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "In October 2019, there was a change in the board of directors, which had an impact on the company's strategic direction.",
+                        "This event had a significant impact on the indicator of related transactions, as it may lead to strategic adjustments affecting the company's long-term development direction and shareholder interests."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. had a board of directors change earlier in October 2019, compared to Acme Government Solutions in April 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times when Acme Government Solutions and Artistic Creations Inc. initiated their sustainability and social responsibility initiatives. Which company started these initiatives earlier?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions also made significant progress in sustainability and social responsibility initiatives in June 2021.",
+                        "The company's commitment to environmental protection, social responsibility, and corporate citizenship positively impacted its public image and market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "Throughout the year, Artistic Creations Inc. demonstrated its commitment to sustainability and social responsibility.",
+                        "In June 2019, the company made significant progress in sustainability, environmental protection, social responsibility, and corporate citizenship."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. started its sustainability and social responsibility initiatives earlier in June 2019, compared to Acme Government Solutions in June 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the shareholders' meeting resolution times of Acme Government Solutions and Artistic Creations Inc. Which company held their meeting earlier?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "One of the key events that had a significant impact on Acme Government Solutions' governance structure and operational strategies was the Shareholders' Meeting Resolution held in February 2021.",
+                        "This resolution resulted in several sub-events that shaped the company's direction and decision-making process."
+                    ]
+                },
+                {
+                    "company_name": "Artistic Creations Inc.",
+                    "content": [
+                        "In July 2019, key decisions were made at the annual shareholders' meeting, directly affecting the company's governance structure, future operational strategies, and shareholder rights.",
+                        "This event had a significant impact on the indicator of related transactions, as it showcased the company's commitment to transparency and stakeholder engagement."
+                    ]
+                }
+            ],
+            "answer": "Artistic Creations Inc. held their shareholders' meeting resolution earlier in July 2019, compared to Acme Government Solutions in February 2021."
+        }
+    ]
+}

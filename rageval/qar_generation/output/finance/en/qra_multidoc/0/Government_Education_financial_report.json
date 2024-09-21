@@ -1,0 +1,293 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "When were Acme Government Solutions and EduCorp established?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions is a government industry company established on June 1, 2001 in Washington, D.C., specializing in providing comprehensive government services and solutions.In January 2021, Acme Government Solutions made a significant decision to distribute $5 million of dividends to its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp, established on March 1, 2005, is an education company that offers educational services through online platforms and physical learning centers, headquartered in the City of Education, Country A.In January 2020, EduCorp underwent an asset restructuring, optimizing its business structure by divesting from underperforming businesses and focusing on core educational services."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions was established on June 1, 2001, and EduCorp was established on March 1, 2005."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the main businesses of Acme Government Solutions and EduCorp?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions is a government industry company established on June 1, 2001 in Washington, D.C., specializing in providing comprehensive government services and solutions.In January 2021, Acme Government Solutions made a significant decision to distribute $5 million of dividends to its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp, established on March 1, 2005, is an education company that offers educational services through online platforms and physical learning centers, headquartered in the City of Education, Country A.In January 2020, EduCorp underwent an asset restructuring, optimizing its business structure by divesting from underperforming businesses and focusing on core educational services."
+                    ]
+                }
+            ],
+            "answer": "The main business of Acme Government Solutions is providing comprehensive government services and solutions, while EduCorp provides educational services through online platforms and physical learning centers."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "Where are Acme Government Solutions and EduCorp registered?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions is a government industry company established on June 1, 2001 in Washington, D.C., specializing in providing comprehensive government services and solutions.In January 2021, Acme Government Solutions made a significant decision to distribute $5 million of dividends to its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp, established on March 1, 2005, is an education company that offers educational services through online platforms and physical learning centers, headquartered in the City of Education, Country A.In January 2020, EduCorp underwent an asset restructuring, optimizing its business structure by divesting from underperforming businesses and focusing on core educational services."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions is registered in Washington, D.C., and EduCorp is registered in the City of Education, Country A."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "In which industries do Acme Government Solutions and EduCorp operate?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions is a government industry company established on June 1, 2001 in Washington, D.C., specializing in providing comprehensive government services and solutions.In January 2021, Acme Government Solutions made a significant decision to distribute $5 million of dividends to its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp, established on March 1, 2005, is an education company that offers educational services through online platforms and physical learning centers, headquartered in the City of Education, Country A.In January 2020, EduCorp underwent an asset restructuring, optimizing its business structure by divesting from underperforming businesses and focusing on core educational services."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions operates in the government industry, while EduCorp operates in the education industry."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the dividend distributions made by Acme Government Solutions and EduCorp, and when were they distributed?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions is a government industry company established on June 1, 2001 in Washington, D.C., specializing in providing comprehensive government services and solutions.In January 2021, Acme Government Solutions made a significant decision to distribute $5 million of dividends to its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In December 2020, EduCorp decided to distribute $4 million of dividends to its shareholders, reflecting its strong financial performance and commitment to enhancing shareholder returns."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions distributed $5 million in dividends to shareholders in January 2021, and EduCorp distributed $4 million in dividends to its shareholders in December 2020."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the outcomes of the debt restructuring activities undertaken by Acme Government Solutions and EduCorp?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "To optimize its capital structure, Acme Government Solutions underwent debt restructuring in August 2021, reducing its liabilities by $15 million.",
+                        "This move improved the company's financial condition and reduced its financial costs."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "To optimize its capital structure, EduCorp underwent debt restructuring in March 2020, reducing its liabilities by $5 million through debt renegotiations and repayment strategies.",
+                        "This debt restructuring improved EduCorp's financial condition, reduced its financial costs, and increased its liquidity."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions underwent debt restructuring in August 2021, reducing liabilities by $15 million and improving its financial condition. EduCorp underwent debt restructuring in March 2020, reducing its liabilities by $5 million and improving its financial condition."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the net profits of Acme Government Solutions and EduCorp?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "This strong operating income contributed to a net profit of $20 million, reflecting effective cost control measures and non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "The net profit of EduCorp stood at $25 million, representing the net income of the company within a certain accounting period."
+                    ]
+                }
+            ],
+            "answer": "The net profit of Acme Government Solutions was $20 million, and the net profit of EduCorp was $25 million."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the total assets of Acme Government Solutions and EduCorp?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions' total assets stood at $500 million, primarily influenced by asset acquisitions, disposals, and revaluations."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp's total assets amounted to $500 million, indicating the total amount of assets owned by the company at the end of the accounting period."
+                    ]
+                }
+            ],
+            "answer": "The total assets of Acme Government Solutions were $500 million, and the total assets of EduCorp were $500 million."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of Acme Government Solutions and EduCorp. Which company had higher operating income?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "The company's operating income reached $100 million, driven by increased market demand and changes in product prices."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "Moving on to the involved indicators, EduCorp's operating income reached $150 million, reflecting the total amount of main business income and other business income within a certain accounting period."
+                    ]
+                }
+            ],
+            "answer": "EduCorp had higher operating income with $150 million compared to Acme Government Solutions' $100 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of Acme Government Solutions and EduCorp. Which company had a higher net profit?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "This strong operating income contributed to a net profit of $20 million, reflecting effective cost control measures and non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "The net profit of EduCorp stood at $25 million, representing the net income of the company within a certain accounting period."
+                    ]
+                }
+            ],
+            "answer": "EduCorp had a higher net profit with $25 million compared to Acme Government Solutions' $20 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of Acme Government Solutions and EduCorp. Which company had higher total assets?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions' total assets stood at $500 million, primarily influenced by asset acquisitions, disposals, and revaluations."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "EduCorp's total assets amounted to $500 million, indicating the total amount of assets owned by the company at the end of the accounting period."
+                    ]
+                }
+            ],
+            "answer": "Both Acme Government Solutions and EduCorp had the same total assets of $500 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the debt restructuring activities of Acme Government Solutions and EduCorp. Which company reduced more liabilities through debt restructuring?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "To optimize its capital structure, Acme Government Solutions underwent debt restructuring in August 2021, reducing its liabilities by $15 million."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "To optimize its capital structure, EduCorp underwent debt restructuring in March 2020, reducing its liabilities by $5 million through debt renegotiations and repayment strategies."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions reduced more liabilities by $15 million compared to EduCorp's $5 million."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the asset acquisitions by Acme Government Solutions and EduCorp. Which company completed an asset acquisition earlier?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "In February 2021, Acme Government Solutions completed the asset acquisition of Nationwide Security Services, with a total value of $20 million."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "Following the asset restructuring, EduCorp made a key acquisition in February 2020, acquiring an online learning platform specialized in providing virtual classrooms and interactive educational content."
+                    ]
+                }
+            ],
+            "answer": "EduCorp completed an asset acquisition earlier in February 2020, while Acme Government Solutions completed an asset acquisition in February 2021."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the dividend distributions of Acme Government Solutions and EduCorp. Which company distributed more dividends?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions is a government industry company established on June 1, 2001 in Washington, D.C., specializing in providing comprehensive government services and solutions.In January 2021, Acme Government Solutions made a significant decision to distribute $5 million of dividends to its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In December 2020, EduCorp decided to distribute $4 million of dividends to its shareholders, reflecting its strong financial performance and commitment to enhancing shareholder returns."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions distributed more dividends with $5 million compared to EduCorp's $4 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the large-scale financing activities of Acme Government Solutions and EduCorp. Which company raised more funds?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "To support its expansion and development, the company conducted a large-scale financing activity in March 2021, raising $50 million of funds."
+                    ]
+                },
+                {
+                    "company_name": "EduCorp",
+                    "content": [
+                        "In May 2020, EduCorp conducted a large-scale financing activity, raising $50 million from a consortium of private investors and institutional lenders."
+                    ]
+                }
+            ],
+            "answer": "Both Acme Government Solutions and EduCorp raised the same amount of funds, $50 million, through large-scale financing activities."
+        }
+    ]
+}

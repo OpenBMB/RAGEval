@@ -1,0 +1,71 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Ashland, Charleston, Court",
+        "procuratorate": "Ashland, Charleston, Procuratorate"
+    },
+    "chiefJudge": "L. Nguyen",
+    "judge": "M. Flores",
+    "clerk": "D. Jackson",
+    "defendant": {
+        "name": "T. Collins",
+        "gender": "female",
+        "birthdate": "28th, November, 1964",
+        "residence": "96, Milton street, Charleston",
+        "ethnicity": "Caucasian",
+        "occupation": "Registered Nurse"
+    },
+    "defenseLawyer": {
+        "name": "M. Rodriguez",
+        "lawFirm": "Rodriguez & Associates"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "15th April, 2024"
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "20th April, 2024"
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "22nd April, 2024"
+        },
+        {
+            "event": "Arrest",
+            "date": "25th April, 2024"
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Negligent Homicide",
+            "details": [
+                {
+                    "timePeriod": "7th April, 2024",
+                    "behavior": "T. Collins, while on duty, administered a double dose of morphine due to a miscalculation.",
+                    "evidence": "Medical records showing morphine dosage, testimony from pharmacist Julia Reed, surveillance footage confirming the dose administration."
+                },
+                {
+                    "timePeriod": "10th April, 2024",
+                    "behavior": "T. Collins failed to monitor the patient's vital signs for 4 hours contrary to the hospital's protocol.",
+                    "evidence": "Hospital records, witness testimony from Dr. Alan Turner, electronic monitoring logs."
+                },
+                {
+                    "timePeriod": "10th April, 2024",
+                    "behavior": "Upon discovering the patient's critical condition, T. Collins delayed calling the emergency response team by 15 minutes.",
+                    "evidence": "Call log records, witness account from fellow nurse Jean Hall, internal investigation report."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "15th October, 2024",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Negligent Homicide",
+                "sentence": "3 years fixed-term imprisonment",
+                "sentencingConsiderations": "Given the minor nature of negligence, clean prior record, and cooperation during the investigation, a minimum sentence was determined."
+            }
+        ]
+    }
+}

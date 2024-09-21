@@ -1,0 +1,179 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Parker City Hospital, what are the ages of patients I. Chavez and E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Age: 82"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Age: 70"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Yorkshire General Hospital, patient I. Chavez is 82 years old; according to the hospitalization records of Parker City Hospital, patient E. Cruz is 70 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Parker City Hospital, what is the marital status of patients I. Chavez and E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Yorkshire General Hospital, patient I. Chavez is widowed; according to the hospitalization records of Parker City Hospital, patient E. Cruz is also widowed."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Parker City Hospital, what are the occupations of patients I. Chavez and E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Occupation: Retired"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Occupation: Retired Teacher"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Yorkshire General Hospital, patient I. Chavez is retired; according to the hospitalization records of Parker City Hospital, patient E. Cruz is a retired teacher."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Parker City Hospital, what are the chief complaints of patients I. Chavez and E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Chief Complaint:",
+                        "Intermittent upper abdominal pain, acid reflux, and heartburn for 2 months."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Chief Complaint:",
+                        "Facial changes and increasing shoe size for 6 months"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Yorkshire General Hospital, patient I. Chavez's chief complaint is intermittent upper abdominal pain, acid reflux, and heartburn for 2 months; according to the hospitalization records of Parker City Hospital, patient E. Cruz's chief complaint is facial changes and increasing shoe size for 6 months."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Parker City Hospital, what past surgeries have patients I. Chavez and E. Cruz undergone?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Appendectomy at age 30."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Surgery and Trauma History: Appendectomy at age 25"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Yorkshire General Hospital, patient I. Chavez had an appendectomy at age 30; according to the hospitalization records of Parker City Hospital, patient E. Cruz had an appendectomy at age 25."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Parker City Hospital, what are the blood pressure readings of patients I. Chavez and E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Blood Pressure: 135/80 mmHg"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Blood Pressure: 140/90 mmHg"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Yorkshire General Hospital, patient I. Chavez's blood pressure reading was 135/80 mmHg; according to the hospitalization records of Parker City Hospital, patient E. Cruz's blood pressure reading was 140/90 mmHg."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Parker City Hospital, who was admitted earlier, I. Chavez or E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Admission Time: 12th, February"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Admission Time: 12th, April"
+                    ]
+                }
+            ],
+            "answer": "I. Chavez was admitted on February 12, and E. Cruz was admitted on April 12. I. Chavez was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Parker City Hospital, who is older, I. Chavez or E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Age: 82"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Age: 70"
+                    ]
+                }
+            ],
+            "answer": "I. Chavez is 82 years old, and E. Cruz is 70 years old. I. Chavez is older."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Yorkshire General Hospital and Parker City Hospital, whose blood pressure is higher, I. Chavez or E. Cruz?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Blood Pressure: 135/80 mmHg"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Blood Pressure: 140/90 mmHg"
+                    ]
+                }
+            ],
+            "answer": "I. Chavez's blood pressure is 135/80 mmHg, and E. Cruz's blood pressure is 140/90 mmHg. E. Cruz's blood pressure is higher."
+        }
+    ]
+}

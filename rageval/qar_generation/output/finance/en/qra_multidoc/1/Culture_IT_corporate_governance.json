@@ -1,0 +1,147 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "Who were the new CEOs appointed at Culture Innovators Ltd. in September 2021 and Innovate Tech Solutions in March 2017?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In September 2021, the company underwent senior management changes with the appointment of a new CEO, John Davis."
+                    ]
+                },
+                {
+                    "company_name": "Innovate Tech Solutions",
+                    "content": [
+                        "Notably, the appointment of a new CEO in March 2017 marked a significant change in leadership.",
+                        "The board of directors appointed a CEO with extensive experience in the IT industry, signaling a potential shift in the company's strategic direction."
+                    ]
+                }
+            ],
+            "answer": "John Davis was appointed as the new CEO of Culture Innovators Ltd. in September 2021. Innovate Tech Solutions appointed a new CEO in March 2017, who brought extensive experience in the IT industry."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the purposes and impacts of the corporate governance policy revisions at Culture Innovators Ltd. in March 2021 and Innovate Tech Solutions in August 2017?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In terms of corporate governance, Culture Innovators Ltd. revised its governance policies in March 2021 to foster transparency, accountability, and stakeholder engagement.",
+                        "This revision has resulted in enhanced governance practices and increased stakeholder confidence in the company's operations."
+                    ]
+                },
+                {
+                    "company_name": "Innovate Tech Solutions",
+                    "content": [
+                        "In August 2017, the company revised its corporate governance policy, aiming to enhance transparency, accountability, and stakeholder engagement.",
+                        "This revision was expected to boost stakeholder confidence and strengthen the company's overall governance framework."
+                    ]
+                }
+            ],
+            "answer": "The corporate governance policy revision at Culture Innovators Ltd. in March 2021 aimed to foster transparency, accountability, and stakeholder engagement, resulting in enhanced governance practices and increased stakeholder confidence. Innovate Tech Solutions revised its corporate governance framework in August 2017 to enhance transparency and accountability, which boosted stakeholder confidence."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the CEO appointment times of Culture Innovators Ltd. and Innovate Tech Solutions. Which company appointed a new CEO earlier?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In September 2021, the company underwent senior management changes with the appointment of a new CEO, John Davis."
+                    ]
+                },
+                {
+                    "company_name": "Innovate Tech Solutions",
+                    "content": [
+                        "Notably, the appointment of a new CEO in March 2017 marked a significant change in leadership."
+                    ]
+                }
+            ],
+            "answer": "Innovate Tech Solutions appointed a new CEO earlier in March 2017."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "Compare the times when Culture Innovators Ltd. and Innovate Tech Solutions addressed ethics and integrity incidents. Which company addressed these issues earlier?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In February 2021, the company identified and addressed a conflict of interest involving a former employee.",
+                        "This incident prompted the implementation of corrective actions, including the enhancement of internal controls and the introduction of ethical training programs.",
+                        "To further reinforce its commitment to ethical practices, Culture Innovators Ltd. formed an Ethics Committee in February 2021.",
+                        "The committee's purpose is to review and strengthen ethical standards and policies within the organization, demonstrating the company's dedication to preventing future incidents.",
+                        "In line with this, the company revised its Code of Conduct in March 2021 to provide clearer guidelines and expectations for employees."
+                    ]
+                },
+                {
+                    "company_name": "Innovate Tech Solutions",
+                    "content": []
+                }
+            ],
+            "answer": "Unable to answer"
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the corporate governance policy revision times of Culture Innovators Ltd. and Innovate Tech Solutions. Which company revised their policy earlier?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "In terms of corporate governance, Culture Innovators Ltd. revised its governance policies in March 2021 to foster transparency, accountability, and stakeholder engagement."
+                    ]
+                },
+                {
+                    "company_name": "Innovate Tech Solutions",
+                    "content": [
+                        "In August 2017, the company revised its corporate governance policy, aiming to enhance transparency, accountability, and stakeholder engagement."
+                    ]
+                }
+            ],
+            "answer": "Innovate Tech Solutions revised their corporate governance policy earlier in August 2017."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of shareholders' meeting resolutions for Culture Innovators Ltd. and Innovate Tech Solutions. Which company held their shareholders' meeting resolution earlier?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Furthermore, the company's shareholders' meeting in June 2021 approved strategic initiatives aimed at expanding into new markets, securing key partnerships, and investing in technology."
+                    ]
+                },
+                {
+                    "company_name": "Innovate Tech Solutions",
+                    "content": [
+                        "One of the key events that took place in February 2017 was the Shareholders' Meeting Resolution.",
+                        "During this meeting, important decisions were made, including changes to the company's charter, major corporate actions, and voting results."
+                    ]
+                }
+            ],
+            "answer": "Innovate Tech Solutions held their shareholders' meeting resolution earlier in February 2017."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the implementation times of risk management measures for Culture Innovators Ltd. and Innovate Tech Solutions. Which company implemented these measures earlier?",
+            "ref": [
+                {
+                    "company_name": "Culture Innovators Ltd.",
+                    "content": [
+                        "Culture Innovators Ltd. has also prioritized risk management, conducting a comprehensive review of its risk management framework in August 2021.",
+                        "This review has allowed the company to identify and mitigate emerging risks, particularly in the areas of intellectual property protection and data security."
+                    ]
+                },
+                {
+                    "company_name": "Innovate Tech Solutions",
+                    "content": [
+                        "In terms of risk management, Innovate Tech Solutions implemented measures to identify and mitigate risks.",
+                        "In November 2017, the company updated its risk management framework, allowing for better identification of new risks and the implementation of appropriate mitigation strategies."
+                    ]
+                }
+            ],
+            "answer": "Innovate Tech Solutions implemented risk management measures earlier in November 2017."
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "O. Myers",
+            "Gender": "female",
+            "Age": "13",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Single",
+            "Occupation": "Student",
+            "Address": "39 Woodland Street, Clarksville",
+            "Admission Time": "20th, April",
+            "Record Time": "20th, April",
+            "Historian": "Patient and mother",
+            "Hospital Name": "Clarksville General Hospital"
+        },
+        "Chief Complaint": "Palpitations and excessive sweating for 2 weeks",
+        "Present Illness": {
+            "Onset": "Symptoms started 2 weeks ago at home, gradual onset, no obvious triggers identified",
+            "Main Symptoms": "Palpitations, excessive sweating, and irritability. Symptoms have been persistent and worsening. Relief with rest and beta-blockers",
+            "Accompanying Symptoms": "Tachycardia, increased appetite, fatigue, goiter, exophthalmos",
+            "Diagnosis and Treatment History": "Previously seen by a primary care physician, diagnosed with hyperthyroidism; prescribed methimazole, partial symptom relief",
+            "General Condition Changes": "Increase in irritability, difficulty sleeping, constant feeling of fatigue, and significant increase in appetite"
+        },
+        "Past History": {
+            "General Health Condition": "Good health prior to current illness",
+            "Disease History": "No significant chronic illnesses; known hyperthyroidism for 2 weeks",
+            "Infectious Disease History": "No history of significant infectious diseases",
+            "Immunization History": "Up-to-date with childhood immunizations",
+            "Surgery and Trauma History": "None",
+            "Blood Transfusion History": "None",
+            "Allergy History": "No known allergies"
+        },
+        "Personal History": {
+            "Birthplace": "Clarksville",
+            "Residence": "Clarksville",
+            "Living Habits": "Healthy diet, regular physical activity",
+            "Occupation and Working Conditions": "Full-time student, no exposure to industrial hazards",
+            "Exposure History": "No exposure to industrial toxins, dust, or radioactive substances",
+            "Travel History": "No recent travel history"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Single",
+                "Marriage Age": "N/A",
+                "Spouse's Health Condition": "N/A",
+                "Children's Condition": "N/A"
+            },
+            "Menstrual History": {
+                "Menarche Age": "12",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "15th, April",
+                "Menstrual Volume": "Normal",
+                "Dysmenorrhea": "Mild"
+            },
+            "Family History": "Mother with history of hypothyroidism, father healthy, one healthy younger sibling"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "36.8°C",
+                "Pulse": "110 bpm",
+                "Respiration": "20 breaths/min",
+                "Blood Pressure": "110/70 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Warm, moist, no rashes",
+                "Mucous Membranes": "Normal",
+                "Lymph Nodes": "No lymphadenopathy",
+                "Head and Organs": "No abnormalities",
+                "Neck": "Goiter present, thyroid enlarged and tender",
+                "Chest": "Clear lungs, no wheezing or crackles; normal heart sounds, tachycardia present",
+                "Abdomen": "Soft, non-tender, no hepatosplenomegaly",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Normal for age",
+                "Spine": "No deformities",
+                "Limbs": "No edema, normal range of motion",
+                "Nervous System": "Alert, oriented, no focal neurological deficits"
+            }
+        },
+        "Specialist Examination": "Thyroid ultrasound: diffuse thyroid enlargement, increased vascularity",
+        "Auxiliary Examination": "TSH: <0.01 uU/mL, Free T4: 3.2 ng/dL, Free T3: 7.5 pg/mL",
+        "Preliminary Diagnosis": "Pregnancy complicated by hyperthyroidism",
+        "Diagnostic Basis": "Based on history of hyperthyroidism, physical examination (goiter, tachycardia, exophthalmos), and laboratory tests (low TSH, elevated T4 and T3)",
+        "Differential Diagnosis": "Simple goiter during pregnancy ruled out by high levels of thyroid hormones; subacute thyroiditis and Hashimoto's disease ruled out by clinical presentation and lab values",
+        "Admission Records": {
+            "Physician's Signature": "Dr. J. Doe"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with complaints of palpitations and excessive sweating. Initial labs confirm hyperthyroidism. Treatment plan includes methimazole, propranolol for symptom control, and frequent thyroid function monitoring",
+            "Daily Course Records": "Day 1: Patient stable, less palpitations with propranolol. Day 2: Improved appetite control, slight reduction in sweating. Day 3: Continued improvement, monitoring reveals slight decrease in T3 levels.",
+            "Senior Physician Rounds Records": "Reviewed case, agreed with current management plan, emphasized need for close monitoring",
+            "Difficult Case Discussion Records": "Not applicable",
+            "Handover Records": "Patient stable, continue with current treatment, closely monitor thyroid function, assess for any new symptoms",
+            "Transfer Records": "Not applicable",
+            "Stage Summary": "Patient showing steady improvement with current medication regimen",
+            "Emergency Records": "No emergencies reported",
+            "Invasive Procedure Records": "None",
+            "Consultation Records": "Endocrinology consultation requested, endocrinologist agreed with management plan",
+            "Discharge Records": "To be completed upon discharge",
+            "Critically Ill Patient Care Records": "Not applicable"
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Methimazole 20 mg daily, Propranolol 40 mg twice daily, Monitor thyroid function every 3 days",
+            "Temporary Orders": "CBC, LFTs, and thyroid panel every 3 days"
+        },
+        "Auxiliary Examination Reports": "Thyroid ultrasound: diffuse enlargement, increased vascularity; TSH: <0.01 uU/mL, Free T4: 3.2 ng/dL, Free T3: 7.5 pg/mL",
+        "Temperature Chart": "Records of temperature, pulse, respiration, blood pressure show slightly elevated pulse, normal temperature",
+        "Blood Transfusion Consent": "Not applicable",
+        "Special Examination Consent": "Consent obtained for thyroid ultrasound and blood tests",
+        "Critical Condition Notice": "Not applicable"
+    },
+    "DiseaseType": {
+        "Pregnancy, Childbirth, and the Puerperium Complications": {
+            "Name": "Pregnancy Complicated by Hyperthyroidism",
+            "Symptoms": "Palpitations, tachycardia, excessive sweating, irritability, increased appetite, fatigue, goiter, exophthalmos, etc.",
+            "Differential Diagnosis": "Simple goiter during pregnancy, subacute thyroiditis, Hashimoto's disease"
+        }
+    }
+}

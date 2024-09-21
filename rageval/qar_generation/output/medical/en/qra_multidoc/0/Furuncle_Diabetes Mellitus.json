@@ -1,0 +1,159 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, what are the ages of patients J. Rodriguez and O. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Age: 7"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_O. Price",
+                    "content": [
+                        "Age: 76"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez is 7 years old; according to the hospitalization records of Victoria General Hospital, patient O. Price is 76 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, what are the chief complaints of patients J. Rodriguez and O. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Chief Complaint: Local redness, swelling, heat, and pain on the right forearm for 3 days."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_O. Price",
+                    "content": [
+                        "Chief Complaint:",
+                        "Irritability, restlessness, tachycardia, fatigue, heat intolerance, sweating, weight loss, increased appetite, increased bowel movements for 3 months."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, patient J. Rodriguez's chief complaint is local redness, swelling, heat, and pain on the right forearm for 3 days; according to the hospitalization records of Victoria General Hospital, patient O. Price's chief complaint is irritability, restlessness, tachycardia, fatigue, heat intolerance, sweating, weight loss, increased appetite, and increased bowel movements for 3 months."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, what are the preliminary diagnoses for patients J. Rodriguez and O. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Preliminary Diagnosis: Furuncle of the right forearm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_O. Price",
+                    "content": [
+                        "Hyperthyroidism."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, the preliminary diagnosis for patient J. Rodriguez is a furuncle of the right forearm; according to the hospitalization records of Victoria General Hospital, the preliminary diagnosis for patient O. Price is hyperthyroidism."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, who was admitted earlier, J. Rodriguez or O. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Admission Time: 26th, February"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_O. Price",
+                    "content": [
+                        "Admission Time: 18th, September"
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez was admitted on February 26, and O. Price was admitted on September 18. J. Rodriguez was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, who is older, J. Rodriguez or O. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Age: 7"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_O. Price",
+                    "content": [
+                        "Age: 76"
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez is 7 years old, and O. Price is 76 years old. O. Price is older."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, whose pulse rate is higher, J. Rodriguez or O. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Pulse: 90 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_O. Price",
+                    "content": [
+                        "Pulse: 98 bpm"
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez's pulse rate is 90 bpm, and O. Price's pulse rate is 98 bpm. O. Price's pulse rate is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, whose body temperature is higher, J. Rodriguez or O. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Temperature: 37°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_O. Price",
+                    "content": [
+                        "Temperature: 36.8°C"
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez's body temperature is 37°C, and O. Price's body temperature is 36.8°C. J. Rodriguez's body temperature is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, whose blood pressure is higher, J. Rodriguez or O. Price?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Blood Pressure: 100/60 mmHg"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_O. Price",
+                    "content": [
+                        "Blood Pressure: 130/80 mmHg"
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez's blood pressure is 100/60 mmHg, and O. Price's blood pressure is 130/80 mmHg. O. Price's blood pressure is higher."
+        }
+    ]
+}

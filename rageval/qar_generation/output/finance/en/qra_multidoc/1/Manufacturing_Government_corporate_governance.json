@@ -1,0 +1,235 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the senior management changes in Fabrikon Manufacturing Ltd. in 2021 and National Development Corporation in 2019?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In September 2021, Fabrikon Manufacturing Ltd. underwent senior management changes, including the appointment of new executives in key leadership positions.",
+                        "These changes aimed to bring fresh perspectives and expertise to the company's management team, driving innovation and strategic decision-making.",
+                        "The impact of these changes was reflected in the company's improved operational efficiency and performance."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "In March 2019, the corporation experienced a senior management change with the appointment of Ms. Jane Davis as the new Chief Financial Officer.",
+                        "Ms. Davis brings extensive experience in financial management, which is expected to drive improvements in financial decision-making, positively impacting short-term performance and long-term development."
+                    ]
+                }
+            ],
+            "answer": "In September 2021, Fabrikon Manufacturing Ltd. underwent senior management changes, including the appointment of new executives in key leadership positions, which improved operational efficiency and performance. In March 2019, National Development Corporation appointed Ms. Jane Davis as the new Chief Financial Officer, enhancing financial performance."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the corporate governance policy revisions for Fabrikon Manufacturing Ltd. in 2021 and National Development Corporation in 2019?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In July 2021, the company revised its corporate governance policy to align with best practices and enhance transparency.",
+                        "This revision included the establishment of an independent audit committee and the adoption of stricter disclosure requirements.",
+                        "The impact of this revision was evident in the company's improved corporate governance practices and increased investor confidence."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "Another significant event took place in April 2019 when the corporation revised its corporate governance policy to align with best practices and strengthen transparency and stakeholder engagement.",
+                        "This revision enhances corporate governance transparency and accountability, fostering stakeholder confidence."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. revised its corporate governance policy in July 2021, including the establishment of an independent audit committee and stricter disclosure requirements, which improved corporate governance practices and increased investor confidence. National Development Corporation revised its corporate governance framework in April 2019 to align with best practices, enhancing transparency and stakeholder engagement."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What compliance and regulatory updates were implemented by Fabrikon Manufacturing Ltd. in 2021 and National Development Corporation in 2019?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In June 2021, Fabrikon Manufacturing Ltd. complied with new compliance and regulatory updates in the manufacturing industry.",
+                        "These updates aimed to ensure adherence to industry standards and regulations, enhancing the company's reputation and credibility.",
+                        "The impact of these updates was reflected in the company's improved compliance record and strengthened relationships with regulatory authorities."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "In July 2019, the National Development Corporation implemented the latest securities law and corporate law updates, ensuring compliance with industry-specific regulations.",
+                        "This compliance and regulatory update is crucial in maintaining legal compliance, reducing legal risk, and protecting the interests of the company and its shareholders."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. implemented compliance and regulatory updates in June 2021, ensuring adherence to industry standards and regulations, which enhanced the company's reputation and credibility. National Development Corporation implemented the latest securities law and corporate law updates in July 2019, ensuring compliance with industry-specific regulations."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What risk management measures were taken by Fabrikon Manufacturing Ltd. in 2021 and National Development Corporation in 2019?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In May 2021, the company also implemented various risk management measures to mitigate potential threats and uncertainties.",
+                        "These measures included the establishment of a dedicated risk management department, regular risk assessments, and the development of contingency plans.",
+                        "The impact of these measures was evident in the company's ability to proactively identify and address potential risks, minimizing their impact on operations and financial performance."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "To address emerging cybersecurity risks, the corporation implemented enhanced IT security measures in September 2019.",
+                        "These measures aim to protect sensitive financial and operational data, strengthening the company's ability to safeguard internal and external risks.",
+                        "This event demonstrates the corporation's commitment to risk management and ensuring uninterrupted operations and stable development."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. implemented risk management measures in May 2021, including the establishment of a dedicated risk management department, regular risk assessments, and the development of contingency plans, which minimized the impact on operations and financial performance. National Development Corporation identified emerging cybersecurity risks and implemented enhanced IT security measures in September 2019 to protect sensitive financial and operational data."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What ethics and integrity incidents were addressed by Fabrikon Manufacturing Ltd. in 2021 and National Development Corporation in 2019?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "However, April 2021 also saw some ethics and integrity incidents within the company.",
+                        "These incidents raised concerns about the company's commitment to ethical practices and corporate responsibility.",
+                        "The impact of these incidents was detrimental to the company's reputation and stakeholder trust.",
+                        "To address these issues, Fabrikon Manufacturing Ltd. implemented rigorous ethics training programs and strengthened its internal control mechanisms."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "In October 2019, the National Development Corporation addressed an ethics and integrity incident by conducting a thorough investigation, terminating involved individuals, and implementing stricter integrity policies.",
+                        "This incident highlights the corporation's commitment to ethical practices, preserving its reputation, and maintaining positive stakeholder relationships."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. addressed ethics and integrity incidents in April 2021 by implementing rigorous ethics training programs and strengthening internal control mechanisms, which helped restore the company's reputation and stakeholder trust. National Development Corporation addressed an ethics and integrity incident in October 2019 by conducting a thorough investigation, terminating involved individuals, and implementing stricter integrity policies."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What sustainability and social responsibility initiatives were launched by Fabrikon Manufacturing Ltd. in 2021 and National Development Corporation in 2019?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In November 2021, the company launched various sustainability and social responsibility initiatives.",
+                        "These initiatives aimed to minimize the company's environmental footprint, promote employee well-being, and contribute to the communities in which it operates.",
+                        "The impact of these initiatives was evident in the company's improved corporate social responsibility reputation and increased stakeholder engagement."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "Lastly, in November 2019, the corporation launched a community engagement program focused on environmental education and urban sustainability initiatives.",
+                        "This initiative enhances the company's reputation, promotes social responsibility, and fosters long-term sustainable development."
+                    ]
+                }
+            ],
+            "answer": "Fabrikon Manufacturing Ltd. launched sustainability and social responsibility initiatives in November 2021, aiming to minimize the company's environmental footprint, promote employee well-being, and contribute to communities, which improved its corporate social responsibility reputation and increased stakeholder engagement. National Development Corporation launched a community engagement program focused on environmental education and urban sustainability initiatives in November 2019."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of the shareholders' meeting resolutions for Fabrikon Manufacturing Ltd. and National Development Corporation. Which company held their shareholders' meeting resolution earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "Fabrikon Manufacturing Ltd., established on June 1, 2005, is a publicly listed manufacturing company based in Cityville, specializing in the production and distribution of high-quality industrial machinery and equipment.In February 2021, Fabrikon Manufacturing Ltd. held a shareholders' meeting where a resolution was passed."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "Firstly, in February 2019, the Shareholders' Meeting Resolution approved the amendment to the company's charter, allowing for strategic collaboration with private partners for major infrastructure projects."
+                    ]
+                }
+            ],
+            "answer": "National Development Corporation held their shareholders' meeting resolution earlier in February 2019, while Fabrikon Manufacturing Ltd. held theirs in February 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of senior management changes for Fabrikon Manufacturing Ltd. and National Development Corporation. Which company made changes to their senior management earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In September 2021, Fabrikon Manufacturing Ltd. underwent senior management changes, including the appointment of new executives in key leadership positions."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "In March 2019, the corporation experienced a senior management change with the appointment of Ms. Jane Davis as the new Chief Financial Officer."
+                    ]
+                }
+            ],
+            "answer": "National Development Corporation made changes to their senior management earlier in March 2019, while Fabrikon Manufacturing Ltd. made changes in September 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of corporate governance policy revisions for Fabrikon Manufacturing Ltd. and National Development Corporation. Which company revised their corporate governance policy earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In July 2021, the company revised its corporate governance policy to align with best practices and enhance transparency."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "Another significant event took place in April 2019 when the corporation revised its corporate governance policy to align with best practices and strengthen transparency and stakeholder engagement."
+                    ]
+                }
+            ],
+            "answer": "National Development Corporation revised their corporate governance policy earlier in April 2019, while Fabrikon Manufacturing Ltd. revised theirs in July 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of compliance and regulatory updates for Fabrikon Manufacturing Ltd. and National Development Corporation. Which company implemented these updates earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In June 2021, Fabrikon Manufacturing Ltd. complied with new compliance and regulatory updates in the manufacturing industry."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "In July 2019, the National Development Corporation implemented the latest securities law and corporate law updates, ensuring compliance with industry-specific regulations."
+                    ]
+                }
+            ],
+            "answer": "National Development Corporation implemented compliance and regulatory updates earlier in July 2019, while Fabrikon Manufacturing Ltd. did so in June 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of sustainability and social responsibility initiatives for Fabrikon Manufacturing Ltd. and National Development Corporation. Which company launched these initiatives earlier?",
+            "ref": [
+                {
+                    "company_name": "Fabrikon Manufacturing Ltd.",
+                    "content": [
+                        "In November 2021, the company launched various sustainability and social responsibility initiatives."
+                    ]
+                },
+                {
+                    "company_name": "National Development Corporation",
+                    "content": [
+                        "Lastly, in November 2019, the corporation launched a community engagement program focused on environmental education and urban sustainability initiatives."
+                    ]
+                }
+            ],
+            "answer": "National Development Corporation launched their sustainability and social responsibility initiatives earlier in November 2019, while Fabrikon Manufacturing Ltd. launched theirs in November 2021."
+        }
+    ]
+}

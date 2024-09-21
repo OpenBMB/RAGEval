@@ -1,0 +1,122 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Greenfield General Hospital, what are the ages of patients A. Smith and T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Age: 12"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Age: 95"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Farmington City Hospital, patient A. Smith is 12 years old; according to the hospitalization records of Greenfield General Hospital, patient T. Jackson is 95 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Greenfield General Hospital, what are the diagnosis results of A. Smith and T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Acute Schistosomiasis",
+                        "Diagnostic tests confirm acute schistosomiasis."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Major Depressive Disorder.",
+                        "Consultation Records: Consultation with psychiatry confirmed diagnosis and recommended combined pharmacotherapy and psychotherapy."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Farmington City Hospital, A. Smith was diagnosed with Acute Schistosomiasis; according to the hospitalization records of Greenfield General Hospital, T. Jackson was diagnosed with Major Depressive Disorder."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Greenfield General Hospital, what is the ethnicity of patients A. Smith and T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Ethnicity: Caucasian"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Ethnicity: Caucasian"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of both Farmington City Hospital and Greenfield General Hospital, both patients A. Smith and T. Jackson are of Caucasian ethnicity."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Greenfield General Hospital, who was admitted earlier, A. Smith or T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Admission Time: 9th, October"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Admission Time: 11th, July"
+                    ]
+                }
+            ],
+            "answer": "A. Smith was admitted on October 9, and T. Jackson was admitted on July 11. T. Jackson was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Greenfield General Hospital, whose body temperature was higher upon admission, A. Smith or T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Temperature: 39°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Temperature: 98.4°F"
+                    ]
+                }
+            ],
+            "answer": "A. Smith's body temperature was 39°C upon admission, while T. Jackson's body temperature was 98.4°F (approximately 36.9°C). A. Smith's body temperature was higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Farmington City Hospital and Greenfield General Hospital, whose pulse rate was higher upon admission, A. Smith or T. Jackson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Farmington City Hospital_A. Smith",
+                    "content": [
+                        "Pulse: 110 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Pulse: 70 bpm"
+                    ]
+                }
+            ],
+            "answer": "A. Smith's pulse rate was 110 bpm upon admission, while T. Jackson's pulse rate was 70 bpm. A. Smith's pulse rate was higher."
+        }
+    ]
+}

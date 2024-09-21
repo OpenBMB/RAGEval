@@ -1,0 +1,98 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Riverton, Hamilton, Court, what are the occupations of the defendants X. Alvarez and H. Walker?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "Occupation: Delivery Driver"
+                    ]
+                },
+                {
+                    "court_name": "Riverton, Hamilton, Court",
+                    "content": [
+                        "Occupation: Unemployed"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the defendant X. Alvarez is a Delivery Driver; according to the judgment of Riverton, Hamilton, Court, the defendant H. Walker is Unemployed."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Riverton, Hamilton, Court, what crimes did the defendants X. Alvarez and H. Walker commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "The Court charges X. Alvarez with the Crime of Traffic Accident, in violation of Article 133 of the relevant penal code."
+                    ]
+                },
+                {
+                    "court_name": "Riverton, Hamilton, Court",
+                    "content": [
+                        "Under Article 170, H. Walker is charged with the Crime of Counterfeiting Currency."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the defendant X. Alvarez committed the Crime of Traffic Accident; according to the judgment of Riverton, Hamilton, Court, the defendant H. Walker committed the Crime of Counterfeiting Currency."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Riverton, Hamilton, Court, who were the chief judges presiding over the cases of X. Alvarez and H. Walker?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "Chief Judge: W. Hernandez"
+                    ]
+                },
+                {
+                    "court_name": "Riverton, Hamilton, Court",
+                    "content": [
+                        "Z. Rodriguez"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the chief judge presiding over the case of X. Alvarez was W. Hernandez; according to the judgment of Riverton, Hamilton, Court, the chief judge presiding over the case of H. Walker was Z. Rodriguez."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Riverton, Hamilton, Court, whose sentencing time is longer, X. Alvarez or H. Walker?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "The court sentences X. Alvarez to a fixed-term imprisonment of three (3) years.",
+                        "Additionally, upon release, he will be subject to a probation period of one (1) year, during which he must comply with specific legal and rehabilitative conditions intended to monitor and correct his behavior."
+                    ]
+                },
+                {
+                    "court_name": "Riverton, Hamilton, Court",
+                    "content": [
+                        "Walker is sentenced to eight years of imprisonment, coupled with a monetary fine of $20,000."
+                    ]
+                }
+            ],
+            "answer": "X. Alvarez was sentenced to 3 years of fixed-term imprisonment with an additional 1-year probation period after release, while H. Walker was sentenced to 8 years imprisonment and a fine of $20,000. H. Walker's sentencing time is longer."
+        },
+        {
+            "question type": "Unanswerable Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Riverton, Hamilton, Court, whose judgment time is earlier, X. Alvarez or H. Walker?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": []
+                },
+                {
+                    "court_name": "Riverton, Hamilton, Court",
+                    "content": []
+                }
+            ],
+            "answer": "Unable to answer."
+        }
+    ]
+}

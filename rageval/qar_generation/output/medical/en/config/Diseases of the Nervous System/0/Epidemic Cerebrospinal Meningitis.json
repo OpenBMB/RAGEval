@@ -1,0 +1,219 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "H. Flores",
+            "Gender": "female",
+            "Age": "82",
+            "Ethnicity": "Hispanic",
+            "Marital Status": "Widowed",
+            "Occupation": "Retired Teacher",
+            "Address": "39, Sunnyvale street, Wilton",
+            "Admission Time": "22th, March",
+            "Record Time": "22th, March",
+            "Historian": "H. Flores",
+            "Hospital Name": "Wilton General Hospital"
+        },
+        "Chief Complaint": "Severe headache, high fever, and neck stiffness for 2 days.",
+        "Present Illness": {
+            "Onset": "Onset 2 days ago at home with sudden high fever, followed by severe headache and neck stiffness. No obvious prodromal symptoms.",
+            "Main Symptoms": "Severe headache primarily located in the frontal region, continuous and throbbing, severe neck stiffness, high fever reaching up to 39.5°C.",
+            "Accompanying Symptoms": "Projectile vomiting, photophobia, sore throat, runny nose, cough, and skin petechiae noted on both arms and legs.",
+            "Diagnosis and Treatment History": "Visited local clinic, received antipyretics which temporarily reduced fever. Symptoms worsened, prompting hospital admission.",
+            "General Condition Changes": "Increased lethargy, poor appetite, insomnia, no changes in urination and defecation patterns, weight stable."
+        },
+        "Past History": {
+            "General Health Condition": "Generally well, no chronic illnesses.",
+            "Disease History": "Occasional hypertension, controlled with medication.",
+            "Infectious Disease History": "No significant history of infectious diseases.",
+            "Immunization History": "Up-to-date with vaccinations, including influenza.",
+            "Surgery and Trauma History": "Appendectomy at age 30, no trauma history.",
+            "Blood Transfusion History": "None.",
+            "Allergy History": "Allergic to penicillin."
+        },
+        "Personal History": {
+            "Birthplace": "Wilton",
+            "Residence": "Wilton",
+            "Living Habits": "Non-smoker, occasional wine, balanced diet, moderate exercise.",
+            "Occupation and Working Conditions": "Retired teacher, previously worked in a well-ventilated environment.",
+            "Exposure History": "No exposure to industrial toxins, dust, or radioactive substances.",
+            "Travel History": "No recent travel history."
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Widowed",
+                "Marriage Age": "21",
+                "Spouse's Health Condition": "Deceased, was in good health prior.",
+                "Children's Condition": "Three children, all in good health."
+            },
+            "Menstrual History": {
+                "Menarche Age": "13",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "Age 50",
+                "Menstrual Volume": "Normal",
+                "Dysmenorrhea": "Mild"
+            },
+            "Family History": "Parents deceased, father had hypertension, mother had no significant health issues, siblings healthy, no similar diseases reported."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "39.5°C",
+                "Pulse": "110 bpm",
+                "Respiration": "24 breaths/min",
+                "Blood Pressure": "145/90 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Petechiae present on arms and legs.",
+                "Mucous Membranes": "Moist, no lesions.",
+                "Lymph Nodes": "No palpable lymphadenopathy.",
+                "Head and Organs": "No abnormalities observed.",
+                "Neck": "Severe stiffness, unable to flex neck forward.",
+                "Chest": "Clear lungs, normal heart sounds, no murmurs.",
+                "Abdomen": "Soft, non-tender, liver and spleen not palpable.",
+                "Rectum and Anus": "Normal, no abnormalities.",
+                "External Genitalia": "Normal, age-appropriate.",
+                "Spine": "Normal curvature, no tenderness.",
+                "Limbs": "Normal muscle strength and tone, no edema.",
+                "Nervous System": "Alert and oriented, but with headache and neck stiffness, cranial nerves intact, reflexes brisk."
+            }
+        },
+        "Specialist Examination": "Consulted Neurologist; positive Brudzinski and Kernig signs.",
+        "Auxiliary Examination": "CSF analysis: Elevated WBC, high protein, low glucose, culture pending. Blood tests: Elevated WBC, CRP elevated. CT scan: No abnormalities detected.",
+        "Preliminary Diagnosis": "Epidemic Cerebrospinal Meningitis",
+        "Diagnostic Basis": "High fever, severe headache, neck stiffness, skin petechiae, positive CSF findings.",
+        "Differential Diagnosis": "Japanese encephalitis (ruled out due to presence of skin petechiae and bacterial CSF findings), common cold (ruled out due to severity and CSF findings).",
+        "Admission Records": {
+            "Physician's Signature": "Dr. J. Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient presents with severe headache, high fever, and neck stiffness suggestive of meningitis. CSF analysis confirms bacterial meningitis. Initiated IV antibiotics and supportive care.",
+            "Daily Course Records": "Day 1 post-admission: Fever reduced to 38.2°C, headache slightly relieved, neck stiffness persists. Day 2 post-admission: Fever 37.8°C, headache manageable with analgesics, neck stiffness reducing.",
+            "Senior Physician Rounds Records": "Senior review confirms diagnosis and supports current treatment plan, no changes recommended.",
+            "Difficult Case Discussion Records": "",
+            "Handover Records": "Shift handover: Patient stable, fever controlled, awaiting CSF culture results.",
+            "Transfer Records": "",
+            "Stage Summary": "Initial response to treatment positive, patient stable.",
+            "Emergency Records": "",
+            "Invasive Procedure Records": "Lumbar puncture performed for CSF analysis.",
+            "Consultation Records": "Neurology consult confirmed bacterial meningitis, discussed ongoing management.",
+            "Discharge Records": "",
+            "Critically Ill Patient Care Records": ""
+        },
+        "Medical Orders": {
+            "Long-term Orders": "IV antibiotics (Ceftriaxone 2g IV BID), IV fluids (Normal Saline 1000ml/day), analgesics (Paracetamol 500mg PO Q6H PRN), monitoring vital signs Q4H.",
+            "Temporary Orders": "CSF culture pending, blood culture pending, repeat lumbar puncture if no improvement."
+        },
+        "Auxiliary Examination Reports": "CSF analysis report: WBC 1200/µL, protein 150 mg/dL, glucose 30 mg/dL.",
+        "Temperature Chart": "Day 1: 39.5°C, Day 2: 38.2°C, Day 3: 37.8°C, Pulse: 110 bpm, Respiration: 24 breaths/min, Blood Pressure: 145/90 mmHg.",
+        "Blood Transfusion Consent": "",
+        "Special Examination Consent": "Consent obtained for lumbar puncture.",
+        "Critical Condition Notice": "Family notified of critical condition on admission, daily updates provided."
+    },
+    "DiseaseType": {
+        "Diseases of the Nervous System": {
+            "Name": "Epidemic Cerebrospinal Meningitis",
+            "Symptoms": "Early stage: fever, headache, sore throat, increased upper respiratory secretions, runny nose, cough, etc. Severe: sudden high fever, severe headache, projectile vomiting, neck stiffness, skin petechiae, incontinence, coma, convulsions, etc.",
+            "Differential Diagnosis": "Japanese encephalitis (no bacteremia stage, no skin petechiae, less likely to have sudden shock), common cold."
+        }
+    },
+    "Generated Article": "Hospitalization Record\n\nBasic Information:\n- Name: H. Flores\n- Gender: Female\n- Age: 82\n- Ethnicity: Hispanic\n- Marital Status: Widowed\n- Occupation: Retired Teacher\n- Address: 39, Sunnyvale Street, Wilton\n- Admission Time: 22nd March\n- Record Time: 22nd March\n- Historian: H. Flores\n- Hospital Name: Wilton General Hospital\n\nChief Complaint:\nSevere headache, high fever, and neck stiffness for 2 days.\n\nPresent Illness:\nOnset: Onset 2 days ago at home with sudden high fever, followed by severe headache and neck stiffness. No obvious prodromal symptoms.\nMain Symptoms: Severe headache primarily located in the frontal region, continuous and throbbing, severe neck stiffness, high fever reaching up to 39.5°C.\nAccompanying Symptoms: Projectile vomiting, photophobia, sore throat, runny nose, cough, and skin petechiae noted on both arms and legs.\nDiagnosis and Treatment History: Visited local clinic, received antipyretics which temporarily reduced fever. Symptoms worsened, prompting hospital admission.\nGeneral Condition Changes: Increased lethargy, poor appetite, insomnia, no changes in urination and defecation patterns, weight stable.\n\nPast History:\nGeneral Health Condition: Generally well, no chronic illnesses.\nDisease History: Occasional hypertension, controlled with medication.\nInfectious Disease History: No significant history of infectious diseases.\nImmunization History: Up-to-date with vaccinations, including influenza.\nSurgery and Trauma History: Appendectomy at age 30, no trauma history.\nBlood Transfusion History: None.\nAllergy History: Allergic to penicillin.\n\nPersonal History:\nBirthplace: Wilton\nResidence: Wilton\nLiving Habits: Non-smoker, occasional wine, balanced diet, moderate exercise.\nOccupation and Working Conditions: Retired teacher, previously worked in a well-ventilated environment.\nExposure History: No exposure to industrial toxins, dust, or radioactive substances.\nTravel History: No recent travel history.\n\nMarital and Family History:\nMarital History:\n- Marital Status: Widowed\n- Marriage Age: 21\n- Spouse's Health Condition: Deceased, was in good health prior.\n- Children's Condition: Three children, all in good health.\nMenstrual History:\n- Menarche Age: 13\n- Menstruation Duration: 5 days\n- Menstruation Interval: 28 days\n- Last Menstruation: Age 50\n- Menstrual Volume: Normal\n- Dysmenorrhea: Mild\nFamily History: Parents deceased, father had hypertension, mother had no significant health issues, siblings healthy, no similar diseases reported.\n\nPhysical Examination:\nGeneral Condition:\n- Temperature: 39.5°C\n- Pulse: 110 bpm\n- Respiration: 24 breaths/min\n- Blood Pressure: 145/90 mmHg\nSystematic Examination:\n- Skin: Petechiae present on arms and legs.\n- Mucous Membranes: Moist, no lesions.\n- Lymph Nodes: No palpable lymphadenopathy.\n- Head and Organs: No abnormalities observed.\n- Neck: Severe stiffness, unable to flex neck forward.\n- Chest: Clear lungs, normal heart sounds, no murmurs.\n- Abdomen: Soft, non-tender, liver and spleen not palpable.\n- Rectum and Anus: Normal, no abnormalities.\n- External Genitalia: Normal, age-appropriate.\n- Spine: Normal curvature, no tenderness.\n- Limbs: Normal muscle strength and tone, no edema.\n- Nervous System: Alert and oriented, but with headache and neck stiffness, cranial nerves intact, reflexes brisk.\n\nSpecialist Examination:\nConsulted Neurologist; positive Brudzinski and Kernig signs.\n\nAuxiliary Examination:\nCSF analysis: Elevated WBC, high protein, low glucose, culture pending.\nBlood tests: Elevated WBC, CRP elevated.\nCT scan: No abnormalities detected.\n\nPreliminary Diagnosis:\nEpidemic Cerebrospinal Meningitis\n\nDiagnostic Basis:\nHigh fever, severe headache, neck stiffness, skin petechiae, positive CSF findings.\n\nDifferential Diagnosis:\nJapanese encephalitis (ruled out due to presence of skin petechiae and bacterial CSF findings), common cold (ruled out due to severity and CSF findings).\n\nAdmission Records:\nPhysician's Signature: Dr. J. Smith\n\nPost-Admission Course Records:\nFirst Course Record: Patient presents with severe headache, high fever, and neck stiffness suggestive of meningitis. CSF analysis confirms bacterial meningitis. Initiated IV antibiotics and supportive care.\nDaily Course Records:\n- Day 1 post-admission: Fever reduced to 38.2°C, headache slightly relieved, neck stiffness persists.\n- Day 2 post-admission: Fever 37.8°C, headache manageable with analgesics, neck stiffness reducing.\nSenior Physician Rounds Records: Senior review confirms diagnosis and supports current treatment plan, no changes recommended.\nDifficult Case Discussion Records: None.\nHandover Records: Shift handover: Patient stable, fever controlled, awaiting CSF culture results.\nTransfer Records: None.\nStage Summary: Initial response to treatment positive, patient stable.\nEmergency Records: None.\nInvasive Procedure Records: Lumbar puncture performed for CSF analysis.\nConsultation Records: Neurology consult confirmed bacterial meningitis, discussed ongoing management.\nDischarge Records: None.\nCritically Ill Patient Care Records: None\n\nMedical Orders:\nLong-term Orders:\n- IV antibiotics (Ceftriaxone 2g IV BID)\n- IV fluids (Normal Saline 1000ml/day)\n- Analgesics (Paracetamol 500mg PO Q6H PRN)\n- Monitoring vital signs Q4H\nTemporary Orders:\n- CSF culture pending\n- Blood culture pending\n- Repeat lumbar puncture if no improvement\n\nAuxiliary Examination Reports:\nCSF analysis report: WBC 1200/µL, protein 150 mg/dL, glucose 30 mg/dL.\n\nTemperature Chart:\n- Day 1: 39.5°C\n- Day 2: 38.2°C\n- Day 3: 37.8°C\n- Pulse: 110 bpm\n- Respiration: 24 breaths/min\n- Blood Pressure: 145/90 mmHg\n\nBlood Transfusion Consent: None.\nSpecial Examination Consent: Consent obtained for lumbar puncture.\nCritical Condition Notice: Family notified of critical condition on admission, daily updates provided.\n\nDiseaseType:\nDiseases of the Nervous System:\n- Name: Epidemic Cerebrospinal Meningitis\n- Symptoms: Early stage: fever, headache, sore throat, increased upper respiratory secretions, runny nose, cough, etc. Severe: sudden high fever, severe headache, projectile vomiting, neck stiffness, skin petechiae, incontinence, coma, convulsions, etc.\n- Differential Diagnosis: Japanese encephalitis (no bacteremia stage, no skin petechiae, less likely to have sudden shock), common cold.",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Wilton General Hospital, what is H. Flores's initial diagnosis?",
+            "answer": "Epidemic Cerebrospinal Meningitis.",
+            "ref": [
+                "Preliminary Diagnosis:",
+                "Epidemic Cerebrospinal Meningitis"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Wilton General Hospital, what is H. Flores's chief complaint?",
+            "answer": "Severe headache, high fever, and neck stiffness for 2 days.",
+            "ref": [
+                "Chief Complaint:",
+                "Severe headache, high fever, and neck stiffness for 2 days."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Wilton General Hospital, what is H. Flores's age?",
+            "answer": "82.",
+            "ref": [
+                "- Age: 82"
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Wilton General Hospital, how many auxiliary examinations did H. Flores undergo?",
+            "answer": "According to the records, H. Flores underwent 3 auxiliary examinations, namely CSF analysis, blood tests, and a CT scan.",
+            "ref": [
+                "Auxiliary Examination:",
+                "CSF analysis: Elevated WBC, high protein, low glucose, culture pending.",
+                "Blood tests: Elevated WBC, CRP elevated.",
+                "CT scan: No abnormalities detected."
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Wilton General Hospital, summarize the present illness of H. Flores.",
+            "answer": "The illness onset was 2 days ago at home with a sudden high fever, followed by severe headache and neck stiffness. Main symptoms include a severe headache in the frontal region, continuous and throbbing, severe neck stiffness, and high fever up to 39.5°C. Accompanying symptoms are projectile vomiting, photophobia, sore throat, runny nose, cough, and skin petechiae on both arms and legs. She visited a local clinic and received antipyretics, which temporarily reduced the fever, but symptoms worsened, prompting hospital admission. General condition changes include increased lethargy, poor appetite, insomnia, with no changes in urination and defecation patterns, and stable weight.",
+            "ref": [
+                "Present Illness:",
+                "Onset: Onset 2 days ago at home with sudden high fever, followed by severe headache and neck stiffness.",
+                "No obvious prodromal symptoms.",
+                "Main Symptoms: Severe headache primarily located in the frontal region, continuous and throbbing, severe neck stiffness, high fever reaching up to 39.5°C.",
+                "Accompanying Symptoms: Projectile vomiting, photophobia, sore throat, runny nose, cough, and skin petechiae noted on both arms and legs.",
+                "Diagnosis and Treatment History: Visited local clinic, received antipyretics which temporarily reduced fever.",
+                "Symptoms worsened, prompting hospital admission.",
+                "General Condition Changes: Increased lethargy, poor appetite, insomnia, no changes in urination and defecation patterns, weight stable."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Wilton General Hospital, summarize the past medical history of H. Flores.",
+            "answer": "H. Flores is generally well with no chronic illnesses. She has occasional hypertension controlled with medication, no significant history of infectious diseases, and is up-to-date with vaccinations, including influenza. She had an appendectomy at age 30 and has no trauma history. She has no history of blood transfusions and is allergic to penicillin.",
+            "ref": [
+                "Past History:",
+                "General Health Condition: Generally well, no chronic illnesses.",
+                "Disease History: Occasional hypertension, controlled with medication.",
+                "Infectious Disease History: No significant history of infectious diseases.",
+                "Immunization History: Up-to-date with vaccinations, including influenza.",
+                "Surgery and Trauma History: Appendectomy at age 30, no trauma history.",
+                "Blood Transfusion History: None.",
+                "Allergy History: Allergic to penicillin."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Wilton General Hospital, summarize the physical examination findings of H. Flores.",
+            "answer": "H. Flores's general condition includes a temperature of 39.5°C, pulse of 110 bpm, respiration of 24 breaths/min, and blood pressure of 145/90 mmHg. Systematic examination findings include petechiae on arms and legs, moist mucous membranes with no lesions, no palpable lymphadenopathy, no abnormalities in head and organs, severe neck stiffness, clear lungs, normal heart sounds, a soft and non-tender abdomen, normal rectum and anus, normal external genitalia, normal spine curvature, normal muscle strength and tone in limbs, and an alert and oriented nervous system with headache and neck stiffness, intact cranial nerves, and brisk reflexes.",
+            "ref": [
+                "Physical Examination:",
+                "General Condition:",
+                "- Temperature: 39.5°C",
+                "- Pulse: 110 bpm",
+                "- Respiration: 24 breaths/min",
+                "- Blood Pressure: 145/90 mmHg",
+                "Systematic Examination:",
+                "- Skin: Petechiae present on arms and legs.",
+                "- Mucous Membranes: Moist, no lesions.",
+                "- Lymph Nodes: No palpable lymphadenopathy.",
+                "- Head and Organs: No abnormalities observed.",
+                "- Neck: Severe stiffness, unable to flex neck forward.",
+                "- Chest: Clear lungs, normal heart sounds, no murmurs.",
+                "- Abdomen: Soft, non-tender, liver and spleen not palpable.",
+                "- Rectum and Anus: Normal, no abnormalities.",
+                "- External Genitalia: Normal, age-appropriate.",
+                "- Spine: Normal curvature, no tenderness.",
+                "- Limbs: Normal muscle strength and tone, no edema.",
+                "- Nervous System: Alert and oriented, but with headache and neck stiffness, cranial nerves intact, reflexes brisk."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Glenwood, Quailwood, Court",
+        "procuratorate": "Glenwood, Quailwood, Procuratorate"
+    },
+    "chiefJudge": "H. Ruiz",
+    "judge": "E. Collins",
+    "clerk": "K. Kelly",
+    "defendant": {
+        "name": "Y. Nelson",
+        "gender": "female",
+        "birthdate": "5th, December, 1981",
+        "residence": "79, Yorkshire Street, Quailwood",
+        "ethnicity": "Caucasian",
+        "occupation": "Barista"
+    },
+    "defenseLawyer": {
+        "name": "Y. Parker",
+        "lawFirm": "Parker & Associates"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "10th February, 2023",
+            "description": "The Investigation began following a series of disturbances reported in downtown Quailwood. Victims and witnesses were interviewed and evidence was collected."
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "20th February, 2023",
+            "description": "Y. Nelson was detained as a suspect of the disturbances under the suspicion of Picking Quarrels and Provoking Trouble."
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "22nd February, 2023",
+            "description": "The Quailwood Police Department placed Y. Nelson under criminal detention following further evidence collection and verification."
+        },
+        {
+            "event": "Arrest",
+            "date": "15th March, 2023",
+            "description": "After the procuratorate found sufficient evidence, a formal arrest warrant for Y. Nelson was issued by the Glenwood, Quailwood, Procuratorate."
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Picking Quarrels and Provoking Trouble",
+            "details": [
+                {
+                    "timePeriod": "15th January 2023 - 5th February 2023",
+                    "behavior": "Y. Nelson was involved in a series of aggressive and provocative actions in various public places, including the city's central market and multiple cafes in downtown Quailwood.",
+                    "evidence": [
+                        {
+                            "type": "Witness Testimony",
+                            "content": "Multiple cafe owners and market vendors testified that Y. Nelson repeatedly insulted customers and created public disturbances."
+                        },
+                        {
+                            "type": "Surveillance Footage",
+                            "content": "Video footage from security cameras showing Y. Nelson actively involved in disputes, intimidating bystanders, and causing discomfort."
+                        },
+                        {
+                            "type": "Police Reports",
+                            "content": "Detailed police reports documented by responding officers outlining the continuous disruptions caused by Y. Nelson."
+                        }
+                    ]
+                },
+                {
+                    "timePeriod": "10th February 2023 - 20th February 2023",
+                    "behavior": "Y. Nelson forcibly took merchandise from kiosks at the central market without payment, leading to significant financial loss for the vendors.",
+                    "evidence": [
+                        {
+                            "type": "Written Statements",
+                            "content": "Statements from affected vendors estimating the total loss at approximately $800."
+                        },
+                        {
+                            "type": "Physical Evidence",
+                            "content": "Unpaid merchandise recovered from Y. Nelson's residence."
+                        }
+                    ]
+                },
+                {
+                    "timePeriod": "12th March 2023",
+                    "behavior": "Y. Nelson caused public disorder by obstructing traffic and shouting obscenities near a school zone, frightening parents and students.",
+                    "evidence": [
+                        {
+                            "type": "Eyewitness Accounts",
+                            "content": "Several parents and school staff submitted written accounts of the terrifying experience."
+                        },
+                        {
+                            "type": "School Security Footage",
+                            "content": "Security footage from the school's CCTV capturing the incident and confirming the obstruction and intimidation."
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "10th June, 2023",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Picking Quarrels and Provoking Trouble",
+                "sentence": "Y. Nelson is sentenced to three years of fixed-term imprisonment.",
+                "sentencingConsiderations": "The court considered the frequency and seriousness of the acts, the impact on public order, and previous warnings issued to the defendant."
+            }
+        ],
+        "probationPeriod": "No probation recommended by the court."
+    }
+}

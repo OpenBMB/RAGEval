@@ -1,0 +1,241 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "M. Bailey",
+            "Gender": "male",
+            "Age": "73",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Married",
+            "Occupation": "Retired",
+            "Address": "13, Sunnyvale street, Vandalia",
+            "Admission Time": "19th, April",
+            "Record Time": "19th, April",
+            "Historian": "Self",
+            "Hospital Name": "Vandalia General Hospital"
+        },
+        "Chief Complaint": "Fever, joint pain, and shortness of breath for 2 weeks",
+        "Present Illness": {
+            "Onset": "Symptoms began abruptly 2 weeks ago at home, following a sore throat 3 weeks prior",
+            "Main Symptoms": "Fever (up to 39°C), severe migratory arthritis in knees and ankles, and shortness of breath; symptoms are persistent and have worsened over the last week",
+            "Accompanying Symptoms": "Erythema marginatum on the trunk and arms, chorea with involuntary movements of the hands",
+            "Diagnosis and Treatment History": "Patient was seen by a primary care physician, diagnosed with suspected viral infection, and treated with acetaminophen, which provided minimal relief",
+            "General Condition Changes": "Patient reports fatigue, poor appetite, irregular sleep, no changes in urination and defecation, slight weight loss"
+        },
+        "Past History": {
+            "General Health Condition": "Good prior to current illness",
+            "Disease History": "Hypertension managed with medication",
+            "Infectious Disease History": "No significant history",
+            "Immunization History": "Up to date",
+            "Surgery and Trauma History": "Appendectomy at age 50",
+            "Blood Transfusion History": "None",
+            "Allergy History": "None"
+        },
+        "Personal History": {
+            "Birthplace": "Vandalia",
+            "Residence": "13, Sunnyvale street, Vandalia",
+            "Living Habits": "Non-smoker, occasional alcohol consumption, regular exercise",
+            "Occupation and Working Conditions": "Retired electrician, previously worked with minimal chemical exposure",
+            "Exposure History": "No known exposure to industrial toxins or radioactive substances",
+            "Travel History": "No recent travel"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Married",
+                "Marriage Age": "25",
+                "Spouse's Health Condition": "Good",
+                "Children's Condition": "Two children, both in good health"
+            },
+            "Family History": "No family history of similar diseases or genetic tendencies; parents deceased from natural causes"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "39°C",
+                "Pulse": "95 bpm",
+                "Respiration": "22 breaths/min",
+                "Blood Pressure": "135/85 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Presence of erythema marginatum",
+                "Mucous Membranes": "Normal",
+                "Lymph Nodes": "No significant enlargement",
+                "Head and Organs": "No abnormalities",
+                "Neck": "No jugular venous distention",
+                "Chest": "Clear lung fields, heart with systolic murmur over mitral area",
+                "Abdomen": "Soft, non-tender, no hepatosplenomegaly",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Normal",
+                "Spine": "Normal",
+                "Limbs": "Swelling and tenderness in knees and ankles",
+                "Nervous System": "Involuntary movements noted in hands, reflexes normal"
+            }
+        },
+        "Specialist Examination": "Cardiac evaluation reveals signs consistent with carditis",
+        "Auxiliary Examination": "Elevated inflammatory markers (ESR, CRP), positive anti-streptolysin O (ASO) titer, echocardiogram showing mitral valve regurgitation",
+        "Preliminary Diagnosis": "Acute Rheumatic Fever",
+        "Diagnostic Basis": "History of recent sore throat, fever, migratory arthritis, erythema marginatum, chorea, elevated ASO titer, and echocardiogram findings",
+        "Differential Diagnosis": "Initially considered post-streptococcal reactive arthritis, but ruled out due to presence of carditis and chorea",
+        "Admission Records": {
+            "Physician's Signature": "Dr. J. Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient exhibits symptoms consistent with acute rheumatic fever, including fever, migratory arthritis, and carditis. Treatment to include penicillin and anti-inflammatory medications.",
+            "Daily Course Records": "Patient's temperature remains elevated, arthritis showing slight improvement with anti-inflammatory treatment.",
+            "Senior Physician Rounds Records": "Senior physician concurs with diagnosis and treatment plan.",
+            "Difficult Case Discussion Records": "None at this time.",
+            "Handover Records": "Patient handed over with stable vitals, continuing current treatment regimen.",
+            "Transfer Records": "None at this time.",
+            "Stage Summary": "Patient stable with ongoing symptoms, treatment plan to be continued.",
+            "Emergency Records": "None recorded.",
+            "Invasive Procedure Records": "None performed.",
+            "Consultation Records": "Cardiology consulted for carditis management.",
+            "Discharge Records": "Not applicable at this stage.",
+            "Critically Ill Patient Care Records": "Not applicable."
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Penicillin 1.2 million units IM once weekly, NSAIDs for arthritis pain, bed rest",
+            "Temporary Orders": "Paracetamol for fever as needed"
+        },
+        "Auxiliary Examination Reports": "Echocardiogram showing mitral valve involvement; elevated ESR and CRP",
+        "Temperature Chart": "Daily recordings of temperature, pulse, respiration, and blood pressure noted",
+        "Blood Transfusion Consent": "Not applicable",
+        "Special Examination Consent": "Echocardiogram consent obtained",
+        "Critical Condition Notice": "Not applicable"
+    },
+    "DiseaseType": {
+        "Circulatory System Diseases": {
+            "Name": "Acute Rheumatic Fever",
+            "Symptoms": "Fever, migratory arthritis, carditis, erythema marginatum, chorea, etc.",
+            "Differential Diagnosis": "Post-streptococcal reactive arthritis"
+        }
+    },
+    "Generated Article": "Hospitalization Record\n\nBasic Information:\nName: M. Bailey\nGender: male\nAge: 73\nEthnicity: Caucasian\nMarital Status: Married\nOccupation: Retired\nAddress: 13, Sunnyvale Street, Vandalia\nAdmission Time: 19th, April\nRecord Time: 19th, April\nHistorian: Self\nHospital Name: Vandalia General Hospital\n\nChief Complaint:\nFever, joint pain, and shortness of breath for 2 weeks\n\nPresent Illness:\nThe patient's symptoms began abruptly 2 weeks ago at home, following a sore throat 3 weeks prior. He reports a fever reaching up to 39°C, severe migratory arthritis predominantly affecting his knees and ankles, and significant shortness of breath. These symptoms have persisted and worsened over the last week. Additionally, he has observed erythema marginatum on his trunk and arms and chorea with involuntary movements of his hands. He initially visited his primary care physician and was diagnosed with a suspected viral infection. He was treated with acetaminophen, which provided minimal relief. The patient also reports fatigue, poor appetite, irregular sleep, and slight weight loss, but denies any changes in urination and defecation.\n\nPast History:\nGeneral Health Condition: Good prior to current illness\nDisease History: Hypertension managed with medication\nInfectious Disease History: No significant history\nImmunization History: Up to date\nSurgery and Trauma History: Appendectomy at age 50\nBlood Transfusion History: None\nAllergy History: None\n\nPersonal History:\nBirthplace: Vandalia\nResidence: 13, Sunnyvale Street, Vandalia\nLiving Habits: Non-smoker, occasional alcohol consumption, regular exercise\nOccupation and Working Conditions: Retired electrician, previously worked with minimal chemical exposure\nExposure History: No known exposure to industrial toxins or radioactive substances\nTravel History: No recent travel\n\nMarital and Family History:\nMarital Status: Married\nMarriage Age: 25\nSpouse's Health Condition: Good\nChildren's Condition: Two children, both in good health\nFamily History: No family history of similar diseases or genetic tendencies; parents deceased from natural causes\n\nPhysical Examination:\nGeneral Condition:\nTemperature: 39°C\nPulse: 95 bpm\nRespiration: 22 breaths/min\nBlood Pressure: 135/85 mmHg\n\nSystematic Examination:\nSkin: Presence of erythema marginatum\nMucous Membranes: Normal\nLymph Nodes: No significant enlargement\nHead and Organs: No abnormalities\nNeck: No jugular venous distention\nChest: Clear lung fields, heart with systolic murmur over mitral area\nAbdomen: Soft, non-tender, no hepatosplenomegaly\nRectum and Anus: Not examined\nExternal Genitalia: Normal\nSpine: Normal\nLimbs: Swelling and tenderness in knees and ankles\nNervous System: Involuntary movements noted in hands, reflexes normal\n\nSpecialist Examination:\nCardiac evaluation reveals signs consistent with carditis\n\nAuxiliary Examination:\nElevated inflammatory markers (ESR, CRP), positive anti-streptolysin O (ASO) titer, echocardiogram showing mitral valve regurgitation\n\nPreliminary Diagnosis:\nAcute Rheumatic Fever\n\nDiagnostic Basis:\nHistory of recent sore throat, fever, migratory arthritis, erythema marginatum, chorea, elevated ASO titer, and echocardiogram findings\n\nDifferential Diagnosis:\nInitially considered post-streptococcal reactive arthritis, but ruled out due to presence of carditis and chorea\n\nAdmission Records:\nPhysician's Signature: Dr. J. Smith\n\nPost-Admission Course Records:\nFirst Course Record:\nPatient exhibits symptoms consistent with acute rheumatic fever, including fever, migratory arthritis, and carditis. Treatment to include penicillin and anti-inflammatory medications.\n\nDaily Course Records:\nPatient's temperature remains elevated, arthritis showing slight improvement with anti-inflammatory treatment.\n\nSenior Physician Rounds Records:\nSenior physician concurs with diagnosis and treatment plan.\n\nDifficult Case Discussion Records:\nNone at this time.\n\nHandover Records:\nPatient handed over with stable vitals, continuing current treatment regimen.\n\nTransfer Records:\nNone at this time.\n\nStage Summary:\nPatient stable with ongoing symptoms, treatment plan to be continued.\n\nEmergency Records:\nNone recorded.\n\nInvasive Procedure Records:\nNone performed.\n\nConsultation Records:\nCardiology consulted for carditis management.\n\nDischarge Records:\nNot applicable at this stage.\n\nCritically Ill Patient Care Records:\nNot applicable.\n\nMedical Orders:\nLong-term Orders:\nPenicillin 1.2 million units IM once weekly, NSAIDs for arthritis pain, bed rest\nTemporary Orders:\nParacetamol for fever as needed\n\nAuxiliary Examination Reports:\nEchocardiogram showing mitral valve involvement; elevated ESR and CRP\n\nTemperature Chart:\nDaily recordings of temperature, pulse, respiration, and blood pressure noted\n\nBlood Transfusion Consent:\nNot applicable\n\nSpecial Examination Consent:\nEchocardiogram consent obtained\n\nCritical Condition Notice:\nNot applicable\n\nDisease Type:\nCirculatory System Diseases\nName: Acute Rheumatic Fever\nSymptoms: Fever, migratory arthritis, carditis, erythema marginatum, chorea, etc.\nDifferential Diagnosis: Post-streptococcal reactive arthritis",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Vandalia General Hospital, what is M. Bailey's initial diagnosis?",
+            "answer": "Acute Rheumatic Fever.",
+            "ref": [
+                "Preliminary Diagnosis:",
+                "Acute Rheumatic Fever"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Vandalia General Hospital, what is M. Bailey's chief complaint?",
+            "answer": "Fever, joint pain, and shortness of breath for 2 weeks.",
+            "ref": [
+                "Chief Complaint:",
+                "Fever, joint pain, and shortness of breath for 2 weeks"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Vandalia General Hospital, what is M. Bailey's age?",
+            "answer": "73.",
+            "ref": [
+                "Age: 73"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Vandalia General Hospital, what is M. Bailey's gender?",
+            "answer": "Male.",
+            "ref": [
+                "Gender: male"
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Vandalia General Hospital, how many diagnostic bases were used to diagnose M. Bailey?",
+            "answer": "According to the records, M. Bailey's diagnosis of Acute Rheumatic Fever was based on 7 diagnostic bases: recent sore throat, fever, migratory arthritis, erythema marginatum, chorea, elevated ASO titer, and echocardiogram findings.",
+            "ref": [
+                "The patient's symptoms began abruptly 2 weeks ago at home, following a sore throat 3 weeks prior.",
+                "He reports a fever reaching up to 39°C, severe migratory arthritis predominantly affecting his knees and ankles, and significant shortness of breath.",
+                "Additionally, he has observed erythema marginatum on his trunk and arms and chorea with involuntary movements of his hands.",
+                "Elevated inflammatory markers (ESR, CRP), positive anti-streptolysin O (ASO) titer, echocardiogram showing mitral valve regurgitation",
+                "Diagnostic Basis:"
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Vandalia General Hospital, how many auxiliary examinations did M. Bailey undergo?",
+            "answer": "According to the records, M. Bailey underwent 3 auxiliary examinations: elevated inflammatory markers (ESR, CRP), positive anti-streptolysin O (ASO) titer, and echocardiogram showing mitral valve regurgitation.",
+            "ref": [
+                "Elevated inflammatory markers (ESR, CRP), positive anti-streptolysin O (ASO) titer, echocardiogram showing mitral valve regurgitation",
+                "Echocardiogram showing mitral valve involvement; elevated ESR and CRP"
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Vandalia General Hospital, how many symptoms did M. Bailey present with?",
+            "answer": "According to the records, M. Bailey presented with 5 symptoms: fever, migratory arthritis, shortness of breath, erythema marginatum, and chorea.",
+            "ref": [
+                "Fever, joint pain, and shortness of breath for 2 weeks",
+                "He reports a fever reaching up to 39°C, severe migratory arthritis predominantly affecting his knees and ankles, and significant shortness of breath.",
+                "Additionally, he has observed erythema marginatum on his trunk and arms and chorea with involuntary movements of his hands."
+            ]
+        },
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Vandalia General Hospital, how many treatments were prescribed to M. Bailey?",
+            "answer": "According to the records, M. Bailey was prescribed 3 treatments: penicillin, NSAIDs, and paracetamol.",
+            "ref": [
+                "Treatment to include penicillin and anti-inflammatory medications.",
+                "Penicillin 1.2 million units IM once weekly, NSAIDs for arthritis pain, bed rest",
+                "Paracetamol for fever as needed"
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Vandalia General Hospital, summarize the history of present illness for M. Bailey.",
+            "answer": "M. Bailey's symptoms began abruptly 2 weeks ago following a sore throat 3 weeks prior. He experienced fever (up to 39°C), severe migratory arthritis in knees and ankles, shortness of breath, erythema marginatum on the trunk and arms, and chorea. He had been diagnosed with a suspected viral infection by his primary care physician and was treated with acetaminophen which provided minimal relief. His condition included fatigue, poor appetite, irregular sleep, slight weight loss, and no changes in urination and defecation.",
+            "ref": [
+                "The patient's symptoms began abruptly 2 weeks ago at home, following a sore throat 3 weeks prior.",
+                "He reports a fever reaching up to 39°C, severe migratory arthritis predominantly affecting his knees and ankles, and significant shortness of breath.",
+                "These symptoms have persisted and worsened over the last week.",
+                "Additionally, he has observed erythema marginatum on his trunk and arms and chorea with involuntary movements of his hands.",
+                "He initially visited his primary care physician and was diagnosed with a suspected viral infection.",
+                "He was treated with acetaminophen, which provided minimal relief.",
+                "The patient also reports fatigue, poor appetite, irregular sleep, and slight weight loss, but denies any changes in urination and defecation."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Vandalia General Hospital, summarize M. Bailey's past medical history.",
+            "answer": "M. Bailey had a good general health prior to the current illness. He has a history of hypertension managed with medication, no significant infectious disease history, up-to-date immunization, an appendectomy at age 50, no history of blood transfusion, and no allergies.",
+            "ref": [
+                "General Health Condition: Good prior to current illness",
+                "Disease History: Hypertension managed with medication",
+                "Infectious Disease History: No significant history",
+                "Immunization History: Up to date",
+                "Surgery and Trauma History: Appendectomy at age 50",
+                "Blood Transfusion History: None",
+                "Allergy History: None"
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Vandalia General Hospital, summarize the findings from M. Bailey's physical examination.",
+            "answer": "M. Bailey's physical examination showed a temperature of 39°C, pulse 95 bpm, respiration 22 breaths/min, and blood pressure 135/85 mmHg. He had erythema marginatum on the skin, normal mucous membranes, no significant lymph node enlargement, normal head and organs, no jugular venous distention, clear lung fields, and a systolic murmur over the mitral area in the heart. His abdomen was soft and non-tender with no hepatosplenomegaly. In the limbs, there was swelling and tenderness in the knees and ankles. The nervous system examination noted involuntary movements in the hands and normal reflexes.",
+            "ref": [
+                "Temperature: 39°C",
+                "Pulse: 95 bpm",
+                "Respiration: 22 breaths/min",
+                "Blood Pressure: 135/85 mmHg",
+                "Skin: Presence of erythema marginatum",
+                "Mucous Membranes: Normal",
+                "Lymph Nodes: No significant enlargement",
+                "Head and Organs: No abnormalities",
+                "Neck: No jugular venous distention",
+                "Chest: Clear lung fields, heart with systolic murmur over mitral area",
+                "Abdomen: Soft, non-tender, no hepatosplenomegaly",
+                "Limbs: Swelling and tenderness in knees and ankles",
+                "Nervous System: Involuntary movements noted in hands, reflexes normal"
+            ]
+        }
+    ]
+}

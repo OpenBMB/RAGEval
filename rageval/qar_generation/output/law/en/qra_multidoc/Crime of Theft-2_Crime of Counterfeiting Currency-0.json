@@ -1,0 +1,142 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Cedarwood, Brighton, Court and Northwood, Richmond, Court, what are the occupations of the defendants I. Hill and S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "Occupation: Retail Assistant"
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "Occupation: Graphic Designer"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Cedarwood, Brighton, Court, the defendant I. Hill is a retail assistant; according to the judgment of Northwood, Richmond, Court, the defendant S. Taylor is a graphic designer."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Cedarwood, Brighton, Court and Northwood, Richmond, Court, what crimes did the defendants I. Hill and S. Taylor commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "The case at hand pertains to the Crime of Theft committed by the defendant, Ms. I. Hill.",
+                        "The Cedarwood, Brighton, Procuratorate charged Ms. I. Hill with the Crime of Theft under Article 264."
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "This court hereby records the procedural history of the case involving the defendant, S. Taylor, who stands accused of the Crime of Counterfeiting Currency in violation of Article 170 of the Criminal Code.",
+                        "This court finds the collective actions of the defendant, S. Taylor, constitute the Crime of Counterfeiting Currency as per Article 170 of the Criminal Code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Cedarwood, Brighton, Court, the defendant I. Hill committed the crime of theft; according to the judgment of Northwood, Richmond, Court, the defendant S. Taylor committed the crime of counterfeiting currency."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Cedarwood, Brighton, Court and Northwood, Richmond, Court, what are the judgment dates for the cases involving I. Hill and S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "**Judgment Dated: 14th March 2022**"
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "This document is thus prepared and endorsed in the Northwood, Richmond, Court on this 25th day of March, 2023."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Cedarwood, Brighton, Court, the judgment date for the case involving I. Hill is 14th March 2022; according to the judgment of Northwood, Richmond, Court, the judgment date for the case involving S. Taylor is 25th March 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Cedarwood, Brighton, Court and Northwood, Richmond, Court, what are the sentences given to the defendants I. Hill and S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "The defendant, Ms. I. Hill, is sentenced to a fixed-term imprisonment of three years and ordered to pay a fine of £5,000."
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "Seven (7) years of fixed-term imprisonment.",
+                        "Fine: $50,000."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Cedarwood, Brighton, Court, the defendant I. Hill is sentenced to three years of fixed-term imprisonment and a fine of £5,000; according to the judgment of Northwood, Richmond, Court, the defendant S. Taylor is sentenced to seven years of fixed-term imprisonment and a fine of $50,000."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Cedarwood, Brighton, Court and Northwood, Richmond, Court, who are the chief judges presiding over the cases of I. Hill and S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "Chief Judge: Y. Carter"
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "The Honourable B. Miller"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Cedarwood, Brighton, Court, the chief judge presiding over the case of I. Hill is Y. Carter; according to the judgment of Northwood, Richmond, Court, the chief judge presiding over the case of S. Taylor is B. Miller."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Cedarwood, Brighton, Court and Northwood, Richmond, Court, whose sentencing time is longer, I. Hill or S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "The defendant, Ms. I. Hill, is sentenced to a fixed-term imprisonment of three years and ordered to pay a fine of £5,000."
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "Seven (7) years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "S. Taylor was sentenced to seven years of fixed-term imprisonment, while I. Hill was sentenced to three years of fixed-term imprisonment. Therefore, S. Taylor's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Cedarwood, Brighton, Court and Northwood, Richmond, Court, whose judgment time is earlier, I. Hill or S. Taylor?",
+            "ref": [
+                {
+                    "court_name": "Cedarwood, Brighton, Court",
+                    "content": [
+                        "**Judgment Dated: 14th March 2022**"
+                    ]
+                },
+                {
+                    "court_name": "Northwood, Richmond, Court",
+                    "content": [
+                        "This document is thus prepared and endorsed in the Northwood, Richmond, Court on this 25th day of March, 2023."
+                    ]
+                }
+            ],
+            "answer": "I. Hill's judgment time is earlier, as it was on 14th March 2022, while S. Taylor's judgment time was on 25th March 2023."
+        }
+    ]
+}

@@ -1,0 +1,352 @@
+[
+    {
+        "court_name": "Bayside, Roseville, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Bayside, Roseville, Court, what is the favorite color of the defendant V. Martin?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Bayside, Roseville, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Bayside, Roseville, Court, how many pets does the defendant V. Martin have?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Bayside, Roseville, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Bayside, Roseville, Court, what is the favorite book of the defense lawyer Y. Patel?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Bayside, Roseville, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Bayside, Roseville, Court, what is the brand of the car driven by the court clerk A. Wood?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Bayside, Roseville, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Bayside, Roseville, Court, what is the favorite cuisine of Chief Judge N. Harris?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Bayside, Roseville, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Bayside, Roseville, Court, what is the name of the defendant V. Martin's childhood best friend?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Bayside, Roseville, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Bayside, Roseville, Court, what is the favorite hobby of Judge V. Robinson?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Bayside, Roseville, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Bayside, Roseville, Court, what is the favorite movie of the prosecutor from Bayside, Roseville, Procuratorate?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Bayside, Roseville, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Bayside, Roseville, Court, what is the name of the defendant V. Martin's first pet?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Bayside, Roseville, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Bayside, Roseville, Court, what is the favorite vacation destination of the defense lawyer Y. Patel?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Quarryville, Yorktown, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Quarryville, Yorktown, Court, what is the favorite color of the defendant James Thompson?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Quarryville, Yorktown, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Quarryville, Yorktown, Court, what is the name of the defendant's pet?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Quarryville, Yorktown, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Quarryville, Yorktown, Court, what is the favorite food of the Chief Judge J. Phillips?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Quarryville, Yorktown, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Quarryville, Yorktown, Court, what is the height of the defendant's defense lawyer B. Lewis?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Quarryville, Yorktown, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Quarryville, Yorktown, Court, what is the brand of the car driven by the court clerk R. Gutierrez?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Preston, Lancaster, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Preston, Lancaster, Court, what is the favorite color of the defendant's neighbor?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Preston, Lancaster, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Preston, Lancaster, Court, how many pets does the chief judge own?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Preston, Lancaster, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Preston, Lancaster, Court, what is the brand of the car driven by the defense lawyer?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Preston, Lancaster, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Preston, Lancaster, Court, what is the favorite food of the prosecutor?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Preston, Lancaster, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Preston, Lancaster, Court, what is the name of the defendant's childhood friend?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Trenton, Springfield, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Trenton, Springfield, Court, what is the favorite color of the defendant Q. Ruiz?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Trenton, Springfield, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Trenton, Springfield, Court, how many pets does the defendant Q. Ruiz have?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Trenton, Springfield, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Trenton, Springfield, Court, what is the favorite book of the Chief Judge O. Hill?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Trenton, Springfield, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Trenton, Springfield, Court, what is the brand of the car driven by the prosecutor?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Trenton, Springfield, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Trenton, Springfield, Court, what is the favorite cuisine of the defense lawyer K. Gonzalez?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Trenton, Springfield, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Trenton, Springfield, Court, what is the height of the defendant Q. Ruiz?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Trenton, Springfield, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Trenton, Springfield, Court, what is the favorite movie of the clerk Y. Gonzalez?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Trenton, Springfield, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Trenton, Springfield, Court, what is the brand of the laptop used by the judge X. Jimenez?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Trenton, Springfield, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Trenton, Springfield, Court, what is the favorite sport of the defendant Q. Ruiz?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Trenton, Springfield, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Trenton, Springfield, Court, what is the name of the defendant's childhood best friend?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Summerville, Franklin, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Summerville, Franklin, Court, what is the favorite color of the defendant Q. White?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Summerville, Franklin, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Summerville, Franklin, Court, how many children does the defense lawyer Q. Bennett have?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Summerville, Franklin, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Summerville, Franklin, Court, what is the favorite food of the presiding judge Z. Ruiz?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Summerville, Franklin, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Summerville, Franklin, Court, what is the height of the court clerk L. Cox?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Summerville, Franklin, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Summerville, Franklin, Court, what is the name of the pet of the defendant Q. White?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Cedarwood, Brighton, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Cedarwood, Brighton, Court, what is the favorite color of the defendant I. Hill?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Cedarwood, Brighton, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Cedarwood, Brighton, Court, how many children does the defense lawyer K. Nelson have?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Cedarwood, Brighton, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Cedarwood, Brighton, Court, what is the favorite food of the Chief Judge Y. Carter?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Cedarwood, Brighton, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Cedarwood, Brighton, Court, what is the height of the court clerk W. Hall?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Cedarwood, Brighton, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Cedarwood, Brighton, Court, what is the name of the pet of the local business owner who filed the complaint?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Northwood, Richmond, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Northwood, Richmond, Court, what is the favorite color of the defendant S. Taylor?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Northwood, Richmond, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Northwood, Richmond, Court, how many pets does the defense lawyer U. Cooper have?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Northwood, Richmond, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Northwood, Richmond, Court, what is the brand of the high-resolution printer used by S. Taylor?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Northwood, Richmond, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Northwood, Richmond, Court, what is the favorite food of the Chief Judge B. Miller?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Northwood, Richmond, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Northwood, Richmond, Court, what is the make and model of the car driven by the defendant S. Taylor?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Northwood, Richmond, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Northwood, Richmond, Court, what is the favorite book of the judge R. Jackson?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Northwood, Richmond, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Northwood, Richmond, Court, what is the height of the defendant S. Taylor?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Northwood, Richmond, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Northwood, Richmond, Court, what is the favorite movie of the clerk O. Edwards?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Northwood, Richmond, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Northwood, Richmond, Court, what is the name of the street where the defense lawyer U. Cooper lives?",
+        "ref": [],
+        "answer": "Unable to answer."
+    },
+    {
+        "court_name": "Northwood, Richmond, Court",
+        "question type": "Irrelevant Unsolvable Question",
+        "question": "According to the judgment of Northwood, Richmond, Court, what is the favorite sport of the defendant S. Taylor?",
+        "ref": [],
+        "answer": "Unable to answer."
+    }
+]

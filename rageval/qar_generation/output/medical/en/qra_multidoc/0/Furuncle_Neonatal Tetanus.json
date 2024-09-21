@@ -1,0 +1,126 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, what were the chief complaints of patients J. Rodriguez and Y. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Chief Complaint: Local redness, swelling, heat, and pain on the right forearm for 3 days."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Chief Complaint:",
+                        "Crying, limited mouth opening, difficulty sucking for 8 hours."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, the chief complaint of patient J. Rodriguez was local redness, swelling, heat, and pain on the right forearm for 3 days. According to the hospitalization records of Victoria General Hospital, the chief complaint of patient Y. Mendoza was crying, limited mouth opening, and difficulty sucking for 8 hours."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, what were the preliminary diagnoses for patients J. Rodriguez and Y. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Preliminary Diagnosis: Furuncle of the right forearm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Neonatal Tetanus"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, the preliminary diagnosis for patient J. Rodriguez was a furuncle of the right forearm. According to the hospitalization records of Victoria General Hospital, the preliminary diagnosis for patient Y. Mendoza was neonatal tetanus."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, what were the auxiliary examination results for patients J. Rodriguez and Y. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Auxiliary Examination: Complete Blood Count (CBC) showed mild leukocytosis, no other significant findings",
+                        "Auxiliary Examination Reports: Complete Blood Count (CBC): mild leukocytosis"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "CBC normal, CRP slightly elevated.",
+                        "Blood cultures pending.",
+                        "CSF examination pending."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, the auxiliary examination for patient J. Rodriguez showed a complete blood count (CBC) with mild leukocytosis. According to the hospitalization records of Victoria General Hospital, the auxiliary examination for patient Y. Mendoza showed a normal CBC, slightly elevated CRP, and pending blood cultures and CSF examination."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, what were the long-term medical orders for patients J. Rodriguez and Y. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Long-term Orders: Topical antibiotics (Mupirocin ointment) applied to affected area twice daily; Oral antibiotics (Cephalexin 250 mg) three times daily for 7 days"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Long-term Orders: Monitor vital signs every 2 hours.",
+                        "Continue empirical antibiotic therapy.",
+                        "Provide IV fluids and nutrition support."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Granville General Hospital, the long-term medical orders for patient J. Rodriguez included topical antibiotics (Mupirocin ointment) applied to the affected area twice daily and oral antibiotics (Cephalexin 250 mg) three times daily for 7 days. According to the hospitalization records of Victoria General Hospital, the long-term medical orders for patient Y. Mendoza included monitoring vital signs every 2 hours, continuing empirical antibiotic therapy, and providing IV fluids and nutrition support."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, how do the ages of J. Rodriguez and Y. Mendoza at the time of admission compare?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Age: 7"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Age: 8 hours after birth"
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez was admitted at 7 years old, while Y. Mendoza was admitted 8 hours after birth. J. Rodriguez was significantly older at the time of admission compared to Y. Mendoza."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Granville General Hospital and Victoria General Hospital, who was admitted earlier, J. Rodriguez or Y. Mendoza?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Granville General Hospital_J. Rodriguez",
+                    "content": [
+                        "Admission Time: 26th, February"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Victoria General Hospital_Y. Mendoza",
+                    "content": [
+                        "Admission Time: 10th, March"
+                    ]
+                }
+            ],
+            "answer": "J. Rodriguez was admitted on February 26, and Y. Mendoza was admitted on March 10. J. Rodriguez was admitted earlier."
+        }
+    ]
+}

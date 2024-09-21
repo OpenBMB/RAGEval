@@ -1,0 +1,224 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "H. Nelson",
+            "Gender": "female",
+            "Age": "47",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Married",
+            "Occupation": "Teacher",
+            "Address": "49, Cameron street, Bayside",
+            "Admission Time": "6th, October",
+            "Record Time": "6th, October",
+            "Historian": "Patient",
+            "Hospital Name": "Bayside General Hospital"
+        },
+        "Chief Complaint": "Fatigue and weakness for the past three months.",
+        "Present Illness": {
+            "Onset": "The patient noticed onset of fatigue and general weakness three months ago, with no specific event triggering the symptoms.",
+            "Main Symptoms": "Fatigue and weakness, progressively worsening. Shortness of breath on exertion and pallor noted. Symptoms are worse in the morning and improve slightly with rest.",
+            "Accompanying Symptoms": "Dizziness, headaches, pale skin, and abdominal bloating. The patient's partner reports snoring and observed occasional breath-holds during sleep.",
+            "Diagnosis and Treatment History": "Patient sought consultation with her primary care physician one month ago and laboratory tests revealed anemia. Prescribed iron supplements which did not improve symptoms.",
+            "General Condition Changes": "Patient reports poor sleep quality, reduced appetite, and a sensation of abdominal fullness. No significant weight changes."
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy until the onset of the current symptoms.",
+            "Disease History": "No significant chronic illnesses.",
+            "Infectious Disease History": "No history of significant infectious diseases.",
+            "Immunization History": "Up to date with all vaccinations.",
+            "Surgery and Trauma History": "Appendectomy at age 25.",
+            "Blood Transfusion History": "None",
+            "Allergy History": "No known drug allergies."
+        },
+        "Personal History": {
+            "Birthplace": "Bayside",
+            "Residence": "Bayside",
+            "Living Habits": "Non-smoker, occasional alcohol consumption, balanced diet.",
+            "Occupation and Working Conditions": "High school teacher, sedentary job with moderate stress levels.",
+            "Exposure History": "No significant exposure to toxins, dust, or radioactive substances.",
+            "Travel History": "Travelled to Europe 5 years ago, no recent travel."
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Married",
+                "Marriage Age": "25 years",
+                "Spouse's Health Condition": "Healthy",
+                "Children's Condition": "Two children, both healthy"
+            },
+            "Menstrual History": {
+                "Menarche Age": "13 years",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "3 weeks ago",
+                "Menstrual Volume": "Moderate",
+                "Dysmenorrhea": "Mild"
+            },
+            "Family History": "Father deceased (Heart disease at 70), mother alive (healthy at 68), no siblings."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "36.8°C",
+                "Pulse": "88 bpm",
+                "Respiration": "18 breaths/min",
+                "Blood Pressure": "120/80 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Pale, no rashes or lesions.",
+                "Mucous Membranes": "Pale conjunctiva.",
+                "Lymph Nodes": "No lymphadenopathy",
+                "Head and Organs": "Normocephalic, no abnormalities noted on ENT examination.",
+                "Neck": "No thyromegaly, no jugular venous distention.",
+                "Chest": "Clear lung fields, no wheezes or rhonchi. Regular heart sounds, no murmurs.",
+                "Abdomen": "Mild hepatosplenomegaly, no tenderness, bowel sounds present.",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Not examined",
+                "Spine": "Normal alignment",
+                "Limbs": "No edema, normal range of motion.",
+                "Nervous System": "Alert and oriented, cranial nerves intact, normal motor and sensory function."
+            }
+        },
+        "Specialist Examination": "Hematology: Signs of anemia, possible splenomegaly.",
+        "Auxiliary Examination": "CBC: Hemoglobin 8 g/dL, MCV 65 fL, MCH 20 pg. Peripheral smear: Microcytic hypochromic anemia. Serum iron study: Elevated ferritin, low TIBC. Hemoglobin electrophoresis confirms elevated HbA2, consistent with thalassemia.",
+        "Preliminary Diagnosis": "Thalassemia",
+        "Diagnostic Basis": "History of anemia not responsive to iron supplements, physical signs of pallor, hepatosplenomegaly, laboratory findings indicative of thalassemia.",
+        "Differential Diagnosis": "Iron deficiency anemia, ruled out by serum iron studies. Megaloblastic anemia, ruled out by normal B12 and folate levels. Neonatal jaundice, not applicable given patient's age.",
+        "Admission Records": {
+            "Physician's Signature": "Dr. Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with symptoms of anemia and confirmed diagnosis of thalassemia. Plan to monitor hemoglobin levels, provide supportive care with folate supplements, and consider blood transfusion if hemoglobin drops further.",
+            "Daily Course Records": "Patient remains stable, hemoglobin monitored daily, folate supplements initiated.",
+            "Senior Physician Rounds Records": "Discussed case with attending hematologist, consensus on current management plan.",
+            "Difficult Case Discussion Records": "None",
+            "Handover Records": "Patient remains stable, continue current supportive treatment.",
+            "Transfer Records": "None",
+            "Stage Summary": "Patient has responded well to supportive treatment, stable hemoglobin levels, no need for immediate transfusion.",
+            "Emergency Records": "None",
+            "Invasive Procedure Records": "None",
+            "Consultation Records": "Hematology consulted, agree with ongoing management plan.",
+            "Discharge Records": "Pending further observation.",
+            "Critically Ill Patient Care Records": "Not applicable"
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Folate supplementation, CBC monitoring",
+            "Temporary Orders": "Blood transfusion if hemoglobin falls below 7 g/dL"
+        },
+        "Auxiliary Examination Reports": "CBC, Peripheral Smear, Serum Iron Studies, Hemoglobin Electrophoresis",
+        "Temperature Chart": "Normal temperature, stable pulse and respiration rates, blood pressure within normal range.",
+        "Blood Transfusion Consent": "Obtained",
+        "Special Examination Consent": "Obtained for hemoglobin electrophoresis",
+        "Critical Condition Notice": "Not applicable"
+    },
+    "DiseaseType": {
+        "Diseases of the Blood and Blood-Forming Organs": {
+            "Name": "Thalassemia",
+            "Symptoms": "Anemia, decreased physical strength, iron deposition in organs, changes in skull shape, hepatosplenomegaly, protruding abdomen",
+            "Differential Diagnosis": "Iron deficiency anemia, megaloblastic anemia, neonatal jaundice."
+        }
+    },
+    "Generated Article": "Hospitalization Record\n\nBasic Information:\n- Name: H. Nelson\n- Gender: Female\n- Age: 47\n- Ethnicity: Caucasian\n- Marital Status: Married\n- Occupation: Teacher\n- Address: 49, Cameron Street, Bayside\n- Admission Time: 6th October\n- Record Time: 6th October\n- Historian: Patient\n- Hospital Name: Bayside General Hospital\n\nChief Complaint:\nFatigue and weakness for the past three months.\n\nPresent Illness:\nOnset:\nThe patient noticed the onset of fatigue and general weakness three months ago, without any specific event triggering the symptoms.\n\nMain Symptoms:\nFatigue and weakness, progressively worsening. Shortness of breath on exertion and pallor noted. Symptoms are worse in the morning and improve slightly with rest.\n\nAccompanying Symptoms:\nDizziness, headaches, pale skin, and abdominal bloating. The patient's partner reports snoring and observed occasional breath-holds during sleep.\n\nDiagnosis and Treatment History:\nThe patient sought consultation with her primary care physician one month ago and laboratory tests revealed anemia. She was prescribed iron supplements, which did not improve symptoms.\n\nGeneral Condition Changes:\nThe patient reports poor sleep quality, reduced appetite, and a sensation of abdominal fullness. No significant weight changes.\n\nPast History:\nGeneral Health Condition:\nGenerally healthy until the onset of the current symptoms.\n\nDisease History:\nNo significant chronic illnesses.\n\nInfectious Disease History:\nNo history of significant infectious diseases.\n\nImmunization History:\nUp to date with all vaccinations.\n\nSurgery and Trauma History:\nAppendectomy at age 25.\n\nBlood Transfusion History:\nNone\n\nAllergy History:\nNo known drug allergies.\n\nPersonal History:\nBirthplace:\nBayside\n\nResidence:\nBayside\n\nLiving Habits:\nNon-smoker, occasional alcohol consumption, balanced diet.\n\nOccupation and Working Conditions:\nHigh school teacher, sedentary job with moderate stress levels.\n\nExposure History:\nNo significant exposure to toxins, dust, or radioactive substances.\n\nTravel History:\nTravelled to Europe 5 years ago, no recent travel.\n\nMarital and Family History:\nMarital Status:\nMarried\n\nMarriage Age:\n25 years\n\nSpouse's Health Condition:\nHealthy\n\nChildren's Condition:\nTwo children, both healthy\n\nMenstrual History:\nMenarche Age:\n13 years\n\nMenstruation Duration:\n5 days\n\nMenstruation Interval:\n28 days\n\nLast Menstruation:\n3 weeks ago\n\nMenstrual Volume:\nModerate\n\nDysmenorrhea:\nMild\n\nFamily History:\nFather deceased (Heart disease at 70), mother alive (healthy at 68), no siblings.\n\nPhysical Examination:\nGeneral Condition:\nTemperature: 36.8°C\nPulse: 88 bpm\nRespiration: 18 breaths/min\nBlood Pressure: 120/80 mmHg\n\nSystematic Examination:\nSkin:\nPale, no rashes or lesions.\n\nMucous Membranes:\nPale conjunctiva.\n\nLymph Nodes:\nNo lymphadenopathy.\n\nHead and Organs:\nNormocephalic, no abnormalities noted on ENT examination.\n\nNeck:\nNo thyromegaly, no jugular venous distention.\n\nChest:\nClear lung fields, no wheezes or rhonchi. Regular heart sounds, no murmurs.\n\nAbdomen:\nMild hepatosplenomegaly, no tenderness, bowel sounds present.\n\nRectum and Anus:\nNot examined.\n\nExternal Genitalia:\nNot examined.\n\nSpine:\nNormal alignment.\n\nLimbs:\nNo edema, normal range of motion.\n\nNervous System:\nAlert and oriented, cranial nerves intact, normal motor and sensory function.\n\nSpecialist Examination:\nHematology: Signs of anemia, possible splenomegaly.\n\nAuxiliary Examination:\nCBC:\nHemoglobin 8 g/dL, MCV 65 fL, MCH 20 pg.\nPeripheral Smear:\nMicrocytic hypochromic anemia.\nSerum Iron Study:\nElevated ferritin, low TIBC.\nHemoglobin Electrophoresis:\nConfirms elevated HbA2, consistent with thalassemia.\n\nPreliminary Diagnosis:\nThalassemia\n\nDiagnostic Basis:\nHistory of anemia not responsive to iron supplements, physical signs of pallor, hepatosplenomegaly, laboratory findings indicative of thalassemia.\n\nDifferential Diagnosis:\nIron deficiency anemia, ruled out by serum iron studies.\nMegaloblastic anemia, ruled out by normal B12 and folate levels.\nNeonatal jaundice, not applicable given patient's age.\n\nAdmission Records:\nPhysician's Signature: Dr. Smith\n\nPost-Admission Course Records:\nFirst Course Record:\nPatient admitted with symptoms of anemia and confirmed diagnosis of thalassemia. Plan to monitor hemoglobin levels, provide supportive care with folate supplements, and consider blood transfusion if hemoglobin drops further.\n\nDaily Course Records:\nPatient remains stable, hemoglobin monitored daily, folate supplements initiated.\n\nSenior Physician Rounds Records:\nDiscussed case with attending hematologist, consensus on current management plan.\n\nDifficult Case Discussion Records:\nNone\n\nHandover Records:\nPatient remains stable, continue current supportive treatment.\n\nTransfer Records:\nNone\n\nStage Summary:\nPatient has responded well to supportive treatment, stable hemoglobin levels, no need for immediate transfusion.\n\nEmergency Records:\nNone\n\nInvasive Procedure Records:\nNone\n\nConsultation Records:\nHematology consulted, agree with ongoing management plan.\n\nDischarge Records:\nPending further observation.\n\nCritically Ill Patient Care Records:\nNot applicable.\n\nMedical Orders:\nLong-term Orders:\nFolate supplementation, CBC monitoring\n\nTemporary Orders:\nBlood transfusion if hemoglobin falls below 7 g/dL\n\nAuxiliary Examination Reports:\nCBC, Peripheral Smear, Serum Iron Studies, Hemoglobin Electrophoresis\n\nTemperature Chart:\nNormal temperature, stable pulse and respiration rates, blood pressure within normal range.\n\nBlood Transfusion Consent:\nObtained\n\nSpecial Examination Consent:\nObtained for hemoglobin electrophoresis\n\nCritical Condition Notice:\nNot applicable.",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Bayside General Hospital, what was H. Nelson's chief complaint upon admission?",
+            "answer": "Fatigue and weakness for the past three months.",
+            "ref": [
+                "Chief Complaint:",
+                "Fatigue and weakness for the past three months."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Bayside General Hospital, what is H. Nelson's ethnicity?",
+            "answer": "Caucasian.",
+            "ref": [
+                "- Ethnicity: Caucasian"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Bayside General Hospital, what was the date and time of H. Nelson's admission?",
+            "answer": "6th October.",
+            "ref": [
+                "- Admission Time: 6th October"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Bayside General Hospital, what is H. Nelson's address?",
+            "answer": "49, Cameron Street, Bayside.",
+            "ref": [
+                "- Address: 49, Cameron Street, Bayside"
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Bayside General Hospital, how many auxiliary examinations did H. Nelson undergo?",
+            "answer": "According to the records, H. Nelson underwent 4 auxiliary examinations, namely CBC, Peripheral Smear, Serum Iron Studies, and Hemoglobin Electrophoresis.",
+            "ref": [
+                "Auxiliary Examination:",
+                "CBC:",
+                "Peripheral Smear:",
+                "Serum Iron Study:",
+                "Hemoglobin Electrophoresis:"
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Bayside General Hospital, summarize the present illness of H. Nelson.",
+            "answer": "H. Nelson noticed the onset of fatigue and general weakness three months ago without any specific event triggering the symptoms. The main symptoms include progressively worsening fatigue and weakness, shortness of breath on exertion, and pallor, which are worse in the morning and improve slightly with rest. Accompanying symptoms include dizziness, headaches, pale skin, and abdominal bloating. Her partner reports snoring and occasional breath-holds during sleep. She consulted her primary care physician one month ago, was diagnosed with anemia, and prescribed iron supplements which did not improve her symptoms. She reports poor sleep quality, reduced appetite, and a sensation of abdominal fullness with no significant weight changes.",
+            "ref": [
+                "The patient noticed the onset of fatigue and general weakness three months ago, without any specific event triggering the symptoms.",
+                "Fatigue and weakness, progressively worsening.",
+                "Shortness of breath on exertion and pallor noted.",
+                "Symptoms are worse in the morning and improve slightly with rest.",
+                "Dizziness, headaches, pale skin, and abdominal bloating.",
+                "The patient's partner reports snoring and observed occasional breath-holds during sleep.",
+                "The patient sought consultation with her primary care physician one month ago and laboratory tests revealed anemia.",
+                "She was prescribed iron supplements, which did not improve symptoms.",
+                "The patient reports poor sleep quality, reduced appetite, and a sensation of abdominal fullness.",
+                "No significant weight changes."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Bayside General Hospital, summarize the past medical history of H. Nelson.",
+            "answer": "H. Nelson was generally healthy until the onset of her current symptoms. She has no significant chronic illnesses or history of significant infectious diseases. She is up to date with all vaccinations and had an appendectomy at age 25. She has no history of blood transfusions and no known drug allergies.",
+            "ref": [
+                "Generally healthy until the onset of the current symptoms.",
+                "No significant chronic illnesses.",
+                "No history of significant infectious diseases.",
+                "Up to date with all vaccinations.",
+                "Appendectomy at age 25.",
+                "None",
+                "No known drug allergies."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Bayside General Hospital, summarize the physical examination findings of H. Nelson.",
+            "answer": "H. Nelson's general condition includes a temperature of 36.8°C, pulse of 88 bpm, respiration rate of 18 breaths/min, and blood pressure of 120/80 mmHg. Systematic examination findings include pale skin and conjunctiva, no lymphadenopathy, normocephalic head with no ENT abnormalities, no thyromegaly or jugular venous distention, clear lung fields, regular heart sounds with no murmurs, mild hepatosplenomegaly with no tenderness, normal bowel sounds, normal spine alignment, no edema in limbs, and normal range of motion. Her nervous system is intact with normal motor and sensory function.",
+            "ref": [
+                "Temperature: 36.8°C",
+                "Pulse: 88 bpm",
+                "Respiration: 18 breaths/min",
+                "Blood Pressure: 120/80 mmHg",
+                "Skin:",
+                "Pale conjunctiva.",
+                "No lymphadenopathy.",
+                "Normocephalic, no abnormalities noted on ENT examination.",
+                "No thyromegaly, no jugular venous distention.",
+                "Clear lung fields, no wheezes or rhonchi.",
+                "Regular heart sounds, no murmurs.",
+                "Mild hepatosplenomegaly, no tenderness, bowel sounds present.",
+                "Normal alignment.",
+                "No edema, normal range of motion.",
+                "Alert and oriented, cranial nerves intact, normal motor and sensory function."
+            ]
+        }
+    ]
+}

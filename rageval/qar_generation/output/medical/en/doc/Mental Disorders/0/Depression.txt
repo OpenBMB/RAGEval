@@ -1,0 +1,143 @@
+Hospitalization Record
+
+Basic Information:
+Name: T. Jackson
+Gender: Male
+Age: 95
+Ethnicity: Caucasian
+Marital Status: Widowed
+Occupation: Retired
+Address: 91, Irvington Street, Greenfield
+Admission Time: 11th, July
+Record Time: 11th, July
+Historian: Self
+Hospital Name: Greenfield General Hospital
+
+Chief Complaint:
+Persistent low mood, loss of interest in daily activities for the past 6 months.
+
+Present Illness:
+Onset: The symptoms started 6 months ago at home with a gradual onset. There have been periods of mild improvement and worsening. Prodromal symptoms included occasional sadness. A potential trigger might be the loss of a close friend.
+Main Symptoms: The patient reports a persistent low mood, describing it as a heaviness in the chest, constant throughout the day. The severity is moderate to severe, with temporary improvement when with family and worse in the mornings. The progression has been slow but steadily declining.
+Accompanying Symptoms: The patient has low self-esteem, self-blame, occasional suicidal thoughts (denies plans or intent), poor concentration, difficulty sleeping (insomnia), and decreased appetite.
+Diagnosis and Treatment History: The patient visited a family physician 4 months ago and was prescribed antidepressants, which provided minimal relief. He attended three sessions of cognitive-behavioral therapy with limited success.
+General Condition Changes: 
+Mental state: Depressed mood.
+Sleep: Disrupted with frequent awakenings.
+Appetite: Reduced.
+Urination and Defecation: Normal.
+Weight: Minor unintentional weight loss (~5 lbs).
+
+Past History:
+General Health Condition: Previously in good health with mild age-related changes.
+Disease History: Hypertension (well-controlled with medication), osteoarthritis.
+Infectious Disease History: No significant infectious disease history.
+Immunization History: Up-to-date, including seasonal flu vaccine.
+Surgery and Trauma History: Left hip replacement 5 years ago, no complications.
+Blood Transfusion History: None.
+Allergy History: Allergic to penicillin (rash).
+
+Personal History:
+Birthplace: Greenfield.
+Residence: Same address for over 50 years.
+Living Habits: Lives alone, previously active in the community, has reduced social interaction in recent months, non-smoker, occasional alcohol use.
+Occupation and Working Conditions: Retired engineer, previously worked in office settings.
+Exposure History: No known exposure to industrial toxins, dust, radioactive substances.
+Travel History: Limited travel in recent years due to age and mobility issues.
+
+Marital and Family History:
+Marital History:
+Marital Status: Widowed.
+Marriage Age: Married at 25, spouse passed 10 years ago.
+Spouse's Health Condition: Spouse had cardiovascular disease.
+Children's Condition: Two adult children, both in good health, maintain regular contact.
+
+Family History: 
+Father had depression, mother deceased due to stroke, two siblings (one with hypertension, the other in good health).
+
+Physical Examination:
+General Condition:
+Temperature: 98.4°F
+Pulse: 70 bpm
+Respiration: 16 breaths/min
+Blood Pressure: 130/80 mmHg
+
+Systematic Examination:
+Skin: Normal for age, no lesions or rashes.
+Mucous Membranes: Pale, moist.
+Lymph Nodes: Not enlarged.
+Head and Organs: Normocephalic, atraumatic.
+Neck: Supple, no masses or tenderness.
+Chest: Normal shape, clear to auscultation bilaterally, heart sounds regular without murmurs.
+Abdomen: Soft, non-tender, no hepatosplenomegaly.
+Rectum and Anus: Not examined.
+External Genitalia: Normal for age.
+Spine: Normal alignment, mild tenderness in the lumbar region.
+Limbs: No edema, full range of motion in all joints.
+Nervous System: Alert and oriented, cranial nerves II-XII intact, motor strength 5/5 in all extremities, sensory normal, reflexes 2+ and equal.
+
+Specialist Examination:
+Psychiatric examination: Patient appears anxious and depressed, eye contact poor, speech slow, thought process logical but with themes of hopelessness and worthlessness.
+
+Auxiliary Examination:
+CBC, CMP, TSH, Vitamin B12, and folate levels within normal limits; Head CT showed age-appropriate brain atrophy, no acute changes.
+
+Preliminary Diagnosis:
+Major Depressive Disorder.
+
+Diagnostic Basis:
+History of persistent low mood, loss of interest, and accompanying symptoms; physical and psychiatric examination; exclusion of other medical causes through lab tests.
+
+Differential Diagnosis:
+Depression related to physical illness (excluded by normal test results), dementia (no significant cognitive impairment detected), schizophrenia (no psychotic symptoms), post-traumatic stress disorder (no trauma history), bipolar depression (no manic episodes).
+
+Admission Records:
+Physician's Signature: Dr. A. Smith
+
+Post-Admission Course Records:
+First Course Record: Patient admitted for further evaluation and management of depression. Plan includes continued antidepressant therapy, adjusting dosage, initiating psychotherapy, and monitoring for suicidal ideation.
+Daily Course Records: Patient reports slight improvement in mood with medication adjustment. Continues to have difficulty sleeping. Will initiate sleep hygiene education and consider sleep aid if necessary.
+Senior Physician Rounds Records: Senior physician agrees with current management plan, suggests increasing psychotherapy frequency.
+Difficult Case Discussion Records: None.
+Handover Records: No significant overnight changes, patient stable, plan to continue current treatment strategy.
+Transfer Records: None.
+Stage Summary: Following 1 week of treatment, patient reports moderate improvement in mood, better sleep, appetite remains low. Will continue current therapeutic regimen.
+Emergency Records: None.
+Invasive Procedure Records: None.
+Consultation Records: Consultation with psychiatry confirmed diagnosis and recommended combined pharmacotherapy and psychotherapy.
+Discharge Records: None.
+Critically Ill Patient Care Records: None.
+
+Medical Orders:
+Long-term Orders: 
+Sertraline 50mg daily
+Trazodone 50mg at bedtime if needed for sleep
+General diet
+Fall precautions
+Daily psychiatrist visits
+
+Temporary Orders: 
+CBC and CMP in 1 week
+Increase Sertraline to 75mg if no significant effect in 2 weeks
+
+Auxiliary Examination Reports:
+See previous auxiliary examination comments.
+
+Temperature Chart:
+Temperature: 98.4°F
+Pulse: 70 bpm
+Respiration: 16 breaths/min
+Blood Pressure: 130/80 mmHg
+
+Blood Transfusion Consent: None.
+
+Special Examination Consent:
+Patient consented to psychiatric evaluation and treatment plan.
+
+Critical Condition Notice: None.
+
+DiseaseType:
+Mental Disorders:
+Name: Depression
+Symptoms: Low mood, loss of interest, low self-esteem, self-blame, suicidal thoughts
+Differential Diagnosis: Depression related to physical illness, dementia, schizophrenia, post-traumatic stress disorder (PTSD), bipolar depression.

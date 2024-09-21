@@ -1,0 +1,122 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Pinehurst, Court and Trenton, Vandalia, Court, what are the occupations of the defendants M. Bennett and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Occupation: Delivery Driver"
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "Occupation: Owner of a Retail Store"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett is a Delivery Driver; according to the judgment of Trenton, Vandalia, Court, the defendant G. Torres is the Owner of a retail store."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Pinehurst, Court and Trenton, Vandalia, Court, what crimes did the defendants M. Bennett and G. Torres commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Crime of Traffic Accident under Article No. 133 of our legal code.",
+                        "The defendant, M. Bennett, is accused of causing a traffic fatality due to reckless driving combined with intoxication, failing to render aid, and attempting to flee the scene of the crime."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "## Charge",
+                        "G. Torres was charged under Article No. 214 for the Crime of Selling Counterfeit Registered Trademark Goods."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett committed the Crime of Traffic Accident; according to the judgment of Trenton, Vandalia, Court, the defendant G. Torres committed the Crime of Selling Counterfeit Registered Trademark Goods."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Pinehurst, Court and Trenton, Vandalia, Court, what were the judgment dates for the cases involving M. Bennett and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "This judgment is pronounced on June 30, 2023, and shall be executed in accordance with our legal provisions."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Judgment Issued on 20th March 2023**"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Pinehurst, Court, the judgment date for the case involving M. Bennett was 30th June 2023; according to the judgment of Trenton, Vandalia, Court, the judgment date for the case involving G. Torres was 20th March 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Pinehurst, Court and Trenton, Vandalia, Court, what were the sentences given to the defendants M. Bennett and G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "M. Bennett is hereby sentenced to a fixed-term imprisonment of five years without the possibility of probation."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett was sentenced to 5 years fixed-term imprisonment with no probation; according to the judgment of Trenton, Vandalia, Court, the defendant G. Torres was sentenced to three years of fixed-term imprisonment, with a suspension for five years, and a fine of $30,000."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Lakewood, Pinehurst, Court and Trenton, Vandalia, Court, whose judgment date is earlier, M. Bennett or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "This judgment is pronounced on June 30, 2023, and shall be executed in accordance with our legal provisions."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Judgment Issued on 20th March 2023**"
+                    ]
+                }
+            ],
+            "answer": "The judgment date for G. Torres is earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Lakewood, Pinehurst, Court and Trenton, Vandalia, Court, who received a longer sentence, M. Bennett or G. Torres?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "M. Bennett is hereby sentenced to a fixed-term imprisonment of five years without the possibility of probation."
+                    ]
+                },
+                {
+                    "court_name": "Trenton, Vandalia, Court",
+                    "content": [
+                        "**Sentence**: Three years of fixed-term imprisonment, suspended for five years, and a fine of $30,000."
+                    ]
+                }
+            ],
+            "answer": "M. Bennett received a longer sentence."
+        }
+    ]
+}

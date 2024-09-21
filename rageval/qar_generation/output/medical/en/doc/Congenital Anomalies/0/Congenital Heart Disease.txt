@@ -1,0 +1,204 @@
+Hospitalization Record
+
+Basic Information:
+Name: J. Alvarez
+Gender: Female
+Age: 83
+Ethnicity: Hispanic
+Marital Status: Widowed
+Occupation: Retired
+Address: 23, Yarmouth Street, Clearwater
+Admission Time: 21st, August
+Record Time: 21st, August
+Historian: Self
+Hospital Name: Clearwater General Hospital
+
+Chief Complaint:
+Repeated respiratory infections, palpitations, and shortness of breath for 2 months.
+
+Present Illness:
+Onset:
+Symptoms started 2 months ago with no specific triggering event. Initially, patient noticed mild shortness of breath and occasional palpitations.
+
+Main Symptoms:
+Patient reports progressive shortness of breath, frequent palpitations, and multiple episodes of respiratory infections over the past two months. Symptoms worsen with physical exertion.
+
+Accompanying Symptoms:
+Cyanosis especially during infections; occasional lightheadedness and fatigue; no chest pain or syncope.
+
+Diagnosis and Treatment History:
+Patient visited local clinic where she was treated symptomatically for respiratory infections but symptoms persisted. No previous specific treatment for heart condition.
+
+General Condition Changes:
+Mental state appears slightly anxious; no significant changes in sleep or appetite; normal urination and defecation; slight weight loss of 2 kg reported.
+
+Past History:
+General Health Condition:
+Generally healthy for age, managed hypertension.
+
+Disease History:
+Hypertension for 10 years, managed with medication.
+
+Infectious Disease History:
+No significant infectious diseases.
+
+Immunization History:
+Up-to-date with basic immunizations; flu and pneumococcal vaccines administered last year.
+
+Surgery and Trauma History:
+Cholecystectomy (1980), no recent trauma.
+
+Blood Transfusion History:
+No history of blood transfusion.
+
+Allergy History:
+Patient allergic to Penicillin.
+
+Personal History:
+Birthplace:
+Clearwater
+
+Residence:
+Clearwater
+
+Living Habits:
+Non-smoker, minimal alcohol use, regular daily activities.
+
+Occupation and Working Conditions:
+Retired, previously worked as a school teacher.
+
+Exposure History:
+No known exposure to industrial toxins, dust, or radioactive substances.
+
+Travel History:
+No recent travel history.
+
+Marital and Family History:
+Marital History:
+Marital Status: Widowed
+Marriage Age: 20
+Spouse's Health Condition: Deceased - myocardial infarction
+Children's Condition: Two children, both in good health.
+
+Menstrual History:
+Menarche Age: 12
+Menstruation Duration: 5 days
+Menstruation Interval: 28 days
+Last Menstruation: Menopause at age 50
+Menstrual Volume: Moderate
+Dysmenorrhea: Mild
+
+Family History:
+Mother had diabetes, father had hypertension. No known family history of congenital heart disease.
+
+Physical Examination:
+General Condition:
+Temperature: 98.6°F
+Pulse: 90/min
+Respiration: 20/min
+Blood Pressure: 140/85 mmHg
+
+Systematic Examination:
+Skin: Pale, cold and slightly cyanotic extremities.
+Mucous Membranes: Pale.
+Lymph Nodes: No significant lymphadenopathy.
+Head and Organs: Normal.
+Neck: No jugular vein distention, no thyromegaly.
+Chest: Thorax normal shape. Lungs clear with no abnormal sounds. Heart - displaced apex beat, audible murmur.
+Abdomen: Soft, non-tender, no hepatosplenomegaly.
+Rectum and Anus: Normal.
+External Genitalia: Normal.
+Spine: Normal curvature, no deformities.
+Limbs: Peripheral cyanosis, no edema.
+Nervous System: Intact, no focal deficits.
+
+Specialist Examination:
+Cardiology assessment reveals a systolic murmur heard best at left sternal border.
+
+Auxiliary Examination:
+Chest X-ray shows mild cardiomegaly. ECG reveals right bundle branch block. Echocardiogram indicates ventricular septal defect.
+
+Preliminary Diagnosis:
+Congenital Heart Disease (Ventricular Septal Defect)
+
+Diagnostic Basis:
+Based on clinical presentation of repeated respiratory infections, palpitations, shortness of breath, and cyanosis, confirmed by echocardiogram findings of VSD.
+
+Differential Diagnosis:
+Rheumatic heart disease (no history of rheumatic fever, no mitral valve involvement), anemia (normal hemoglobin levels), venous hum (innocent murmur not fitting the murmur pattern), common cold (symptoms persist and other signs support heart disease).
+
+Admission Records:
+Physician's Signature: Dr. Smith
+
+Post-Admission Course Records:
+
+First Course Record:
+The patient was admitted due to symptoms suggestive of congenital heart disease. Initial diagnostic investigations including echocardiogram confirmed a ventricular septal defect. Treatment plan includes symptomatic relief for respiratory infections and cardiology consultation for potential long-term management.
+
+Daily Course Records:
+Day 1: Patient stabilized, symptomatic treatment for respiratory infections. Cardiology consult arranged.
+Day 2: Patient showing mild improvement in respiration. Awaiting further test results.
+
+Senior Physician Rounds Records:
+Senior physician confirmed congenital heart disease, advised conservative management with close monitoring.
+
+Difficult Case Discussion Records:
+None.
+
+Handover Records:
+None.
+
+Transfer Records:
+None.
+
+Stage Summary:
+Patient condition improved, stabilized under conservative treatment. Plan for outpatient follow-up with cardiology.
+
+Emergency Records:
+None.
+
+Invasive Procedure Records:
+None.
+
+Consultation Records:
+Cardiology consult: Recommended conservative management due to patient's age and overall health status. Routine follow-ups and monitoring suggested.
+
+Discharge Records:
+None.
+
+Critically Ill Patient Care Records:
+None.
+
+Medical Orders:
+Long-term Orders:
+1. Administer oxygen therapy as needed for respiratory distress.
+2. Continue antihypertensive medication.
+3. Monitor vitals regularly.
+4. Arrange follow-up with Cardiology.
+
+Temporary Orders:
+1. IV antibiotics for current respiratory infection.
+2. Analgesics for pain relief as needed.
+
+Auxiliary Examination Reports:
+1. Chest X-ray: Mild cardiomegaly.
+2. ECG: Right bundle branch block.
+3. Echocardiogram: Ventricular septal defect.
+
+Temperature Chart:
+99.0°F, Pulse 88/min, Respiration 18/min, Blood Pressure 137/80 mmHg.
+
+Blood Transfusion Consent:
+None.
+
+Special Examination Consent:
+None.
+
+Critical Condition Notice:
+None.
+
+Disease Type:
+Congenital Anomalies:
+Name: Congenital Heart Disease
+Symptoms: Repeated respiratory infections, palpitations, shortness of breath, cyanosis, etc.
+Differential Diagnosis: Rheumatic heart disease, anemia, venous hum, common cold.

@@ -1,0 +1,120 @@
+Hospitalization Record:
+
+Basic Information:
+Name: Y. Mendoza
+Gender: male
+Age: 8 hours after birth
+Ethnicity: 
+Marital Status: 
+Occupation: 
+Address: 32, Riverside street, Victoria
+Admission Time: 10th, March
+Record Time: 10th, March
+Historian: Mother
+Hospital Name: Victoria General Hospital
+
+Chief Complaint:
+Crying, limited mouth opening, difficulty sucking for 8 hours.
+
+Present Illness:
+Onset: Symptoms noted immediately after birth in the delivery room.
+Main Symptoms: Crying, limited mouth opening, difficulty sucking which have been persistent since onset.
+Accompanying Symptoms: No other noticeable symptoms.
+Diagnosis and Treatment History: No treatment before admission.
+General Condition Changes: Appears irritable, difficulties with feeding, reduced sleep, normal urination and defecation, no weight change evident yet.
+
+Past History:
+General Health Condition: Newborn
+Disease History: None
+Infectious Disease History: None
+Immunization History: None
+Surgery and Trauma History: None
+Blood Transfusion History: None
+Allergy History: None
+
+Personal History:
+Birthplace: Victoria
+Residence: Victoria
+Living Habits: Newborn
+Occupation and Working Conditions: Newborn
+Exposure History: None
+Travel History: None
+
+Marital and Family History:
+Marital History:
+Marital Status: N/A
+Marriage Age: N/A
+Spouse's Health Condition: N/A
+Children's Condition: N/A
+Family History: Parents healthy, no similar diseases reported in family history.
+
+Physical Examination:
+General Condition:
+Temperature: 36.8°C
+Pulse: 140 bpm
+Respiration: 45 breaths/min
+Blood Pressure: Not measured
+Systematic Examination:
+Skin: Normal, no rashes or lesions
+Mucous Membranes: Pale
+Lymph Nodes: Not enlarged
+Head and Organs: Head normal, no sign of trauma, fontanelles soft and flat
+Neck: Supple, no masses or abnormalities
+Chest: Clear lungs bilaterally, no wheezes or crackles, heart sounds regular, no murmurs
+Abdomen: Soft, non-tender, no organomegaly
+Rectum and Anus: Normal
+External Genitalia: Normal male genitalia
+Spine: No deformities noted
+Limbs: Normal movement, no contractures
+Nervous System: Hypertonicity noted, limited mouth opening
+
+Specialist Examination:
+Suspected neonatal tetanus based on symptoms and hypertonicity.
+
+Auxiliary Examination:
+CBC normal, CRP slightly elevated. Blood cultures pending. CSF examination pending.
+
+Preliminary Diagnosis:
+Neonatal Tetanus
+
+Diagnostic Basis:
+Based on history of perinatal period, physical exam showing hypertonicity, difficulty feeding, limited mouth opening, and crying.
+
+Differential Diagnosis:
+Purulent meningitis (ruled out by current lack of fever or neck stiffness), neonatal convulsions (no seizure activity observed), tetany (less likely due to normal calcium levels).
+
+Admission Records:
+Physician's Signature: Dr. John Smith
+
+Post-Admission Course Records:
+First Course Record: 8 hours old male with symptoms of crying, limited mouth opening, and difficulty sucking. Suspected neonatal tetanus. Blood work initiated, monitoring for signs of progression. Started on empirical antibiotic therapy pending confirmation of diagnosis.
+Daily Course Records: Day 1: Continues to show hypertonicity and difficulty feeding. Remains stable, no seizure activity, continued monitoring and supportive care.
+Senior Physician Rounds Records: Reviewed by senior pediatrician: Agreed with suspected diagnosis of neonatal tetanus, continued empirical antibiotics and supportive measures. Advised close monitoring.
+Difficult Case Discussion Records: Not applicable.
+Handover Records: Shift handover: Monitored patient stability, emphasis on respiratory status and feeding difficulties.
+Transfer Records: Not applicable.
+Stage Summary: 8-hour old male presenting with symptoms consistent with neonatal tetanus, stable after initial management, supportive and empirical antibiotic therapy ongoing.
+Emergency Records: None
+Invasive Procedure Records: None
+Consultation Records: Infectious disease consultation: Pending.
+Discharge Records: Not applicable.
+Critically Ill Patient Care Records: None
+
+Medical Orders:
+Long-term Orders: Monitor vital signs every 2 hours. Continue empirical antibiotic therapy. Provide IV fluids and nutrition support.
+Temporary Orders: Draw blood cultures and CBC. Prepare for lumbar puncture if signs of meningeal involvement appear. Administer tetanus immunoglobulin if necessary.
+
+Auxiliary Examination Reports:
+Pending CSF results and blood culture.
+
+Temperature Chart:
+Temp: 36.8°C, Pulse: 140 bpm, Resp: 45 breaths/min, BP: Not measured.
+
+Blood Transfusion Consent:
+Not applicable.
+
+Special Examination Consent:
+Consent obtained for all required investigations.
+
+Critical Condition Notice:
+Parents informed about the critical nature of the condition and the need for close monitoring.

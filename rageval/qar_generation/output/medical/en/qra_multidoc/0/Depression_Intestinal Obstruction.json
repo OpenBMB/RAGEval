@@ -1,0 +1,164 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital and Yorkshire General Hospital, what are the ages of patients T. Jackson and I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Age: 95"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Age: 82"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Greenfield General Hospital, patient T. Jackson is 95 years old; according to the hospitalization records of Yorkshire General Hospital, patient I. Chavez is 82 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital and Yorkshire General Hospital, what is the marital status of patients T. Jackson and I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Greenfield General Hospital, patient T. Jackson is widowed; according to the hospitalization records of Yorkshire General Hospital, patient I. Chavez is also widowed."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital and Yorkshire General Hospital, what are the chief complaints of patients T. Jackson and I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Chief Complaint:",
+                        "Persistent low mood, loss of interest in daily activities for the past 6 months."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Chief Complaint:",
+                        "Intermittent upper abdominal pain, acid reflux, and heartburn for 2 months."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Greenfield General Hospital, patient T. Jackson's chief complaint is persistent low mood and loss of interest in daily activities for the past 6 months; according to the hospitalization records of Yorkshire General Hospital, patient I. Chavez's chief complaint is intermittent upper abdominal pain, acid reflux, and heartburn for 2 months."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital and Yorkshire General Hospital, what are the preliminary diagnoses for patients T. Jackson and I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Major Depressive Disorder."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Peptic Ulcer"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Greenfield General Hospital, patient T. Jackson's preliminary diagnosis is Major Depressive Disorder; according to the hospitalization records of Yorkshire General Hospital, patient I. Chavez's preliminary diagnosis is Peptic Ulcer."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital and Yorkshire General Hospital, what are the occupations of patients T. Jackson and I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Occupation: Retired",
+                        "Occupation and Working Conditions: Retired engineer, previously worked in office settings."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Occupation: Retired",
+                        "Retired teacher, no known work-related health issues."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Greenfield General Hospital, patient T. Jackson is a retired engineer; according to the hospitalization records of Yorkshire General Hospital, patient I. Chavez is a retired teacher."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital and Yorkshire General Hospital, who was admitted earlier, T. Jackson or I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Admission Time: 11th, July"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Admission Time: 12th, February"
+                    ]
+                }
+            ],
+            "answer": "T. Jackson was admitted on July 11, and I. Chavez was admitted on February 12. I. Chavez was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital and Yorkshire General Hospital, who is older, T. Jackson or I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Age: 95"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Age: 82"
+                    ]
+                }
+            ],
+            "answer": "T. Jackson is 95 years old, and I. Chavez is 82 years old. T. Jackson is older."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Greenfield General Hospital and Yorkshire General Hospital, whose blood pressure is higher, T. Jackson or I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Greenfield General Hospital_T. Jackson",
+                    "content": [
+                        "Blood Pressure: 130/80 mmHg"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Blood Pressure: 135/80 mmHg"
+                    ]
+                }
+            ],
+            "answer": "T. Jackson's blood pressure is 130/80 mmHg, and I. Chavez's blood pressure is 135/80 mmHg. I. Chavez's blood pressure is higher."
+        }
+    ]
+}

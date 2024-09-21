@@ -1,0 +1,123 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Riverside, Glenwood, Court, what are the occupations of the defendants X. Alvarez and X. Morgan?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "Occupation: Delivery Driver"
+                    ]
+                },
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Occupation**: Owner of Morgan & Co.",
+                        "Consulting"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the defendant X. Alvarez is a Delivery Driver; according to the judgment of Riverside, Glenwood, Court, the defendant X. Morgan is the Owner of Morgan & Co. Consulting."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Riverside, Glenwood, Court, what crimes did the defendants X. Alvarez and X. Morgan commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "The Court charges X. Alvarez with the Crime of Traffic Accident, in violation of Article 133 of the relevant penal code."
+                    ]
+                },
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "The defendant, X. Morgan, was charged with the crime of evading tax arrears recovery under Article 203.",
+                        "This charge encompasses the intentional transfer and concealment of assets and the fabrication of expenses to reduce taxable income, thus defrauding the state of its due revenues."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the defendant X. Alvarez committed the Crime of Traffic Accident; according to the judgment of Riverside, Glenwood, Court, the defendant X. Morgan committed the Crime of Evading Tax Arrears Recovery."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Riverside, Glenwood, Court, what are the judgment dates for the cases involving X. Alvarez and X. Morgan?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "*This judgment is issued under the authority of the Lakewood, Mayfield, Court on the 1st of June, 2023.*"
+                    ]
+                },
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "This judgment has been recorded and issued under the authority of Riverside, Glenwood Court on this 10th day of August, 2023."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the judgment date for the case involving X. Alvarez is 1st June, 2023; according to the judgment of Riverside, Glenwood, Court, the judgment date for the case involving X. Morgan is 10th August, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Riverside, Glenwood, Court, what are the residences of the defendants X. Alvarez and X. Morgan?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "Residence: 40, Yorktown Street, Mayfield"
+                    ]
+                },
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Residence**: 85 Yorktown Street, Glenwood"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the defendant X. Alvarez resides at 40, Yorktown street, Mayfield; according to the judgment of Riverside, Glenwood, Court, the defendant X. Morgan resides at 85, Yorktown street, Glenwood."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Riverside, Glenwood, Court, whose sentencing time is longer, X. Alvarez or X. Morgan?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "The court sentences X. Alvarez to a fixed-term imprisonment of three (3) years.",
+                        "Additionally, upon release, he will be subject to a probation period of one (1) year, during which he must comply with specific legal and rehabilitative conditions intended to monitor and correct his behavior."
+                    ]
+                },
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "**Sentence**: The defendant, X. Morgan, is sentenced to 5 years imprisonment, with 3 years probation post-release and a fine of $600,000."
+                    ]
+                }
+            ],
+            "answer": "X. Alvarez was sentenced to 3 years of fixed-term imprisonment with an additional 1-year probation period after release, while X. Morgan was sentenced to 5 years imprisonment and 3 years probation. X. Morgan's sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Riverside, Glenwood, Court, whose judgment time is earlier, X. Alvarez or X. Morgan?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "*This judgment is issued under the authority of the Lakewood, Mayfield, Court on the 1st of June, 2023.*"
+                    ]
+                },
+                {
+                    "court_name": "Riverside, Glenwood, Court",
+                    "content": [
+                        "This judgment has been recorded and issued under the authority of Riverside, Glenwood Court on this 10th day of August, 2023."
+                    ]
+                }
+            ],
+            "answer": "X. Alvarez's judgment time is earlier, on 1st June, 2023, compared to X. Morgan's judgment time on 10th August, 2023."
+        }
+    ]
+}

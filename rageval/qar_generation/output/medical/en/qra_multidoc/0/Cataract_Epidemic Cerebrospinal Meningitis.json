@@ -1,0 +1,219 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Wilton General Hospital, what were the occupations of patients L. Rogers and H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Occupation: Teacher",
+                        "Occupation and Working Conditions: Teacher at a local high school, generally well-lit and comfortable working conditions"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Occupation: Retired Teacher",
+                        "Occupation and Working Conditions: Retired teacher, previously worked in a well-ventilated environment."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Knoxville General Hospital, patient L. Rogers is a teacher. According to the hospitalization records of Wilton General Hospital, patient H. Flores is a retired teacher."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Wilton General Hospital, what were the chief complaints of patients L. Rogers and H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Chief Complaint:",
+                        "Blurry, foggy vision and decreased visual acuity for the past 3 months"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "Chief Complaint:",
+                        "Severe headache, high fever, and neck stiffness for 2 days."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Knoxville General Hospital, patient L. Rogers' chief complaint was blurry, foggy vision and decreased visual acuity for the past 3 months. According to the hospitalization records of Wilton General Hospital, patient H. Flores' chief complaint was severe headache, high fever, and neck stiffness for 2 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Wilton General Hospital, what are the ages of patients L. Rogers and H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Age: 56"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Age: 82"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Knoxville General Hospital, patient L. Rogers is 56 years old. According to the hospitalization records of Wilton General Hospital, patient H. Flores is 82 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Wilton General Hospital, what are the marital statuses of patients L. Rogers and H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Marital Status: Married"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Marital Status: Widowed"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Knoxville General Hospital, patient L. Rogers is married. According to the hospitalization records of Wilton General Hospital, patient H. Flores is widowed."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Wilton General Hospital, what are the ethnicities of patients L. Rogers and H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Ethnicity: Caucasian"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Ethnicity: Hispanic"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Knoxville General Hospital, patient L. Rogers is Caucasian. According to the hospitalization records of Wilton General Hospital, patient H. Flores is Hispanic."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Wilton General Hospital, what were the diagnoses of patients L. Rogers and H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Bilateral Cataract, more pronounced in the right eye"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "Epidemic Cerebrospinal Meningitis"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Knoxville General Hospital, patient L. Rogers was diagnosed with bilateral cataract, more pronounced in the right eye. According to the hospitalization records of Wilton General Hospital, patient H. Flores was diagnosed with epidemic cerebrospinal meningitis."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Wilton General Hospital, who was admitted earlier, L. Rogers or H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Admission Time: 6th, January"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Admission Time: 22nd March"
+                    ]
+                }
+            ],
+            "answer": "L. Rogers was admitted on January 6, and H. Flores was admitted on March 22. L. Rogers was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Wilton General Hospital, who is older, L. Rogers or H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Age: 56"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Age: 82"
+                    ]
+                }
+            ],
+            "answer": "L. Rogers is 56 years old, and H. Flores is 82 years old. H. Flores is older."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Wilton General Hospital, whose temperature was higher at the time of admission, L. Rogers or H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Temperature: 36.6°C"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Temperature: 39.5°C"
+                    ]
+                }
+            ],
+            "answer": "L. Rogers' temperature was 36.6°C, while H. Flores' temperature was 39.5°C. H. Flores' temperature was higher at the time of admission."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Wilton General Hospital, whose blood pressure was higher at the time of admission, L. Rogers or H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Blood Pressure: 120/80 mmHg"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Blood Pressure: 145/90 mmHg"
+                    ]
+                }
+            ],
+            "answer": "L. Rogers' blood pressure was 120/80 mmHg, while H. Flores' blood pressure was 145/90 mmHg. H. Flores' blood pressure was higher at the time of admission."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Knoxville General Hospital and Wilton General Hospital, whose pulse rate was higher at the time of admission, L. Rogers or H. Flores?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Knoxville General Hospital_L. Rogers",
+                    "content": [
+                        "Pulse: 72 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Wilton General Hospital_H. Flores",
+                    "content": [
+                        "- Pulse: 110 bpm"
+                    ]
+                }
+            ],
+            "answer": "L. Rogers' pulse rate was 72 bpm, while H. Flores' pulse rate was 110 bpm. H. Flores' pulse rate was higher at the time of admission."
+        }
+    ]
+}

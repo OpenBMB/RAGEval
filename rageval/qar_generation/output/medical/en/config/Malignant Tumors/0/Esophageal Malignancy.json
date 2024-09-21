@@ -1,0 +1,245 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "Q. Reyes",
+            "Gender": "female",
+            "Age": "87",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Widowed",
+            "Occupation": "Retired Teacher",
+            "Address": "67, Rockford street, Lexington",
+            "Admission Time": "5th, August",
+            "Record Time": "5th, August",
+            "Historian": "Self",
+            "Hospital Name": "Lexington General Hospital"
+        },
+        "Chief Complaint": "Dysphagia and chest pain for the past 4 months",
+        "Present Illness": {
+            "Onset": "Onset 4 months ago, at home, gradual onset, no prodromal symptoms noted. Potential cause suspected to be progressive disease due to advanced age.",
+            "Main Symptoms": "Dysphagia, initially with solid food, progressively worsening to include semi-solid and liquid food, and now saliva. Associated with chest pain often radiating to the back. Symptoms have progressively worsened over the past 4 months.",
+            "Accompanying Symptoms": "Weight loss, fatigue, and occasional regurgitation of food.",
+            "Diagnosis and Treatment History": "Underwent endoscopy showing obstructive mass. Biopsy confirmed esophageal malignancy. Initiated on palliative chemotherapy with partial response.",
+            "General Condition Changes": "Mental state relatively stable, but noted general weakness and fatigue. Appetite decreased, significant weight loss of 15 lbs in the past month. Normal urination and defecation."
+        },
+        "Past History": {
+            "General Health Condition": "Generally good health until current illness.",
+            "Disease History": "Hypertension, managed with medication.",
+            "Infectious Disease History": "None significant.",
+            "Immunization History": "Up to date with recommended vaccinations.",
+            "Surgery and Trauma History": "Appendectomy at age 25. No major trauma.",
+            "Blood Transfusion History": "None.",
+            "Allergy History": "No known drug allergies."
+        },
+        "Personal History": {
+            "Birthplace": "Lexington",
+            "Residence": "Lexington",
+            "Living Habits": "Non-smoker, occasional wine. Balanced diet though decreased recently due to dysphagia.",
+            "Occupation and Working Conditions": "Retired teacher, previously under no significant occupational hazards.",
+            "Exposure History": "No significant exposure to industrial toxins, dust, or radioactive substances.",
+            "Travel History": "No significant travel history recently."
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Widowed",
+                "Marriage Age": "25",
+                "Spouse's Health Condition": "Deceased (Myocardial infarction)",
+                "Children's Condition": "Two children, both in good health."
+            },
+            "Menstrual History": {
+                "Menarche Age": "15",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "Age 50",
+                "Menstrual Volume": "Normal",
+                "Dysmenorrhea": "Mild"
+            },
+            "Family History": "Parents both deceased due to natural causes. No siblings."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "98.6°F",
+                "Pulse": "80 bpm",
+                "Respiration": "16 bpm",
+                "Blood Pressure": "130/80 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Pallor noted, no rashes or lesions.",
+                "Mucous Membranes": "Dry oral mucosa.",
+                "Lymph Nodes": "No significant enlargement.",
+                "Head and Organs": "Normocephalic, atraumatic.",
+                "Neck": "No jugular venous distension, no lymphadenopathy.",
+                "Chest": "Bilaterally symmetrical, clear auscultation, heart sounds normal.",
+                "Abdomen": "Soft, non-tender, no organomegaly.",
+                "Rectum and Anus": "Not examined.",
+                "External Genitalia": "Normal for age.",
+                "Spine": "No deformities.",
+                "Limbs": "No edema, normal range of motion.",
+                "Nervous System": "Alert, oriented, cranial nerves intact, no motor or sensory deficits."
+            }
+        },
+        "Specialist Examination": "Endoscopic findings: obstructive esophageal mass.",
+        "Auxiliary Examination": "CT scan showing narrowing of the esophagus with suspicious mass. Biopsy confirmed malignancy.",
+        "Preliminary Diagnosis": "Esophageal Malignancy",
+        "Diagnostic Basis": "Based on dysphagia, chest pain, endoscopic findings, and biopsy results.",
+        "Differential Diagnosis": "Benign esophageal stricture (ruled out by biopsy), achalasia (ruled out by progression and biopsy), esophageal diverticulum (ruled out by endoscopy), esophageal tuberculosis (ruled out by biopsy).",
+        "Admission Records": {
+            "Physician's Signature": "Dr. J. Thompson"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Prompt admission due to severe dysphagia and progressive chest pain. Initial diagnostic impression strongly suggestive of malignant esophageal tumor. Plan includes staging, oncologist consultation, and palliative care.",
+            "Daily Course Records": "Regular assessments showing progressive worsening of dysphagia and increasing weakness. Treatment adjusted to include pain management and nutritional support.",
+            "Senior Physician Rounds Records": "Reviewed on 6th, August. Confirmed severe progression. Advised continuation of palliative care.",
+            "Difficult Case Discussion Records": "Discussed on 7th, August. Confirmed poor prognosis, suggested continuation of symptomatic relief measures.",
+            "Handover Records": "Noted gradual deterioration, updated next shift on 8th, August.",
+            "Transfer Records": "No inter-hospital or inter-department transfers noted.",
+            "Stage Summary": "Progressive deterioration over hospital stay, no significant improvement in symptoms.",
+            "Emergency Records": "Sudden respiratory distress on 12th, August, managed with nebulization and supportive care.",
+            "Invasive Procedure Records": "None noted during current hospital stay.",
+            "Consultation Records": "Oncology consultation on 6th, August. Advised continuation of palliative chemotherapy.",
+            "Surgery Related": {
+                "Preoperative Summary": "Discussed risks given advanced age and disease stage.",
+                "Preoperative Discussion Records": "Explored surgical options considering critical anatomy involved.",
+                "Anesthesia Preoperative Visit Records": "High-risk assessment due to frailty and compromised respiratory function.",
+                "Anesthesia Records": "General anesthesia induced, no complications.",
+                "Surgery Records": "Palliative esophagectomy performed. Tumor reduced but not fully resectable.",
+                "Surgery Safety Checklist": "Checklist completed without issue.",
+                "Surgery Instrument Count Records": "All instruments accounted for post-operatively.",
+                "Postoperative First Course Record": "Stable immediately post-operative, later showed signs of respiratory insufficiency.",
+                "Anesthesia Postoperative Visit Records": "Difficult emergence but stable vitals post-recovery."
+            },
+            "Discharge Records": "Not applicable, patient deceased during stay.",
+            "Death Related": {
+                "Death Case Discussion Records": "Sudden cardiac arrest on 15th, August. Resuscitation unsuccessful.",
+                "Death Records": "Time of death: 5:40 PM, 15th, August. Cause: Complications from advanced esophageal malignancy. Attending Physician: Dr. A. Smith"
+            },
+            "Critically Ill Patient Care Records": "Constant monitoring and symptomatic care. Regular consultations with palliative care team."
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Nutritional support via NG tube, continuous pain management, regular vital observations.",
+            "Temporary Orders": "Stat doses of morphine for breakthrough pain, diagnostic imaging as needed."
+        },
+        "Auxiliary Examination Reports": "CT scan, endoscopy results pre-admission, biopsy confirming malignancy.",
+        "Temperature Chart": "Regular charting showing fever spikes post-operatively settling to normal ranges.",
+        "Blood Transfusion Consent": "Consented by next-of-kin due to critical anemia post-op.",
+        "Special Examination Consent": "Consented for endoscopic and imaging procedures.",
+        "Critical Condition Notice": "Issued to family upon significant deterioration."
+    },
+    "DiseaseType": {
+        "Malignant Tumors": {
+            "Name": "Esophageal Malignancy",
+            "Symptoms": "Dysphagia (difficulty swallowing or feeling of obstruction when food moves down the esophagus, initially for solid food, later for semi-solid food, and finally for liquid food and saliva, indicating a progressive malignant course rather than spasm, benign or digestive strictures); chest pain often radiating to the back.",
+            "Differential Diagnosis": "Benign esophageal stricture, achalasia, esophageal diverticulum, esophageal tuberculosis, etc."
+        }
+    },
+    "Generated Article": "Hospitalization Record\n\nBasic Information:\nName: Q. Reyes\nGender: Female\nAge: 87\nEthnicity: Caucasian\nMarital Status: Widowed\nOccupation: Retired Teacher\nAddress: 67, Rockford street, Lexington\nAdmission Time: 5th, August\nRecord Time: 5th, August\nHistorian: Self\nHospital Name: Lexington General Hospital\n\nChief Complaint:\nDysphagia and chest pain for the past 4 months\n\nPresent Illness:\nOnset: Onset 4 months ago, at home, gradual onset with no prodromal symptoms noted. Potential cause suspected to be progressive disease due to advanced age.\nMain Symptoms: Dysphagia, initially with solid food, progressively worsening to include semi-solid and liquid food, and now saliva. Associated with chest pain often radiating to the back. Symptoms have progressively worsened over the past 4 months.\nAccompanying Symptoms: Weight loss, fatigue, and occasional regurgitation of food.\nDiagnosis and Treatment History: Underwent endoscopy showing obstructive mass. Biopsy confirmed esophageal malignancy. Initiated on palliative chemotherapy with partial response.\nGeneral Condition Changes: Mental state relatively stable, but noted general weakness and fatigue. Appetite decreased, significant weight loss of 15 lbs in the past month. Normal urination and defecation.\n\nPast History:\nGeneral Health Condition: Generally good health until current illness.\nDisease History: Hypertension, managed with medication.\nInfectious Disease History: None significant.\nImmunization History: Up to date with recommended vaccinations.\nSurgery and Trauma History: Appendectomy at age 25. No major trauma.\nBlood Transfusion History: None.\nAllergy History: No known drug allergies.\n\nPersonal History:\nBirthplace: Lexington\nResidence: Lexington\nLiving Habits: Non-smoker, occasional wine. Balanced diet though decreased recently due to dysphagia.\nOccupation and Working Conditions: Retired teacher, previously under no significant occupational hazards.\nExposure History: No significant exposure to industrial toxins, dust, or radioactive substances.\nTravel History: No significant travel history recently.\n\nMarital and Family History:\nMarital History:\nMarital Status: Widowed\nMarriage Age: 25\nSpouse's Health Condition: Deceased (Myocardial infarction)\nChildren's Condition: Two children, both in good health\n\nMenstrual History:\nMenarche Age: 15\nMenstruation Duration: 5 days\nMenstruation Interval: 28 days\nLast Menstruation: Age 50\nMenstrual Volume: Normal\nDysmenorrhea: Mild\n\nFamily History:\nParents both deceased due to natural causes. No siblings.\n\nPhysical Examination:\nGeneral Condition:\nTemperature: 98.6°F\nPulse: 80 bpm\nRespiration: 16 bpm\nBlood Pressure: 130/80 mmHg\n\nSystematic Examination:\nSkin: Pallor noted, no rashes or lesions.\nMucous Membranes: Dry oral mucosa.\nLymph Nodes: No significant enlargement.\nHead and Organs: Normocephalic, atraumatic.\nNeck: No jugular venous distension, no lymphadenopathy.\nChest: Bilaterally symmetrical, clear auscultation, heart sounds normal.\nAbdomen: Soft, non-tender, no organomegaly.\nRectum and Anus: Not examined.\nExternal Genitalia: Normal for age.\nSpine: No deformities.\nLimbs: No edema, normal range of motion.\nNervous System: Alert, oriented, cranial nerves intact, no motor or sensory deficits.\n\nSpecialist Examination:\nEndoscopic findings: Obstructive esophageal mass.\n\nAuxiliary Examination:\nCT scan showing narrowing of the esophagus with suspicious mass. Biopsy confirmed malignancy.\n\nPreliminary Diagnosis:\nEsophageal Malignancy\n\nDiagnostic Basis:\nBased on dysphagia, chest pain, endoscopic findings, and biopsy results.\n\nDifferential Diagnosis:\nBenign esophageal stricture (ruled out by biopsy), achalasia (ruled out by progression and biopsy), esophageal diverticulum (ruled out by endoscopy), esophageal tuberculosis (ruled out by biopsy).\n\nAdmission Records:\nPhysician's Signature: Dr. J. Thompson\n\nPost-Admission Course Records:\nFirst Course Record: Prompt admission due to severe dysphagia and progressive chest pain. Initial diagnostic impression strongly suggestive of malignant esophageal tumor. Plan includes staging, oncologist consultation, and palliative care.\nDaily Course Records: Regular assessments showing progressive worsening of dysphagia and increasing weakness. Treatment adjusted to include pain management and nutritional support.\nSenior Physician Rounds Records: Reviewed on 6th, August. Confirmed severe progression. Advised continuation of palliative care.\nDifficult Case Discussion Records: Discussed on 7th, August. Confirmed poor prognosis, suggested continuation of symptomatic relief measures.\nHandover Records: Noted gradual deterioration, updated next shift on 8th, August.\nTransfer Records: No inter-hospital or inter-department transfers noted.\nStage Summary: Progressive deterioration over hospital stay, no significant improvement in symptoms.\nEmergency Records: Sudden respiratory distress on 12th, August, managed with nebulization and supportive care.\nInvasive Procedure Records: None noted during current hospital stay.\nConsultation Records: Oncology consultation on 6th, August. Advised continuation of palliative chemotherapy.\n\nSurgery Related:\nPreoperative Summary: Discussed risks given advanced age and disease stage.\nPreoperative Discussion Records: Explored surgical options considering critical anatomy involved.\nAnesthesia Preoperative Visit Records: High-risk assessment due to frailty and compromised respiratory function.\nAnesthesia Records: General anesthesia induced, no complications.\nSurgery Records: Palliative esophagectomy performed. Tumor reduced but not fully resectable.\nSurgery Safety Checklist: Checklist completed without issue.\nSurgery Instrument Count Records: All instruments accounted for post-operatively.\nPostoperative First Course Record: Stable immediately post-operative, later showed signs of respiratory insufficiency.\nAnesthesia Postoperative Visit Records: Difficult emergence but stable vitals post-recovery.\n\nDischarge Records:\nNot applicable, patient deceased during stay.\n\nDeath Related:\nDeath Case Discussion Records: Sudden cardiac arrest on 15th, August. Resuscitation unsuccessful.\nDeath Records: Time of death: 5:40 PM, 15th, August. Cause: Complications from advanced esophageal malignancy. Attending Physician: Dr. A. Smith\n\nCritically Ill Patient Care Records:\nConstant monitoring and symptomatic care. Regular consultations with palliative care team.\n\nMedical Orders:\nLong-term Orders: Nutritional support via NG tube, continuous pain management, regular vital observations.\nTemporary Orders: Stat doses of morphine for breakthrough pain, diagnostic imaging as needed.\n\nAuxiliary Examination Reports:\nCT scan, endoscopy results pre-admission, biopsy confirming malignancy.\n\nTemperature Chart:\nRegular charting showing fever spikes post-operatively settling to normal ranges.\n\nBlood Transfusion Consent:\nConsented by next-of-kin due to critical anemia post-op.\n\nSpecial Examination Consent:\nConsented for endoscopic and imaging procedures.\n\nCritical Condition Notice:\nIssued to family upon significant deterioration.\n\n\nDiseaseType:\nMalignant Tumors:\nName: Esophageal Malignancy\nSymptoms: Dysphagia (difficulty swallowing or feeling of obstruction when food moves down the esophagus, initially for solid food, later for semi-solid food, and finally for liquid food and saliva, indicating a progressive malignant course rather than spasm, benign or digestive strictures); chest pain often radiating to the back.\nDifferential Diagnosis: Benign esophageal stricture, achalasia, esophageal diverticulum, esophageal tuberculosis, etc.",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Lexington General Hospital, what is Q. Reyes's initial diagnosis?",
+            "answer": "Esophageal Malignancy.",
+            "ref": [
+                "Biopsy confirmed esophageal malignancy.",
+                "Biopsy confirmed malignancy.",
+                "Esophageal Malignancy"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Lexington General Hospital, what is Q. Reyes's chief complaint?",
+            "answer": "Dysphagia and chest pain for the past 4 months.",
+            "ref": [
+                "Dysphagia and chest pain for the past 4 months"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Lexington General Hospital, what is Q. Reyes's age?",
+            "answer": "87.",
+            "ref": [
+                "Age: 87"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Lexington General Hospital, what is Q. Reyes's occupation?",
+            "answer": "Retired Teacher.",
+            "ref": [
+                "Occupation: Retired Teacher"
+            ]
+        }
+    ],
+    "qa_multi_hop": [
+        {
+            "question type": "Multi-hop Reasoning Question",
+            "question": "According to the hospitalization records of Lexington General Hospital, how many auxiliary examinations did Q. Reyes undergo?",
+            "answer": "Q. Reyes underwent 3 auxiliary examinations at Lexington General Hospital, namely a CT scan, endoscopic examination, and biopsy.",
+            "ref": [
+                "Diagnosis and Treatment History: Underwent endoscopy showing obstructive mass.",
+                "Biopsy confirmed esophageal malignancy.",
+                "Endoscopic findings: Obstructive esophageal mass.",
+                "CT scan showing narrowing of the esophagus with suspicious mass.",
+                "Biopsy confirmed malignancy.",
+                "CT scan, endoscopy results pre-admission, biopsy confirming malignancy."
+            ]
+        }
+    ],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Lexington General Hospital, summarize the present illness of Q. Reyes.",
+            "answer": "The illness onset was 4 months ago at home with a gradual onset and no prodromal symptoms. The main symptoms include dysphagia, initially with solid food, progressively worsening to include semi-solid and liquid food, and now saliva, associated with chest pain often radiating to the back. Accompanying symptoms are weight loss, fatigue, and occasional regurgitation of food. Diagnosis and treatment history include an endoscopy showing an obstructive mass, biopsy confirming esophageal malignancy, and initiation of palliative chemotherapy with partial response. General condition changes include a relatively stable mental state, general weakness, fatigue, decreased appetite, and significant weight loss of 15 lbs in the past month.",
+            "ref": [
+                "Present Illness:",
+                "Onset: Onset 4 months ago, at home, gradual onset with no prodromal symptoms noted.",
+                "Potential cause suspected to be progressive disease due to advanced age.",
+                "Main Symptoms: Dysphagia, initially with solid food, progressively worsening to include semi-solid and liquid food, and now saliva.",
+                "Associated with chest pain often radiating to the back.",
+                "Symptoms have progressively worsened over the past 4 months.",
+                "Accompanying Symptoms: Weight loss, fatigue, and occasional regurgitation of food.",
+                "Diagnosis and Treatment History: Underwent endoscopy showing obstructive mass.",
+                "Biopsy confirmed esophageal malignancy.",
+                "Initiated on palliative chemotherapy with partial response.",
+                "General Condition Changes: Mental state relatively stable, but noted general weakness and fatigue.",
+                "Appetite decreased, significant weight loss of 15 lbs in the past month."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Lexington General Hospital, summarize the past history of Q. Reyes.",
+            "answer": "Q. Reyes had generally good health until the current illness. She has a history of hypertension managed with medication, no significant infectious diseases, up-to-date immunizations, an appendectomy at age 25, no major trauma, no blood transfusions, and no known drug allergies.",
+            "ref": [
+                "General Health Condition: Generally good health until current illness.",
+                "Disease History: Hypertension, managed with medication.",
+                "Infectious Disease History: None significant.",
+                "Immunization History: Up to date with recommended vaccinations.",
+                "Surgery and Trauma History: Appendectomy at age 25.",
+                "No major trauma.",
+                "Blood Transfusion History: None.",
+                "Allergy History: No known drug allergies."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Lexington General Hospital, summarize the physical examination findings of Q. Reyes.",
+            "answer": "Q. Reyes's general condition includes a temperature of 98.6°F, pulse of 80 bpm, respiration of 16 bpm, and blood pressure of 130/80 mmHg. Systematic examination findings include pallor noted on the skin, dry oral mucosa, no significant lymph node enlargement, normocephalic and atraumatic head, no jugular venous distension or lymphadenopathy in the neck, bilaterally symmetrical chest with clear auscultation and normal heart sounds, soft and non-tender abdomen with no organomegaly, normal external genitalia for age, no deformities in the spine, no edema in the limbs with normal range of motion, and an alert and oriented nervous system with intact cranial nerves and no motor or sensory deficits.",
+            "ref": [
+                "General Condition:",
+                "Temperature: 98.6°F",
+                "Pulse: 80 bpm",
+                "Respiration: 16 bpm",
+                "Blood Pressure: 130/80 mmHg",
+                "Skin: Pallor noted, no rashes or lesions.",
+                "Mucous Membranes: Dry oral mucosa.",
+                "Lymph Nodes: No significant enlargement.",
+                "Head and Organs: Normocephalic, atraumatic.",
+                "Neck: No jugular venous distension, no lymphadenopathy.",
+                "Chest: Bilaterally symmetrical, clear auscultation, heart sounds normal.",
+                "Abdomen: Soft, non-tender, no organomegaly.",
+                "External Genitalia: Normal for age.",
+                "Spine: No deformities.",
+                "Limbs: No edema, normal range of motion.",
+                "Nervous System: Alert, oriented, cranial nerves intact, no motor or sensory deficits."
+            ]
+        }
+    ]
+}

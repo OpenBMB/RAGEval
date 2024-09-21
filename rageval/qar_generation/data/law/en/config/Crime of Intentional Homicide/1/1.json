@@ -1,0 +1,76 @@
+{
+    "courtAndProcuratorate": {
+        "court": "Urbana, Belmont, Court",
+        "procuratorate": "Urbana, Belmont, Procuratorate"
+    },
+    "chiefJudge": "E. Johnson",
+    "judge": "W. Flores",
+    "clerk": "Y. Price",
+    "defendant": {
+        "name": "J. Hall",
+        "gender": "female",
+        "birthdate": "22th, August, 1992",
+        "residence": "40, Upton street, Belmont",
+        "ethnicity": "Caucasian",
+        "occupation": "Freelance Graphic Designer"
+    },
+    "defenseLawyer": {
+        "name": "T. Green",
+        "lawFirm": "Greenfield & Associates"
+    },
+    "caseProcess": [
+        {
+            "event": "Case Filing and Investigation",
+            "date": "15th, July, 2022"
+        },
+        {
+            "event": "Detention Measures Taken",
+            "date": "20th, July, 2022"
+        },
+        {
+            "event": "Criminal Detention",
+            "date": "22nd, July, 2022"
+        },
+        {
+            "event": "Arrest",
+            "date": "25th, July, 2022"
+        }
+    ],
+    "criminalFacts": [
+        {
+            "crimeName": "Crime of Intentional Homicide",
+            "details": [
+                {
+                    "timePeriod": "20:00 - 21:00, 10th, July, 2022",
+                    "behavior": "J. Hall was seen having a heated argument with the victim, R. Johnson, at Coffeescape Café. Witnesses observed J. Hall expressing threats towards the victim.",
+                    "evidence": "Witness testimony of café barista, security camera footage showing verbal aggression."
+                },
+                {
+                    "timePeriod": "21:30 - 22:00, 10th, July, 2022",
+                    "behavior": "J. Hall followed R. Johnson to his residence at 50 Elm Street, Belmont. J. Hall was recorded on a neighbor’s camera entering the victim’s home without consent.",
+                    "evidence": "Neighbor's security camera footage showing J. Hall entering the premises."
+                },
+                {
+                    "timePeriod": "22:15 - 22:30, 10th, July, 2022",
+                    "behavior": "Inside the residence, J. Hall confronted the victim in the living room. A struggle ensued and J. Hall, in a fit of rage, used a kitchen knife to fatally wound R. Johnson.",
+                    "evidence": "Crime scene photographs, forensic analysis of the knife with J. Hall's fingerprints, autopsy report stating cause of death as stab wounds, blood evidence matching both J. Hall and R. Johnson."
+                },
+                {
+                    "timePeriod": "22:30 - 23:00, 10th, July, 2022",
+                    "behavior": "J. Hall attempted to clean up and hide evidence but was interrupted by a neighbor, who called the police. J. Hall was arrested at the scene.",
+                    "evidence": "Police report detailing J. Hall's arrest, blood-stained clothes found in a nearby trash can, and testimonies from neighbors."
+                }
+            ]
+        }
+    ],
+    "legalProcedure": {
+        "judgmentDate": "15th, December, 2022",
+        "judgmentResult": [
+            {
+                "crimeName": "Crime of Intentional Homicide",
+                "sentence": "Life imprisonment",
+                "sentencingConsiderations": "Given the premeditated nature of the act and the severity of the crime, the court found no mitigating circumstances to reduce the sentence."
+            }
+        ]
+    }
+}

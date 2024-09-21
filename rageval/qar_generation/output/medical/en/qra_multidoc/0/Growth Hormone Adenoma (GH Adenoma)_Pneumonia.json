@@ -1,0 +1,142 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker City Hospital and Newport General Hospital, what is the occupation of patients E. Cruz and V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Occupation: Retired Teacher",
+                        "Occupation and Working Conditions: Retired Teacher"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Occupation: Retired Teacher",
+                        "Occupation and Working Conditions: Retired teacher, no significant occupational hazards."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker City Hospital, patient E. Cruz is a retired teacher; according to the hospitalization records of Newport General Hospital, patient V. Lewis is also a retired teacher."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker City Hospital and Newport General Hospital, what is the marital status of patients E. Cruz and V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Marital Status: Widowed"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker City Hospital, patient E. Cruz is widowed; according to the hospitalization records of Newport General Hospital, patient V. Lewis is also widowed."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker City Hospital and Newport General Hospital, what is the allergy history of patients E. Cruz and V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Allergy History: Penicillin allergy"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Allergy History: Allergic to penicillin."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker City Hospital, patient E. Cruz is allergic to penicillin; according to the hospitalization records of Newport General Hospital, patient V. Lewis is also allergic to penicillin."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker City Hospital and Newport General Hospital, what is the surgery and trauma history of patients E. Cruz and V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Surgery and Trauma History: Appendectomy at age 25"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Surgery and Trauma History: Appendectomy at age 30, otherwise unremarkable."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker City Hospital, patient E. Cruz had an appendectomy at age 25; according to the hospitalization records of Newport General Hospital, patient V. Lewis had an appendectomy at age 30."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker City Hospital and Newport General Hospital, what are the chief complaints of patients E. Cruz and V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Chief Complaint:",
+                        "Facial changes and increasing shoe size for 6 months"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Chief Complaint: Fever, cough, and difficulty breathing for 5 days."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker City Hospital, patient E. Cruz's chief complaint is facial changes and increasing shoe size for 6 months; according to the hospitalization records of Newport General Hospital, patient V. Lewis's chief complaint is fever, cough, and difficulty breathing for 5 days."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Parker City Hospital and Newport General Hospital, who was admitted earlier, E. Cruz or V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Admission Time: 12th, April"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Admission Time: 23rd, July"
+                    ]
+                }
+            ],
+            "answer": "E. Cruz was admitted on April 12, and V. Lewis was admitted on July 23. E. Cruz was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Parker City Hospital and Newport General Hospital, whose pulse rate is higher, E. Cruz or V. Lewis?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker City Hospital_E. Cruz",
+                    "content": [
+                        "Pulse: 76 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Newport General Hospital_V. Lewis",
+                    "content": [
+                        "Pulse: 92 bpm"
+                    ]
+                }
+            ],
+            "answer": "E. Cruz's pulse rate is 76 beats per minute, and V. Lewis's pulse rate is 92 beats per minute. V. Lewis's pulse rate is higher."
+        }
+    ]
+}

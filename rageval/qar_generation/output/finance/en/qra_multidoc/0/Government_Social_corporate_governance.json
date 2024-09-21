@@ -1,0 +1,246 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the shareholders' meeting resolutions on the governance structures of Acme Government Solutions in 2021 and AccuTech Solutions Inc. in 2019?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "One of the key events that had a significant impact on Acme Government Solutions' governance structure and operational strategies was the Shareholders' Meeting Resolution held in February 2021.",
+                        "This resolution resulted in several sub-events that shaped the company's direction and decision-making process.",
+                        "Firstly, the Board of Directors Election took place, leading to changes in the governance structure and operational strategies.",
+                        "The election of new board members brought fresh perspectives and expertise to the company's leadership."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "One significant event that had a profound impact on AccuTech Solutions Inc.'s governance structure was the Shareholders' Meeting Resolution in February 2019.",
+                        "During this meeting, key decisions were made to shape the company's governance structure, operational strategies, and shareholder rights."
+                    ]
+                }
+            ],
+            "answer": "The shareholders' meeting resolution in February 2021 for Acme Government Solutions impacted its governance structure and operational strategies. Similarly, the shareholders' meeting resolution in February 2019 for AccuTech Solutions Inc. also impacted its governance structure and operational strategies."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the strategic partnerships announced by Acme Government Solutions in 2021 and AccuTech Solutions Inc. in 2019?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Furthermore, in May 2021, Acme Government Solutions announced a Strategic Partnership, which expanded the company's capabilities and market reach.",
+                        "This partnership opened doors to new opportunities and positioned the company for growth in a competitive market."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "The strategic partnership announcement in March 2019 further strengthened AccuTech Solutions' market position, while the launch of a new suite of social media analytics tools in April 2019 attracted new customers and increased revenue."
+                    ]
+                }
+            ],
+            "answer": "The strategic partnership announced by Acme Government Solutions in May 2021 impacted the company's capabilities and market reach. The strategic partnership announced by AccuTech Solutions Inc. in March 2019 impacted the company's market position."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What progress did Acme Government Solutions and AccuTech Solutions Inc. make in sustainability and social responsibility initiatives in 2021 and 2019, respectively?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions also made significant progress in sustainability and social responsibility initiatives in June 2021.",
+                        "The company's commitment to environmental protection, social responsibility, and corporate citizenship positively impacted its public image and market competitiveness."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "The company also made significant progress in sustainability and social responsibility initiatives in June 2019, demonstrating its commitment to environmental protection, social responsibility, and corporate citizenship."
+                    ]
+                }
+            ],
+            "answer": "In June 2021, Acme Government Solutions made significant progress in sustainability, environmental protection, social responsibility, and corporate citizenship, impacting its public image and market competitiveness. Similarly, in June 2019, AccuTech Solutions Inc. made significant progress in these areas, highlighting its commitment to sustainability and social responsibility."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the compliance and regulatory updates on Acme Government Solutions in 2021 and AccuTech Solutions Inc. in 2019?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Compliance and regulatory updates in March 2021 also played a crucial role in Acme Government Solutions' corporate governance.",
+                        "These updates ensured the company's adherence to laws and regulations, reinforcing its commitment to ethical practices and transparency."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "AccuTech Solutions Inc. remained committed to compliance and regulatory standards, as demonstrated by its proactive approach to updating its practices in November 2019.",
+                        "The company ensured that its corporate governance practices aligned with new regulations, thereby minimizing legal risks and safeguarding shareholder interests."
+                    ]
+                }
+            ],
+            "answer": "The compliance and regulatory updates in March 2021 for Acme Government Solutions impacted its compliance with laws and regulations. For AccuTech Solutions Inc., the updates in November 2019 affected its corporate governance practices and had an impact on legal risk and shareholder interests."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How do Acme Government Solutions and AccuTech Solutions Inc. describe their internal control systems?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "The company has also established a robust internal control system, safeguarding its assets and preventing financial misstatements.",
+                        "The architecture, implementation, and effectiveness of this system have been continuously assessed to ensure its reliability and efficiency."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "Moreover, the company has implemented a robust internal control system, which includes segregation of duties, access controls, monitoring and testing of controls, and continuous improvement."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions describes its internal control system as robust, safeguarding assets and preventing financial misstatements. AccuTech Solutions Inc. highlights its robust internal control system, including segregation of duties, access controls, monitoring and testing of controls, and continuous improvement."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the principles and methods of information disclosure for Acme Government Solutions and AccuTech Solutions Inc.?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions has prioritized regular and timely information disclosure, providing stakeholders with the necessary information to make informed decisions.",
+                        "This commitment to transparency and accountability has strengthened the company's relationships with shareholders and other stakeholders."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "The company's commitment to transparency and timely communication with investors and stakeholders is evident in its high standard of information disclosure."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions emphasizes regular and timely information disclosure to ensure transparency and accountability. AccuTech Solutions Inc. discusses its high standard of information disclosure, highlighting transparency and timely communication with investors and stakeholders."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the risk management strategies of Acme Government Solutions and AccuTech Solutions Inc.?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "In terms of risk management strategy, Acme Government Solutions has focused on strengthening its internal control system, integrating sustainable development and social responsibility into its strategy, and enhancing cybersecurity measures.",
+                        "These efforts aim to identify, assess, monitor, and report risks effectively, while also addressing emerging challenges in the digital landscape."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "In terms of risk management, AccuTech Solutions Inc. is committed to strengthening its internal control system.",
+                        "The company will identify, assess, monitor, and report financial and operational risks to ensure the long-term stability and success of the organization."
+                    ]
+                }
+            ],
+            "answer": "Acme Government Solutions focuses on strengthening its internal control system, integrating sustainable development and social responsibility, and enhancing cybersecurity measures. AccuTech Solutions Inc. emphasizes strengthening its internal control system, integrating sustainable development and social responsibility into its corporate strategy."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the CEO appointment times of Acme Government Solutions and AccuTech Solutions Inc. Which company appointed a new CEO earlier?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Another sub-event following the Shareholders' Meeting Resolution was the appointment of a new CEO in March 2021."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "These decisions included the appointment of a new CEO in January 2019, who was expected to drive the company's growth strategy."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. appointed a new CEO earlier in January 2019, while Acme Government Solutions appointed a new CEO in March 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the strategic partnership announcement times of Acme Government Solutions and AccuTech Solutions Inc. Which company announced a strategic partnership earlier?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Furthermore, in May 2021, Acme Government Solutions announced a Strategic Partnership, which expanded the company's capabilities and market reach."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "The strategic partnership announcement in March 2019 further strengthened AccuTech Solutions' market position, while the launch of a new suite of social media analytics tools in April 2019 attracted new customers and increased revenue."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. announced a strategic partnership earlier in March 2019, while Acme Government Solutions announced a strategic partnership in May 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the senior management change times of Acme Government Solutions and AccuTech Solutions Inc. Which company had senior management changes earlier?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "May 2021 witnessed senior management changes within Acme Government Solutions, which had a direct impact on the company's operational focus and strategic priorities."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "Furthermore, AccuTech Solutions Inc. made senior management changes in May 2019, which had a direct impact on the company's operational focus and priorities."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. had senior management changes earlier in May 2019, while Acme Government Solutions had senior management changes in May 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of sustainability and social responsibility initiatives of Acme Government Solutions and AccuTech Solutions Inc. Which company initiated these efforts earlier?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Acme Government Solutions also made significant progress in sustainability and social responsibility initiatives in June 2021."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "The company also made significant progress in sustainability and social responsibility initiatives in June 2019, demonstrating its commitment to environmental protection, social responsibility, and corporate citizenship."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. initiated sustainability and social responsibility efforts earlier in June 2019, while Acme Government Solutions initiated these efforts in June 2021."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the compliance and regulatory update times of Acme Government Solutions and AccuTech Solutions Inc. Which company updated their compliance and regulatory measures earlier?",
+            "ref": [
+                {
+                    "company_name": "Acme Government Solutions",
+                    "content": [
+                        "Compliance and regulatory updates in March 2021 also played a crucial role in Acme Government Solutions' corporate governance."
+                    ]
+                },
+                {
+                    "company_name": "AccuTech Solutions Inc.",
+                    "content": [
+                        "AccuTech Solutions Inc. remained committed to compliance and regulatory standards, as demonstrated by its proactive approach to updating its practices in November 2019."
+                    ]
+                }
+            ],
+            "answer": "AccuTech Solutions Inc. updated their compliance and regulatory measures earlier in November 2019, while Acme Government Solutions updated theirs in March 2021."
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+Hospitalization Record:
+
+Basic Information:
+Name: L. Brown
+Gender: male
+Age: 32
+Ethnicity: Caucasian
+Marital Status: Married
+Occupation: Software Engineer
+Address: 25, Victoria street, Ashland
+Admission Time: 25th, March
+Record Time: 25th, March
+Historian: Self
+Hospital Name: Ashland General Hospital
+
+Chief Complaint:
+High fever, chills, and headache for 3 days
+
+Present Illness:
+Onset: Symptoms began 3 days ago after returning from a trip to Nigeria.
+Main Symptoms: High fever (up to 39°C), severe chills, intense headache, sweating, limb aches, and fatigue. Symptoms are severe and interfere with daily activities.
+Accompanying Symptoms: Mild nausea, occasional dizziness. Symptoms appear to cycle every 48 hours.
+Diagnosis and Treatment History: Visited a local clinic on the second day of symptoms; given antipyretics which temporarily lowered the fever but did not resolve other symptoms.
+General Condition Changes: Appetite slightly reduced, normal urination and defecation, weight stable. Sleep is disturbed due to fever and chills.
+
+Past History:
+General Health Condition: Generally healthy, no chronic illnesses
+Disease History: No history of major illnesses
+Infectious Disease History: No previous infections
+Immunization History: Up to date with vaccines, including travel vaccinations
+Surgery and Trauma History: Appendectomy at age 12
+Blood Transfusion History: None
+Allergy History: No known allergies
+
+Personal History:
+Birthplace: Ashland
+Residence: 25, Victoria street, Ashland
+Living Habits: Non-smoker, occasional alcohol consumption, exercises regularly
+Occupation and Working Conditions: Software engineer, works in an office with minimal exposure to environmental hazards
+Exposure History: No exposure to industrial toxins or radioactive substances
+Travel History: Returned from a two-week trip to Nigeria 4 days ago
+
+Marital and Family History:
+Marital History:
+Marital Status: Married
+Marriage Age: 28
+Spouse's Health Condition: Healthy
+Children's Condition: Two children, both healthy
+Family History: No family history of similar diseases or genetic tendencies. Parents and siblings are in good health.
+
+Physical Examination:
+General Condition:
+Temperature: 39°C
+Pulse: 110 bpm
+Respiration: 22 breaths/min
+Blood Pressure: 130/85 mmHg
+Systematic Examination:
+Skin: Pale, diaphoretic
+Mucous Membranes: Normal
+Lymph Nodes: No lymphadenopathy
+Head and Organs: No abnormalities detected
+Neck: No stiffness or masses, jugular venous pressure is normal
+Chest: Clear to auscultation bilaterally. No wheezing or crackles. Heart sounds normal, no murmurs.
+Abdomen: Soft, non-tender. Liver and spleen not palpable.
+Rectum and Anus: Not examined
+External Genitalia: Normal
+Spine: Normal alignment, no tenderness
+Limbs: No edema, normal range of motion
+Nervous System: Alert, oriented, cranial nerves intact
+
+Specialist Examination:
+Pending infectious disease consult
+
+Auxiliary Examination:
+Blood smear: Plasmodium falciparum detected
+
+Preliminary Diagnosis:
+Malaria
+
+Diagnostic Basis:
+Recent travel to malaria-endemic area (Nigeria), recurring high fevers with chills and headaches, positive blood smear for Plasmodium falciparum.
+
+Differential Diagnosis:
+Sepsis, typhoid fever, leptospirosis, hemorrhagic fever with renal syndrome, schistosomiasis, biliary tract infection, and urinary tract infection. Ruling out these based on travel history, symptom pattern, and blood smear results.
+
+Admission Records:
+Physician's Signature: Dr. John Smith
+
+Post-Admission Course Records:
+First Course Record: Patient with malaria diagnosis based on clinical presentation and positive blood smear. Initiating antimalarial therapy (Artemisinin-based combination therapy). Monitor vitals, CBC, renal function, and blood glucose levels.
+
+Daily Course Records:
+Day 1: Fever reduced to 37.5°C, headache and limb aches persist.
+Day 2: Fever spikes again to 38.5°C, reoccurring symptoms. Adjusting antibiotic therapy.
+
+Senior Physician Rounds Records:
+Reviewed case with Dr. Patricia Allen. Plan to continue current treatment and monitor daily.
+
+Difficult Case Discussion Records:
+Team meeting: Reviewing case management. Consensus to continue with current treatment and supportive care.
+
+Handover Records:
+Patient remains stable on antimalarial treatment, no new symptoms overnight.
+
+Transfer Records:
+Not applicable
+
+Stage Summary:
+End of Week 1: Patient responding to antimalarial treatment, fevers less frequent and severe. Monitoring for complications.
+
+Emergency Records:
+No emergency events recorded
+
+Invasive Procedure Records:
+None performed
+
+Consultation Records:
+Infectious disease consult pending review
+
+Discharge Records:
+Not yet discharged
+
+Critically Ill Patient Care Records:
+Not applicable
+
+Medical Orders:
+Long-term Orders: Artemisinin-based combination therapy, antipyretics as needed, daily CBC, renal function tests.
+Temporary Orders: IV fluids for dehydration, blood glucose checks every 6 hours.
+
+Auxiliary Examination Reports:
+Blood smear: Positive for Plasmodium falciparum. CBC: Mild anemia, normal WBC count, platelets slightly low. Renal function: Within normal limits. Blood glucose: Normal.
+
+Temperature Chart:
+Day 1: Temp 39°C, Pulse 110 bpm, Resp 22, BP 130/85 mmHg.
+Day 2: Temp 38.5°C, Pulse 100 bpm, Resp 20, BP 125/80 mmHg.
+
+Blood Transfusion Consent:
+Not required
+
+Special Examination Consent:
+Consent obtained for infectious disease consult and blood tests
+
+Critical Condition Notice:
+Not applicable
+
+DiseaseType:
+Parasitic Diseases:
+Name: Malaria
+Symptoms: The main symptoms of malaria are chills, high fever, sweating, headache, limb aches, and fatigue. After a certain incubation period, the symptoms recur. Severe cases can lead to complications such as anemia, hypoglycemia, acute renal failure, or acute pulmonary edema.
+Differential Diagnosis: Malaria should be differentiated from various febrile diseases such as sepsis, typhoid, leptospirosis, hemorrhagic fever with renal syndrome, schistosomiasis, biliary tract infections, and urinary tract infections. When it develops into cerebral malaria, it should be differentiated from Japanese encephalitis, moderate bacillary dysentery, sporadic viral encephalitis, etc.

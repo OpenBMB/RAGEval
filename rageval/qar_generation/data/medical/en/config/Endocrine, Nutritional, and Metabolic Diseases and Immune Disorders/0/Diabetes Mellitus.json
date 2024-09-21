@@ -1,0 +1,119 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "O. Price",
+            "Gender": "female",
+            "Age": "76",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "Widowed",
+            "Occupation": "Retired teacher",
+            "Address": "48, Linden street, Victoria",
+            "Admission Time": "18th, September",
+            "Record Time": "18th, September",
+            "Historian": "Self-report",
+            "Hospital Name": "Victoria General Hospital"
+        },
+        "Chief Complaint": "Polydipsia, polyuria, polyphagia, and weight loss for 3 months",
+        "Present Illness": {
+            "Onset": "Onset 3 months ago, at home, gradual onset, no prodromal symptoms, possible triggers include diet changes and stress",
+            "Main Symptoms": "Excessive thirst, frequent urination, excessive hunger, significant unintentional weight loss, symptoms persistent and worsening over the last 3 months",
+            "Accompanying Symptoms": "Fatigue and blurred vision, symptoms developed concurrently with the main symptoms",
+            "Diagnosis and Treatment History": "No previous diagnosis or treatment for current symptoms; first time seeking medical attention for these issues",
+            "General Condition Changes": "Increased fatigue, disrupted sleep due to nocturia, decreased appetite and weight loss, previously stable urination and defecation patterns now altered"
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy, managed hypertension",
+            "Disease History": "Hypertension for 10 years, controlled with medication",
+            "Infectious Disease History": "None reported",
+            "Immunization History": "Up-to-date with all vaccinations",
+            "Surgery and Trauma History": "Appendectomy 20 years ago, no complications",
+            "Blood Transfusion History": "None",
+            "Allergy History": "No known allergies"
+        },
+        "Personal History": {
+            "Birthplace": "Victoria",
+            "Residence": "48, Linden street, Victoria",
+            "Living Habits": "Quit smoking 15 years ago, drinks alcohol occasionally, regular diet, moderate physical activity",
+            "Occupation and Working Conditions": "Retired teacher, no exposure to occupational hazards",
+            "Exposure History": "No significant exposure to industrial toxins, dust, or radioactive substances",
+            "Travel History": "No recent travel history"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Widowed",
+                "Marriage Age": "22",
+                "Spouse's Health Condition": "Deceased, heart disease",
+                "Children's Condition": "Two children, both healthy"
+            },
+            "Menstrual History": {
+                "Menarche Age": "13",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "Menopause at age 50",
+                "Menstrual Volume": "Normal",
+                "Dysmenorrhea": "Mild, manageable with OTC analgesics"
+            },
+            "Family History": "Mother had type 2 diabetes, father had hypertension, siblings healthy"
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "36.8°C",
+                "Pulse": "74 bpm",
+                "Respiration": "18 breaths/min",
+                "Blood Pressure": "130/80 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "No rashes or lesions, normal turgor",
+                "Mucous Membranes": "Moist, no cyanosis or pallor",
+                "Lymph Nodes": "No palpable lymphadenopathy",
+                "Head and Organs": "Atraumatic, normocephalic",
+                "Neck": "Supple, no thyroid enlargement",
+                "Chest": "Normal configuration, clear lung fields, normal heart sounds, no murmurs",
+                "Abdomen": "Soft, non-tender, no hepatosplenomegaly",
+                "Rectum and Anus": "No abnormalities detected",
+                "External Genitalia": "Normal for age",
+                "Spine": "No deformities or tenderness",
+                "Limbs": "No edema, normal range of motion",
+                "Nervous System": "Alert and oriented, cranial nerves intact, motor and sensory functions normal"
+            }
+        },
+        "Specialist Examination": "Detailed retina examination showed no retinopathy",
+        "Auxiliary Examination": "Fasting blood glucose: 220 mg/dL, HbA1c: 9.5%, urinalysis: positive for glucose",
+        "Preliminary Diagnosis": "Diabetes Mellitus, likely type 2",
+        "Diagnostic Basis": "Symptoms of polydipsia, polyuria, polyphagia, and weight loss; elevated fasting blood glucose and HbA1c levels, family history of diabetes",
+        "Differential Diagnosis": "Type 1 diabetes (less likely due to age at onset and gradual development), Type 2 diabetes (more likely given family history and typical presentation)",
+        "Admission Records": {
+            "Physician's Signature": "Dr. J. Edwards"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with symptoms of polydipsia, polyuria, polyphagia, and weight loss. Elevated fasting glucose and HbA1c suggest diabetes, likely type 2. Initial plan includes diet modification, metformin, and monitoring blood glucose levels.",
+            "Daily Course Records": "Patient responding to metformin, blood glucose levels starting to decrease, education on lifestyle modification provided.",
+            "Senior Physician Rounds Records": "Senior physician concurred with diagnosis and treatment plan, no changes recommended.",
+            "Difficult Case Discussion Records": "Not applicable",
+            "Handover Records": "Shift change: Patient stable, continue current management plan.",
+            "Transfer Records": "Not applicable",
+            "Stage Summary": "After 7 days: Blood glucose levels stabilizing, patient educated on diabetes management, ready for discharge with follow-up plan.",
+            "Emergency Records": "Not applicable",
+            "Invasive Procedure Records": "Not applicable",
+            "Consultation Records": "Endocrinology consult: Agrees with type 2 diabetes diagnosis and management plan.",
+            "Discharge Records": "Discharged on 25th September, blood glucose under control, scheduled follow-up in two weeks.",
+            "Critically Ill Patient Care Records": "Not applicable"
+        },
+        "Medical Orders": {
+            "Long-term Orders": "Metformin 500 mg twice daily, diabetic diet, blood sugar monitoring before meals and at bedtime",
+            "Temporary Orders": "Insulin sliding scale as needed"
+        },
+        "Auxiliary Examination Reports": "Basic metabolic panel, lipid profile pending",
+        "Temperature Chart": "Normal temperature, stable vitals, no fever observed",
+        "Blood Transfusion Consent": "Not required",
+        "Special Examination Consent": "Not applicable",
+        "Critical Condition Notice": "Not applicable"
+    },
+    "DiseaseType": {
+        "Endocrine, Nutritional, and Metabolic Diseases and Immune Disorders": {
+            "Name": "Diabetes Mellitus",
+            "Symptoms": "Polydipsia, polyuria, polyphagia, weight loss",
+            "Differential Diagnosis": "Type 1 diabetes, type 2 diabetes."
+        }
+    }
+}

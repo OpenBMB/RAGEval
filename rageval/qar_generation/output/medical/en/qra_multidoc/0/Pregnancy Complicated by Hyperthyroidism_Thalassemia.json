@@ -1,0 +1,142 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Clarksville General Hospital and Bayside General Hospital, what are the ages of patients O. Myers and H. Nelson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Clarksville General Hospital_O. Myers",
+                    "content": [
+                        "Age: 13"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Bayside General Hospital_H. Nelson",
+                    "content": [
+                        "- Age: 47"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Clarksville General Hospital, patient O. Myers is 13 years old; according to the hospitalization records of Bayside General Hospital, patient H. Nelson is 47 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Clarksville General Hospital and Bayside General Hospital, what are the diagnosis results of O. Myers and H. Nelson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Clarksville General Hospital_O. Myers",
+                    "content": [
+                        "Pregnancy complicated by hyperthyroidism",
+                        "Name: Pregnancy Complicated by Hyperthyroidism"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Bayside General Hospital_H. Nelson",
+                    "content": [
+                        "Thalassemia"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Clarksville General Hospital, O. Myers was diagnosed with Pregnancy complicated by hyperthyroidism; according to the hospitalization records of Bayside General Hospital, H. Nelson was diagnosed with Thalassemia."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records, which hospitals were O. Myers and H. Nelson admitted to?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Clarksville General Hospital_O. Myers",
+                    "content": [
+                        "Hospital Name: Clarksville General Hospital"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Bayside General Hospital_H. Nelson",
+                    "content": [
+                        "- Hospital Name: Bayside General Hospital"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records, O. Myers was admitted to Clarksville General Hospital and H. Nelson was admitted to Bayside General Hospital."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Clarksville General Hospital and Bayside General Hospital, what were the chief complaints of O. Myers and H. Nelson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Clarksville General Hospital_O. Myers",
+                    "content": [
+                        "Chief Complaint",
+                        "Palpitations and excessive sweating for 2 weeks"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Bayside General Hospital_H. Nelson",
+                    "content": [
+                        "Chief Complaint:",
+                        "Fatigue and weakness for the past three months."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Clarksville General Hospital, O. Myers' chief complaint was Palpitations and excessive sweating for 2 weeks; according to the hospitalization records of Bayside General Hospital, H. Nelson's chief complaint was Fatigue and weakness for the past three months."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Clarksville General Hospital and Bayside General Hospital, who was admitted earlier, O. Myers or H. Nelson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Clarksville General Hospital_O. Myers",
+                    "content": [
+                        "Admission Time: 20th April"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Bayside General Hospital_H. Nelson",
+                    "content": [
+                        "- Admission Time: 6th October"
+                    ]
+                }
+            ],
+            "answer": "O. Myers was admitted on April 20th, and H. Nelson was admitted on October 6th. O. Myers was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Clarksville General Hospital and Bayside General Hospital, who is younger, O. Myers or H. Nelson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Clarksville General Hospital_O. Myers",
+                    "content": [
+                        "Age: 13"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Bayside General Hospital_H. Nelson",
+                    "content": [
+                        "- Age: 47"
+                    ]
+                }
+            ],
+            "answer": "O. Myers is 13 years old, and H. Nelson is 47 years old. O. Myers is younger."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Clarksville General Hospital and Bayside General Hospital, whose pulse rate is higher, O. Myers or H. Nelson?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Clarksville General Hospital_O. Myers",
+                    "content": [
+                        "Pulse: 110 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Bayside General Hospital_H. Nelson",
+                    "content": [
+                        "Pulse: 88 bpm"
+                    ]
+                }
+            ],
+            "answer": "O. Myers' pulse rate is 110 bpm, and H. Nelson's pulse rate is 88 bpm. O. Myers' pulse rate is higher."
+        }
+    ]
+}

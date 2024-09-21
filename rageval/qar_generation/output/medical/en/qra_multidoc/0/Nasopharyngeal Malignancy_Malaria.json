@@ -1,0 +1,163 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland General Hospital, what are the ages of patients Y. Evans and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Age: 47"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Age: 32"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, patient Y. Evans is 47 years old; according to the hospitalization records of Ashland General Hospital, patient L. Brown is 32 years old."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland General Hospital, what are the chief complaints of patients Y. Evans and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Chief Complaint:",
+                        "Nasal congestion, tinnitus, and hearing loss for 2 months"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Chief Complaint:",
+                        "High fever, chills, and headache for 3 days"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, patient Y. Evans' chief complaint is nasal congestion, tinnitus, and hearing loss for 2 months; according to the hospitalization records of Ashland General Hospital, patient L. Brown's chief complaint is high fever, chills, and headache for 3 days."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland General Hospital, what are the occupations of patients Y. Evans and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Occupation: Teacher"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Occupation: Software Engineer"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, patient Y. Evans is a teacher; according to the hospitalization records of Ashland General Hospital, patient L. Brown is a software engineer."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland General Hospital, what are the marital statuses of patients Y. Evans and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Marital Status: Married"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Marital Status: Married"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, patient Y. Evans is married; according to the hospitalization records of Ashland General Hospital, patient L. Brown is married."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland General Hospital, what are the diagnoses of patients Y. Evans and L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "1. Nasopharyngeal malignancy",
+                        "2. Secondary conductive hearing loss"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Malaria"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Parker General Hospital, patient Y. Evans was diagnosed with nasopharyngeal malignancy and secondary conductive hearing loss; according to the hospitalization records of Ashland General Hospital, patient L. Brown was diagnosed with malaria."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland General Hospital, who was admitted earlier, Y. Evans or L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Admission Time: 1st, May"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Admission Time: 25th, March"
+                    ]
+                }
+            ],
+            "answer": "L. Brown was admitted on March 25, and Y. Evans was admitted on May 1. L. Brown was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland General Hospital, whose pulse rate is higher, Y. Evans or L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Pulse: 76 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Pulse: 110 bpm"
+                    ]
+                }
+            ],
+            "answer": "Y. Evans's pulse rate is 76 beats per minute, and L. Brown's pulse rate is 110 beats per minute. L. Brown's pulse rate is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Parker General Hospital and Ashland General Hospital, who has a higher temperature, Y. Evans or L. Brown?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Parker General Hospital_Y. Evans",
+                    "content": [
+                        "Temperature: 98.6°F"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Ashland General Hospital_L. Brown",
+                    "content": [
+                        "Temperature: 39°C"
+                    ]
+                }
+            ],
+            "answer": "Y. Evans's temperature is 98.6°F, and L. Brown's temperature is 39°C (102.2°F). L. Brown has a higher temperature."
+        }
+    ]
+}

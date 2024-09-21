@@ -1,0 +1,130 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "E. Parker",
+            "Gender": "female",
+            "Age": "50",
+            "Ethnicity": "",
+            "Marital Status": "",
+            "Occupation": "",
+            "Address": "44, Riverton Street, Cameron",
+            "Admission Time": "12th, August",
+            "Record Time": "",
+            "Historian": "",
+            "Hospital Name": "Cameron General Hospital"
+        },
+        "Chief Complaint": "Swelling and redness over the mastoid process, significant tenderness for 5 days.",
+        "Present Illness": {
+            "Onset": "Symptoms began 5 days ago with gradual onset. Patient noticed swelling and redness behind the ear, tenderness progressively increased.",
+            "Main Symptoms": "Patient reports swelling, redness, and significant tenderness over the mastoid process. Swelling has progressed and tenderness has increased, with occasional purulent discharge.",
+            "Accompanying Symptoms": "Mild fever, headache, and occasional dizziness. Symptoms are continuous and relieve slightly with antibiotics but have not resolved completely.",
+            "Diagnosis and Treatment History": "Patient consulted a general practitioner 3 days ago, diagnosed with acute mastoiditis, prescribed oral antibiotics with temporary relief of symptoms.",
+            "General Condition Changes": "Patient reports fatigue, decreased appetite, normal urination and bowel movements. No significant weight changes."
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy",
+            "Disease History": "History of otitis media in childhood",
+            "Infectious Disease History": "",
+            "Immunization History": "Up-to-date",
+            "Surgery and Trauma History": "Appendectomy at age 30",
+            "Blood Transfusion History": "None",
+            "Allergy History": "Allergic to penicillin"
+        },
+        "Personal History": {
+            "Birthplace": "Cameron",
+            "Residence": "Cameron",
+            "Living Habits": "Non-smoker, occasional alcohol use",
+            "Occupation and Working Conditions": "Office worker",
+            "Exposure History": "No known exposure to industrial toxins, dust, or radioactive substances",
+            "Travel History": "No recent travel"
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "Married",
+                "Marriage Age": "25",
+                "Spouse's Health Condition": "Healthy",
+                "Children's Condition": "Two daughters, healthy"
+            },
+            "Menstrual History": {
+                "Menarche Age": "12",
+                "Menstruation Duration": "5 days",
+                "Menstruation Interval": "28 days",
+                "Last Menstruation": "",
+                "Menstrual Volume": "Normal",
+                "Dysmenorrhea": "Mild"
+            },
+            "Family History": "Parents deceased, mother had diabetes, father had hypertension. Siblings healthy, no genetic diseases noted."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "37.8°C",
+                "Pulse": "86/min",
+                "Respiration": "18/min",
+                "Blood Pressure": "130/80 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Redness and swelling over mastoid area",
+                "Mucous Membranes": "Normal",
+                "Lymph Nodes": "Non-palpable",
+                "Head and Organs": "Redness and swelling over mastoid process, tenderness on palpation",
+                "Neck": "No lymphadenopathy, normal range of motion",
+                "Chest": "Clear lung fields, heart with regular rhythm, no murmurs",
+                "Abdomen": "Soft, non-tender with no organomegaly",
+                "Rectum and Anus": "Not examined",
+                "External Genitalia": "Normal",
+                "Spine": "Normal",
+                "Limbs": "Normal",
+                "Nervous System": "Intact, no focal deficits"
+            }
+        },
+        "Specialist Examination": "Otoscopy reveals redness and swelling in the external auditory canal with purulent discharge.",
+        "Auxiliary Examination": "CT scan: Cloudy air cells and opacification in the mastoid area indicating inflammation",
+        "Preliminary Diagnosis": "Mastoiditis",
+        "Diagnostic Basis": "Based on patient's history, physical examination, and CT scan showing characteristic signs of mastoiditis.",
+        "Differential Diagnosis": "Otitis media, ear boils, mumps, temporomandibular joint disease all considered and ruled out based on symptoms and imaging.",
+        "Admission Records": {
+            "Physician's Signature": "Dr. Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Severe mastoiditis with purulent discharge. Emergency surgery indicated. Broad-spectrum IV antibiotics initiated.",
+            "Daily Course Records": "Improvement noted post-surgery, reduction in swelling and tenderness. Continues with IV antibiotics. Dressing changes daily.",
+            "Senior Physician Rounds Records": "Stable post-operative status, advised to continue antibiotics.",
+            "Difficult Case Discussion Records": "None",
+            "Handover Records": "Patient stable, continue monitoring for infection signs.",
+            "Transfer Records": "None",
+            "Stage Summary": "Post-surgery improvement, suitable for ward transfer.",
+            "Emergency Records": "None",
+            "Invasive Procedure Records": "Mastoidectomy performed with evacuation of purulent material.",
+            "Consultation Records": "ENT consultation pre-surgery confirmed diagnosis.",
+            "Surgery Related": {
+                "Preoperative Summary": "Scheduled for mastoidectomy due to severe mastoiditis with purulence.",
+                "Preoperative Discussion Records": "Mastoidectomy planned. Discussed potential complications including hearing loss, facial nerve damage.",
+                "Anesthesia Preoperative Visit Records": "Assessed fit for general anesthesia.",
+                "Anesthesia Records": "General anesthesia administered, monitoring continuous.",
+                "Surgery Records": "Mastoidectomy performed. Purulent material evacuated, meticulous hemostasis achieved.",
+                "Surgery Safety Checklist": "All surgical protocols followed, no discrepancies noted.",
+                "Surgery Instrument Count Records": "Accurate count of instruments pre- and post-surgery.",
+                "Postoperative First Course Record": "Patient stable post-surgery. IV antibiotics and pain management continued.",
+                "Anesthesia Postoperative Visit Records": "Patient recovered well from anesthesia, vital signs stable."
+            },
+            "Discharge Records": "Discharge planned in 2 days if no complications arise.",
+            "Critically Ill Patient Care Records": "Not applicable"
+        },
+        "Medical Orders": {
+            "Long-term Orders": "IV antibiotics (Ceftriaxone 1g BID), Pain management (Paracetamol 500mg PRN)",
+            "Temporary Orders": "CT scan of the mastoid, Daily dressing changes"
+        },
+        "Auxiliary Examination Reports": "CT scan report shows mastoid inflammation.",
+        "Temperature Chart": "Daily monitoring of temperature, pulse, respiration, blood pressure recorded.",
+        "Blood Transfusion Consent": "",
+        "Special Examination Consent": "",
+        "Critical Condition Notice": ""
+    },
+    "DiseaseType": {
+        "Diseases of the Ear and Mastoid Process": {
+            "Name": "Mastoiditis",
+            "Symptoms": "Swelling, redness of the skin over the mastoid process, significant tenderness, redness, collapse with purulent discharge, cloudy air cells, presenting a cloudy appearance, etc.",
+            "Differential Diagnosis": "Otitis media, ear boils, mumps, temporomandibular joint disease, etc."
+        }
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "Hospitalization Record": {
+        "Basic Information": {
+            "Name": "X. Price",
+            "Gender": "female",
+            "Age": "7",
+            "Ethnicity": "Caucasian",
+            "Marital Status": "single",
+            "Occupation": "student",
+            "Address": "55, Windsor street, Tremont",
+            "Admission Time": "27th, January",
+            "Record Time": "27th, January",
+            "Historian": "Mother",
+            "Hospital Name": "Tremont City Hospital"
+        },
+        "Chief Complaint": "Hemolysis, fatigue, and abdominal pain after consuming fresh fava beans 1 day ago.",
+        "Present Illness": {
+            "Onset": "1 day ago at home after consuming fresh fava beans. Sudden onset following ingestion with prodromal symptoms of malaise and fatigue.",
+            "Main Symptoms": "Hemolysis, severe abdominal pain, fatigue, and dizziness occurring within 24 hours post ingestion.",
+            "Accompanying Symptoms": "Chills, fever, headache, anorexia, nausea, vomiting, general malaise observed along with main symptoms.",
+            "Diagnosis and Treatment History": "Presented to ED; preliminary diagnosis of Favism confirmed through G6PD deficiency test.",
+            "General Condition Changes": "Increased fatigue, abdominal pain, fever, and nausea since onset. Reduced appetite, stable urinary and bowel functions."
+        },
+        "Past History": {
+            "General Health Condition": "Generally healthy prior to current illness.",
+            "Disease History": "No significant past medical history.",
+            "Infectious Disease History": "No known history of infectious diseases.",
+            "Immunization History": "Up-to-date with vaccinations for age.",
+            "Surgery and Trauma History": "No previous surgeries or significant trauma.",
+            "Blood Transfusion History": "No prior blood transfusions.",
+            "Allergy History": "No known drug allergies. Allergy to fresh fava beans confirmed."
+        },
+        "Personal History": {
+            "Birthplace": "Tremont",
+            "Residence": "Tremont",
+            "Living Habits": "Lives with parents, regular diet, and sleep patterns.",
+            "Occupation and Working Conditions": "Primary school student, good academic performance.",
+            "Exposure History": "No exposure to industrial toxins, dust, or radioactive substances.",
+            "Travel History": "No recent travel history."
+        },
+        "Marital and Family History": {
+            "Marital History": {
+                "Marital Status": "single",
+                "Marriage Age": "",
+                "Spouse's Health Condition": "",
+                "Children's Condition": ""
+            },
+            "Menstrual History": {
+                "Menarche Age": "",
+                "Menstruation Duration": "",
+                "Menstruation Interval": "",
+                "Last Menstruation": "",
+                "Menstrual Volume": "",
+                "Dysmenorrhea": ""
+            },
+            "Family History": "No known family history of similar conditions or genetic diseases. Parents and siblings are in good health."
+        },
+        "Physical Examination": {
+            "General Condition": {
+                "Temperature": "38°C",
+                "Pulse": "105 bpm",
+                "Respiration": "24 breaths/min",
+                "Blood Pressure": "110/70 mmHg"
+            },
+            "Systematic Examination": {
+                "Skin": "Pallor noted, no rashes.",
+                "Mucous Membranes": "Pale oral mucosa.",
+                "Lymph Nodes": "No lymphadenopathy.",
+                "Head and Organs": "Normocephalic, atraumatic.",
+                "Neck": "Supple, no masses.",
+                "Chest": "Clear to auscultation bilaterally, heart sounds regular with no murmurs.",
+                "Abdomen": "Tenderness noted in the epigastric region, no organomegaly.",
+                "Rectum and Anus": "Not examined.",
+                "External Genitalia": "Normal for age.",
+                "Spine": "Normal alignment.",
+                "Limbs": "No cyanosis or edema.",
+                "Nervous System": "Alert and oriented, no focal neurological deficits."
+            }
+        },
+        "Specialist Examination": "Hematology consultation requested, confirming G6PD deficiency.",
+        "Auxiliary Examination": "CBC: Hemoglobin 9.5 g/dL, Reticulocytes: 4%. Bilirubin: 2.5 mg/dL. G6PD activity assay: markedly reduced.",
+        "Preliminary Diagnosis": "Favism leading to acute hemolytic anemia.",
+        "Diagnostic Basis": "History of fava bean ingestion, clinical symptoms, and laboratory results confirming hemolysis and G6PD deficiency.",
+        "Differential Diagnosis": "Infectious anemia ruled out due to lack of infection indicators. Hemolytic anemia consistent but G6PD deficiency confirms Favism. Thalassemia and hereditary spherocytosis ruled out with specific lab findings.",
+        "Admission Records": {
+            "Physician's Signature": "Dr. John Smith"
+        },
+        "Post-Admission Course Records": {
+            "First Course Record": "Patient admitted with acute hemolytic anemia secondary to Favism. Initial stabilization with IV fluids, blood transfusion if necessary. Monitoring hemoglobin levels and symptoms.",
+            "Daily Course Records": "Jan 28: Stable after initial treatment, minor reduction in abdominal pain. Hemoglobin stable at 9.5 g/dL. Jan 29: Improvement in general condition, appetite returning. Continued monitoring.",
+            "Senior Physician Rounds Records": "Reviewed case on Jan 29, plan to continue supportive care and monitoring.",
+            "Difficult Case Discussion Records": "",
+            "Handover Records": "Postoperative and intra-hospital handovers documented.",
+            "Transfer Records": "",
+            "Stage Summary": "Patient showing significant improvement. Hemolysis controlled, ongoing supportive care.",
+            "Emergency Records": "No emergencies since admission.",
+            "Invasive Procedure Records": "",
+            "Consultation Records": "Hematology consult confirming continued treatment plan.",
+            "Surgery Related": {
+                "Preoperative Summary": "N/A",
+                "Preoperative Discussion Records": "",
+                "Anesthesia Preoperative Visit Records": "",
+                "Anesthesia Records": "",
+                "Surgery Records": "",
+                "Surgery Safety Checklist": "",
+                "Surgery Instrument Count Records": "",
+                "Postoperative First Course Record": "",
+                "Anesthesia Postoperative Visit Records": ""
+            },
+            "Discharge Records": "Pending improvement and stabilization of hemoglobin levels.",
+            "Critically Ill Patient Care Records": ""
+        },
+        "Medical Orders": {
+            "Long-term Orders": "IV fluids, regular monitoring of CBC and bilirubin levels, dietary restrictions against legumes.",
+            "Temporary Orders": "PRN for pain and fever management, blood transfusion if hemoglobin drops below 7g/dL."
+        },
+        "Auxiliary Examination Reports": "CBC, Bilirubin, G6PD activity assay results confirming diagnosis of Favism.",
+        "Temperature Chart": "Jan 27: Temp 38°C, Pulse 105 bpm, Respiration 24 bpm, BP 110/70 mmHg. Jan 28: Temp 37.8°C, Pulse 100 bpm, Respiration 22 bpm, BP 108/68 mmHg.",
+        "Blood Transfusion Consent": "Signed by parents pending need.",
+        "Special Examination Consent": "Signed for hematology and specific assays.",
+        "Critical Condition Notice": ""
+    },
+    "DiseaseType": {
+        "Congenital Anomalies": {
+            "Name": "Favism",
+            "Symptoms": "Hemolysis occurs within 1 to 2 days after consuming fresh fava beans, accompanied by general malaise, fatigue, chills, fever, dizziness, headache, anorexia, nausea, vomiting, and abdominal pain",
+            "Differential Diagnosis": "Infectious anemia, hemolytic anemia, thalassemia, hereditary spherocytosis"
+        }
+    },
+    "Generated Article": "Hospitalization Record:\n\nBasic Information:\nName: X. Price\nGender: female\nAge: 7\nEthnicity: Caucasian\nMarital Status: single\nOccupation: student\nAddress: 55, Windsor street, Tremont\nAdmission Time: 27th, January\nRecord Time: 27th, January\nHistorian: Mother\nHospital Name: Tremont City Hospital\n\nChief Complaint:\nHemolysis, fatigue, and abdominal pain after consuming fresh fava beans 1 day ago.\n\nPresent Illness:\nOnset: 1 day ago at home after consuming fresh fava beans. Sudden onset following ingestion with prodromal symptoms of malaise and fatigue.\nMain Symptoms: Hemolysis, severe abdominal pain, fatigue, and dizziness occurring within 24 hours post ingestion.\nAccompanying Symptoms: Chills, fever, headache, anorexia, nausea, vomiting, general malaise observed along with main symptoms.\nDiagnosis and Treatment History: Presented to ED; preliminary diagnosis of Favism confirmed through G6PD deficiency test.\nGeneral Condition Changes: Increased fatigue, abdominal pain, fever, and nausea since onset. Reduced appetite, stable urinary and bowel functions.\n\nPast History:\nGeneral Health Condition: Generally healthy prior to current illness.\nDisease History: No significant past medical history.\nInfectious Disease History: No known history of infectious diseases.\nImmunization History: Up-to-date with vaccinations for age.\nSurgery and Trauma History: No previous surgeries or significant trauma.\nBlood Transfusion History: No prior blood transfusions.\nAllergy History: No known drug allergies. Allergy to fresh fava beans confirmed.\n\nPersonal History:\nBirthplace: Tremont\nResidence: Tremont\nLiving Habits: Lives with parents, regular diet, and sleep patterns.\nOccupation and Working Conditions: Primary school student, good academic performance.\nExposure History: No exposure to industrial toxins, dust, or radioactive substances.\nTravel History: No recent travel history.\n\nMarital and Family History:\nMarital History:\nMarital Status: single\nMarriage Age: N/A\nSpouse's Health Condition: N/A\nChildren's Condition: N/A\nMenstrual History:\nMenarche Age: N/A\nMenstruation Duration: N/A\nMenstruation Interval: N/A\nLast Menstruation: N/A\nMenstrual Volume: N/A\nDysmenorrhea: N/A\nFamily History: No known family history of similar conditions or genetic diseases. Parents and siblings are in good health.\n\nPhysical Examination:\nGeneral Condition:\nTemperature: 38°C\nPulse: 105 bpm\nRespiration: 24 breaths/min\nBlood Pressure: 110/70 mmHg\nSystematic Examination:\nSkin: Pallor noted, no rashes.\nMucous Membranes: Pale oral mucosa.\nLymph Nodes: No lymphadenopathy.\nHead and Organs: Normocephalic, atraumatic.\nNeck: Supple, no masses.\nChest: Clear to auscultation bilaterally, heart sounds regular with no murmurs.\nAbdomen: Tenderness noted in the epigastric region, no organomegaly.\nRectum and Anus: Not examined.\nExternal Genitalia: Normal for age.\nSpine: Normal alignment.\nLimbs: No cyanosis or edema.\nNervous System: Alert and oriented, no focal neurological deficits.\n\nSpecialist Examination:\nHematology consultation requested, confirming G6PD deficiency.\n\nAuxiliary Examination:\nCBC: Hemoglobin 9.5 g/dL, Reticulocytes: 4%. Bilirubin: 2.5 mg/dL. G6PD activity assay: markedly reduced.\n\nPreliminary Diagnosis:\nFavism leading to acute hemolytic anemia.\n\nDiagnostic Basis:\nHistory of fava bean ingestion, clinical symptoms, and laboratory results confirming hemolysis and G6PD deficiency.\n\nDifferential Diagnosis:\nInfectious anemia ruled out due to lack of infection indicators. Hemolytic anemia consistent but G6PD deficiency confirms Favism. Thalassemia and hereditary spherocytosis ruled out with specific lab findings.\n\nAdmission Records:\nPhysician's Signature: Dr. John Smith\n\nPost-Admission Course Records:\nFirst Course Record: Patient admitted with acute hemolytic anemia secondary to Favism. Initial stabilization with IV fluids, blood transfusion if necessary. Monitoring hemoglobin levels and symptoms.\nDaily Course Records: \nJan 28: Stable after initial treatment, minor reduction in abdominal pain. Hemoglobin stable at 9.5 g/dL.\nJan 29: Improvement in general condition, appetite returning. Continued monitoring.\nSenior Physician Rounds Records: Reviewed case on Jan 29, plan to continue supportive care and monitoring.\nDifficult Case Discussion Records: N/A\nHandover Records: Postoperative and intra-hospital handovers documented.\nTransfer Records: N/A\nStage Summary: Patient showing significant improvement. Hemolysis controlled, ongoing supportive care.\nEmergency Records: No emergencies since admission.\nInvasive Procedure Records: N/A\nConsultation Records: Hematology consult confirming continued treatment plan.\nSurgery Related:\nPreoperative Summary: N/A\nPreoperative Discussion Records: N/A\nAnesthesia Preoperative Visit Records: N/A\nAnesthesia Records: N/A\nSurgery Records: N/A\nSurgery Safety Checklist: N/A\nSurgery Instrument Count Records: N/A\nPostoperative First Course Record: N/A\nAnesthesia Postoperative Visit Records: N/A\nDischarge Records: Pending improvement and stabilization of hemoglobin levels.\nCritically Ill Patient Care Records: N/A\n\nMedical Orders:\nLong-term Orders: IV fluids, regular monitoring of CBC and bilirubin levels, dietary restrictions against legumes.\nTemporary Orders: PRN for pain and fever management, blood transfusion if hemoglobin drops below 7g/dL.\n\nAuxiliary Examination Reports:\nCBC, Bilirubin, G6PD activity assay results confirming diagnosis of Favism.\n\nTemperature Chart:\nJan 27: Temp 38°C, Pulse 105 bpm, Respiration 24 bpm, BP 110/70 mmHg.\nJan 28: Temp 37.8°C, Pulse 100 bpm, Respiration 22 bpm, BP 108/68 mmHg.\n\nBlood Transfusion Consent:\nSigned by parents pending need.\n\nSpecial Examination Consent:\nSigned for hematology and specific assays.\n\nCritical Condition Notice: N/A",
+    "qa_fact_based": [
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Tremont City Hospital, what is the admission time for X. Price?",
+            "answer": "27th, January",
+            "ref": [
+                "Admission Time: 27th, January"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Tremont City Hospital, who is the historian for X. Price?",
+            "answer": "Mother",
+            "ref": [
+                "Historian: Mother"
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Tremont City Hospital, what is X. Price's chief complaint?",
+            "answer": "Hemolysis, fatigue, and abdominal pain after consuming fresh fava beans 1 day ago.",
+            "ref": [
+                "Chief Complaint:",
+                "Hemolysis, fatigue, and abdominal pain after consuming fresh fava beans 1 day ago."
+            ]
+        },
+        {
+            "question type": "Factual Question",
+            "question": "According to the hospitalization records of Tremont City Hospital, what is the preliminary diagnosis for X. Price?",
+            "answer": "Favism leading to acute hemolytic anemia.",
+            "ref": [
+                "Diagnosis and Treatment History: Presented to ED; preliminary diagnosis of Favism confirmed through G6PD deficiency test.",
+                "Preliminary Diagnosis:",
+                "Favism leading to acute hemolytic anemia."
+            ]
+        }
+    ],
+    "qa_multi_hop": [],
+    "qa_summary": [
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Tremont City Hospital, summarize the present illness of X. Price.",
+            "answer": "X. Price's illness began 1 day ago at home after consuming fresh fava beans, with sudden onset following ingestion. Main symptoms included hemolysis, severe abdominal pain, fatigue, and dizziness within 24 hours post ingestion. Accompanying symptoms were chills, fever, headache, anorexia, nausea, vomiting, and general malaise. She was diagnosed with Favism through a G6PD deficiency test. Her condition worsened with increased fatigue, abdominal pain, fever, and nausea, but her urinary and bowel functions remained stable.",
+            "ref": [
+                "Onset: 1 day ago at home after consuming fresh fava beans.",
+                "Sudden onset following ingestion with prodromal symptoms of malaise and fatigue.",
+                "Main Symptoms: Hemolysis, severe abdominal pain, fatigue, and dizziness occurring within 24 hours post ingestion.",
+                "Accompanying Symptoms: Chills, fever, headache, anorexia, nausea, vomiting, general malaise observed along with main symptoms.",
+                "Diagnosis and Treatment History: Presented to ED; preliminary diagnosis of Favism confirmed through G6PD deficiency test.",
+                "General Condition Changes: Increased fatigue, abdominal pain, fever, and nausea since onset.",
+                "Reduced appetite, stable urinary and bowel functions."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Tremont City Hospital, summarize the past medical history of X. Price.",
+            "answer": "X. Price was generally healthy prior to the current illness with no significant past medical history, no known history of infectious diseases, and up-to-date vaccinations. She had no previous surgeries, significant trauma, or prior blood transfusions. She has no known drug allergies but is confirmed to be allergic to fresh fava beans.",
+            "ref": [
+                "General Health Condition: Generally healthy prior to current illness.",
+                "Disease History: No significant past medical history.",
+                "Infectious Disease History: No known history of infectious diseases.",
+                "Immunization History: Up-to-date with vaccinations for age.",
+                "Surgery and Trauma History: No previous surgeries or significant trauma.",
+                "Blood Transfusion History: No prior blood transfusions.",
+                "Allergy History: No known drug allergies.",
+                "Allergy to fresh fava beans confirmed."
+            ]
+        },
+        {
+            "question type": "Summarization Question",
+            "question": "According to the hospitalization records of Tremont City Hospital, summarize the personal history of X. Price.",
+            "answer": "X. Price was born and resides in Tremont. She lives with her parents, maintains regular diet and sleep patterns, and is a primary school student with good academic performance. She has no exposure to industrial toxins, dust, or radioactive substances, and no recent travel history.",
+            "ref": [
+                "Birthplace: Tremont",
+                "Residence: Tremont",
+                "Living Habits: Lives with parents, regular diet, and sleep patterns.",
+                "Occupation and Working Conditions: Primary school student, good academic performance.",
+                "Exposure History: No exposure to industrial toxins, dust, or radioactive substances.",
+                "Travel History: No recent travel history."
+            ]
+        }
+    ]
+}

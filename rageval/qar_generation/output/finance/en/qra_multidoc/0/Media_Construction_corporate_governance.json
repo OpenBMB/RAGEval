@@ -1,0 +1,206 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the board of directors changes in February 2019 for Vanguard Media Group and StrongBuild Construction?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In February 2019, Vanguard Media Group witnessed a change in its board of directors, which had a potential impact on the company's strategic direction.",
+                        "Such changes in the board may lead to adjustments in the company's long-term development and shareholder interests."
+                    ]
+                },
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "StrongBuild Construction is a publicly traded construction company based in Metropolis City, State of Progress, specializing in commercial and residential construction projects, infrastructure development, and renovation.In February 2019, StrongBuild Construction experienced a significant change in its Board of Directors, which had implications for the company's strategic direction.",
+                        "This change included the resignation of the former CEO, John Smith, and the appointment of a new CEO, Jane Johnson.",
+                        "The change in leadership is expected to result in a shift in strategic priorities and decision-making processes within the company."
+                    ]
+                }
+            ],
+            "answer": "The board of directors change in February 2019 for Vanguard Media Group may lead to strategic adjustments, affecting long-term development and shareholder interests. Similarly, for StrongBuild Construction, the board of directors change in February 2019 may lead to strategic adjustments, affecting the company’s long-term development direction and shareholder interests."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How did the compliance and regulatory updates in 2019 impact Vanguard Media Group and StrongBuild Construction?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "Vanguard Media Group, established on March 1, 2000 in Los Angeles, California, is a publicly traded diversified media company that operates television networks, film studios, and digital media platforms, producing and distributing a wide range of content in the media industry.In January 2019, Vanguard Media Group experienced several compliance and regulatory updates that impacted its corporate governance practices.",
+                        "These updates were crucial in ensuring the company's compliance with the latest laws and regulations, reducing legal risks, and protecting the interests of both the company and its shareholders."
+                    ]
+                },
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "In November 2019, StrongBuild Construction ensured compliance with the latest laws and regulations by staying updated on compliance and regulatory updates.",
+                        "This commitment to compliance reduces legal risk and protects the company and shareholder interests."
+                    ]
+                }
+            ],
+            "answer": "The compliance and regulatory updates in January 2019 for Vanguard Media Group ensured compliance with the latest laws and regulations, reducing legal risk and protecting the company and shareholder interests. For StrongBuild Construction, the compliance and regulatory updates in November 2019 also ensured compliance with the latest laws and regulations, reducing legal risk and protecting the company and shareholder interests."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the ethics and integrity incidents in 2019 for Vanguard Media Group and StrongBuild Construction?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "Furthermore, in March 2019, the company faced significant ethics and integrity incidents.",
+                        "These incidents had the potential to damage Vanguard Media Group's reputation and affect its relationships with investors, customers, and partners."
+                    ]
+                },
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "Throughout the year, StrongBuild Construction faced various challenges related to ethics and integrity incidents in August 2019.",
+                        "These incidents, although significant, were promptly addressed by the company to mitigate any potential damage to its reputation and brand value."
+                    ]
+                }
+            ],
+            "answer": "The ethics and integrity incidents in March 2019 for Vanguard Media Group may damage the company's reputation and affect relationships with investors, customers, and partners. Similarly, the ethics and integrity incidents in August 2019 for StrongBuild Construction may damage the company's reputation and brand value, affecting relationships with investors, customers, and partners."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the corporate governance policy revisions in 2019 for Vanguard Media Group and StrongBuild Construction?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In September 2019, Vanguard Media Group revised its corporate governance policy to enhance transparency, accountability, and stakeholder engagement.",
+                        "This revision aimed to boost stakeholder confidence and ensure that the company adhered to the highest standards of corporate governance."
+                    ]
+                },
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "In terms of corporate governance, StrongBuild Construction revised its corporate governance policies in March 2019 to enhance transparency, accountability, and stakeholder engagement.",
+                        "This revision aims to boost corporate governance transparency and accountability, thereby increasing stakeholder confidence."
+                    ]
+                }
+            ],
+            "answer": "The corporate governance policy revision in September 2019 for Vanguard Media Group enhanced corporate governance transparency and accountability, boosting stakeholder confidence. For StrongBuild Construction, the corporate governance policy revision in March 2019 also enhanced transparency and accountability, boosting stakeholder confidence."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "How did the risk management measures in 2019 improve the ability to respond to risks for Vanguard Media Group and StrongBuild Construction?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In November 2019, Vanguard Media Group implemented risk management measures to improve its ability to respond to internal and external risks.",
+                        "These measures aimed to ensure the company's continuous operation and stable development."
+                    ]
+                },
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "The company also made efforts to update its risk management measures in May 2019, identifying new risks and implementing mitigation strategies to ensure continuous operation and stable development."
+                    ]
+                }
+            ],
+            "answer": "The risk management measures in November 2019 for Vanguard Media Group improved the ability to respond to internal and external risks, ensuring continuous operation and stable development. Similarly, the risk management measures in May 2019 for StrongBuild Construction improved the company’s ability to respond to internal and external risks, ensuring continuous operation and stable development."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of the Board of Directors changes for Vanguard Media Group and StrongBuild Construction. Which company experienced this change earlier?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In February 2019, Vanguard Media Group witnessed a change in its board of directors, which had a potential impact on the company's strategic direction."
+                    ]
+                },
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "StrongBuild Construction is a publicly traded construction company based in Metropolis City, State of Progress, specializing in commercial and residential construction projects, infrastructure development, and renovation.In February 2019, StrongBuild Construction experienced a significant change in its Board of Directors, which had implications for the company's strategic direction."
+                    ]
+                }
+            ],
+            "answer": "Both Vanguard Media Group and StrongBuild Construction experienced Board of Directors changes in February 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of compliance and regulatory updates for Vanguard Media Group and StrongBuild Construction. Which company updated their compliance and regulatory standards earlier?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "Vanguard Media Group, established on March 1, 2000 in Los Angeles, California, is a publicly traded diversified media company that operates television networks, film studios, and digital media platforms, producing and distributing a wide range of content in the media industry.In January 2019, Vanguard Media Group experienced several compliance and regulatory updates that impacted its corporate governance practices."
+                    ]
+                },
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "In November 2019, StrongBuild Construction ensured compliance with the latest laws and regulations by staying updated on compliance and regulatory updates."
+                    ]
+                }
+            ],
+            "answer": "Vanguard Media Group updated their compliance and regulatory standards earlier in January 2019, while StrongBuild Construction did so in November 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of strategic partnership formations for Vanguard Media Group and StrongBuild Construction. Which company formed a strategic partnership earlier?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "Additionally, in September 2019, Vanguard Media Group formed a strategic partnership with a global advertising agency, boosting its advertising revenue, increasing brand visibility, and strengthening its market position."
+                    ]
+                },
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "Additionally, in June 2019, the company established a strategic partnership with a leading architectural firm, Summit Construction."
+                    ]
+                }
+            ],
+            "answer": "StrongBuild Construction formed a strategic partnership earlier in June 2019, while Vanguard Media Group formed a strategic partnership in September 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of ethics and integrity incidents for Vanguard Media Group and StrongBuild Construction. Which company faced these incidents earlier?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "Furthermore, in March 2019, the company faced significant ethics and integrity incidents."
+                    ]
+                },
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "Throughout the year, StrongBuild Construction faced various challenges related to ethics and integrity incidents in August 2019."
+                    ]
+                }
+            ],
+            "answer": "Vanguard Media Group faced ethics and integrity incidents earlier in March 2019, while StrongBuild Construction faced them in August 2019."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the times of senior management changes for Vanguard Media Group and StrongBuild Construction. Which company had senior management changes earlier?",
+            "ref": [
+                {
+                    "company_name": "Vanguard Media Group",
+                    "content": [
+                        "In October 2019, the company experienced changes in its senior management, which had an impact on its operational focus and priorities."
+                    ]
+                },
+                {
+                    "company_name": "StrongBuild Construction",
+                    "content": [
+                        "Additionally, the company experienced senior management changes in September 2019, which may lead to adjustments in operational focus and strategic priorities, affecting both short-term performance and long-term development."
+                    ]
+                }
+            ],
+            "answer": "StrongBuild Construction had senior management changes earlier in September 2019, while Vanguard Media Group had senior management changes in October 2019."
+        }
+    ]
+}

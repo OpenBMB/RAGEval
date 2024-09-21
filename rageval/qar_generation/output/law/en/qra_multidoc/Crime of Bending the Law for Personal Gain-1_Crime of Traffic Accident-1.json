@@ -1,0 +1,141 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Lakewood, Pinehurst, Court, what are the occupations of the defendants F. Williams and M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Occupation:** City Official"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Occupation: Delivery Driver"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Upton, Georgetown, Court, the defendant F. Williams is a City Official; according to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett is a Delivery Driver."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Lakewood, Pinehurst, Court, what crimes did the defendants F. Williams and M. Bennett commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "Franklin Williams is charged and stood trial for the Crime of Bending the Law for Personal Gain under Article 397."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Crime of Traffic Accident under Article No. 133 of our legal code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Upton, Georgetown, Court, the defendant F. Williams committed the Crime of Bending the Law for Personal Gain; according to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett committed the Crime of Traffic Accident."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Lakewood, Pinehurst, Court, on what dates were the judgments for the cases of F. Williams and M. Bennett delivered?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Date of Judgment:** 30th, September, 2023"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "This judgment is pronounced on June 30, 2023, and shall be executed in accordance with our legal provisions."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Upton, Georgetown, Court, the judgment for the case of F. Williams was delivered on 30th, September, 2023; according to the judgment of Lakewood, Pinehurst, Court, the judgment for the case of M. Bennett was delivered on 30th, June, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Lakewood, Pinehurst, Court, on what dates were detention measures taken against the defendants F. Williams and M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "2. **Detention Measures Taken (15th March, 2023):**"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "Based on initial findings, on March 20, 2023, the investigation team determined that there was sufficient evidence to detain M. Bennett."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Upton, Georgetown, Court, detention measures were taken against F. Williams on 15th, March, 2023; according to the judgment of Lakewood, Pinehurst, Court, detention measures were taken against M. Bennett on 20th, March, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Lakewood, Pinehurst, Court, what sentences were given to the defendants F. Williams and M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Five (5) years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "M. Bennett is hereby sentenced to a fixed-term imprisonment of five years without the possibility of probation."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Upton, Georgetown, Court, the defendant F. Williams was sentenced to five (5) years of fixed-term imprisonment; according to the judgment of Lakewood, Pinehurst, Court, the defendant M. Bennett was sentenced to 5 years fixed-term imprisonment with no probation."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Lakewood, Pinehurst, Court, whose sentencing time is longer, F. Williams or M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Five (5) years of fixed-term imprisonment."
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "M. Bennett is hereby sentenced to a fixed-term imprisonment of five years without the possibility of probation."
+                    ]
+                }
+            ],
+            "answer": "Both F. Williams and M. Bennett were sentenced to five years of fixed-term imprisonment. Therefore, their sentencing times are the same."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Upton, Georgetown, Court and Lakewood, Pinehurst, Court, whose judgment date is earlier, F. Williams or M. Bennett?",
+            "ref": [
+                {
+                    "court_name": "Upton, Georgetown, Court",
+                    "content": [
+                        "**Date of Judgment:** 30th, September, 2023",
+                        "Date: 30th September, 2023"
+                    ]
+                },
+                {
+                    "court_name": "Lakewood, Pinehurst, Court",
+                    "content": [
+                        "This judgment is pronounced on June 30, 2023, and shall be executed in accordance with our legal provisions.",
+                        "Date: June 30, 2023"
+                    ]
+                }
+            ],
+            "answer": "M. Bennett's judgment date is earlier. His judgment date was on 30th, June, 2023, while F. Williams's judgment date was on 30th, September, 2023."
+        }
+    ]
+}

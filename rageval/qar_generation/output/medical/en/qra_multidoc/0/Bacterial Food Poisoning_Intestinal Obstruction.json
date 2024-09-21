@@ -1,0 +1,106 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Yorkshire General Hospital, what were the chief complaints of patients Z. Walker and I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "Chief Complaint:",
+                        "Severe abdominal pain, vomiting, and watery diarrhea for 2 days."
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Chief Complaint:",
+                        "Intermittent upper abdominal pain, acid reflux, and heartburn for 2 months."
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater City Hospital, patient Z. Walker's chief complaint was severe abdominal pain, vomiting, and watery diarrhea for 2 days. According to the hospitalization records of Yorkshire General Hospital, patient I. Chavez's chief complaint was intermittent upper abdominal pain, acid reflux, and heartburn for 2 months."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Yorkshire General Hospital, what were the preliminary diagnoses for patients Z. Walker and I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Bacterial Food Poisoning"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Preliminary Diagnosis:",
+                        "Peptic Ulcer"
+                    ]
+                }
+            ],
+            "answer": "According to the hospitalization records of Bridgewater City Hospital, patient Z. Walker's preliminary diagnosis was bacterial food poisoning. According to the hospitalization records of Yorkshire General Hospital, patient I. Chavez's preliminary diagnosis was peptic ulcer."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Yorkshire General Hospital, who was admitted earlier, Z. Walker or I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "- Admission Time: 21st October"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Admission Time: 12th, February"
+                    ]
+                }
+            ],
+            "answer": "I. Chavez was admitted on February 12, and Z. Walker was admitted on October 21. I. Chavez was admitted earlier."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Yorkshire General Hospital, whose pulse rate is higher, Z. Walker or I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "- Pulse: 105 bpm"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Pulse: 80 bpm",
+                        "Feb 12: Temp 37.0°C, Pulse 80 bpm, Resp 18 bpm, BP 135/80 mmHg."
+                    ]
+                }
+            ],
+            "answer": "Z. Walker's pulse rate is 105 beats per minute, and I. Chavez's pulse rate is 80 beats per minute. Z. Walker's pulse rate is higher."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the hospitalization records of Bridgewater City Hospital and Yorkshire General Hospital, who is older, Z. Walker or I. Chavez?",
+            "ref": [
+                {
+                    "hospital_patient_name": "Bridgewater City Hospital_Z. Walker",
+                    "content": [
+                        "- Age: 11"
+                    ]
+                },
+                {
+                    "hospital_patient_name": "Yorkshire General Hospital_I. Chavez",
+                    "content": [
+                        "Age: 82"
+                    ]
+                }
+            ],
+            "answer": "Z. Walker is 11 years old, and I. Chavez is 82 years old. I. Chavez is older."
+        }
+    ]
+}

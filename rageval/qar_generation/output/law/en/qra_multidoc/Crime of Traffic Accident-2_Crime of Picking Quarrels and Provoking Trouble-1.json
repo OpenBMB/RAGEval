@@ -1,0 +1,122 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Glenwood, Quailwood, Court, what are the occupations of the defendants X. Alvarez and Y. Nelson?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "Occupation: Delivery Driver"
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "*Occupation:* Barista"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the defendant X. Alvarez is a Delivery Driver; according to the judgment of Glenwood, Quailwood, Court, the defendant Y. Nelson is a Barista."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Glenwood, Quailwood, Court, what crimes did the defendants X. Alvarez and Y. Nelson commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "The Court charges X. Alvarez with the Crime of Traffic Accident, in violation of Article 133 of the relevant penal code."
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "The defendant, Y. Nelson, is charged with the Crime of Picking Quarrels and Provoking Trouble as specified under Article No. 293 of the Criminal Code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the defendant X. Alvarez committed the Crime of Traffic Accident; according to the judgment of Glenwood, Quailwood, Court, the defendant Y. Nelson committed the Crime of Picking Quarrels and Provoking Trouble."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Glenwood, Quailwood, Court, what are the judgment dates for the cases involving X. Alvarez and Y. Nelson?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "*This judgment is issued under the authority of the Lakewood, Mayfield, Court on the 1st of June, 2023.*"
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "June 10, 2023"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the judgment date for the case involving X. Alvarez is 1st June, 2023; according to the judgment of Glenwood, Quailwood, Court, the judgment date for the case involving Y. Nelson is 10th June, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Glenwood, Quailwood, Court, who were the chief judges presiding over the cases of X. Alvarez and Y. Nelson?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "Chief Judge: W. Hernandez"
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "H. Ruiz"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Lakewood, Mayfield, Court, the chief judge presiding over the case of X. Alvarez was W. Hernandez; according to the judgment of Glenwood, Quailwood, Court, the chief judge presiding over the case of Y. Nelson was H. Ruiz."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Glenwood, Quailwood, Court, whose sentencing time is longer, X. Alvarez or Y. Nelson?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "The court sentences X. Alvarez to a fixed-term imprisonment of three (3) years.",
+                        "Additionally, upon release, he will be subject to a probation period of one (1) year, during which he must comply with specific legal and rehabilitative conditions intended to monitor and correct his behavior."
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "Accordingly, Y. Nelson is sentenced to three years of fixed-term imprisonment.",
+                        "However, given the recurring nature and escalation of the defendant's conduct despite previous warnings, suspension of the sentence or probation was deemed unsuitable for this case."
+                    ]
+                }
+            ],
+            "answer": "X. Alvarez was sentenced to three years of fixed-term imprisonment with an additional 1-year probation period after release, while Y. Nelson was sentenced to three years of fixed-term imprisonment with no probation. Therefore, X. Alvarez's sentencing time is longer when considering the probation period."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Lakewood, Mayfield, Court and Glenwood, Quailwood, Court, whose judgment time is earlier, X. Alvarez or Y. Nelson?",
+            "ref": [
+                {
+                    "court_name": "Lakewood, Mayfield, Court",
+                    "content": [
+                        "*This judgment is issued under the authority of the Lakewood, Mayfield, Court on the 1st of June, 2023.*"
+                    ]
+                },
+                {
+                    "court_name": "Glenwood, Quailwood, Court",
+                    "content": [
+                        "June 10, 2023"
+                    ]
+                }
+            ],
+            "answer": "X. Alvarez's judgment time is earlier. The judgment date for X. Alvarez was 1st June 2023, while the judgment date for Y. Nelson was 10th June 2023."
+        }
+    ]
+}

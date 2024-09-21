@@ -1,0 +1,145 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hartford, Ashland, Court and Brighton, Sterling, Court, what are the occupations of the defendants M. Cooper and N. Adams?",
+            "ref": [
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Occupation:** Construction Site Manager"
+                    ]
+                },
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "- **Occupation:** Accountant at Sterling Public Works Department"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hartford, Ashland, Court, the defendant M. Cooper is a Construction Site Manager; according to the judgment of Brighton, Sterling, Court, the defendant N. Adams is an Accountant at Sterling Public Works Department."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hartford, Ashland, Court and Brighton, Sterling, Court, what crimes did the defendants M. Cooper and N. Adams commit respectively?",
+            "ref": [
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "Consequently, the defendant, M. Cooper, was indicted and charged with the Crime of Negligent Homicide, as stipulated under Article No. 133, acknowledging the defendant's supervisory role and negligence as directly contributory to the fatal incident."
+                    ]
+                },
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "The Brighton, Sterling Procuratorate charged Mr. N. Adams with the crime of embezzlement under Article 384 of the Penal Code.",
+                        "The charge brought against Mr. N. Adams is recognized as the Crime of Embezzlement under Article 384 of the Penal Code."
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hartford, Ashland, Court, the defendant M. Cooper committed the Crime of Negligent Homicide; according to the judgment of Brighton, Sterling, Court, the defendant N. Adams committed the Crime of Embezzlement."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hartford, Ashland, Court and Brighton, Sterling, Court, what were the judgment dates for the cases involving M. Cooper and N. Adams?",
+            "ref": [
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Date of Judgment:** 15th August 2022"
+                    ]
+                },
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "**Date:** 3rd March 2023\\"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hartford, Ashland, Court, the judgment date for the case involving M. Cooper was 15th, August, 2022; according to the judgment of Brighton, Sterling, Court, the judgment date for the case involving N. Adams was 3rd, March, 2023."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hartford, Ashland, Court and Brighton, Sterling, Court, what were the sentencing results for the defendants M. Cooper and N. Adams?",
+            "ref": [
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "For the charge of **Negligent Homicide** as per Article No. 133, the defendant is sentenced to:",
+                        "**Four years of fixed-term imprisonment**"
+                    ]
+                },
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "Accordingly, he is sentenced to:",
+                        "- **12 years of fixed-term imprisonment.",
+                        "- **A fine of $100,000.**\\"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hartford, Ashland, Court, the defendant M. Cooper was sentenced to four years of fixed-term imprisonment; according to the judgment of Brighton, Sterling, Court, the defendant N. Adams was sentenced to 12 years of fixed-term imprisonment and a fine of $100,000."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "According to the judgment of Hartford, Ashland, Court and Brighton, Sterling, Court, what are the genders of the defendants M. Cooper and N. Adams?",
+            "ref": [
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Gender:** Male"
+                    ]
+                },
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "- **Gender:** Male"
+                    ]
+                }
+            ],
+            "answer": "According to the judgment of Hartford, Ashland, Court, the defendant M. Cooper is male; according to the judgment of Brighton, Sterling, Court, the defendant N. Adams is male."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "According to the judgment of Hartford, Ashland, Court and Brighton, Sterling, Court, whose sentencing time is longer, M. Cooper or N. Adams?",
+            "ref": [
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "For the charge of **Negligent Homicide** as per Article No. 133, the defendant is sentenced to:",
+                        "**Four years of fixed-term imprisonment**"
+                    ]
+                },
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "Given the severity of the crime, Mr. N. Adams is found guilty of the Crime of Embezzlement under Article 384 of the Penal Code.",
+                        "- **12 years of fixed-term imprisonment."
+                    ]
+                }
+            ],
+            "answer": "M. Cooper was sentenced to four years of fixed-term imprisonment, while N. Adams was sentenced to twelve years of fixed-term imprisonment. N. Adams' sentencing time is longer."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "According to the judgment of Hartford, Ashland, Court and Brighton, Sterling, Court, whose judgment time is earlier, M. Cooper or N. Adams?",
+            "ref": [
+                {
+                    "court_name": "Hartford, Ashland, Court",
+                    "content": [
+                        "**Date of Judgment:** 15th August 2022"
+                    ]
+                },
+                {
+                    "court_name": "Brighton, Sterling, Court",
+                    "content": [
+                        "**Date:** 3rd March 2023\\"
+                    ]
+                }
+            ],
+            "answer": "M. Cooper's judgment time is 15th, August, 2022, while N. Adams' judgment time is 3rd, March, 2023. M. Cooper's judgment time is earlier."
+        }
+    ]
+}

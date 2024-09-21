@@ -1,0 +1,117 @@
+Hospitalization Record
+
+Basic Information:
+- Name: Z. Walker
+- Gender: Male
+- Age: 11
+- Ethnicity: Caucasian
+- Marital Status: Single
+- Occupation: Student
+- Address: 14, Sterling street, Bridgewater
+- Admission Time: 21st October
+- Record Time: 21st October
+- Historian: Mother
+- Hospital Name: Bridgewater City Hospital
+
+Chief Complaint:
+Severe abdominal pain, vomiting, and watery diarrhea for 2 days.
+
+Present Illness:
+Onset: On 19th October, after consuming a meal at a local restaurant, Z. Walker began to experience nausea and abdominal discomfort. 
+Main Symptoms: Severe abdominal pain located in the lower abdomen, cramping in nature, constant with intermittent severe episodes. Symptoms have persisted for 2 days with progressive worsening. Vomiting and watery stools occurring multiple times a day. Fever recorded at home up to 38.5°C.
+Accompanying Symptoms: General malaise and headache, consistent with primary symptoms. Unable to retain fluids or food.
+Diagnosis and Treatment History: Administered oral rehydration salts at home with minimal improvement. No relief from over-the-counter antiemetics.
+General Condition Changes: Decreased mental alertness due to dehydration, poor sleep due to pain, reduced appetite, missed several meals, normal urination with increased frequency of loose stools, weight loss of 1 kg reported over the past 2 days.
+
+Past History:
+General Health Condition: Generally healthy prior to this incidence.
+Disease History: No chronic illnesses. History of mild seasonal allergies.
+Infectious Disease History: No significant past infectious diseases.
+Immunization History: Up to date with all scheduled vaccinations including MMR, DPT, Polio, and Hepatitis B.
+Surgery and Trauma History: No history of surgeries or major trauma.
+Blood Transfusion History: No history of blood transfusions.
+Allergy History: No known drug allergies.
+
+Personal History:
+Birthplace: Bridgewater
+Residence: 14, Sterling street, Bridgewater
+Living Habits: Maintains a balanced diet, active lifestyle with regular physical activity.
+Occupation and Working Conditions: Student at Bridgewater Elementary School.
+Exposure History: No known exposure to industrial toxins or hazardous substances.
+Travel History: No recent travel history.
+
+Marital and Family History:
+Marital Status: Single
+Marriage Age: N/A
+Spouse's Health Condition: N/A
+Children's Condition: N/A
+Family History: Father has a history of hypertension, mother has no significant medical history. No family history of similar gastrointestinal issues or genetic conditions.
+
+Physical Examination:
+General Condition:
+- Temperature: 38.2°C
+- Pulse: 105 bpm
+- Respiration: 22 breaths/min
+- Blood Pressure: 95/60 mmHg
+
+Systematic Examination:
+- Skin: Pale, no rashes or lesions
+- Mucous Membranes: Dry
+- Lymph Nodes: No significant enlargement
+- Head and Organs: Normocephalic, atraumatic, pupils equal and reactive
+- Neck: Supple, no thyromegaly
+- Chest: Clear lung sounds bilaterally, heart sounds normal, no murmurs
+- Abdomen: Tender on palpation, particularly in lower quadrants, no guarding or rebound tenderness, active bowel sounds
+- Rectum and Anus: No abnormalities on visual inspection
+- External Genitalia: Normal for age and gender
+- Spine: Normal curvature, no tenderness
+- Limbs: Normal range of motion, no deformities or tenderness
+- Nervous System: Alert but lethargic, oriented to time and place, normal motor and sensory exam
+
+Specialist Examination:
+Gastroenterology consultation recommended.
+
+Auxiliary Examination:
+Stool culture pending, CBC showing elevated WBC at 15,000/mm3, Electrolytes showing mild hyponatremia at 134 mEq/L.
+
+Preliminary Diagnosis:
+Bacterial Food Poisoning
+
+Diagnostic Basis:
+Patient's history of recent meal at a local restaurant, presenting symptoms of nausea, vomiting, and diarrhea, physical examination findings, and initial laboratory results.
+
+Differential Diagnosis:
+Acute bacterial dysentery, cholera, acute hemorrhagic necrotizing enteritis, viral gastroenteritis, pufferfish poisoning, poliomyelitis.
+
+Admission Records:
+Physician's Signature: Dr. Amanda Greene
+
+Post-Admission Course Records:
+First Course Record: Z. Walker, 11-year-old male, admitted with severe abdominal pain, vomiting, and diarrhea for 2 days. Initial lab results point towards bacterial food poisoning. Differential includes bacterial dysentery and viral enteritis. Treatment plan: IV fluid rehydration, broad-spectrum antibiotics (Ceftriaxone), antiemetics, and maintain NPO status.
+Daily Course Records: 
+Day 1: Continued IV fluids, patient reports slight reduction in pain, vomiting less frequent, will continue current management and reassess tomorrow.
+Day 2: Patient shows improvement, pain reduced, fewer episodes of diarrhea, tolerating clear fluids, start oral rehydration.
+Senior Physician Rounds Records: Reviewed on 22nd October by Dr. Steven Miller, agrees with current treatment plan, emphasizes importance of stool culture results for specific antibiotic management.
+Difficult Case Discussion Records: None
+Handover Records: On 21st October evening shift, handover to Dr. Sarah Lee with updates on patient's stable condition and ongoing treatments.
+Transfer Records: None
+Stage Summary: Patient significantly improved by day 3 with reduction in symptoms, transitioning to oral antibiotics, planned discharge on 4th day if stable.
+Emergency Records: None
+Invasive Procedure Records: None
+Consultation Records: None
+Discharge Records: None
+Critically Ill Patient Care Records: None
+
+Medical Orders:
+Long-term Orders: IV fluids (Normal Saline), Ceftriaxone 1g IV Q24h, Antiemetics PRN, Monitor vital signs Q4H
+Temporary Orders: Stool culture and sensitivity, CBC with differential, Electrolytes panel
+
+Auxiliary Examination Reports:
+Pending stool culture
+
+Temperature Chart:
+Fluctuating fever up to 38.5°C, down to 37.5°C after antipyretics, pulse and respiration initially elevated, stabilizing by day 2
+
+Blood Transfusion Consent: None
+Special Examination Consent: Consent obtained for stool culture
+Critical Condition Notice: None

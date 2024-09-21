@@ -1,0 +1,356 @@
+{
+    "qa_multi_document_information_integration": [
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the establishment dates of InnovateTech, Inc. and HealthLife Solutions?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "InnovateTech, Inc., established on May 12, 2012, is a social technology company based in San Francisco, California, specializing in the development of advanced software solutions for social networking platforms.Since its establishment, InnovateTech, Inc. has made significant strides in the industry, positioning itself as a leader in the social technology sector."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "HealthLife Solutions is a publicly traded healthcare technology solutions provider that was established in January 2010 and is based in San Francisco, California.Since its establishment, HealthLife Solutions has made significant strides in the healthcare industry, positioning itself as a leader in innovative medical technology solutions."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. was established on May 12, 2012, and HealthLife Solutions was established in January 2010."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the main businesses of InnovateTech, Inc. and HealthLife Solutions?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "InnovateTech, Inc., established on May 12, 2012, is a social technology company based in San Francisco, California, specializing in the development of advanced software solutions for social networking platforms.Since its establishment, InnovateTech, Inc. has made significant strides in the industry, positioning itself as a leader in the social technology sector."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "HealthLife Solutions is a publicly traded healthcare technology solutions provider that was established in January 2010 and is based in San Francisco, California.Since its establishment, HealthLife Solutions has made significant strides in the healthcare industry, positioning itself as a leader in innovative medical technology solutions."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. specializes in developing advanced software solutions for social networking platforms, while HealthLife Solutions is a healthcare technology solutions provider."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "Where are InnovateTech, Inc. and HealthLife Solutions registered?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "InnovateTech, Inc., established on May 12, 2012, is a social technology company based in San Francisco, California, specializing in the development of advanced software solutions for social networking platforms.Since its establishment, InnovateTech, Inc. has made significant strides in the industry, positioning itself as a leader in the social technology sector."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "HealthLife Solutions is a publicly traded healthcare technology solutions provider that was established in January 2010 and is based in San Francisco, California.Since its establishment, HealthLife Solutions has made significant strides in the healthcare industry, positioning itself as a leader in innovative medical technology solutions."
+                    ]
+                }
+            ],
+            "answer": "Both InnovateTech, Inc. and HealthLife Solutions are registered in San Francisco, California."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What is the listing status of InnovateTech, Inc. and HealthLife Solutions?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "The company went public and is currently listed on NASDAQ, showcasing its commitment to transparency and accountability."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "HealthLife Solutions is a publicly traded healthcare technology solutions provider that was established in January 2010 and is based in San Francisco, California.Since its establishment, HealthLife Solutions has made significant strides in the healthcare industry, positioning itself as a leader in innovative medical technology solutions."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. is listed on NASDAQ. HealthLife Solutions is a publicly traded company."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "In which industries do InnovateTech, Inc. and HealthLife Solutions operate?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "InnovateTech, Inc., established on May 12, 2012, is a social technology company based in San Francisco, California, specializing in the development of advanced software solutions for social networking platforms.Since its establishment, InnovateTech, Inc. has made significant strides in the industry, positioning itself as a leader in the social technology sector."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "HealthLife Solutions is a publicly traded healthcare technology solutions provider that was established in January 2010 and is based in San Francisco, California.Since its establishment, HealthLife Solutions has made significant strides in the healthcare industry, positioning itself as a leader in innovative medical technology solutions."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. operates in the social technology industry, while HealthLife Solutions operates in the healthcare technology industry."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the net profits of InnovateTech, Inc. and HealthLife Solutions?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "Net profit stood at $40 million, showcasing the company's ability to generate income while effectively controlling costs and managing non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "The company also achieved a net profit of $50 million, which is the net income after deducting total costs and taxes from the total income."
+                    ]
+                }
+            ],
+            "answer": "The net profit of InnovateTech, Inc. was $40 million, and the net profit of HealthLife Solutions was $50 million."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the total assets of InnovateTech, Inc. and HealthLife Solutions?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "In terms of assets, InnovateTech's total assets amounted to $450 million, influenced by asset acquisitions, disposals, and revaluations."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "HealthLife Solutions' total assets stood at $500 million, representing the total amount of assets owned by the company at the end of the accounting period."
+                    ]
+                }
+            ],
+            "answer": "The total assets of InnovateTech, Inc. are $450 million, and the total assets of HealthLife Solutions are $500 million."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What are the total liabilities of InnovateTech, Inc. and HealthLife Solutions?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "The company's total liabilities were $180 million, reflecting its debt obligations, new debt issuances, debt repayments, and debt restructuring efforts."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "The company's total liabilities amounted to $200 million, reflecting the total amount of debts the company is obligated to repay."
+                    ]
+                }
+            ],
+            "answer": "The total liabilities of InnovateTech, Inc. are $180 million, and the total liabilities of HealthLife Solutions are $200 million."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What is the shareholder equity of InnovateTech, Inc. and HealthLife Solutions?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "Shareholder equity, representing the total equity belonging to shareholders, reached $270 million."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "The shareholder equity of HealthLife Solutions reached $300 million, representing the total amount of equity belonging to shareholders at the end of the accounting period."
+                    ]
+                }
+            ],
+            "answer": "The shareholder equity of InnovateTech, Inc. is $270 million, and the shareholder equity of HealthLife Solutions is $300 million."
+        },
+        {
+            "question type": "Multi-document Information Integration Question",
+            "question": "What were the impacts of the debt restructuring processes for InnovateTech, Inc. and HealthLife Solutions?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "In October 2019, InnovateTech underwent a debt restructuring process, reducing its liabilities by $30 million.",
+                        "This initiative improved the company's financial condition and resulted in a substantial reduction in financial costs."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "To optimize its capital structure, HealthLife Solutions underwent debt restructuring in June 2020, reducing its liabilities by $25 million.",
+                        "This move improved the company's financial condition and reduced financial costs, contributing to its overall operational efficiency."
+                    ]
+                }
+            ],
+            "answer": "The debt restructuring process for InnovateTech, Inc. reduced liabilities by $30 million and improved financial condition, while for HealthLife Solutions, it reduced liabilities by $25 million and improved the company's financial condition."
+        }
+    ],
+    "qa_multi_document_compare": [
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the operating income of InnovateTech, Inc. and HealthLife Solutions. Which company had higher operating income?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "The company's operating income reached $125 million, reflecting the success of its main business and other income sources."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "In terms of financial indicators, HealthLife Solutions reported an operating income of $200 million, reflecting the total amount of main business income and other business income within a certain accounting period."
+                    ]
+                }
+            ],
+            "answer": "HealthLife Solutions had higher operating income with $200 million compared to InnovateTech, Inc.'s $125 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the net profit of InnovateTech, Inc. and HealthLife Solutions. Which company had higher net profit?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "Net profit stood at $40 million, showcasing the company's ability to generate income while effectively controlling costs and managing non-recurring gains and losses."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "The company also achieved a net profit of $50 million, which is the net income after deducting total costs and taxes from the total income."
+                    ]
+                }
+            ],
+            "answer": "HealthLife Solutions had higher net profit with $50 million compared to InnovateTech, Inc.'s $40 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total assets of InnovateTech, Inc. and HealthLife Solutions. Which company had more total assets?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "In terms of assets, InnovateTech's total assets amounted to $450 million, influenced by asset acquisitions, disposals, and revaluations."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "HealthLife Solutions' total assets stood at $500 million, representing the total amount of assets owned by the company at the end of the accounting period."
+                    ]
+                }
+            ],
+            "answer": "HealthLife Solutions had more total assets with $500 million compared to InnovateTech, Inc.'s $450 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the total liabilities of InnovateTech, Inc. and HealthLife Solutions. Which company had higher total liabilities?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "The company's total liabilities were $180 million, reflecting its debt obligations, new debt issuances, debt repayments, and debt restructuring efforts."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "The company's total liabilities amounted to $200 million, reflecting the total amount of debts the company is obligated to repay."
+                    ]
+                }
+            ],
+            "answer": "HealthLife Solutions had higher total liabilities with $200 million compared to InnovateTech, Inc.'s $180 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the shareholder equity of InnovateTech, Inc. and HealthLife Solutions. Which company had higher shareholder equity?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "Shareholder equity, representing the total equity belonging to shareholders, reached $270 million."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "The shareholder equity of HealthLife Solutions reached $300 million, representing the total amount of equity belonging to shareholders at the end of the accounting period."
+                    ]
+                }
+            ],
+            "answer": "HealthLife Solutions had higher shareholder equity with $300 million compared to InnovateTech, Inc.'s $270 million."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the debt restructuring efforts of InnovateTech, Inc. in 2019 and HealthLife Solutions in 2020. Which company reduced more liabilities through debt restructuring?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "In October 2019, InnovateTech underwent a debt restructuring process, reducing its liabilities by $30 million.",
+                        "This initiative improved the company's financial condition and resulted in a substantial reduction in financial costs."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "To optimize its capital structure, HealthLife Solutions underwent debt restructuring in June 2020, reducing its liabilities by $25 million.",
+                        "This move improved the company's financial condition and reduced financial costs, contributing to its overall operational efficiency."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. reduced more liabilities through debt restructuring by $30 million compared to HealthLife Solutions' $25 million."
+        },
+        {
+            "question type": "Multi-document Time Sequence Question",
+            "question": "Compare the major asset acquisitions by InnovateTech, Inc. and HealthLife Solutions. Which company completed their major asset acquisition earlier?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "In December 2019, InnovateTech acquired DreamLife Studios, a renowned mobile gaming company, for $60 million.",
+                        "This major asset acquisition expanded InnovateTech's business scope and augmented its market competitiveness in the gaming industry."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "In September 2020, HealthLife Solutions completed the asset acquisition of MedTech Innovations for a total value of $50 million.",
+                        "This acquisition expanded the company's business scope and enhanced its market competitiveness."
+                    ]
+                }
+            ],
+            "answer": "InnovateTech, Inc. completed their major asset acquisition earlier in December 2019, while HealthLife Solutions completed theirs in September 2020."
+        },
+        {
+            "question type": "Multi-document Comparison Question",
+            "question": "Compare the large-scale financing activities of InnovateTech, Inc. in 2019 and HealthLife Solutions in 2020. Which company raised more funds?",
+            "ref": [
+                {
+                    "company_name": "InnovateTech, Inc.",
+                    "content": [
+                        "To support its expansion and development opportunities, InnovateTech successfully raised $50 million through large-scale financing in February 2019.",
+                        "This infusion of capital bolstered the company's financial strength and provided resources for future growth initiatives."
+                    ]
+                },
+                {
+                    "company_name": "HealthLife Solutions",
+                    "content": [
+                        "The company also conducted a large-scale financing activity in October 2020, successfully raising $100 million in funds.",
+                        "This significant financing activity strengthened HealthLife Solutions' financial strength, supporting its expansion and development plans."
+                    ]
+                }
+            ],
+            "answer": "HealthLife Solutions raised more funds with $100 million compared to InnovateTech, Inc.'s $50 million."
+        }
+    ]
+}
