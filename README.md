@@ -45,9 +45,9 @@ RAGEval is a novel framework designed for automatically generating evaluation da
 
 ## Usage
 
-For Evaluation, please refer to [evaluation](https://github.com/OpenBMB/RAGEval/tree/main/rageval/evaluation)
-For Article Generation, please refer to [article_generation](https://github.com/OpenBMB/RAGEval/tree/main/rageval/article_generation)
-For QAR Generation, please refer to [QAR_generation](https://github.com/OpenBMB/RAGEval/tree/main/rageval/qar_generation)
+- For Evaluation, please refer to [evaluation](https://github.com/OpenBMB/RAGEval/tree/main/rageval/evaluation)
+- For Article Generation, please refer to [article_generation](https://github.com/OpenBMB/RAGEval/tree/main/rageval/article_generation)
+- For QAR Generation, please refer to [QAR_generation](https://github.com/OpenBMB/RAGEval/tree/main/rageval/qar_generation)
 
 ## Experiments
 
