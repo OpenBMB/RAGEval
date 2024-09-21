@@ -18,9 +18,9 @@
 RAGEval is a novel framework designed for automatically generating evaluation datasets to assess the knowledge usage ability of different Large Language Models (LLMs) in various Retrieval-Augmented Generation (RAG) scenarios. Unlike existing RAG benchmarks that focus on general knowledge, RAGEval enables the creation of domain-specific factual queries, allowing for a more nuanced evaluation of RAG systems across different vertical domains.
 
 ## News
-- **[2024/9/21]** We have released our article generation pipeline and 'query-answer-reference' generation pipeline
-- **[2024/8/31]** We have released our evaluation method at the ``rageval/evaluation`` folder.
-- **[2024/8/25]** We have released our DragonBall dataset at the ``dragonball_dataset`` folder. The RAGEval pipeline is coming soon!
+- **[2024/9/21]** 🎆 We have released our article generation pipeline and 'query-answer-reference' generation pipeline
+- **[2024/8/31]** 🚀 We have released our evaluation method at the ``rageval/evaluation`` folder.
+- **[2024/8/25]** 🏆 We have released our DragonBall dataset at the ``dragonball_dataset`` folder. The RAGEval pipeline is coming soon!
 
 ## Key Features
 
