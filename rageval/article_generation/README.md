@@ -26,13 +26,13 @@ Place the schema files in the `output/$DOMAIN/$LANGUAGE/schema` folder.
 
 ### 5. Document Generation
 
-The `scripts` directory contains scripts for generating documents across different domains. To generate documents, configure the parameters in `$DOMAIN/$LANGUAGE/config.sh`:
+The `scripts` directory contains scripts for generating documents across different domains. To generate documents, configure the parameters in `scripts/$DOMAIN/$LANGUAGE/config.sh`:
 
-- **`json_idx`**: The OpenAI model name to use (default: `"gpt-4o"`)
-- **`event_num`**: Path to the input data folder (example: `"data/law/en/config"`)
-- **`schema_dir`**: Path to the output data folder (example: `"output/law/en/config"`)
-- **`config_output_dir`**: Index of each domain (default: `0`)
-- **`doc_output_dir`**: Index of each domain (default: `0`)
+- **json_idx**: Specifies the version index for version control. The default value is 0. To generate a new version, set this parameter to 1, 2, 3, and so on.
+- **event_num**: For the finance domain, use `event_num` to generate sub-events within an event.
+- **schema_dir**: Specifies the path to the schema data folder (e.g., output/law/en/schema).
+- **config_output_dir**: Specifies the path to the configuration output folder (e.g., output/law/en/config).
+- **doc_output_dir**: Specifies the path to the document output folder (e.g., output/law/en/doc).
 
 To specify the **OpenAI model** for generation, you can set **`model_name`** in each shell script.
 
