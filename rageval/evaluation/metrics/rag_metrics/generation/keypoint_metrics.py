@@ -218,10 +218,9 @@ class KEYPOINT_METRICS:
         key_points = doc["ground_truth"]["keypoints"]
 
         resp_2_kp = {}
-        key_points_list = self._parse_key_points(key_points)
         responses = []
         origin_responses = []
-        for kp in key_points_list:
+        for kp in key_points:
             while True:
                 try:
                     response = self._handle_key_point(question, prediction, kp, language)
