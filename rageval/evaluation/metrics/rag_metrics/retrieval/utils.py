@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Union
 import re
 from nltk.tokenize import sent_tokenize
 from pysbd import Segmenter
@@ -19,17 +19,17 @@ def split_sentences(text: str, language: str) -> List[str]:
     sentences = [sentence.strip() for sentence in sentences if sentence.strip()]
     return sentences
 
-def exist_match(ground_truth: List[str], retrieves: List[str], language="zh") -> int:
+def exist_match(query_text: Union[List[str], str], reference_texts: List[str], language="zh") -> int:
     # Split the ground_truth into sentences
-    if type(ground_truth) == list:
-        ground_truth = " ".join(ground_truth)
-    sentences = split_sentences(ground_truth, language)
+    if type(query_text) == list:
+        query_text = " ".join(query_text)
+    q_sentences = split_sentences(query_text, language)
     
-    # Check if all sentence is in the retrieves list
-    for sentence in sentences:
+    # Check if all sentence from the query is in the reference list
+    for q in q_sentences:
         match = False
-        for retrieve in retrieves:
-            if sentence in retrieve:
+        for r in reference_texts:
+            if q in r:
                 match = True
                 break
         if not match:

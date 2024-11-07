@@ -10,7 +10,7 @@ class Precision:
     def calculate_precision(self, retrieves, ground_truths, language=None) -> float:
         retrieves = retrieves[:self.topk]
         match_count = sum(
-            exist_match(ground_truths, retrieves, language=language)
+            exist_match(retrieve, ground_truths, language=language)
             for retrieve in retrieves
         )
         return match_count / len(retrieves) if retrieves else 0
