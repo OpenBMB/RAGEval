@@ -1,16 +1,19 @@
 #!/bin/bash
 
 # Parameters
-NUM_WORKERS=20 # the number of workers to use for parallel processing for evaluation
-LANGUAGE="en" # the language of the input data, en or zh
+NUM_WORKERS=5 # the number of workers to use for parallel processing for evaluation
+LANGUAGE="auto" # the language of the input data, en or zh
 INPUT_BASE_URL="./data/"
+USE_MODEL="gpt-4o"
 OUTPUT_BASE_URL="./result/intermediate_result/"
-export OPENAI_API_KEY="YOUR_OPENAI_API_KEY_HERE"
-# Input files and output file list
-INPUT_FILES=("example_finance_en_gpt-4o.jsonl")
+export OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
+export BASE_URL="" # if none, set to empty string
+# Input files and output file list 
+INPUT_FILES=("merged_output_baichuan2-7b_top5.jsonl") # file name of the input data
+KEYPOINT_VERSION="v2" # default version of the paper
 
 # List of metrics to process
-METRICS=("precision" "recall" "eir" "rouge-l") #("rouge-l" "precision" "recall" "eir" "keypoint_metrics")
+METRICS=("keypoint_metrics") #("rouge-l" "precision" "recall" "eir" "keypoint_metrics")
 
 # Function: Get line count of a file
 get_line_count() {
@@ -42,8 +45,11 @@ for INPUT_FILE in "${INPUT_FILES[@]}"; do
         # Set USE_OPENAI based on the metric
         if [[ "$METRIC" == "keypoint_metrics" ]]; then
             USE_OPENAI="--use_openai"
+            VERSION="$KEYPOINT_VERSION"
         else
             USE_OPENAI=""
+            USE_MODEL=""
+            VERSION=""
         fi
 
         # Initial line counts
@@ -53,7 +59,7 @@ for INPUT_FILE in "${INPUT_FILES[@]}"; do
         # Run Python script until line counts match
         while [[ "$input_line_count" -ne "$output_line_count" ]]; do
             echo "Processing $FULL_INPUT_PATH for metric $METRIC..."
-            python main.py --input_file "$FULL_INPUT_PATH" --output_file "$FULL_OUTPUT_PATH" --num_workers $NUM_WORKERS --metric "$METRIC" --language "$LANGUAGE" $USE_OPENAI 
+            python main.py --input_file "$FULL_INPUT_PATH" --output_file "$FULL_OUTPUT_PATH" --num_workers $NUM_WORKERS --metric "$METRIC" --language "$LANGUAGE" $USE_OPENAI --model "$USE_MODEL" --version "$VERSION"
             
             # Get updated line counts
             input_line_count=$(get_line_count "$FULL_INPUT_PATH")
