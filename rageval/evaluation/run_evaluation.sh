@@ -9,7 +9,7 @@ OUTPUT_BASE_URL="./result/intermediate_result/"
 export OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
 export BASE_URL="" # if none, set to empty string
 # Input files and output file list 
-INPUT_FILES=("merged_output_baichuan2-7b_top5.jsonl") # file name of the input data
+INPUT_FILES=("example_finance_en_gpt-4o.jsonl") # file name of the input data
 KEYPOINT_VERSION="v2" # default version of the paper
 
 # List of metrics to process
