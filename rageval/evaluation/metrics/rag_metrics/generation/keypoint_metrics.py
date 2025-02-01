@@ -604,6 +604,16 @@ class KEYPOINT_METRICS:
             while True:
                 try:
                     response = self._handle_key_point_v2(question, prediction, key_points, language)
+                    if response is None:
+                        return {
+                            "completeness": -1,
+                            "hallucination": -1,
+                            "irrelevance": -1,
+                            "relevant_ids": [],
+                            "irrelevant_ids": [],
+                            "wrong_ids": [],
+                            "responses": 'No response'
+                        }
                     break
                 except Exception as e:
                     print(f"Error processing key points in v2: {str(e)}")
