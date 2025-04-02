@@ -1,0 +1,398 @@
+{
+	"title": "商业计划书架构",
+	"description": "一个用于生成包含关键章节和字段的商业计划书的架构",
+	"type": "object",
+	"properties": {
+		"公司名称": {
+			"type": "string",
+			"description": "公司的名称"
+		},
+		"行业": {
+			"type": "string",
+			"description": "公司所在的行业或市场领域"
+		},
+		"执行摘要": {
+			"type": "object",
+			"description": "商业计划书的简明概述",
+			"properties": {
+				"使命宣言": {
+					"type": "string",
+					"description": "公司的使命宣言"
+				},
+				"业务描述": {
+					"type": "string",
+					"description": "业务概念的简要描述"
+				},
+				"所需资金": {
+					"type": "number",
+					"description": "所需资金金额（元）"
+				},
+				"目标": {
+					"type": "array",
+					"description": "关键业务目标",
+					"items": {
+						"type": "string"
+					}
+				}
+			}
+		},
+		"业务描述": {
+			"type": "object",
+			"description": "业务的详细描述",
+			"properties": {
+				"公司历史": {
+					"type": "string",
+					"description": "公司的简要历史"
+				},
+				"法律结构": {
+					"type": "string",
+					"description": "业务的法律结构（有限责任公司、股份公司等）"
+				},
+				"位置": {
+					"type": "string",
+					"description": "业务的物理位置"
+				},
+				"成立日期": {
+					"type": "string",
+					"description": "公司已经或将要成立的时间"
+				}
+			}
+		},
+		"市场分析": {
+			"type": "object",
+			"description": "市场和行业的分析",
+			"properties": {
+				"行业概况": {
+					"type": "string",
+					"description": "行业概况和当前趋势"
+				},
+				"目标市场": {
+					"type": "object",
+					"description": "目标市场的描述",
+					"properties": {
+						"人口统计": {
+							"type": "string",
+							"description": "目标客户的人口统计信息"
+						},
+						"规模": {
+							"type": "string",
+							"description": "目标市场的规模"
+						},
+						"增长潜力": {
+							"type": "string",
+							"description": "目标市场的增长潜力"
+						}
+					}
+				},
+				"竞争对手": {
+					"type": "array",
+					"description": "主要竞争对手列表",
+					"items": {
+						"type": "object",
+						"properties": {
+							"名称": {
+								"type": "string",
+								"description": "竞争对手的名称"
+							},
+							"优势": {
+								"type": "array",
+								"description": "竞争对手的优势",
+								"items": {
+									"type": "string"
+								}
+							},
+							"劣势": {
+								"type": "array",
+								"description": "竞争对手的劣势",
+								"items": {
+									"type": "string"
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"产品服务": {
+			"type": "object",
+			"description": "提供的产品或服务的描述",
+			"properties": {
+				"产品": {
+					"type": "array",
+					"description": "产品或服务列表",
+					"items": {
+						"type": "object",
+						"properties": {
+							"名称": {
+								"type": "string",
+								"description": "产品或服务的名称"
+							},
+							"描述": {
+								"type": "string",
+								"description": "产品或服务的详细描述"
+							},
+							"定价": {
+								"type": "string",
+								"description": "定价信息"
+							},
+							"特点": {
+								"type": "array",
+								"description": "产品或服务的关键特点",
+								"items": {
+									"type": "string"
+								}
+							},
+							"优势": {
+								"type": "array",
+								"description": "产品或服务的优势",
+								"items": {
+									"type": "string"
+								}
+							}
+						}
+					}
+				},
+				"独特价值主张": {
+					"type": "string",
+					"description": "产品或服务的独特价值主张"
+				},
+				"知识产权": {
+					"type": "string",
+					"description": "有关专利、商标或其他知识产权的信息"
+				}
+			}
+		},
+		"营销策略": {
+			"type": "object",
+			"description": "营销和销售策略",
+			"properties": {
+				"市场定位": {
+					"type": "string",
+					"description": "公司在市场中的定位"
+				},
+				"定价策略": {
+					"type": "string",
+					"description": "产品或服务的定价策略"
+				},
+				"推广渠道": {
+					"type": "array",
+					"description": "用于推广的渠道",
+					"items": {
+						"type": "string"
+					}
+				},
+				"销售流程": {
+					"type": "string",
+					"description": "销售流程的描述"
+				}
+			}
+		},
+		"运营计划": {
+			"type": "object",
+			"description": "日常运营计划",
+			"properties": {
+				"业务结构": {
+					"type": "string",
+					"description": "业务的组织结构"
+				},
+				"设施": {
+					"type": "string",
+					"description": "设施和设备的描述"
+				},
+				"关键角色": {
+					"type": "array",
+					"description": "组织内的关键角色",
+					"items": {
+						"type": "object",
+						"properties": {
+							"职位": {
+								"type": "string",
+								"description": "职位名称"
+							},
+							"职责": {
+								"type": "array",
+								"description": "主要职责",
+								"items": {
+									"type": "string"
+								}
+							}
+						}
+					}
+				},
+				"供应链": {
+					"type": "string",
+					"description": "供应链和采购的描述"
+				}
+			}
+		},
+		"财务计划": {
+			"type": "object",
+			"description": "财务预测和要求",
+			"properties": {
+				"启动成本": {
+					"type": "object",
+					"description": "启动业务所需的成本",
+					"properties": {
+						"一次性成本": {
+							"type": "array",
+							"description": "一次性启动成本",
+							"items": {
+								"type": "object",
+								"properties": {
+									"描述": {
+										"type": "string",
+										"description": "成本描述"
+									},
+									"金额": {
+										"type": "number",
+										"description": "成本金额（元）"
+									}
+								}
+							}
+						},
+						"经常性成本": {
+							"type": "array",
+							"description": "经常性启动成本",
+							"items": {
+								"type": "object",
+								"properties": {
+									"描述": {
+										"type": "string",
+										"description": "成本描述"
+									},
+									"金额": {
+										"type": "number",
+										"description": "成本金额（元）"
+									},
+									"频率": {
+										"type": "string",
+										"description": "成本频率（月度、季度等）"
+									}
+								}
+							}
+						}
+					}
+				},
+				"资金需求": {
+					"type": "object",
+					"description": "资金需求和资金用途",
+					"properties": {
+						"总金额": {
+							"type": "number",
+							"description": "所需总资金（元）"
+						},
+						"资金用途": {
+							"type": "array",
+							"description": "资金的使用方式",
+							"items": {
+								"type": "object",
+								"properties": {
+									"描述": {
+										"type": "string",
+										"description": "资金用途描述"
+									},
+									"金额": {
+										"type": "number",
+										"description": "金额（元）"
+									}
+								}
+							}
+						}
+					}
+				},
+				"预测": {
+					"type": "object",
+					"description": "财务预测",
+					"properties": {
+						"收入": {
+							"type": "array",
+							"description": "按年度的收入预测",
+							"items": {
+								"type": "object",
+								"properties": {
+									"年度": {
+										"type": "number",
+										"description": "年度数（1、2、3等）"
+									},
+									"金额": {
+										"type": "number",
+										"description": "预测收入（元）"
+									}
+								}
+							}
+						},
+						"支出": {
+							"type": "array",
+							"description": "按年度的支出预测",
+							"items": {
+								"type": "object",
+								"properties": {
+									"年度": {
+										"type": "number",
+										"description": "年度数（1、2、3等）"
+									},
+									"金额": {
+										"type": "number",
+										"description": "预测支出（元）"
+									}
+								}
+							}
+						},
+						"利润": {
+							"type": "array",
+							"description": "按年度的利润预测",
+							"items": {
+								"type": "object",
+								"properties": {
+									"年度": {
+										"type": "number",
+										"description": "年度数（1、2、3等）"
+									},
+									"金额": {
+										"type": "number",
+										"description": "预测利润（元）"
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"风险分析": {
+			"type": "object",
+			"description": "潜在风险及缓解策略的分析",
+			"properties": {
+				"风险": {
+					"type": "array",
+					"description": "潜在风险",
+					"items": {
+						"type": "object",
+						"properties": {
+							"描述": {
+								"type": "string",
+								"description": "风险描述"
+							},
+							"影响": {
+								"type": "string",
+								"description": "风险的潜在影响（高、中、低）"
+							},
+							"概率": {
+								"type": "string",
+								"description": "风险发生的概率（高、中、低）"
+							},
+							"缓解策略": {
+								"type": "string",
+								"description": "缓解风险的策略"
+							}
+						}
+					}
+				}
+			}
+		},
+		"结论": {
+			"type": "string",
+			"description": "商业计划书关键点的总结"
+		}
+	}
+}

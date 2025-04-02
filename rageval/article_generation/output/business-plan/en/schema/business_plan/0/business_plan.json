@@ -1,0 +1,398 @@
+{
+ "title": "Business Plan Schema",
+ "description": "A schema for generating business plans with key sections and fields",
+ "type": "object",
+ "properties": {
+  "company_name": {
+   "type": "string",
+   "description": "The name of the company"
+  },
+  "industry": {
+   "type": "string",
+   "description": "The industry or market sector the business operates in"
+  },
+  "executive_summary": {
+   "type": "object",
+   "description": "A concise overview of the business plan",
+   "properties": {
+    "mission_statement": {
+     "type": "string",
+     "description": "The company's mission statement"
+    },
+    "business_description": {
+     "type": "string",
+     "description": "Brief description of the business concept"
+    },
+    "funding_needed": {
+     "type": "number",
+     "description": "Amount of funding required in dollars"
+    },
+    "objectives": {
+     "type": "array",
+     "description": "Key business objectives",
+     "items": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "business_description": {
+   "type": "object",
+   "description": "Detailed description of the business",
+   "properties": {
+    "company_history": {
+     "type": "string",
+     "description": "Brief history of the company"
+    },
+    "legal_structure": {
+     "type": "string",
+     "description": "Legal structure of the business (LLC, Corporation, etc.)"
+    },
+    "location": {
+     "type": "string",
+     "description": "Physical location of the business"
+    },
+    "founding_date": {
+     "type": "string",
+     "description": "When the company was or will be founded"
+    }
+   }
+  },
+  "market_analysis": {
+   "type": "object",
+   "description": "Analysis of the market and industry",
+   "properties": {
+    "industry_overview": {
+     "type": "string",
+     "description": "Overview of the industry and current trends"
+    },
+    "target_market": {
+     "type": "object",
+     "description": "Description of the target market",
+     "properties": {
+      "demographics": {
+       "type": "string",
+       "description": "Demographic information about target customers"
+      },
+      "size": {
+       "type": "string",
+       "description": "Size of the target market"
+      },
+      "growth_potential": {
+       "type": "string",
+       "description": "Growth potential of the target market"
+      }
+     }
+    },
+    "competitors": {
+     "type": "array",
+     "description": "List of main competitors",
+     "items": {
+      "type": "object",
+      "properties": {
+       "name": {
+        "type": "string",
+        "description": "Name of the competitor"
+       },
+       "strengths": {
+        "type": "array",
+        "description": "Strengths of the competitor",
+        "items": {
+         "type": "string"
+        }
+       },
+       "weaknesses": {
+        "type": "array",
+        "description": "Weaknesses of the competitor",
+        "items": {
+         "type": "string"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "products_services": {
+   "type": "object",
+   "description": "Description of products or services offered",
+   "properties": {
+    "offerings": {
+     "type": "array",
+     "description": "List of products or services",
+     "items": {
+      "type": "object",
+      "properties": {
+       "name": {
+        "type": "string",
+        "description": "Name of the product or service"
+       },
+       "description": {
+        "type": "string",
+        "description": "Detailed description of the product or service"
+       },
+       "pricing": {
+        "type": "string",
+        "description": "Pricing information"
+       },
+       "features": {
+        "type": "array",
+        "description": "Key features of the product or service",
+        "items": {
+         "type": "string"
+        }
+       },
+       "benefits": {
+        "type": "array",
+        "description": "Benefits of the product or service",
+        "items": {
+         "type": "string"
+        }
+       }
+      }
+     }
+    },
+    "unique_value_proposition": {
+     "type": "string",
+     "description": "Unique value proposition of the products or services"
+    },
+    "intellectual_property": {
+     "type": "string",
+     "description": "Information about patents, trademarks, or other intellectual property"
+    }
+   }
+  },
+  "marketing_strategy": {
+   "type": "object",
+   "description": "Marketing and sales strategies",
+   "properties": {
+    "positioning": {
+     "type": "string",
+     "description": "How the company is positioned in the market"
+    },
+    "pricing_strategy": {
+     "type": "string",
+     "description": "Pricing strategy for products or services"
+    },
+    "promotion_channels": {
+     "type": "array",
+     "description": "Channels used for promotion",
+     "items": {
+      "type": "string"
+     }
+    },
+    "sales_process": {
+     "type": "string",
+     "description": "Description of the sales process"
+    }
+   }
+  },
+  "operations_plan": {
+   "type": "object",
+   "description": "Plan for day-to-day operations",
+   "properties": {
+    "business_structure": {
+     "type": "string",
+     "description": "Organizational structure of the business"
+    },
+    "facilities": {
+     "type": "string",
+     "description": "Description of facilities and equipment"
+    },
+    "key_roles": {
+     "type": "array",
+     "description": "Key roles within the organization",
+     "items": {
+      "type": "object",
+      "properties": {
+       "title": {
+        "type": "string",
+        "description": "Job title"
+       },
+       "responsibilities": {
+        "type": "array",
+        "description": "Key responsibilities",
+        "items": {
+         "type": "string"
+        }
+       }
+      }
+     }
+    },
+    "supply_chain": {
+     "type": "string",
+     "description": "Description of the supply chain and sourcing"
+    }
+   }
+  },
+  "financial_plan": {
+   "type": "object",
+   "description": "Financial projections and requirements",
+   "properties": {
+    "startup_costs": {
+     "type": "object",
+     "description": "Costs required to start the business",
+     "properties": {
+      "one_time_costs": {
+       "type": "array",
+       "description": "One-time startup costs",
+       "items": {
+        "type": "object",
+        "properties": {
+         "description": {
+          "type": "string",
+          "description": "Description of the cost"
+         },
+         "amount": {
+          "type": "number",
+          "description": "Cost amount in dollars"
+         }
+        }
+       }
+      },
+      "recurring_costs": {
+       "type": "array",
+       "description": "Recurring startup costs",
+       "items": {
+        "type": "object",
+        "properties": {
+         "description": {
+          "type": "string",
+          "description": "Description of the cost"
+         },
+         "amount": {
+          "type": "number",
+          "description": "Cost amount in dollars"
+         },
+         "frequency": {
+          "type": "string",
+          "description": "Frequency of the cost (monthly, quarterly, etc.)"
+         }
+        }
+       }
+      }
+     }
+    },
+    "funding_requirements": {
+     "type": "object",
+     "description": "Funding requirements and use of funds",
+     "properties": {
+      "total_amount": {
+       "type": "number",
+       "description": "Total funding required in dollars"
+      },
+      "use_of_funds": {
+       "type": "array",
+       "description": "How the funds will be used",
+       "items": {
+        "type": "object",
+        "properties": {
+         "description": {
+          "type": "string",
+          "description": "Description of the use of funds"
+         },
+         "amount": {
+          "type": "number",
+          "description": "Amount in dollars"
+         }
+        }
+       }
+      }
+     }
+    },
+    "projections": {
+     "type": "object",
+     "description": "Financial projections",
+     "properties": {
+      "revenue": {
+       "type": "array",
+       "description": "Revenue projections by year",
+       "items": {
+        "type": "object",
+        "properties": {
+         "year": {
+          "type": "number",
+          "description": "Year number (1, 2, 3, etc.)"
+         },
+         "amount": {
+          "type": "number",
+          "description": "Projected revenue in dollars"
+         }
+        }
+       }
+      },
+      "expenses": {
+       "type": "array",
+       "description": "Expense projections by year",
+       "items": {
+        "type": "object",
+        "properties": {
+         "year": {
+          "type": "number",
+          "description": "Year number (1, 2, 3, etc.)"
+         },
+         "amount": {
+          "type": "number",
+          "description": "Projected expenses in dollars"
+         }
+        }
+       }
+      },
+      "profit": {
+       "type": "array",
+       "description": "Profit projections by year",
+       "items": {
+        "type": "object",
+        "properties": {
+         "year": {
+          "type": "number",
+          "description": "Year number (1, 2, 3, etc.)"
+         },
+         "amount": {
+          "type": "number",
+          "description": "Projected profit in dollars"
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "risk_analysis": {
+   "type": "object",
+   "description": "Analysis of potential risks and mitigation strategies",
+   "properties": {
+    "risks": {
+     "type": "array",
+     "description": "Potential risks",
+     "items": {
+      "type": "object",
+      "properties": {
+       "description": {
+        "type": "string",
+        "description": "Description of the risk"
+       },
+       "impact": {
+        "type": "string",
+        "description": "Potential impact of the risk (high, medium, low)"
+       },
+       "probability": {
+        "type": "string",
+        "description": "Probability of the risk occurring (high, medium, low)"
+       },
+       "mitigation": {
+        "type": "string",
+        "description": "Strategy to mitigate the risk"
+       }
+      }
+     }
+    }
+   }
+  },
+  "conclusion": {
+   "type": "string",
+   "description": "Summary of the key points of the business plan"
+  }
+ }
+}
