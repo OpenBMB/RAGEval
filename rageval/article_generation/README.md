@@ -18,7 +18,7 @@ Ensure that your `OPENAI_API_KEY` is correctly set. Mayby you can use `export OP
 
 ### 3. Setup required Environment
 
-Use the command `pip install -r requirements.txt' to install the required packages.
+Use the command `pip install -r requirements.txt` to install the required packages.
 
 ### 4. Prepare Input Schema
 
@@ -57,4 +57,4 @@ echo "Running script: $script_path"
 bash $script_path
 ```
 
-You can run the script like `bash scipts/run.sh zh finance`. Make sure you are running under the 'article_generation' folder
+You can run the script like `bash scripts/run.sh zh finance`. Make sure you are running under the 'article_generation' folder
